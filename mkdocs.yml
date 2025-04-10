@@ -33,3 +33,13 @@ theme:
 
 nav:
   - Início: index.md
+  - Apresentações: 
+      - Apresentação 1: apresentacoes/apresentacoes.md
+  - Pré-Rastreabilidade: 
+      - RichPicture: pre-rastreabilidade/richpicture.md
+  - Planejamento: 
+      - App selecionado: planejamento/selecao-app.md
+      - Ferramentas: planejamento/ferramentas.md
+      - Cronograma: planejamento/cronograma.md
+  - Atas: 
+      - Ata1 (XX/YY/ZZZZ): ata/ata1.md

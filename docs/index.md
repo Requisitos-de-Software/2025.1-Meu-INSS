@@ -1,6 +1,6 @@
 # Meu INSS
 
-<p align="center" > <font>Figura 1: Logo da Meu INSS</font> <br><img style="border: 2px solid white; border-radius: 15%" src="img/meu-inss.png" width = 30%></p>
+<p align="center" > <font>Figura 1: Logo do Meu INSS</font> <br><img style="border: 2px solid white; border-radius: 15%" src="img/meu-inss.png" width = 30%></p>
 
 <p align="center" > <font>Fonte: <a href="https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR&gl=US">Meu INSS</a></font> <br></p>
 
@@ -25,3 +25,6 @@ O Meu INSS é um aplicativo oficial do Instituto Nacional do Seguro Social (INSS
 
 ## Historico de versões
 
+Versão |   Data  | Descrição | Autor(es) | Revisor(es)
+------ | ---- | ------ | ---------- | ----------
+1.0 | 10/04/2025 | Criação GitHub Page | [Jose Eduardo](https://github.com/jevprado) |[Júlia Massuda](https://github.com/JuliaReis18)
