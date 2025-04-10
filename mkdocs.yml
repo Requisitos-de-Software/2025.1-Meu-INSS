@@ -1,7 +1,35 @@
 site_name: Meu INSS
 
+repo_name: "2025.1-Meu INSS"
+repo_url: "https://github.com/Requisitos-de-Software/2025.1-Meu-INSS.git"
+site_url: "https://requisitos-de-software.github.io/2025.1-Meu-INSS/"
+
+extra_css:
+  - stylesheets/extra.css
+
+
 theme:
   name: material
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green  
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green  
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+  logo: img/inss.png 
+  favicon: img/meu-inss-logo.ico
+    
 
 nav:
   - Início: index.md
