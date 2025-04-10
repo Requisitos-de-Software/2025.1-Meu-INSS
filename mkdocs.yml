@@ -1,0 +1,7 @@
+site_name: Meu INSS
+
+theme:
+  name: material
+
+nav:
+  - Início: index.md
