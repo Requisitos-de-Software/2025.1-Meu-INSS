@@ -14,7 +14,7 @@ Guia de contribuição para o projeto 2025.1-Meu INSS, da disciplina de Requisit
 
 As issues devem ser criadas no [repositório do projeto](https://github.com/Requisitos-de-Software/2025.1-Meu-INSS/issues).
 
-As issues devem seguir o templete localizado no [repositório do projeto](https://github.com/Requisitos-de-Software/2025.1-Meu-INSS/tree/main/.github/issue_templete/issue-templete.md).
+As issues devem seguir o template localizado no [repositório do projeto](https://github.com/Requisitos-de-Software/2025.1-Meu-INSS/tree/main/.github/issue_template/issue-template.md).
 
 ### Labels
 
@@ -68,7 +68,7 @@ git pull origin main
 
 Os Pull Requestem devem ser feitos para a branch **main**.
 
-Os Pull Requests seguir o templete localizado no [repositório do projeto](https://github.com/Requisitos-de-Software/2025.1-Meu-INSS/tree/main/.github/pr_templete/pr-templete.md).
+Os Pull Requests seguir o template localizado no [repositório do projeto](https://github.com/Requisitos-de-Software/2025.1-Meu-INSS/tree/main/.github/pr_template/pr-template.md).
 
 
 Em PRs em que ainda estão sendo desenvolvidos, adicione **WIP** antes do nome do PR. 

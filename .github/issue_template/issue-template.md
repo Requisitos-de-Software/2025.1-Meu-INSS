@@ -1,9 +1,9 @@
 ---
-name: Nova Issue
-about: Criação, atualização ou correção na documentação de requisitos
-title: "[]"
-labels: []
-assignees: []
+Name: Nova Issue
+About: Criação, atualização ou correção na documentação de requisitos
+Title: []
+Labels: []
+Assignees: []
 ---
 
 ## Descrição
