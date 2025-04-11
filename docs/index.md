@@ -18,9 +18,10 @@ O Meu INSS é um aplicativo oficial do Instituto Nacional do Seguro Social (INSS
 
 ## Membros da Equipe
 
-| [![](https://avatars.githubusercontent.com/Diaxiz)](https://github.com/Diaxiz) | [![](https://avatars.githubusercontent.com/JpRodrigues2)](https://github.com/JpRodrigues2) | [![](https://avatars.githubusercontent.com/jevprado)](https://github.com/jevprado) | [![](https://avatars.githubusercontent.com/JuliaReis18)](https://github.com/JuliaReis18) | [![](https://avatars.githubusercontent.com/marcomarquesdc)](https://github.com/marcomarquesdc) | [![](https://avatars.githubusercontent.com/thalesgvl)](https://github.com/thalesgvl) |
-|:-------------------------------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------:|
-| [Diassis](https://github.com/Diaxiz) | [João Pedro](https://github.com/JpRodrigues2) | [José Eduardo](https://github.com/jevprado) | [Julia Massuda](https://github.com/JuliaReis18) | [Marco Marques](https://github.com/marcomarquesdc) | [Thales Germano](https://github.com/thalesgvl) |
+| [![](https://avatars.githubusercontent.com/andrewslopes)](https://github.com/Diaxiz) | [![](https://avatars.githubusercontent.com/Diaxiz)](https://github.com/Diaxiz) | [![](https://avatars.githubusercontent.com/JpRodrigues2)](https://github.com/JpRodrigues2) | [![](https://avatars.githubusercontent.com/jevprado)](https://github.com/jevprado) | [![](https://avatars.githubusercontent.com/JuliaReis18)](https://github.com/JuliaReis18) | [![](https://avatars.githubusercontent.com/marcomarquesdc)](https://github.com/marcomarquesdc) | [![](https://avatars.githubusercontent.com/thalesgvl)](https://github.com/thalesgvl) |
+|:-------------------------------------------------------------:|:-------------------------------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------:|
+| [Andre Lopes](https://github.com/andrewslopes) | [Diassis](https://github.com/Diaxiz) | [João Pedro](https://github.com/JpRodrigues2) | [José Eduardo](https://github.com/jevprado) | [Julia Massuda](https://github.com/JuliaReis18) | [Marco Marques](https://github.com/marcomarquesdc) | [Thales Germano](https://github.com/thalesgvl) |
+
 <br>
 
 ## Historico de versões
@@ -28,3 +29,4 @@ O Meu INSS é um aplicativo oficial do Instituto Nacional do Seguro Social (INSS
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 1.0 | 10/04/2025 | Criação GitHub Page | [Jose Eduardo](https://github.com/jevprado) |[Júlia Massuda](https://github.com/JuliaReis18)
+1.1 | 11/04/2025 | Atualizando lista de membros | [Jose Eduardo](https://github.com/jevprado) |[Júlia Massuda](https://github.com/JuliaReis18)
