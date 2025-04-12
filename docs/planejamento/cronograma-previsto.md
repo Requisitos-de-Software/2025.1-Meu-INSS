@@ -10,12 +10,12 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
-| Heatmap | 05/04 | 12/04 | 13/04 |  |
-| Cronograma |  12/04 | 12/04 |13/04| Thales  | Todos
-| Rich Picture | 08/04 | 12/04 |13/04 |  |
+| Heatmap | 05/04 | 12/04 | 13/04 | [João Pedro](https://github.com/JpRodrigues2) |
+| Cronograma |  12/04 | 12/04 |13/04| [Thales Germano](https://github.com/thalesgvl)  | Todos
+| Rich Picture | 08/04 | 12/04 |13/04 | [Andre Lopes](https://github.com/andrewslopes) e [Julia Massuda](https://github.com/JuliaReis18) | 
 | Lista de sites avaliados | 12/04 | 12/04 |13/04 |  |
-| Lista de ferramentas utilizadas | 10/04 | 12/04 |13/04 |  |
-| GitPage | 08/04 | 10/04 |13/04 |  |
+| Lista de ferramentas utilizadas | 10/04 | 12/04 |13/04 | [José Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl)
+| GitPage | 08/04 | 10/04 |13/04 | [José Eduardo](https://github.com/jevprado) | Todos
 | Checkup da entrega | 13/04 | 13/04 | 13/04 | Todos |  Todos|
 | Gravação da apresentação | 13/04 | 13/04 |13/04 | Todos |Todos
 
