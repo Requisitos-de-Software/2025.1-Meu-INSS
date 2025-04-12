@@ -18,7 +18,7 @@ Foram considerados os seguintes elementos no desenvolvimento do rich picture:
 ## 3. Análise da Figura
 ### Figura 1: Rich Picture do sistema Meu INSS
 
-![Rich Picture - Meu INSS](rich-picture.jpeg.jpeg)
+![Rich Picture - Meu INSS](../assets/rich-picture.jpeg.jpeg)
 
 O diagrama ilustra a jornada do beneficiário da previdência ao buscar auxílio pelo sistema Meu INSS. Entre os destaques estão:
 
@@ -44,4 +44,11 @@ A legenda, também desenvolvida no Canva, detalha os elementos utilizados no ric
 ## 5. Referências
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. Aprender 3. Distrito Federal, 2016. Disponível em:  
 https://aprender3.unb.br/pluginfile.php/2523050/mod_resource/content/4/Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf.
+
+
+## Histórico de versões
+
+Versão |   Data  | Descrição | Autor(es) | Revisor(es)
+------ | ---- | ------ | ---------- | ----------
+1.0 | 12/04/2025 | Criação do documento RichPicture | [Julia Massuda](https://github.com/JuliaReis18) e  [Andre Lopes](https://github.com/andrewslopes)  | [Jose Eduardo](https://github.com/jevprado) |
 
