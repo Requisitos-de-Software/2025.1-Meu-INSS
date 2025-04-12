@@ -1,6 +1,6 @@
 # Meu INSS
 
-<p align="center" > <font>Figura 1: Logo do Meu INSS</font> <br><img style="border: 2px solid white; border-radius: 15%" src="img/meu-inss.png" width = 30%></p>
+<p align="center" > <font>Figura 1: Logo do Meu INSS</font> <br><img style="border: 2px solid white; border-radius: 15%" src="assets/meu-inss.png" width = 30%></p>
 
 <p align="center" > <font>Fonte: <a href="https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR&gl=US">Meu INSS</a></font> <br></p>
 

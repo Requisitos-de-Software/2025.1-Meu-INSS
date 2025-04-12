@@ -27,8 +27,8 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 
-  logo: img/inss.png 
-  favicon: img/meu-inss-logo.ico
+  logo: assets/inss.png 
+  favicon: assets/meu-inss-logo.ico
     
 
 nav:
