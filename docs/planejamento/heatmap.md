@@ -26,6 +26,10 @@ O objetivo principal do uso desse heatmap em nosso projeto foi **identificar os 
 | **Dom**  | 🟡 | 🟡 | 🟡 | 🟡 | 🟡 | 🟡 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟡 | 🟡 |
 
 
+## Referências Bibliográficas 
+1. Complete guide to heatmaps - [https://www.atlassian.com/data/charts/heatmap-complete-guidei](https://www.atlassian.com/data/charts/heatmap-complete-guide)
+
+
 ## Histórico de versões
 
 
