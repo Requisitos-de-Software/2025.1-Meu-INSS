@@ -36,7 +36,7 @@ nav:
   - Guias: 
       - Tutorial mkdocs: guias/tutorial-mkdocs.md
   - Apresentações: 
-      - Apresentação 1: apresentacoes/apresentacoes.md
+      - Apresentação 1: apresentacoes/apresentacao1.md
   - Atas: 
       - Ata 01 (11/04/2025): atas/ata1.md
   - Pré-Rastreabilidade: 
@@ -44,4 +44,5 @@ nav:
   - Planejamento: 
       - App selecionado: planejamento/selecao-app.md
       - Ferramentas: planejamento/ferramentas.md
+      - Heatmap: planejamento/heatmap.md
       - Cronograma: planejamento/cronograma.md
