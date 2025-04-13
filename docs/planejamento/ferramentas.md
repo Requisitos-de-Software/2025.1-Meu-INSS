@@ -13,13 +13,14 @@ Para garantir um fluxo de trabalho eficiente, organizado e colaborativo, foi nec
 |                                                                                                                           |        Ferramenta         |                               Finalidade                               |
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------: |
 | <img src="./../../assets/logoFerramentas/github.svg" alt="Logo do GitHub" style="height:80px;width:80px~"~>                                    |          GitHub  <sup>[1](#FRM1)</sup>         | Organizar, versionar e documentar artefatos produzidos para o projeto. |
-| <img src="./../../assets/logoFerramentas/MkDocs.svg" alt="Logo do MkDocs" style="height:80px;width:100px" >                                  |          MkDocs  <sup>[2](#FRM2)</sup>          | Criação das páginas de documentação.    |
+| <img src="./../../assets/logoFerramentas/mkdocs.png" alt="Logo do MkDocs" style="height:80px;width:100px" >                                  |          MkDocs  <sup>[2](#FRM2)</sup>          | Criação das páginas de documentação.    |
 |  <img src="./../../assets/logoFerramentas/visual-studio-code.svg" alt="Logo do MkDocs" style="height:75px;width:80px"  >                                    |    Visual Studio Code   <sup>[3](#FRM3)</sup>  | Edição dos arquivos de documentação. |
 | <img src="./../../assets/logoFerramentas/microsoft-teams.svg" alt="Logo do Microsoft Teams" style="height:80px;width:90px;">                |           Teams     <sup>[4](#FRM4)</sup>      |Canal principal para reunioes e apresentacões do grupo.<a id="anchor_4" href="#FRM4">^4^</a> |
-| <img src="./../../assets/logoFerramentas/WhatsApp.svg" alt="Logo do WhatsApp" style="height:80px;width:80px">                               |         WhatsApp       <sup>[5](#FRM5)</sup>   | Principal canal de comunicação do grupo.|
+| <img src="./../../assets/logoFerramentas/whatsapp.svg" alt="Logo do WhatsApp" style="height:80px;width:80px">                               |         WhatsApp       <sup>[5](#FRM5)</sup>   | Principal canal de comunicação do grupo.|
 | <img src="./../../assets/logoFerramentas/youtube.svg" alt="Logo do YouTube" style="height:56px;width:250px;">                                 |          YouTube   <sup>[6](#FRM6)</sup>       | Hospedagem dos vídeos produzidos da disciplina. |
 | <img src="./../../assets/logoFerramentas/sheets.svg" alt="Logo do Google Planilhas" style="height:80px;width:60px;">                        |     Google Planilhas   <sup>[7](#FRM7)</sup>   | Criação de planilhas relacionadas a diversos tópicos do projeto.|
 | <img src="./../../assets/logoFerramentas/docs.svg" alt="Logo do Google Docs" style="height:80px;width:80px;">                               |        Google Docs   <sup>[8](#FRM8)</sup>     | Criação de documentos relacionados a diversos tópicos do projeto.|
+| <img src="./../../assets/logoFerramentas/canva.svg" alt="Logo do Canva" style="height:80px;width:80px;">                               |        Canva   <sup>[9](#FRM9)</sup>     | Utilizado para produção de auxílios visuais.|
 
 
 <font size="3"><p style="text-align: center">Fonte: Autor, 2025</p></font>
@@ -42,9 +43,11 @@ Para garantir um fluxo de trabalho eficiente, organizado e colaborativo, foi nec
 >
 > <a id="FRM8" href="#anchor_8">8.</a> Google Documentos. Disponível em: [https://docs.google.com/document](). Acesso em: 12 de abr. de 2025.
 >
+> <a id="FRM9" href="#anchor_9">9.</a> Canva. Disponível em: [https://www.canva.com/](). Acesso em: 13 de abr. de 2025.
+>
 
 ## Histórico de versões
 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-1.0 | 12/04/2025 | Criação do documento de ferramentas | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
+1.0 | 12/04/2025 | Criação do documento de ferramentas | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |1.1 | 13/04/2025 | Adição de ferramentas | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |

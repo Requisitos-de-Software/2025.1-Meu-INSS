@@ -35,7 +35,6 @@ nav:
   - Início: index.md
   - Guias: 
       - Tutorial mkdocs: guias/tutorial-mkdocs.md
-      - Guia de contribuição: guias/guia-contribuicao.md
   - Apresentações: 
       - Apresentação 1: apresentacoes/apresentacoes.md
   - Atas: 
