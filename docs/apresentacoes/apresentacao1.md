@@ -69,4 +69,4 @@ Plano de ensino, prof. André - [Link](https://aprender3.unb.br/pluginfile.php/3
 ## Histórico de versões
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-1.0 | 13/04/2025 | Criação do documento de apresentação 1 | [Jose Eduardo](https://github.com/jevprado) | Todos | 
+1.0 | 13/04/2025 | Criação do documento de apresentação 1 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 
