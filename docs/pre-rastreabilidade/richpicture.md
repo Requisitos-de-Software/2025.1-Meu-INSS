@@ -28,7 +28,7 @@ O diagrama ilustra a jornada do beneficiário da previdência ao buscar auxílio
 - A interferência de fatores como burocracia e prazos no processo;
 - A atuação da central de atendimento e da gerência geral do sistema previdenciário na mediação e gestão das solicitações.
 
-## 4. Legenda (Figura 2)
+### Legenda (Figura 2)
 A legenda, também desenvolvida no Canva, detalha os elementos utilizados no rich picture:
 
 - 👴 **Beneficiário da Previdência**
@@ -42,8 +42,8 @@ A legenda, também desenvolvida no Canva, detalha os elementos utilizados no ric
 - ⚙️ **Burocracia**
 
 ## 5. Referências
-SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. Aprender 3. Distrito Federal, 2016. Disponível em:  
-https://aprender3.unb.br/pluginfile.php/2523050/mod_resource/content/4/Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf.
+1. SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. Aprender 3. Distrito Federal, 2016. Disponível em:  
+[https://aprender3.unb.br/pluginfile.php/2523050/mod_resource/content/4/Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf](https://aprender3.unb.br/pluginfile.php/2523050/mod_resource/content/4/Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf)
 
 
 ## Histórico de versões
