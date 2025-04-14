@@ -34,6 +34,8 @@ mkdocs serve
 Isso irá iniciar um servidor local.
 O servidor recarrega automaticamente sempre que você salva um arquivo .md ou muda algo na estrutura.
 
-Versão |   Data  | Descrição | Autor(es)
------- | ---- | ------ | ---------- 
-1.0 | 11/04/2025 | Criação do documento | [Jose Eduardo](https://github.com/jevprado) 
+## Historico de versões 
+
+Versão |   Data  | Descrição | Autor(es) | Revisor(es)
+------ | ---- | ------ | ---------- | ----------
+1.0 | 11/04/2025 | Criação do documento | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |

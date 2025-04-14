@@ -102,5 +102,5 @@ André Barros. Plano de ensino da disciplina. Acesso em 12 de abril de 2025.
 ### Histórico de versão
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :------: | :--------: | :-----------: | :-------: | :---------: |
-| 12/04 | `1.0` | Criação do documento | [Thales Germano](https://github.com/thalesgvl) | Todos|
-| 12/04 | `1.1` | Atribuição de tarefas | Todos | Todos|
+| 12/04 | `1.0` | Criação do documento | [Thales Germano](https://github.com/thalesgvl) |[Jose Eduardo](https://github.com/jevprado)|
+| 12/04 | `1.1` | Atribuição de tarefas | [Thales Germano](https://github.com/thalesgvl) |[Jose Eduardo](https://github.com/jevprado)|

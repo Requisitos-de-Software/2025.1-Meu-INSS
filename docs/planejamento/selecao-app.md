@@ -50,5 +50,5 @@ Links:
 
   Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-1.0 | 13/04/2025 | Criação do documento de ferramentas | [Marco Marques](https://github.com/marcomarquesdc) | Todos | 
+1.0 | 13/04/2025 | Criação do documento de ferramentas | [Marco Marques](https://github.com/marcomarquesdc) | [Diassis](https://github.com/Diaxiz) | 
 
