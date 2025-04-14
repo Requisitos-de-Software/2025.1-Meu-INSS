@@ -19,9 +19,17 @@ Apresentar o GitHub Pages do projeto *Meu INSS* e os respectivos artefatos da en
 - ✅ Thales Germano
 
 
-## Video da apresentação 
+## Vídeo da apresentação
 
-<iframe width="600" height="315" src="https://www.youtube.com/watch?v=tfjMnIj6mvo&t=164s4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="600" height="315" 
+        src="https://www.youtube.com/embed/tfjMnIj6mvo?start=164" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+
 
 
 ## Critérios para entrega 1
