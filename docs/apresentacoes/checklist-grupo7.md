@@ -48,4 +48,4 @@ Esta página apresenta um checklist relacionado a Entrega 01 do Grupo 07 (e-titu
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 1.0 | 14/04/2025 | Criação do documento de checklist | [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [Julia Massuda](https://github.com/JuliaReis18) e [Thales Germano](https://github.com/thalesgvl) | [Jose Eduardo](https://github.com/jevprado) |
-1.1 | 15/04/2025 | Adicionado gravação do vídeo  |[Jose Eduardo](https://github.com/jevprado) | adicionar quem revisou aqui |
+1.1 | 15/04/2025 | Adicionado gravação do vídeo  |[Jose Eduardo](https://github.com/jevprado) | [Julia Massuda](https://github.com/JuliaReis18) |
