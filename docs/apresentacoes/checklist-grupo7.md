@@ -1,4 +1,9 @@
-# Introdução aqui
+# Introdução 
+<p align="justify">
+Esta página apresenta um checklist relacionado a Entrega 01 do Grupo 07 (e-titulo). O objetivo foi analisar e revisar a entrega, com base em critérios técnicos e boas práticas de documentação de requisitos. 
+</p>
+
+## Checklist Grupo 07 - Entrega 01
 
 ### Tabela 1: Checklist para a entrega 1 - Grupo 07 (e-titulo)
 
@@ -33,4 +38,4 @@ Plano de ensino, prof. André - [Link](https://aprender3.unb.br/pluginfile.php/3
 ## Histórico de versões
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-1.0 | 14/04/2025 | Criação do documento de checklist | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 
+1.0 | 14/04/2025 | Criação do documento de checklist | [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [Julia Massuda](https://github.com/JuliaReis18) e [Thales Germano](https://github.com/thalesgvl) | [Jose Eduardo](https://github.com/jevprado) |
