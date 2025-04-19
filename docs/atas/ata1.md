@@ -8,13 +8,13 @@
 
 ## Participantes presentes:
 
-- ✅ Andre Lopes
-- ✅ Diassis
-- ✅ João Pedro
-- ✅ José Eduardo
-- ✅ Julia Massuda
-- ✅ Marco Marques
-- ✅ Thales Germano
+- ✅ [Andre Lopes](https://github.com/andrewslopes) 
+- ✅ [Diassis](https://github.com/Diaxiz)
+- ✅ [João Pedro](https://github.com/JpRodrigues2)
+- ✅ [José Eduardo](https://github.com/jevprado)
+- ✅ [Julia Massuda](https://github.com/JuliaReis18)
+- ✅ [Marco Marques](https://github.com/marcomarquesdc)
+- ✅ [Thales Germano](https://github.com/thalesgvl)
 
 ---
 
@@ -27,12 +27,12 @@
 
 ## Decisões:
 
-- Andre Lopes e Julia Massuda serão responsáveis pela produção do richmap
-- Thales Germano responsável pelo cronograma 
-- José Eduardo responsável pelo gitpage e lista de ferramentas usadas 
-- João Pedro será responsável pelo HeatMap
-- Diassis responsável pelas atas e slides da apresentação 
-- Marco Marques responsável pela motivação e os critérios para a escolha do App.
+- [Andre Lopes](https://github.com/andrewslopes)  e [Julia Massuda](https://github.com/JuliaReis18) serão responsáveis pela produção do Rich Picture
+- [Thales Germano](https://github.com/thalesgvl) responsável pelo cronograma 
+- [José Eduardo](https://github.com/jevprado) responsável pelo gitpage e lista de ferramentas usadas 
+- [João Pedro](https://github.com/JpRodrigues2) será responsável pelo HeatMap
+- [Diassis](https://github.com/Diaxiz) responsável pela ata
+- [Marco Marques](https://github.com/marcomarquesdc) responsável pela motivação e os critérios para a escolha do App.
 
 ---
 
@@ -44,4 +44,5 @@
 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-1.0 | 13/04/2025 | Criação do documento ata01 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |
+`1.0` | 13/04/2025 | Criação do documento ata01 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |
+`1.1` | 19/04/2025 | Correções na ata01 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
