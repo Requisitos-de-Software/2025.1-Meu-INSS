@@ -1,13 +1,13 @@
-# Técnica de Grupos de Foco 
+# Grupo de Foco
 
+## Introdução 
 
----
+A técnica de grupo de foco consiste na realização de encontros estruturados com pequenos grupos de usuários representativos, guiados por um moderador, com o objetivo de coletar percepções, opiniões e experiências sobre um determinado produto ou serviço. Essa abordagem qualitativa é amplamente utilizada na engenharia de requisitos para compreender melhor as necessidades dos usuários e identificar oportunidades de melhoria.
 
 ##  Objetivo da Técnica
 
 Entender como diferentes perfis de usuários interagem com o aplicativo da Receita Federal do Brasil, identificando suas dores, expectativas e sugestões. A meta é levantar e priorizar requisitos para evoluir o sistema em termos de **usabilidade**, **funcionalidade** e **acessibilidade**.
 
----
 
 ##  Grupos de Foco
 
@@ -103,7 +103,7 @@ Entender como diferentes perfis de usuários interagem com o aplicativo da Recei
 
 ##  Referências
 
-- PRESSMAN, Roger S.; MAXIM, Bruce R. *Engenharia de Software*. McGraw-Hill, 2016.  
+1. PRESSMAN, Roger S.; MAXIM, Bruce R. *Engenharia de Software*. McGraw-Hill, 2016.  
 - SOMMERVILLE, Ian. *Engenharia de Software*. Pearson, 2019.  
 - PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. *Design de Interação*. Bookman, 2019.  
 - REIS, Carla Silva dos et al. Técnicas de elicitação de requisitos. *Revista de Informática Teórica e Aplicada*, 2014.
@@ -112,4 +112,4 @@ Entender como diferentes perfis de usuários interagem com o aplicativo da Recei
 ## Histórico de versão
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-`1.0` | 24/04/2025 | Criação do grupo de foco | [André Lopes](https://github.com/andrewslopes) e [Júlia Massuda](https://github.com/JuliaReis18) | Adicionar revisor |
+`1.0` | 24/04/2025 | Criação do grupo de foco | [André Lopes](https://github.com/andrewslopes) e [Júlia Massuda](https://github.com/JuliaReis18) | [Jose Eduardo](https://github.com/jevprado) |
