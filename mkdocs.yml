@@ -1,6 +1,6 @@
-site_name: Meu INSS
+site_name: Receita Federal
 
-repo_name: "2025.1-Meu INSS"
+repo_name: "2025.1-Receita-Federal"
 repo_url: "https://github.com/Requisitos-de-Software/2025.1-Meu-INSS.git"
 site_url: "https://requisitos-de-software.github.io/2025.1-Meu-INSS/"
 
@@ -14,7 +14,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: green  
+      primary: dark-blue  
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
@@ -22,13 +22,13 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: green  
+      primary: dark-blue   
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
 
-  logo: assets/inss.png 
-  favicon: assets/meu-inss-logo.ico
+  logo: assets/receita-federal.png 
+  favicon: assets/receita-federal.ico
     
 
 nav:
