@@ -30,4 +30,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 10/04/2025 | Criação GitHub Page | [Jose Eduardo](https://github.com/jevprado) |[Júlia Massuda](https://github.com/JuliaReis18)
 `1.1` | 11/04/2025 | Atualizando lista de membros | [Jose Eduardo](https://github.com/jevprado) |[Júlia Massuda](https://github.com/JuliaReis18)
-`1.2` | 24/04/2025 | Mudança do app selecionado | [Jose Eduardo](https://github.com/jevprado) | Revisor aqui|
+`1.2` | 24/04/2025 | Mudança do app selecionado | [Jose Eduardo](https://github.com/jevprado) | [Júlia Massuda](https://github.com/JuliaReis18)|
