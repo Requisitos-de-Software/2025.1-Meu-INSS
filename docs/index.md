@@ -1,17 +1,17 @@
-# Meu INSS
+# Receita Federal
 
-<p align="center" > <font>Figura 1: Logo do Meu INSS</font> <br><img style="border: 2px solid white; border-radius: 15%" src="assets/meu-inss.png" width = 30%></p>
+<p align="center" > <font>Figura 1: Logo da Receita Federal</font> <br><img style="border: 2px solid white; border-radius: 15%" src="assets/receita-federal.png" width = 30%></p>
 
-<p align="center" > <font>Fonte: <a href="https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR&gl=US">Meu INSS</a></font> <br></p>
+<p align="center" > <font>Fonte: <a href="https://play.google.com/store/apps/details?id=br.gov.economia.receita.rfb&hl=pt_BR">Receita Federal</a></font> <br></p>
 
 ## Sobre o projeto
 <p align="justify">
 Repositório destinado ao projeto da disciplina de Requisitos de Software na Universidade de Brasilia (FCTE), do 1º semestre de 2025. Nele será documentado todo o processo conduzido ao longo da disciplina, incluindo as atividades relacionadas à gerência de requisitos (pré-rastreabilidade e pós-rastreabilidade), elicitação, análise e demais etapas fundamentais do processo de desenvolvimento de software orientado a requisitos.
 </p>
 
-## Sobre o Meu INSS
+## Sobre a Receita Federal
 <p align="justify">
-O Meu INSS é um aplicativo oficial do Instituto Nacional do Seguro Social (INSS), desenvolvido pelo governo federal do Brasil. Ele permite que cidadãos acessem diversos serviços previdenciários de forma digital, eliminando a necessidade de deslocamento até agências físicas.
+O app da Receita Federal é um aplicativo oficial da Receita Federal do Brasil, desenvolvido pelo governo federal. Ele permite que cidadãos consultem e regularizem sua situação fiscal, acompanhem declarações e acessem diversos serviços tributários de forma digital, sem a necessidade de se deslocar até uma unidade da Receita.
 </p>
 
 <br>
@@ -28,5 +28,6 @@ O Meu INSS é um aplicativo oficial do Instituto Nacional do Seguro Social (INSS
 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-1.0 | 10/04/2025 | Criação GitHub Page | [Jose Eduardo](https://github.com/jevprado) |[Júlia Massuda](https://github.com/JuliaReis18)
-1.1 | 11/04/2025 | Atualizando lista de membros | [Jose Eduardo](https://github.com/jevprado) |[Júlia Massuda](https://github.com/JuliaReis18)
+`1.0` | 10/04/2025 | Criação GitHub Page | [Jose Eduardo](https://github.com/jevprado) |[Júlia Massuda](https://github.com/JuliaReis18)
+`1.1` | 11/04/2025 | Atualizando lista de membros | [Jose Eduardo](https://github.com/jevprado) |[Júlia Massuda](https://github.com/JuliaReis18)
+`1.2` | 24/04/2025 | Mudança do app selecionado | [Jose Eduardo](https://github.com/jevprado) | [Júlia Massuda](https://github.com/JuliaReis18)|
