@@ -1,8 +1,8 @@
 site_name: Receita Federal
 
 repo_name: "2025.1-Receita-Federal"
-repo_url: "https://github.com/Requisitos-de-Software/2025.1-Meu-INSS.git"
-site_url: "https://requisitos-de-software.github.io/2025.1-Meu-INSS/"
+repo_url: "https://github.com/Requisitos-de-Software/2025.1-ReceitaFederal.git"
+site_url: "https://requisitos-de-software.github.io/2025.1-ReceitaFederal/"
 
 extra_css:
   - stylesheets/extra.css
