@@ -50,4 +50,5 @@ nav:
       - Cronograma: planejamento/cronograma.md
   - Elicitação: 
       - Personas: elicitacao/personas.md
+      - Storytelling: elicitacao/storytelling.md
       - Grupo de foco: elicitacao/grupodefoco.md
