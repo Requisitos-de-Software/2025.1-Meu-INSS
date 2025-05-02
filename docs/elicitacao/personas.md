@@ -138,4 +138,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 20/04/2025 | Criação das personas | [Jose Eduardo](https://github.com/jevprado) | [Júlia Massuda](https://github.com/JuliaReis18) |
 `1.1` | 21/04/2025 | Criação do storytelling | [Jose Eduardo](https://github.com/jevprado) | [Júlia Massuda](https://github.com/JuliaReis18) |
-`1.2` | 30/04/2025 | Desmembrando o storytelling | [Jose Eduardo](https://github.com/jevprado) | Revisor aqui  |
+`1.2` | 30/04/2025 | Desmembrando o storytelling | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |

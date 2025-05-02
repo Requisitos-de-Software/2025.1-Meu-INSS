@@ -61,4 +61,4 @@ Mesmo sabendo que, em algum momento, terá que lidar com isso, Paulo evita qualq
 ## Histórico de versão
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-`1.0` | 30/04/2025 | Criação da página exclusiva para o Storytelling | [Jose Eduardo](https://github.com/jevprado) | Revisor aqui |
+`1.0` | 30/04/2025 | Criação da página exclusiva para o Storytelling | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
