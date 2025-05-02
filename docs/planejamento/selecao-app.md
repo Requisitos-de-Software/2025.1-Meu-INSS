@@ -51,4 +51,4 @@ Para mais detalhes, os termos de uso completos estão disponíveis no site ofici
   Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 1.0 | 13/04/2025 | Criação do documento de app selecionado | [Marco Marques](https://github.com/marcomarquesdc) | [Diassis](https://github.com/Diaxiz) | 
-1.1 | 27/04/2025 | Mudança do aplicativo escolhido | [Marco Marques](https://github.com/marcomarquesdc) | [Diassis](https://github.com/Diaxiz) |
+1.1 | 27/04/2025 | Mudança do aplicativo escolhido | [Marco Marques](https://github.com/marcomarquesdc) | [Diassis](https://github.com/Diaxiz) |
