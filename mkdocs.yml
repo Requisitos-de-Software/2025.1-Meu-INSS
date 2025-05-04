@@ -51,8 +51,9 @@ nav:
       - Cronograma: planejamento/cronograma.md
   - Elicitação: 
       - Personas: elicitacao/personas.md
+
+      - Análise de documentos: elicitacao/analisededocumentos.md
       - Storytelling: elicitacao/storytelling.md
       - Grupo de foco: elicitacao/grupodefoco.md
       - Priorização:
           - MoSCoW: elicitacao/priorizacao/MoSCoW.md
-
