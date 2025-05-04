@@ -20,13 +20,14 @@ A priorização foi realizada de forma virtual, com a participação de membros 
 | ID   | Descrição                                                                                   | Categoria |
 |------|---------------------------------------------------------------------------------------------|-----------|
 | R1   | Acesso rápido e simultâneo a múltiplos CPFs/CNPJs                                           | RF        |
-| R2   | Cadastro de CPF via app (totalmente remoto)                                                 | RF        |
-| R3   | Acompanhamento de status da restituição (precisão quanto aos lotes)                         | RF        |
-| R7   | Alteração de dados via app                                                                  | RF        |
-| R10  | Geração de guias de pagamento                                                               | RF        |
+| R2   | Emissão de CPF 100% remota (fotografia + verificação facial)                                | RF        |
+| R3   | Preenchimento, entrega e acompanhamento do Imposto de Renda                                 | RF        |
+| R7   | Consulta, alteração e emissão de comprovante de CPF/CNPJ                                    | RF        |
+| R10  | Geração e pagamento de DARF via Pix ou código de barras                                     | RF        |
 | R11  | Consultar o status do CPF (ativo ou não)                                                    | RF        |
-| R12  | Integração com conta Gov.br                                                                 | RF        |
-| R17  | Proteção de dados pessoais conforme a LGPD                                                  | RR        |
+| R12  | Login pelo gov.br com suporte a biometria                                                   | RF        |
+| R17  | Proteção de dados pessoais conforme a LGPD e biometria local                                | RR        |
+| R20  | Solicitação de certidões negativas dentro do app                                                        | RR        |
 
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
@@ -39,9 +40,10 @@ A priorização foi realizada de forma virtual, com a participação de membros 
 | R4   | Notificação de vencimento próximo                                                           | RF        |
 | R5   | Unificação de serviços no app (ex: agendamento, processos, certidões etc.)                  | RF        |
 | R6   | Acesso offline a serviços essenciais (históricos, DARFs)                                    | RF, RNF   |
-| R8   | Histórico e acompanhamento de restituições e declarações                                   | RF        |
+| R8   | Funcionalidade de histórico e acompanhamento de restituições e de declarações              | RF        |
 | R9   | Declaração simplificada do IR                                                               | RF        |
 | R19  | Testes de segurança para garantir integridade e autenticação segura                         | RT        |
+| R21  | Envio de notificações sobre restituições e pendências           
 
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
@@ -49,12 +51,15 @@ A priorização foi realizada de forma virtual, com a participação de membros 
 
 <p style="text-align: center"><b>Tabela 3</b> - Tabela Could.</p>
 
+
 | ID   | Descrição                                                                                   | Categoria |
 |------|---------------------------------------------------------------------------------------------|-----------|
 | R13  | Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot                            | RI        |
 | R14  | Conteúdo educativo para iniciantes                                                          | RI        |
 | R16  | Envio de documentos para instrução de processos                                             | RF        |
-| R18  | Interface responsiva para dispositivos móveis                                               | RI        |
+| R18  | Interface responsiva, acessível e com modo escuro                                           | RI        |
+| R22  | Compatível com Android 8+ e iOS 14+                                                          | RNF       |
+| R23  | Testes de usabilidade semestrais com público 60+          | RT       | 
 
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
@@ -97,3 +102,4 @@ A priorização foi realizada de forma virtual, com a participação de membros 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 04/05/2025 | Criação do primeiro documento MoSCoW | [Jose Eduardo](https://github.com/jevprado) e [Andre Lopes](https://github.com/andrewslopes) | [Diassis](https://github.com/Diaxiz) |
+`1.1` | 04/05/2025 | Ajustando requisitos para o MoSCoW | [Jose Eduardo](https://github.com/jevprado) e [Andre Lopes](https://github.com/andrewslopes) |  [Thales Germano](https://github.com/thalesgvl)  |

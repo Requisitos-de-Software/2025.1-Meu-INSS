@@ -1,5 +1,4 @@
-# Personas e storytelling
-
+# Personas 
 ## Introdução
 
 Para o desenvolvimento de soluções digitais eficazes e centradas no usuário, é essencial compreender quem são os potenciais usuários do sistema. Com base nessa premissa, foram elaboradas personas que representam diferentes perfis de cidadãos que podem utilizar os serviços digitais do app da Receita Federal.
