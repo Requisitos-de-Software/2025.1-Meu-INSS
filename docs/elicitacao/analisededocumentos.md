@@ -77,6 +77,12 @@ O aplicativo da Receita Federal tem como objetivo centralizar, de forma digital 
 | RFB16         | Testes de usabilidade semestrais com público 60+.                                            | RT        |
 | RFB17         | Testes de segurança para garantir a integridade dos dados e autenticação segura.             | RT        |
 | RFB18         | Testes de desempenho para suportar alta demanda de usuários simultâneos.                     | RT        |
+| RFB19         | Funcionalidade de histórico e acompanhamento de restituições e de declarações.               | RF        |
+| RFB20         | Declaração simplificada do IR.                                                               | RF        |
+| RFB21         | Consultar o status do CPF (ativo ou não).                                                    | RF        |
+| RFB22         | Conteúdo educativo para iniciantes.                                                          | RI        |
+| RFB23         | Notificação de vencimento próximo.                                                           | RF        |
+
 
 
 <div style="text-align: center;"><p>Tabela 1 - Tabela dos requisitos levantados (Autor: Thales. 2025).</p></div>
