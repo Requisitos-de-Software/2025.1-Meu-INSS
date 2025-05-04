@@ -2,53 +2,53 @@
  
 ## Introdução 
 
-A escolha do aplicativo Meu INSS foi motivada pela sua grande importância social e pela quantidade de serviços que ele oferece para a população. O app facilita o acesso dos cidadãos aos benefícios da Previdência Social, como aposentadoria, pensões e auxílios, sem a necessidade de ir até uma agência do INSS.
+O aplicativo oficial da Receita Federal, é uma ferramenta desenvolvida para facilitar o acesso dos cidadãos a diversos serviços fiscais. Disponível para dispositivos Android e iOS, o aplicativo permite que os contribuintes realizem diversas operações, tais como:
 
-Outro ponto que pesou na decisão foi o impacto positivo que o app tem para milhões de brasileiros, principalmente idosos e trabalhadores. Além disso, o Meu INSS é um exemplo de como os serviços públicos estão sendo digitalizados para melhorar o atendimento e reduzir burocracias.
+- Preenchimento e envio da declaração do Imposto de Renda Pessoa Física (IRPF);
+- Consulta ao status da declaração e restituição;
+- Emissão de comprovantes de CPF;
+- Acompanhamento de processos administrativos;
+- Acesso a informações sobre o eSocial e outras funcionalidades relacionadas à Receita Federal.
 
-## Critérios utilizados para a escolha do aplicativo *Meu INSS*
+A autenticação no aplicativo é realizada por meio da conta gov.br, garantindo um acesso seguro e personalizado aos serviços oferecidos.
 
-- **Importância social do serviço**  
-  O aplicativo oferece acesso a serviços essenciais da Previdência Social, impactando diretamente milhões de brasileiros.
+## Motivos da Escolha do Aplicativo
 
-- **Variedade de funcionalidades disponíveis**  
-  Permite realizar agendamentos, consultar extratos, simular aposentadorias, solicitar benefícios, entre outras funções.
+Optamos por analisar o aplicativo da Receita Federal por diversos motivos:
 
-- **Facilidade de acesso em diferentes plataformas**  
-  Disponível para Android, iOS e também via navegador web, garantindo amplo alcance.
+1. Relevância Nacional: O aplicativo atende a milhões de brasileiros que precisam declarar o Imposto de Renda anualmente, tornando-se uma ferramenta essencial para o cumprimento das obrigações fiscais.
 
-- **Acessibilidade para diferentes perfis de usuários**  
-  Interface amigável, com recursos que facilitam o uso por idosos, pessoas com deficiência e usuários com diferentes níveis de letramento digital.
+2. Complexidade Funcional: O aplicativo integra múltiplos serviços e funcionalidades, proporcionando uma experiência rica para análise de requisitos de software, tanto funcionais quanto não funcionais.
 
-- **Conexão com temas relevantes para o projeto**  
-  Representa um exemplo de **inovação no serviço público**, digitalizando processos antes burocráticos e promovendo inclusão digital.
+3. Acesso Público: Sendo um aplicativo governamental, está disponível gratuitamente para todos os cidadãos, facilitando o acesso e a análise por parte do nosso grupo.
 
+4. Segurança e Confiabilidade: Por lidar com informações sensíveis, como dados pessoais e financeiros, o aplicativo exige altos padrões de segurança, oferecendo um excelente caso de estudo sobre requisitos de segurança em sistemas de informação.
 
+## Termos de Uso
 
-## Termo de uso 
+Os termos de uso do aplicativo da Receita Federal estabelecem as condições para a utilização dos serviços oferecidos. Alguns pontos importantes incluem:
 
-Links:
+- Tratamento de Dados Pessoais: Os dados coletados são tratados em conformidade com a Lei Geral de Proteção de Dados Pessoais (LGPD), garantindo a privacidade e segurança das informações dos usuários.
 
-[Politica de privacidade](https://www.gov.br/inss/pt-br/canais_atendimento/meu-inss/politica-de-privacidade-do-meu-inss )(acesso: 13 abril de 2025)
+- Finalidade do Uso: O aplicativo é destinado exclusivamente para uso pessoal e não comercial, visando facilitar o cumprimento das obrigações fiscais dos contribuintes.
 
-[Termos e condições](https://www.gov.br/inss/pt-br/canais_atendimento/meu-inss/termos-e-condicoes-da-carteira-do-beneficiario )(acesso: 13 abril de 2025)
+- Responsabilidades do Usuário: O usuário é responsável por fornecer informações verídicas e atualizadas, bem como por manter a confidencialidade de suas credenciais de acesso.
 
-[Termos e condições - GOV.BR](https://cadastro.acesso.gov.br/termo-de-uso) (acesso: 13 de abril de 2025)
+- Compartilhamento de Informações: A Receita Federal poderá compartilhar informações dos usuários com terceiros apenas mediante ordem judicial ou para cumprimento de obrigações legais.
 
-
-## Referências bibliográficas 
-
-1. PlayStore - [https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR](https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR) (acesso: 13 abril de 2025)
-
-2. Gov.br - Meu INSS - [https://www.gov.br/inss/pt-br/canais_atendimento/meu-inss/politica-de-privacidade-do-meu-inss](https://www.gov.br/inss/pt-br/canais_atendimento/meu-inss/politica-de-privacidade-do-meu-inss) (acesso: 13 abril de 2025)
+Para mais detalhes, os termos de uso completos estão disponíveis no site oficial da Receita Federal: [Termo de Uso e Política de Privacidade — Receita Federal](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/lgpd/termo-de-uso).
 
 
-3. Gov.br - Meu INSS - [https://www.gov.br/inss/pt-br/canais_atendimento/meu-inss/termos-e-condicoes-da-carteira-do-beneficiario](https://www.gov.br/inss/pt-br/canais_atendimento/meu-inss/termos-e-condicoes-da-carteira-do-beneficiario) (acesso: 13 abril de 2025)
+## Referências 
+
+1. PlayStore - [https://play.google.com/store/apps/details?id=br.gov.economia.receita.rfb&hl=pt_BR](https://play.google.com/store/apps/details?id=br.gov.economia.receita.rfb&hl=pt_BR) (acesso: 27 abril de 2025)
+
+2. Receita Federal - [https://www.gov.br/receitafederal/pt-br](https://www.gov.br/receitafederal/pt-br) (acesso: 27 abril de 2025)
 
 
 ## Histórico de versões 
 
   Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-1.0 | 13/04/2025 | Criação do documento de ferramentas | [Marco Marques](https://github.com/marcomarquesdc) | [Diassis](https://github.com/Diaxiz) | 
-
+1.0 | 13/04/2025 | Criação do documento de app selecionado | [Marco Marques](https://github.com/marcomarquesdc) | [Diassis](https://github.com/Diaxiz) | 
+1.1 | 27/04/2025 | Mudança do aplicativo escolhido | [Marco Marques](https://github.com/marcomarquesdc) | [Diassis](https://github.com/Diaxiz) |

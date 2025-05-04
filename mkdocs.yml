@@ -1,8 +1,8 @@
-site_name: Meu INSS
+site_name: Receita Federal
 
-repo_name: "2025.1-Meu INSS"
-repo_url: "https://github.com/Requisitos-de-Software/2025.1-Meu-INSS.git"
-site_url: "https://requisitos-de-software.github.io/2025.1-Meu-INSS/"
+repo_name: "2025.1-ReceitaFederal"
+repo_url: "https://github.com/Requisitos-de-Software/2025.1-ReceitaFederal.git"
+site_url: "https://requisitos-de-software.github.io/2025.1-ReceitaFederal/"
 
 extra_css:
   - stylesheets/extra.css
@@ -14,7 +14,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: green  
+      primary: dark-blue  
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
@@ -22,13 +22,13 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: green  
+      primary: dark-blue   
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
 
-  logo: assets/inss.png 
-  favicon: assets/meu-inss-logo.ico
+  logo: assets/receita-federal.png 
+  favicon: assets/receita-federal.ico
     
 
 nav:
@@ -41,6 +41,7 @@ nav:
   - Atas: 
       - Ata 01 (11/04/2025): atas/ata1.md
       - Ata 02 (19/04/2025): atas/ata2.md
+      - Ata 03 (19/04/2025): atas/ata3.md
   - Pré-Rastreabilidade: 
       - RichPicture: pre-rastreabilidade/richpicture.md
   - Planejamento: 
@@ -50,5 +51,9 @@ nav:
       - Cronograma: planejamento/cronograma.md
   - Elicitação: 
       - Personas: elicitacao/personas.md
-      - Grupo de foco: elicitacao/grupodefoco.md
+
       - Análise de documentos: elicitacao/analisededocumentos.md
+      - Storytelling: elicitacao/storytelling.md
+      - Grupo de foco: elicitacao/grupodefoco.md
+      - Priorização:
+          - MoSCoW: elicitacao/priorizacao/MoSCoW.md
