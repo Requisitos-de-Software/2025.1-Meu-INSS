@@ -17,17 +17,18 @@ A priorização foi realizada de forma virtual, com a participação de membros 
 
 <p style="text-align: center"><b>Tabela 1</b> - Tabela Must.</p>
 
-| ID   | Descrição                                                                                   | Categoria |
-|------|---------------------------------------------------------------------------------------------|-----------|
-| R1   | Acesso rápido e simultâneo a múltiplos CPFs/CNPJs                                           | RF        |
-| R2   | Emissão de CPF 100% remota (fotografia + verificação facial)                                | RF        |
-| R3   | Preenchimento, entrega e acompanhamento do Imposto de Renda                                 | RF        |
-| R7   | Consulta, alteração e emissão de comprovante de CPF/CNPJ                                    | RF        |
-| R10  | Geração e pagamento de DARF via Pix ou código de barras                                     | RF        |
-| R11  | Consultar o status do CPF (ativo ou não)                                                    | RF        |
-| R12  | Login pelo gov.br com suporte a biometria                                                   | RF        |
-| R17  | Proteção de dados pessoais conforme a LGPD e biometria local                                | RR        |
-| R20  | Solicitação de certidões negativas dentro do app                                                        | RR        |
+| ID     | Descrição                                                                                    | Categoria |
+|--------|----------------------------------------------------------------------------------------------|-----------|
+| RFB01  | Login pelo gov.br com suporte a biometria.                                                   | RF        |
+| RFB02  | Acesso rápido e simultâneo a múltiplos CPFs/CNPJs.                                           | RF        |
+| RFB03  | Consulta, alteração e emissão de comprovante de CPF/CNPJ.                                    | RF        |
+| RFB04  | Preenchimento, entrega e acompanhamento do Imposto de Renda.                                 | RF        |
+| RFB05  | Geração e pagamento de DARF via Pix ou código de barras.                                     | RF        |
+| RFB06  | Envio de notificações sobre restituições e pendências.                                       | RF        |
+| RFB09  | Emissão de CPF 100 % remota (fotografia + verificação facial).                               | RF        |
+| RFB15  | Proteção de dados pessoais conforme LGPD e biometria local.                                  | RR        |
+| RFB21  | Consultar o status do CPF (ativo ou não).                                                    | RF        |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
@@ -35,15 +36,15 @@ A priorização foi realizada de forma virtual, com a participação de membros 
 
 <p style="text-align: center"><b>Tabela 2</b> - Tabela Should.</p>
 
-| ID   | Descrição                                                                                   | Categoria |
-|------|---------------------------------------------------------------------------------------------|-----------|
-| R4   | Notificação de vencimento próximo                                                           | RF        |
-| R5   | Unificação de serviços no app (ex: agendamento, processos, certidões etc.)                  | RF        |
-| R6   | Acesso offline a serviços essenciais (históricos, DARFs)                                    | RF, RNF   |
-| R8   | Funcionalidade de histórico e acompanhamento de restituições e de declarações              | RF        |
-| R9   | Declaração simplificada do IR                                                               | RF        |
-| R19  | Testes de segurança para garantir integridade e autenticação segura                         | RT        |
-| R21  | Envio de notificações sobre restituições e pendências           
+| ID     | Descrição                                                                                    | Categoria |
+|--------|----------------------------------------------------------------------------------------------|-----------|
+| RFB07  | Unificação de serviços no app (agendamento, acompanhamento de processos, certidões etc.).    | RF        |
+| RFB08  | Solicitação de certidões negativas dentro do app.                                            | RF        |
+| RFB11  | Acesso offline a serviços essenciais do app (históricos de contribuições anteriores, DARFs). | RF e RNF  |
+| RFB19  | Funcionalidade de histórico e acompanhamento de restituições e de declarações.               | RF        |
+| RFB20  | Declaração simplificada do IR.                                                               | RF        |
+| RFB17  | Testes de segurança para garantir a integridade dos dados e autenticação segura.             | RT        |
+| RFB23  | Notificação de vencimento próximo.                                                           | RF        |
 
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
@@ -52,14 +53,13 @@ A priorização foi realizada de forma virtual, com a participação de membros 
 <p style="text-align: center"><b>Tabela 3</b> - Tabela Could.</p>
 
 
-| ID   | Descrição                                                                                   | Categoria |
-|------|---------------------------------------------------------------------------------------------|-----------|
-| R13  | Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot                            | RI        |
-| R14  | Conteúdo educativo para iniciantes                                                          | RI        |
-| R16  | Envio de documentos para instrução de processos                                             | RF        |
-| R18  | Interface responsiva, acessível e com modo escuro                                           | RI        |
-| R22  | Compatível com Android 8+ e iOS 14+                                                          | RNF       |
-| R23  | Testes de usabilidade semestrais com público 60+          | RT       | 
+| ID     | Descrição                                                                                    | Categoria |
+|--------|----------------------------------------------------------------------------------------------|-----------|
+| RFB10  | Envio de documentos para instrução de processos.                                             | RF        |
+| RFB12  | Interface responsiva, acessível e com modo escuro.                                           | RI        |
+| RFB13  | Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot sugeridas.                  | RI        |
+| RFB22  | Conteúdo educativo para iniciantes.                                                          | RI        |
+| RFB14  | Compatível com Android 8+ e iOS 14+.                                                         | RNF       |
 
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
@@ -67,9 +67,11 @@ A priorização foi realizada de forma virtual, com a participação de membros 
 
 <p style="text-align: center"><b>Tabela 4</b> - Tabela Won't.</p>
 
-| ID   | Descrição                                                                                   | Categoria |
-|------|---------------------------------------------------------------------------------------------|-----------|
-| R15  | Testes de desempenho para suportar alta demanda de usuários simultâneos                     | RT        |
+| ID     | Descrição                                                                                    | Categoria |
+|--------|----------------------------------------------------------------------------------------------|-----------|
+| RFB16  | Testes de usabilidade semestrais com público 60+.                                            | RT        |
+| RFB18  | Testes de desempenho para suportar alta demanda de usuários simultâneos.                     | RT        |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
