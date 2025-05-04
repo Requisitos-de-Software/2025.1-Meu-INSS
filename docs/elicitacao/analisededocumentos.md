@@ -57,21 +57,27 @@ O aplicativo da Receita Federal tem como objetivo centralizar, de forma digital 
 
 ## Tabela de requisitos
 
-| Identificação | Descrição | Categoria |
-| --- | --- | --- |
-| RFA01 | Login pelo gov.br com suporte a biometria. | RF |
-| RFA02 | Consulta, alteração e emissão de comprovante de CPF/CNPJ. | RF |
-| RFA03 | Preenchimento, entrega e acompanhamento do Imposto de Renda. | RF |
-| RFA04 | Geração e pagamento de DARF via Pix ou código de barras. | RF |
-| RFA05 | Envio de notificações sobre restituições e pendências. | RF |
-| RFA06 | Solicitação de certidões negativas dentro do app. | RF |
-| RFA07 | Compatível com Android 8+ e iOS 14+. | RNF |
-| RFA08 | Interface responsiva, acessível e com modo escuro. | RI |
-| RFA11 | Proteção de dados pessoais conforme LGPD e biometria local. | RR |
-| RFA12 | Testes de usabilidade semestrais com público 60+. | RT |
-| RFA13 | Testes de segurança para garantir a integridade dos dados e autenticação segura. | RT |
-| RFA14 | Testes de desempenho para suportar alta demanda de usuários simultâneos.| RT |
-| RFA15 | Emissão de CPF 100 % remota (fotografia + verificação facial). | RF |
+| Identificação | Descrição                                                                                    | Categoria |
+| ------------- | -------------------------------------------------------------------------------------------- | --------- |
+| RFB01         | Login pelo gov.br com suporte a biometria.                                                   | RF        |
+| RFB02         | Acesso rápido e simultâneo a múltiplos CPFs/CNPJs.                                           | RF        |
+| RFB03         | Consulta, alteração e emissão de comprovante de CPF/CNPJ.                                    | RF        |
+| RFB04         | Preenchimento, entrega e acompanhamento do Imposto de Renda.                                 | RF        |
+| RFB05         | Geração e pagamento de DARF via Pix ou código de barras.                                     | RF        |
+| RFB06         | Envio de notificações sobre restituições e pendências.                                       | RF        |
+| RFB07         | Unificação de serviços no app (agendamento, acompanhamento de processos, certidões etc.).    | RF        |
+| RFB08         | Solicitação de certidões negativas dentro do app.                                            | RF        |
+| RFB09         | Emissão de CPF 100 % remota (fotografia + verificação facial).                               | RF        |
+| RFB10         | Envio de documentos para instrução de processos.                                             | RF        |
+| RFB11         | Acesso offline a serviços essenciais do app (históricos de contribuições anteriores, DARFs). | RF e RNF  |
+| RFB12         | Interface responsiva, acessível e com modo escuro.                                           | RI        |
+| RFB13         | Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot sugeridas.                  | RI        |
+| RFB14         | Compatível com Android 8+ e iOS 14+.                                                         | RNF       |
+| RFB15         | Proteção de dados pessoais conforme LGPD e biometria local.                                  | RR        |
+| RFB16         | Testes de usabilidade semestrais com público 60+.                                            | RT        |
+| RFB17         | Testes de segurança para garantir a integridade dos dados e autenticação segura.             | RT        |
+| RFB18         | Testes de desempenho para suportar alta demanda de usuários simultâneos.                     | RT        |
+
 
 <div style="text-align: center;"><p>Tabela 1 - Tabela dos requisitos levantados (Autor: Thales. 2025).</p></div>
 
