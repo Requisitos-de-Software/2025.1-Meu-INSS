@@ -52,8 +52,9 @@ nav:
   - Elicitação: 
       - Personas: elicitacao/personas.md
       - Storytelling: elicitacao/storytelling.md
+      - Análise de documentos: elicitacao/analisededocumentos.md
       - Grupo de foco: elicitacao/grupodefoco.md
       - Priorização:
+          - First Things First: elicitacao/priorizacao/ftf.md
           - MoSCoW: elicitacao/priorizacao/MoSCoW.md
           - 100$: elicitacao/priorizacao/100$.md
-
