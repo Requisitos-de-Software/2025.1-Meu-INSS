@@ -55,4 +55,5 @@ nav:
       - Grupo de foco: elicitacao/grupodefoco.md
       - Priorização:
           - MoSCoW: elicitacao/priorizacao/MoSCoW.md
+          - 100$: elicitacao/priorizacao/100$.md
 
