@@ -1,4 +1,4 @@
-# Personas e storytelling
+# Personas
 
 ## Introdução
 
