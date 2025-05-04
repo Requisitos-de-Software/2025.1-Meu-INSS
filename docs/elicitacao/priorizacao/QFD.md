@@ -72,7 +72,7 @@ Essa priorização orienta os desenvolvedores a focarem nas funcionalidades de m
 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-1.0 | 04/05/2025 | Criação QFD |[Júlia Massuda](https://github.com/JuliaReis18) e [João Pedro](https://github.com/JpRodrigues2)  |
+1.0 | 04/05/2025 | Criação QFD |[Júlia Massuda](https://github.com/JuliaReis18) e [João Pedro](https://github.com/JpRodrigues2)  | [Diassis](https://github.com/Diaxiz) |
 
 
 
