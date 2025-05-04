@@ -1,6 +1,6 @@
 site_name: Receita Federal
 
-repo_name: "2025.1-Receita-Federal"
+repo_name: "2025.1-ReceitaFederal"
 repo_url: "https://github.com/Requisitos-de-Software/2025.1-ReceitaFederal.git"
 site_url: "https://requisitos-de-software.github.io/2025.1-ReceitaFederal/"
 
@@ -53,3 +53,6 @@ nav:
       - Personas: elicitacao/personas.md
       - Storytelling: elicitacao/storytelling.md
       - Grupo de foco: elicitacao/grupodefoco.md
+      - Priorização:
+          - MoSCoW: elicitacao/priorizacao/MoSCoW.md
+
