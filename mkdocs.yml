@@ -41,6 +41,7 @@ nav:
   - Atas: 
       - Ata 01 (11/04/2025): atas/ata1.md
       - Ata 02 (19/04/2025): atas/ata2.md
+      - Ata 03 (19/04/2025): atas/ata3.md
   - Pré-Rastreabilidade: 
       - RichPicture: pre-rastreabilidade/richpicture.md
   - Planejamento: 
@@ -54,3 +55,4 @@ nav:
       - Grupo de foco: elicitacao/grupodefoco.md
       - Priorização:
           - MoSCoW: elicitacao/priorizacao/MoSCoW.md
+
