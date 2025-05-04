@@ -57,34 +57,30 @@ O aplicativo da Receita Federal tem como objetivo centralizar, de forma digital 
 
 ## Tabela de requisitos
 
-| Identificação | Descrição                                                                                    | Categoria |
-| ------------- | -------------------------------------------------------------------------------------------- | --------- |
-| RFB01         | Login pelo gov.br com suporte a biometria.                                                   | RF        |
-| RFB02         | Acesso rápido e simultâneo a múltiplos CPFs/CNPJs.                                           | RF        |
-| RFB03         | Consulta, alteração e emissão de comprovante de CPF/CNPJ.                                    | RF        |
-| RFB04         | Preenchimento, entrega e acompanhamento do Imposto de Renda.                                 | RF        |
-| RFB05         | Geração e pagamento de DARF via Pix ou código de barras.                                     | RF        |
-| RFB06         | Envio de notificações sobre restituições e pendências.                                       | RF        |
-| RFB07         | Unificação de serviços no app (agendamento, acompanhamento de processos, certidões etc.).    | RF        |
-| RFB08         | Solicitação de certidões negativas dentro do app.                                            | RF        |
-| RFB09         | Emissão de CPF 100 % remota (fotografia + verificação facial).                               | RF        |
-| RFB10         | Envio de documentos para instrução de processos.                                             | RF        |
-| RFB11         | Acesso offline a serviços essenciais do app (históricos de contribuições anteriores, DARFs). | RF e RNF  |
-| RFB12         | Interface responsiva, acessível e com modo escuro.                                           | RI        |
-| RFB13         | Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot sugeridas.                  | RI        |
-| RFB14         | Compatível com Android 8+ e iOS 14+.                                                         | RNF       |
-| RFB15         | Proteção de dados pessoais conforme LGPD e biometria local.                                  | RR        |
-| RFB16         | Testes de usabilidade semestrais com público 60+.                                            | RT        |
-| RFB17         | Testes de segurança para garantir a integridade dos dados e autenticação segura.             | RT        |
-| RFB18         | Testes de desempenho para suportar alta demanda de usuários simultâneos.                     | RT        |
-| RFB19         | Funcionalidade de histórico e acompanhamento de restituições e de declarações.               | RF        |
-| RFB20         | Declaração simplificada do IR.                                                               | RF        |
-| RFB21         | Consultar o status do CPF (ativo ou não).                                                    | RF        |
-| RFB22         | Conteúdo educativo para iniciantes.                                                          | RI        |
-| RFB23         | Notificação de vencimento próximo.                                                           | RF        |
-
-
-
+| ID    | Descrição                                                                                    | Categoria |
+| ----- | -------------------------------------------------------------------------------------------- | --------- |
+| R1    | Acesso rápido e simultâneo a múltiplos CPFs/CNPJs                                            | RF        |
+| R2    | Cadastro de CPF via app (totalmente remoto)                                                  | RF        |
+| R3 | Acompanhamento de status da restituição (precisão quanto aos lotes)                          | RF        |
+| R4 | Notificação de vencimento próximo                                                            | RF        |
+| R5 | Unificação de serviços no app (ex: agendamento, acompanhamento de processos, certidões etc.) | RF        |
+| R6 | Acesso offline a serviços essencial do app (históricos de contribuições anteriores, darfs)   | RF e RNF  |
+| R7 | Alteração de dados via app  | RF |
+| R8 | Funcionalidade de histórico e acompanhamento de restituições e de declarações                | RF        |
+| R9 | Declaração simplificada do IR                                                                | RF        |
+| R10 | Geração de guias de pagamento                                                                | RF        |
+| R11 | Consultar o status do CPF (ativo ou não)                                                     | RF        |
+| R12 | Integração com conta Gov.br                                                                  | RF        |
+| R13 | Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot sugeridas                   | RI        |
+| R14 | Conteúdo educativo para iniciantes                                                           | RI        |
+| R15 | Testes de desempenho para suportar alta demanda de usuários simultâneos                      | RT        |
+| R16 | Envio de documentos para instrução de processos                                              | RF        |
+| R17 | Proteção de dados pessoais conforme a LGPD                                                   | RR        |
+| R18 | Interface responsiva, acessível e com modo escuro.						       | RI |
+| R19 | Testes de segurança para garantir a integridade dos dados e autenticação segura. | RT |
+| R20 | Compatível com Android 8+ e iOS 14+.                                                         | RNF       |
+| R21 | Testes de usabilidade semestrais com público 60+.                                            | RT        |
+| R22 | Testes de desempenho para suportar alta demanda de usuários simultâneos.                     | RT        |
 <div style="text-align: center;"><p>Tabela 1 - Tabela dos requisitos levantados (Autor: Thales. 2025).</p></div>
 
 ## Legenda

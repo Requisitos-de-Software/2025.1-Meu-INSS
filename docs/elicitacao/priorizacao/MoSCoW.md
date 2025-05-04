@@ -42,6 +42,7 @@ A priorização foi realizada de forma virtual, com a participação de membros 
 | R8   | Histórico e acompanhamento de restituições e declarações                                   | RF        |
 | R9   | Declaração simplificada do IR                                                               | RF        |
 | R19  | Testes de segurança para garantir integridade e autenticação segura                         | RT        |
+| R22  | Testes de desempenho para suportar alta demanda de usuários simultâneos.                     | RT        |
 
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
@@ -54,7 +55,8 @@ A priorização foi realizada de forma virtual, com a participação de membros 
 | R13  | Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot                            | RI        |
 | R14  | Conteúdo educativo para iniciantes                                                          | RI        |
 | R16  | Envio de documentos para instrução de processos                                             | RF        |
-| R18  | Interface responsiva para dispositivos móveis                                               | RI        |
+| R18  | Interface responsiva, acessível e com modo escuro.	                                         | RI        |
+| R21 | Testes de usabilidade semestrais com público 60+.                                            | RT        |
 
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
@@ -65,6 +67,7 @@ A priorização foi realizada de forma virtual, com a participação de membros 
 | ID   | Descrição                                                                                   | Categoria |
 |------|---------------------------------------------------------------------------------------------|-----------|
 | R15  | Testes de desempenho para suportar alta demanda de usuários simultâneos                     | RT        |
+| R20 | Compatível com Android 8+ e iOS 14+.                                                         | RNF       |
 
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
