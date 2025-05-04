@@ -97,9 +97,9 @@ _Fonte - Autores._
 
 > WIEGERS, Karl E.; BEATTY, Joy. *Software Requirements*. 3. ed. Microsoft Press, 2013. cap. 16, p. 313–329.
 
-## 5. Versionamento
+## 5. Histórico de versões
 
 | Versão | Data       | Autor(es)          | Alterações                                             | Revisor(es) |
 | :----: | ---------- | ------------------ | ------------------------------------------------------ | ----------- |
-|   1.0  | 03/05/2025 | [Diassis](https://github.com/Diaxiz),[Marco](https://github.com/marcomarquesdc)  | Primeira Versão do FTF | [José](https://github.com/jevprado)   |
+|   1.0  | 03/05/2025 | [Diassis](https://github.com/Diaxiz),[Marco](https://github.com/marcomarquesdc)  | Primeira Versão do FTF | [José Eduardo](https://github.com/jevprado)   |
 
