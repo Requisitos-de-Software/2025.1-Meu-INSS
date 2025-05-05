@@ -1,49 +1,55 @@
-# Rich Picture - Aplicativo Meu INSS
+# Rich Picture – Aplicativo da Receita Federal
 
-## 1. Introdução
-O Rich Picture é uma ferramenta visual que busca representar, de forma informal e acessível, a estrutura e o funcionamento de um sistema, bem como os problemas e interações envolvidas. No contexto da Engenharia de Software, esse recurso é amplamente utilizado na fase de levantamento de requisitos para auxiliar na compreensão do domínio do problema.
+## 📌 Introdução
 
-Este rich picture representa o funcionamento do sistema Meu INSS, evidenciando os principais atores, processos e desafios relacionados à concessão de benefícios previdenciários no Brasil.
+A **Rich Picture** apresentada tem como objetivo ilustrar, de forma visual e compreensível, os **principais atores, interações e desafios** envolvidos no uso do **aplicativo da Receita Federal**. Esse tipo de diagrama é utilizado na engenharia de requisitos para facilitar a compreensão do escopo e contexto do sistema, promovendo uma visão ampla e integrada da realidade envolvida.
 
-## 2. Metodologia e Ferramentas
-A elaboração do rich picture foi realizada por meio da ferramenta Canva, com o objetivo de construir uma representação visual clara e objetiva. As ilustrações utilizadas foram obtidas do acervo gratuito da própria plataforma.
+---
+## Análise da Figura
+### Figura 1: Rich Picture do sistema RECEITA FEDERAL
 
-Foram considerados os seguintes elementos no desenvolvimento do rich picture:
+![Rich Picture - RECEITA FEDERAL](../assets/rich-picture.jpeg.jpeg)
 
-- **Atores**: como o beneficiário da previdência, a central de atendimento e a gerência do sistema.
-- **Processos**: como a perícia médica, atendimento presencial, uso do aplicativo, entre outros.
-- **Interações**: fluxos de informação entre os atores e o sistema.
-- **Obstáculos**: como filas, burocracia e prazos.
+## 🗺️ Descrição da Rich Picture
 
-## 3. Análise da Figura
-### Figura 1: Rich Picture do sistema Meu INSS
+Na imagem, o aplicativo da Receita Federal está no **centro**, representando o sistema digital que intermedia a comunicação entre os cidadãos e a instituição pública.
 
-![Rich Picture - Meu INSS](../assets/rich-picture.jpeg.jpeg)
+### 👥 Atores principais:
 
-O diagrama ilustra a jornada do beneficiário da previdência ao buscar auxílio pelo sistema Meu INSS. Entre os destaques estão:
+- **Contribuinte – Ato de declaração**: Representa o usuário comum que realiza a declaração do Imposto de Renda através do aplicativo.
+- **Contador**: Profissional que auxilia o contribuinte na correta declaração e cumprimento das obrigações fiscais.
+- **Gestor Público**: Utiliza os dados obtidos via sistema para análise, planejamento e tomada de decisão governamental.
+- **Auditor Fiscal**: Responsável pela verificação, fiscalização e análise dos dados enviados pelos contribuintes.
+- **Chatbot**: Assistente virtual integrado ao sistema para apoiar o usuário em dúvidas e dificuldades no uso do app.
 
-- A necessidade de reunir documentos e realizar perícia médica;
-- O uso do aplicativo Meu INSS para agilizar processos;
-- A persistência de filas no atendimento presencial;
-- A interferência de fatores como burocracia e prazos no processo;
-- A atuação da central de atendimento e da gerência geral do sistema previdenciário na mediação e gestão das solicitações.
+### 💬 Situações vivenciadas pelos contribuintes:
 
-### Legenda (Figura 2)
-A legenda, também desenvolvida no Canva, detalha os elementos utilizados no rich picture:
+- **Contribuinte e preocupações**: Representa o estresse e inseguranças geradas por prazos, erros e dúvidas no processo.
+- **Contribuinte e complexidades**: Mostra a dificuldade de lidar com regras fiscais, documentos, deduções e linguagem técnica.
 
-- 👴 **Beneficiário da Previdência**
-- 📲 **Aplicativo Meu INSS**
-- 🏢 **Atendimento presencial**
-- 🧑‍⚕️ **Perícia médica**
-- 📄 **Documentos a reunir**
-- 🕰️ **Prazos**
-- 📞 **Central de atendimento**
-- 🧑‍💼 **Gerência geral do sistema previdenciário**
-- ⚙️ **Burocracia**
+### 🧩 Infraestrutura e funcionalidades:
 
-## 5. Referências
-1. SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. Aprender 3. Distrito Federal, 2016. Disponível em:  
-[https://aprender3.unb.br/pluginfile.php/2523050/mod_resource/content/4/Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf](https://aprender3.unb.br/pluginfile.php/2523050/mod_resource/content/4/Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf)
+- **Armazenamento de dados**: Representa a base de dados da Receita Federal, onde ficam armazenadas as informações dos usuários e suas declarações.
+- As **setas** indicam os fluxos de informação, como:
+  - Envio de dados do contribuinte ao sistema;
+  - Acesso a dados por parte dos auditores;
+  - Utilização de informações por gestores públicos;
+  - Interações do sistema com ferramentas como o chatbot.
+
+---
+
+## ✅ Conclusão
+
+Essa Rich Picture oferece uma visão holística do ecossistema envolvido no **aplicativo da Receita Federal**, destacando tanto os **beneficiários diretos (usuários)** quanto os **atores institucionais**, além de representar as **dores e dificuldades** comuns enfrentadas durante o processo de declaração. Essa representação contribui para entender melhor as necessidades e pontos de melhoria do sistema, sendo uma ferramenta valiosa para o levantamento de requisitos e planejamento de soluções.
+
+---
+
+## 📚 Referências
+
+- Checkland, P., & Scholes, J. (1999). *Soft Systems Methodology in Action*. John Wiley & Sons.
+- Sommerville, I. (2011). *Engenharia de Software* (9ª ed.). Pearson Prentice Hall.
+- Receita Federal do Brasil. (2024). *Manual do Imposto de Renda Pessoa Física*. Disponível em: [https://www.gov.br/receitafederal/](https://www.gov.br/receitafederal/)
+- Pressman, R. S. (2010). *Engenharia de Software* (7ª ed.). McGraw-Hill.
 
 
 ## Histórico de versões
@@ -51,4 +57,5 @@ A legenda, também desenvolvida no Canva, detalha os elementos utilizados no ric
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 1.0 | 12/04/2025 | Criação do documento RichPicture | [Julia Massuda](https://github.com/JuliaReis18) e  [Andre Lopes](https://github.com/andrewslopes)  | [Jose Eduardo](https://github.com/jevprado) |
+1.1 | 05/05/2025 | Alteração para a Rich Picture da Receita Federal | [Julia Massuda](https://github.com/JuliaReis18) e  [Andre Lopes](https://github.com/andrewslopes)  | |
 
