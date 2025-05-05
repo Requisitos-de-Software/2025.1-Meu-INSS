@@ -8,7 +8,7 @@ A **Rich Picture** apresentada tem como objetivo ilustrar, de forma visual e com
 ## Análise da Figura
 ### Figura 1: Rich Picture do sistema RECEITA FEDERAL
 
-![Rich Picture - RECEITA FEDERAL](../assets/rich-picture.jpeg.jpeg)
+![Rich Picture - RECEITA FEDERAL](../assets/RECEITA FEDERAL (1).png)
 
 ## 🗺️ Descrição da Rich Picture
 
