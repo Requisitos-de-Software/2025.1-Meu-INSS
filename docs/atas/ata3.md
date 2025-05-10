@@ -32,12 +32,21 @@
 
 ---
 
-## Link da gravação
 
-> [Acesse a gravação da reunião 03 aqui](https://unbbr.sharepoint.com/sites/Requisitos-GRUPO06/Documentos%20Compartilhados/Reuni%C3%A3o%20Semanal/Recordings/Reuni%C3%A3o%20em%20_Reuni%C3%A3o%20Semanal_-20250421_161103-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+## Gravação da reunião
+
+<iframe width="670" height="350" 
+        src="https://www.youtube.com/embed/8PpPx1Txtvg" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
 
 ## Histórico de versões
 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 22/04/2025 | Criação do documento ata03| [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
+`1.1` | 09/05/2025 | Corrigindo gravação da reunião | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
