@@ -64,4 +64,4 @@ nav:
           - QFD: elicitacao/priorizacao/QFD.md
   - Modelagem: 
       - Cenários: modelagem/cenarios.md
-
+      - Léxicos: modelagem/lexicos.md
