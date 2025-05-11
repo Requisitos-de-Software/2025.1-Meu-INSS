@@ -123,13 +123,13 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 ---
 
 ### Bibliografia e Referências
-1. André Barros. Plano de ensino da disciplina. Acesso em 12 de abril de 2025.
 
----
+> <a>1.</a> SALES, André Barros de. - Plano de ensino - Requisitos de Software (2025.1). Disponivel em: [https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/55/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v1.pdf](https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/55/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v1.pdf)
+>
 
 ### Histórico de versão
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :------: | :--------: | :-----------: | :-------: | :---------: |
-| 12/04 | `1.0` | Criação do documento | [Thales Germano](https://github.com/thalesgvl) |[Jose Eduardo](https://github.com/jevprado)|
-| 12/04 | `1.1` | Atribuição de tarefas | [Thales Germano](https://github.com/thalesgvl) |[Jose Eduardo](https://github.com/jevprado)|
-| 19/04 | `1.2` | Correções apontadas no cronograma | [Jose Eduardo](https://github.com/jevprado) |[Thales Germano](https://github.com/thalesgvl)|
+| `1.0` | 12/04/2025 | Criação do documento | [Thales Germano](https://github.com/thalesgvl) |[Jose Eduardo](https://github.com/jevprado)|
+| `1.1`  |  12/04/2025 | Atribuição de tarefas | [Thales Germano](https://github.com/thalesgvl) |[Jose Eduardo](https://github.com/jevprado)|
+| `1.2`  | 19/04/2025 | Correções apontadas no cronograma | [Jose Eduardo](https://github.com/jevprado) |[Thales Germano](https://github.com/thalesgvl)|

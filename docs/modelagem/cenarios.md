@@ -152,4 +152,4 @@ Os requisitos utilizados como base para os cenários foram extraídos da tabela 
 ## Histórico de versão
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-`1.0` | 09/05/2025 | Criação do documento de cenários | [Jose Eduardo](https://github.com/jevprado) e [Diassis](https://github.com/Diaxiz) | Revisor aqui |
+`1.0` | 09/05/2025 | Criação do documento de cenários | [Jose Eduardo](https://github.com/jevprado) e [Diassis](https://github.com/Diaxiz) | [Thales Germano](https://github.com/thalesgvl)  |
