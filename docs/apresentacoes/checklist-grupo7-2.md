@@ -123,9 +123,13 @@ Esta página apresenta um checklist relacionado a Entrega 02 do Grupo 07 (FGTS).
 
 ## Referências Bibliográficas 
 
-1. Plano de ensino, prof. André - [Link no site aprender3](https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/55/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v1.pdf)
-2.  Sommerville, I. (2011). Engenharia de Software, 9ª ed.
-3. Pressman, R. S. (2010). Engenharia de Software, 7ª ed.
+> <a>1.</a> SALES, André Barros de. - Lista de Verificação - Disponivel em: [https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf](https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf)
+>
+> <a>2.</a> Sommerville, I. (2011). Engenharia de Software, 9ª ed.
+>
+> <a>3.</a> Pressman, R. S. (2010). Engenharia de Software, 7ª ed.
+>
+
 
 ## Histórico de versões
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)

@@ -99,7 +99,8 @@ O aplicativo da Receita Federal tem como objetivo centralizar, de forma digital 
 - Governo Digital. Recursos de Acessibilidade Digital – gov.br. Disponível em: <https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/recursos-de-acessibilidade>. Acesso em: 25 abr. 2025.
 
 ## Histórico de Versões
-| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| 25/04/2025 | `1.0` | Criação do documento | [Thales Germano](https://github.com/thalesgvl) e [Marco Marques](https://github.com/marcomarquesdc)| 26/04/2025 | [José Eduardo](https://github.com/jevprado)|
-| 04/05/2025 | `1.1` | Ajustes do documento | [Thales Germano](https://github.com/thalesgvl) e [Marco Marques](https://github.com/marcomarquesdc) | 04/05/2025 | [José Eduardo](https://github.com/jevprado)|
+
+Versão |   Data  | Descrição | Autor(es) | Revisor(es)
+------ | ---- | ------ | ---------- | ----------
+`1.0` | 25/04/2025 | Criação do documento | [Thales Germano](https://github.com/thalesgvl) e [Marco Marques](https://github.com/marcomarquesdc) | [José Eduardo](https://github.com/jevprado) |
+`1.1` | 04/05/2025 | Ajustes do documento | [Thales Germano](https://github.com/thalesgvl) e [Marco Marques](https://github.com/marcomarquesdc) | [José Eduardo](https://github.com/jevprado) |

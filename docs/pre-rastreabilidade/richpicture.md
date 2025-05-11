@@ -57,5 +57,5 @@ Essa Rich Picture oferece uma visão holística do ecossistema envolvido no **ap
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 1.0 | 12/04/2025 | Criação do documento RichPicture | [Julia Massuda](https://github.com/JuliaReis18) e  [Andre Lopes](https://github.com/andrewslopes)  | [Jose Eduardo](https://github.com/jevprado) |
-1.1 | 05/05/2025 | Alteração para a Rich Picture da Receita Federal | [Julia Massuda](https://github.com/JuliaReis18) e  [Andre Lopes](https://github.com/andrewslopes)  | |
+1.1 | 05/05/2025 | Alteração para a Rich Picture da Receita Federal | [Julia Massuda](https://github.com/JuliaReis18) e  [Andre Lopes](https://github.com/andrewslopes)  | [Thales Germano](https://github.com/thalesgvl) |
 
