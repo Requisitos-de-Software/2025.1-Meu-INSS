@@ -103,7 +103,7 @@ _Fonte - Autores._
 | :----: | ---------- | ------------------ | ------------------------------------------------------ | ----------- |
 |   1.0  | 03/05/2025 | [Diassis](https://github.com/Diaxiz) e [Marco](https://github.com/marcomarquesdc)  | Primeira Versão do FTF | [José Eduardo](https://github.com/jevprado)   |
 |   1.1  | 03/05/2025 | [Diassis](https://github.com/Diaxiz) e [Marco](https://github.com/marcomarquesdc)  | Correção no texto | [José Eduardo](https://github.com/jevprado)   |
-|   1.2  | 03/05/2025 | [Diassis](https://github.com/Diaxiz) e [Marco](https://github.com/marcomarquesdc)  | Correção no texto | [José Eduardo](https://github.com/jevprado)   |
+|   1.2  | 11/05/2025 | [Diassis](https://github.com/Diaxiz) e [Marco](https://github.com/marcomarquesdc)  | Correção no texto | [José Eduardo](https://github.com/jevprado)   |
 
 
 
