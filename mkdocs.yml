@@ -65,4 +65,5 @@ nav:
           - QFD: elicitacao/priorizacao/QFD.md
   - Modelagem: 
       - Cenários: modelagem/cenarios.md
+      - Casos de uso: modelagem/casosdeuso.md
 

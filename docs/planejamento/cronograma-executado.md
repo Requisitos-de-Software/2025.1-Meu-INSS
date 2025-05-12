@@ -56,7 +56,7 @@ Esse documento mostra a execução do nosso cronograma na disciplina de Requisit
 |-----------|--------|-----|-----|---------|-----------|
 |[Cenários](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/)| 09/04 | 09/04 | 09/04 | [José Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz)| 
 |[Léxico](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/)| 09/04 | 11/04 | - | [Marco Marques](https://github.com/marcomarquesdc) e [Thales Germano](https://github.com/thalesgvl) | - | 
-|[Casos de uso](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/)| 09/04 | 11/04 | - | [Andre Lopes](https://github.com/andrewslopes) e [Julia Massuda](https://github.com/JuliaReis18)  | - | 
+|[Casos de uso](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/)| 09/04 | 11/04 | 11/04 | [Andre Lopes](https://github.com/andrewslopes) e [Julia Massuda](https://github.com/JuliaReis18)  | [José Eduardo](https://github.com/jevprado) | 
 |[Especificação suplementar](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/)| 09/04 | 10/04 | - | [João Pedro](https://github.com/JpRodrigues2) | -| 
 | [Correção - Rich Picture](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/pre-rastreabilidade/richpicture/) | 10/04 | 11/04 | 11/04 | [Julia Massuda](https://github.com/JuliaReis18) e [Andre Lopes](https://github.com/andrewslopes)  | [Thales Germano](https://github.com/thalesgvl)| 
 | [Correção - Cronograma executado](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/planejamento/cronograma-executado) | 10/04 | 11/04 | 11/04 | [José Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz)| 
@@ -75,3 +75,4 @@ Esse documento mostra a execução do nosso cronograma na disciplina de Requisit
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 11/05/2025 | Criação do documento de cronograma executado | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
+`1.1` | 11/05/2025 | Editando datas da entrega 03 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
