@@ -12,7 +12,7 @@ A priorização seguiu uma sequência estruturada de etapas para garantir uma an
 
 1. Inicialmente, todos os requisitos identificados foram avaliados, removendo-se aqueles que eram dependentes diretos de outros — ou seja, se um requisito só poderia ser implementado após outro, apenas o principal foi considerado.
 
-2. Em seguida, a equipe de desenvolvimento avaliou cada requisito avaliando conforme dois critérios::
+2. Em seguida, o usuário avaliou cada requisito, dando uma nota para os seguintes critérios:
 
    * **Benefício**: grau de valor agregado ao sistema, variando de 1 (baixo) a 9 (alto).
    * **Penalidade**: impacto negativo da ausência do requisito, também de 1 a 9.
@@ -102,6 +102,8 @@ _Fonte - Autores._
 | Versão | Data       | Autor(es)          | Alterações                                             | Revisor(es) |
 | :----: | ---------- | ------------------ | ------------------------------------------------------ | ----------- |
 |   1.0  | 03/05/2025 | [Diassis](https://github.com/Diaxiz) e [Marco](https://github.com/marcomarquesdc)  | Primeira Versão do FTF | [José Eduardo](https://github.com/jevprado)   |
-|   1.1  | 03/05/2025 | [Diassis](https://github.com/Diaxiz)e [Marco](https://github.com/marcomarquesdc)  | Correção no texto | [José Eduardo](https://github.com/jevprado)   |
+|   1.1  | 03/05/2025 | [Diassis](https://github.com/Diaxiz) e [Marco](https://github.com/marcomarquesdc)  | Correção no texto | [José Eduardo](https://github.com/jevprado)   |
+|   1.2  | 03/05/2025 | [Diassis](https://github.com/Diaxiz) e [Marco](https://github.com/marcomarquesdc)  | Correção no texto | [José Eduardo](https://github.com/jevprado)   |
+
 
 
