@@ -1,4 +1,4 @@
-# Especificação Suplementar - App Receita Federal
+# Especificação Suplementar
 
 ## Introdução
 
@@ -147,4 +147,4 @@ O sistema deve atender aos seguintes padrões:
 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-1.0 | 11/05/2025 | Criação do documento |[João Pedro](https://github.com/JpRodrigues2)  | COLOCAR AQUI QUEM REVISOU |
+1.0 | 11/05/2025 | Criação do documento |[João Pedro](https://github.com/JpRodrigues2)  | [José Eduardo](https://github.com/jevprado) |
