@@ -80,4 +80,4 @@ Requisitos Não Funcionais, que especificam restrições e qualidades esperadas 
 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-`1.0` | 18/05/2025 | Criação do documento |[José Eduardo](https://github.com/jevprado)  | REvisor aqui |
+`1.0` | 18/05/2025 | Criação do documento |[José Eduardo](https://github.com/jevprado)  |[Thales Germano](https://github.com/thalesgvl) |
