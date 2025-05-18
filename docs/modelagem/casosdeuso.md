@@ -17,6 +17,9 @@ Este documento foca em funcionalidades típicas para o cidadão usuário do app.
 
 ## II. Elementos do Diagrama  
 
+![Diagrama de casos de uso](../assets/Captura de tela 2025-05-11 192941.png)
+
+
 ### 1. Sistema  
 **Nome:** Aplicativo da Receita Federal do Brasil  
 **Descrição:** Plataforma digital que permite aos usuários realizar operações fiscais, consultar informações tributárias e interagir com a Receita Federal remotamente.  
