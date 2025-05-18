@@ -37,9 +37,7 @@ nav:
       - Tutorial mkdocs: guias/tutorial-mkdocs.md
   - Apresentações: 
       - Apresentação 1: apresentacoes/apresentacao1.md
-      - Avaliação da apresentação grupo+1: apresentacoes/checklist-grupo7.md
       - Apresentação 2: apresentacoes/apresentacao2.md
-      - Avaliação da apresentação grupo+1: apresentacoes/checklist-grupo7-2.md
   - Inspeção: 
       - Entrega 01:
           - Grupo 6: inspecao/entrega01/inspecao-grupo6.md
