@@ -71,6 +71,7 @@ nav:
           - MoSCoW: elicitacao/priorizacao/MoSCoW.md
           - 100$: elicitacao/priorizacao/100$.md
           - QFD: elicitacao/priorizacao/QFD.md
+      - Requisitos Elicitados: elicitacao/requisitos-elicitados.md
   - Modelagem: 
       - Cenários: modelagem/cenarios.md
       - Casos de uso: modelagem/casosdeuso.md
