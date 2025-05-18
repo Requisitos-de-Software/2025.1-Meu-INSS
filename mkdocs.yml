@@ -40,10 +40,16 @@ nav:
       - Avaliação da apresentação grupo+1: apresentacoes/checklist-grupo7.md
       - Apresentação 2: apresentacoes/apresentacao2.md
       - Avaliação da apresentação grupo+1: apresentacoes/checklist-grupo7-2.md
-  - Verificações: 
+  - Inspeção: 
       - Entrega 01:
-          - Grupo 6: verificacoes/Entrega01/verificacao-grupo6.md
-          - Grupo +1: verificacoes/Entrega01/verificacao-grupo7.md
+          - Grupo 6: inspecao/entrega01/inspecao-grupo6.md
+          - Grupo +1: inspecao/entrega01/inspecao-grupo7.md
+      - Entrega 02:
+          - Grupo 6: inspecao/entrega02/inspecao-grupo6.md
+          - Grupo +1: inspecao/entrega02/inspecao-grupo7-2.md
+      - Entrega 03:
+          - Grupo 6: inspecao/entrega03/inspecao-grupo6-3.md
+          - Grupo +1: inspecao/entrega03/inspecao-grupo7-3.md
   - Atas: 
       - Ata 01 (11/04/2025): atas/ata1.md
       - Ata 02 (19/04/2025): atas/ata2.md
