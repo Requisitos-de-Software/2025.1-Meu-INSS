@@ -1,7 +1,19 @@
-# Introdução 
+# Inspeção do grupo 7
+
+## Introdução 
 <p align="justify">
-Esta página apresenta um checklist relacionado a Entrega 01 do Grupo 07 (e-titulo). O objetivo foi analisar e revisar a entrega, com base em critérios técnicos e boas práticas de documentação de requisitos. 
+Página de inspeção relacionada a Entrega 01 do Grupo 07 (e-titulo). O objetivo foi analisar e revisar a entrega, com base em critérios técnicos e boas práticas de documentação de requisitos. 
 </p>
+
+## Participantes da inspeção: 
+
+- ❌ [Andre Lopes](https://github.com/andrewslopes)
+- ✅ [Diassis](https://github.com/Diaxiz)
+- ✅ [João Pedro](https://github.com/JpRodrigues2)
+- ✅ [José Eduardo](https://github.com/jevprado)
+- ✅ [Julia Massuda](https://github.com/JuliaReis18)
+- ❌ [Marco Marques](https://github.com/marcomarquesdc)
+- ✅ [Thales Germano](https://github.com/thalesgvl)
 
 ## Checklist Grupo 07 - Entrega 01
 

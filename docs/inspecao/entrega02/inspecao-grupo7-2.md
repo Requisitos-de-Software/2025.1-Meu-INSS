@@ -134,6 +134,6 @@ Esta página apresenta um checklist relacionado a Entrega 02 do Grupo 07 (FGTS).
 ## Histórico de versões
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-`1.0` | 05/05/2025 | Criação do documento de checklist 02 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
+`1.0` | 18/05/2025 | Mudança da localização da inspeção da entrega 02 - grupo 7 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 
 
 
