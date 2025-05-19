@@ -34,11 +34,10 @@ Os requisitos funcionais estão descritos nos casos de uso e documentos de elici
 - Autenticar documentos e gerar comprovantes
 - Acessar notificações e pendências fiscais
 
-<font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 ---
 
 ## Usabilidade
-<p style="text-align: center"><b>Tabela 1</b> - Usabilidade</p>
+
 | ID     | Descrição |
 |--------|-----------|
 | USA01 | O app deve possuir suporte a alto contraste, modo escuro e leitura por voz. |
@@ -47,11 +46,10 @@ Os requisitos funcionais estão descritos nos casos de uso e documentos de elici
 | USA04 | A navegação principal deve ser concluída com no máximo 5 cliques. |
 | USA05 | O app deve estar disponível nos idiomas Português e Inglês. |
 
-<font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 ---
 
 ## Confiabilidade
-<p style="text-align: center"><b>Tabela 2</b> - Confiabilidade</p>
+
 | ID     | Descrição |
 |--------|-----------|
 | CON01 | O sistema deve estar disponível 99,9% do tempo. |
@@ -60,11 +58,10 @@ Os requisitos funcionais estão descritos nos casos de uso e documentos de elici
 | CON04 | Deve permitir a recuperação da sessão em caso de falha de conexão. |
 | CON05 | O sistema deve registrar logs de todas as transações para auditoria. |
 
-<font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 ---
 
 ## Desempenho
-<p style="text-align: center"><b>Tabela 3</b> - Desempenho</p>
+
 | ID     | Descrição |
 |--------|-----------|
 | DES01 | O tempo de resposta médio do app não deve ultrapassar 300ms. |
@@ -72,11 +69,10 @@ Os requisitos funcionais estão descritos nos casos de uso e documentos de elici
 | DES03 | A consulta ao CPF deve retornar em até 1 segundo. |
 | DES04 | O app deve suportar picos de até 500 mil acessos simultâneos. |
 
-<font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 ---
 
 ## Suportabilidade
-<p style="text-align: center"><b>Tabela 4</b> - Suportabilidade</p>
+
 | ID     | Descrição |
 |--------|-----------|
 | SUP01 | O sistema deve ter documentação técnica e manual do usuário atualizados. |
@@ -85,7 +81,6 @@ Os requisitos funcionais estão descritos nos casos de uso e documentos de elici
 | SUP04 | O app deve possuir sistema de suporte ao usuário integrado. |
 | SUP05 | Deve ser possível rastrear alterações feitas no histórico de declarações. |
 
-<font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 ---
 
 ## Restrições de Design
@@ -107,14 +102,11 @@ Os requisitos funcionais estão descritos nos casos de uso e documentos de elici
 
 ## Sistema de Ajuda e Documentação
 
-<p style="text-align: center"><b>Tabela 5</b> - Sistema de Ajuda e Documentação</p>
 | ID     | Descrição |
 |--------|-----------|
 | RAU01 | O app deve conter seção de perguntas frequentes. |
 | RAU02 | O tempo de resposta a uma solicitação de suporte deve ser de no máximo 48h. |
 | RAU03 | O sistema deve permitir resolução automatizada de problemas comuns, como redefinir senha. |
-
-<font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
 ---
 
@@ -151,22 +143,8 @@ O sistema deve atender aos seguintes padrões:
 ---
 
  ---
-
- ## Referencias
-
- > <a>1.</a> Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.  
->
-> <a>2.</a> Pressman, Roger S.; Maxim, Bruce R. Engenharia de Software: Uma Abordagem Profissional. 8ª ed. Porto Alegre: AMGH, 2016.  
->
-> <a>3.</a> ISO/IEC 25010. Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — System and software quality models. International Organization for Standardization, 2011.  
->
-> <a>4.</a> W3C – World Wide Web Consortium. Web Content Accessibility Guidelines (WCAG) 2.1, 2018. Disponível em: [https://www.w3.org/TR/WCAG21/](https://www.w3.org/TR/WCAG21/)  
->
-> <a>5.</a> Brasil. Lei nº 13.709, de 14 de agosto de 2018 – Lei Geral de Proteção de Dados Pessoais (LGPD). Disponível em: [https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)
-
 ## Historico de versões
 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-`1.0` | 11/05/2025 | Criação do documento de especificacao suplementar |[João Pedro](https://github.com/JpRodrigues2)  | [José Eduardo](https://github.com/jevprado) |
-
+`1.0` | 11/05/2025 | Criação do documento |[João Pedro](https://github.com/JpRodrigues2)  | [José Eduardo](https://github.com/jevprado) |
