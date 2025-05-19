@@ -148,7 +148,11 @@ O sistema deve atender aos seguintes padrões:
 - Compatibilidade com smartphones e tablets.
 - Funcionalidade garantida em conexão 3G, 4G, 5G e Wi-Fi.
 
-## Referencias
+---
+
+ ---
+
+ ## Referencias
 
  > <a>1.</a> Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.  
 >
