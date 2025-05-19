@@ -18,6 +18,7 @@ Este documento foca em funcionalidades típicas para o cidadão usuário do app.
 ## II. Elementos do Diagrama  
 
 ![Diagrama de casos de uso](../assets/Captura de tela 2025-05-11 192941.png)
+<font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18) e  [Andre Lopes](https://github.com/andrewslopes), 2025.</p></font>
 
 
 ### 1. Sistema  
