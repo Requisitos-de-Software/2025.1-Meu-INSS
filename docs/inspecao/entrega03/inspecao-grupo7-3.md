@@ -47,12 +47,11 @@ Esta página apresenta um checklist relacionado a Entrega 03 do Grupo 07 (FGTS).
 ## Video da reunião de avaliação do grupo 7
 
 <iframe width="600" height="315"
-        src="https://teams.microsoft.com/l/meetingrecap?driveId=b%21shWAhHsLIUOCcOlnkXmEWIp27xNcDN9AgpzPvu41javAMC0G8wZMSL0Itz-I1gvi&driveItemId=01EQ4Z5CKTYIY5XPOSR5HYYF5WE6BPGXSH&sitePath=https%3A%2F%2Funbbr.sharepoint.com%2Fsites%2FRequisitos-GRUPO06%2FDocumentos%2520Compartilhados%2FGeneral%2FRecordings%2FReuni%25C3%25A3o%2520em%2520_General_-20250519_224750-Grava%25C3%25A7%25C3%25A3o%2520de%2520Reuni%25C3%25A3o.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Funbbr.sharepoint.com%2Fsites%2FRequisitos-GRUPO06%2FDocumentos%2520Compartilhados%2FGeneral%2FRecordings%2FReuni%25C3%25A3o%2520em%2520_General_-20250519_224750-Grava%25C3%25A7%25C3%25A3o%2520de%2520Reuni%25C3%25A3o.mp4%3Fweb%3D1&threadId=19%3AJQRTwzhPXD4q6NlgaDdigwE268ZYE96UrvtCnKvBrZ81%40thread.tacv2&organizerId=8%3Aorgid%3A5adc116b-6ca3-4e99-a1d3-be32ca4097f3&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059&callId=4a2180a8-6441-4f1b-88da-2297bb3ec373&meetingType=MeetNow&organizerGroupId=d0b38877-d3f3-439a-8d3d-2266763f3c51&channelType=Standard&replyChainId=1747704809147&subType=RecapSharingLink_RecapCore" 
+        src="https://www.youtube.com/embed/UOYmraWZnn4" 
         title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen>
 </iframe>
-
 ## Referências Bibliográficas 
 
 > <a>1.</a> SALES, André Barros de. - Lista de Verificação - Disponivel em: [https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf](https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf)
