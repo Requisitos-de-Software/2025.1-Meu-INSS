@@ -61,13 +61,13 @@ O aplicativo da Receita Federal tem como objetivo centralizar, de forma digital 
 | ----- | -------------------------------------------------------------------------------------------- | --------- |
 | R1    | Acesso rápido e simultâneo a múltiplos CPFs/CNPJs                                            | RF        |
 | R2    | Cadastro de CPF via app (totalmente remoto)                                                  | RF        |
-| R3 | Acompanhamento de status da restituição (precisão quanto aos lotes)                          | RF        |
-| R4 | Notificação de vencimento próximo                                                            | RF        |
-| R5 | Unificação de serviços no app (ex: agendamento, acompanhamento de processos, certidões etc.) | RF        |
-| R6 | Acesso offline a serviços essencial do app (históricos de contribuições anteriores, darfs)   | RF e RNF  |
+| R3   | Acompanhamento de status da restituição (precisão quanto aos lotes)                           | RF        |
+| R4 | Notificação de vencimento próximo                                                               | RF        |
+| R5 | Unificação de serviços no app (ex: agendamento, acompanhamento de processos, certidões etc.)    | RF        |
+| R6 | Acesso offline a serviços essencial do app (históricos de contribuições anteriores, darfs)      | RF e RNF  |
 | R7 | Alteração de dados via app  | RF |
-| R8 | Funcionalidade de histórico e acompanhamento de restituições e de declarações                | RF        |
-| R9 | Declaração simplificada do IR                                                                | RF        |
+| R8 | Funcionalidade de histórico e acompanhamento de restituições e de declarações                   | RF        |
+| R9 | Declaração simplificada do IR                                                                  | RF        |
 | R10 | Geração de guias de pagamento                                                                | RF        |
 | R11 | Consultar o status do CPF (ativo ou não)                                                     | RF        |
 | R12 | Integração com conta Gov.br                                                                  | RF        |
@@ -80,7 +80,8 @@ O aplicativo da Receita Federal tem como objetivo centralizar, de forma digital 
 | R19 | Testes de segurança para garantir a integridade dos dados e autenticação segura. | RT |
 | R20 | Compatível com Android 8+ e iOS 14+.                                                         | RNF       |
 | R21 | Testes de usabilidade semestrais com público 60+.                                            | RT        |
-| R22 | Testes de desempenho para suportar alta demanda de usuários simultâneos.                     | RT        |
+
+
 <div style="text-align: center;"><p>Tabela 1 - Tabela dos requisitos levantados (Autor: Thales. 2025).</p></div>
 
 ## Legenda
