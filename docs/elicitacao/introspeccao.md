@@ -43,14 +43,13 @@ Os requisitos obtidos foram analisados criticamente quanto à sua viabilidade e 
 | INT8  | Dashboard para profissionais contábeis de múltiplos CPFs/CNPJs | RF        |Não Implementado|
 | INT9  | O aplicativo deve ter tempo de resposta inferior a 3 segundos para ações comuns| RNF        |Implementado|
 | INT10  | O aplicativo deve funcionar em smartphones com telas de 4.5" a 7" sem perda de usabilidade| RNF        |Implementado|
-| INT11 | O aplicativo deve funcionar em smartphones com telas de 4.5" a 7" sem perda de usabilidade| RNF        |Implementado|
-| INT12 | O app deve suportar modo de operação em baixa conectividade, com cache de dados essenciais| RNF        |Implementado|
-| INT13 | O aplicativo deve funcionar em smartphones com telas de 4.5" a 7" sem perda de usabilidade| RNF        |Implementado|
-| INT14 | Atualizações do app não devem causar perda de dados armazenados localmente | RNF        |Não Implementado|
-| INT15 | Tempo de inatividade programada máximo de 2h por mês, com aviso prévio | RNF        | - |
-| INT16 | Suporte a leitores de tela (TalkBack, VoiceOver) em todas as funcionalidades | RNF        | Implementado |
-| INT17 | SArmazenamento anônimo de logs de erro respeitando a LGPD | RNF        | Implementado |
-| INT18 | Versão mínima em HTML5 responsiva para acesso via navegador em caso de falha do app | RNF        | Implementado |
+| INT11 | O app deve suportar modo de operação em baixa conectividade, com cache de dados essenciais| RNF        |Implementado|
+| INT12 | Atualizações do app não devem causar perda de dados armazenados localmente | RNF        |Não Implementado|
+| INT13 | Tempo de inatividade programada máximo de 2h por mês, com aviso prévio | RNF        | - |
+| INT14 | Suporte a leitores de tela (TalkBack, VoiceOver) em todas as funcionalidades | RNF        | Implementado |
+| INT15 | SArmazenamento anônimo de logs de erro respeitando a LGPD | RNF        | Implementado |
+| INT16 | Versão mínima em HTML5 responsiva para acesso via navegador em caso de falha do app | RNF        | Implementado |
+| INT17 | Interface com a possibilidade de uso do modo escuro      | RNF        | Não Implementado |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
