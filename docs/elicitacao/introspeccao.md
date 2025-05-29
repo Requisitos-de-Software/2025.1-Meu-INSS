@@ -47,12 +47,29 @@ Os requisitos obtidos foram analisados criticamente quanto à sua viabilidade e 
 | INT12 | Atualizações do app não devem causar perda de dados armazenados localmente | RNF        |Não Implementado|
 | INT13 | Tempo de inatividade programada máximo de 2h por mês, com aviso prévio | RNF        | - |
 | INT14 | Suporte a leitores de tela (TalkBack, VoiceOver) em todas as funcionalidades | RNF        | Implementado |
-| INT15 | SArmazenamento anônimo de logs de erro respeitando a LGPD | RNF        | Implementado |
+| INT15 | Armazenamento anônimo de logs de erro respeitando a LGPD | RNF        | Implementado |
 | INT16 | Versão mínima em HTML5 responsiva para acesso via navegador em caso de falha do app | RNF        | Implementado |
 | INT17 | Interface com a possibilidade de uso do modo escuro      | RNF        | Não Implementado |
 
+
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
+## Tabela de requisitos 2
+
+<p style="text-align: center"><b>Tabela 2</b> - Tabela de requisitos obtidos atráves da introspecção </p>
+
+| ID    | Descrição                                                            | Categoria |Status |
+| ----- | -----------------------------------------------------------------------| --------- |--------- |
+| INT18  | Acompanhar processos no próprio aplicativo.| RF        |Não Implementado|
+| INT19  |Integração com o App Esocial dentro do próprio.| RF        |Não Implementado|
+| INT20 | Permitir via App autorização de acesso à terceiros    | RF        | Implementado |
+| INT21 | Compartilhamento de comprovantes e certidões por WhatsApp, e-mail ou Drive diretamente pelo app | RF        | Não Implementado |
+| INT22 | Reenvio de notificações perdidas via e-mail ou mensagem no app  | RF        | Não Implementado |
+| INT23 | Comparativo automático entre declarações de anos anteriores                                     | RF        | Não Implementado |
+| INT24 | FAQ interativo com busca inteligente (filtrado por tema: CPF, IRPF, Certidões etc.)             | RF        | Não Implementado |
+| INT25 | Integração com calendário do dispositivo para lembretes de obrigações fiscais   | RF        | Não Implementado |
+
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
 ## Bibliografia
 > <a>1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf)
@@ -63,3 +80,4 @@ Os requisitos obtidos foram analisados criticamente quanto à sua viabilidade e 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 28/05/2025 | Criação do documento da instrospecção | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
+`1.1` | 29/05/2025 | Elicitando requisitos | [Thales Germano](https://github.com/thalesgvl) | [Jose Eduardo](https://github.com/jevprado)|
