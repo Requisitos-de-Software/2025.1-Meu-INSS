@@ -44,8 +44,12 @@ Requisitos Não Funcionais, que especificam restrições e qualidades esperadas 
 | RF26 | Comparativo automático entre declarações de anos anteriores                               | RF        | NÃO IMPLEMENTADO | -     |
 | RF27 | FAQ interativo com busca inteligente (filtrado por tema: CPF, IRPF, Certidões etc.)       | RF        | NÃO IMPLEMENTADO | -     |
 | RF28 | Integração com calendário do dispositivo para lembretes de obrigações fiscais             | RF        | NÃO IMPLEMENTADO | -     |
+| RF29 | Consulta de inscrição no CNPJ                                       | RF        | IMPLEMENTADO |-     |   
+| RF30 | Consulta de tabelas CNAE, NCM e unidades da Receita Federal         | RF        | IMPLEMENTADO |-     |      
+| RF31 | Acesso à Caixa Postal para mensagens oficiais da Receita Federal    | RF        | IMPLEMENTADO | -     |   
+| RF32 | Visualização de notícias e vídeos institucionais da Receita Federal | RF        | IMPLEMENTADO | -     |  
 
-<font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), [Thales Germano](https://github.com/thalesgvl) e [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 ### Tabela 02 - Requisitos Não-Funcionais
 | ID   | Descrição                                                                                  | Categoria | Status           | Fonte |
@@ -65,13 +69,14 @@ Requisitos Não Funcionais, que especificam restrições e qualidades esperadas 
 | RNF13 | Linguagem da interface deve seguir padrão A2 do CEFR, evitando jargões técnicos            | RNF       | IMPLEMENTADO     | -     |
 | RNF14| O app deve suportar modo de operação em baixa conectividade, com cache de dados essenciais | RNF       | NÃO IMPLEMENTADO | -     |
 | RNF15 | Atualizações do app não devem causar perda de dados armazenados localmente                 | RNF       | IMPLEMENTADO     | -     |
-| RNF16 | Tempo de inatividade programada máximo de 2h por mês, com aviso prévio                     | RNF       | IMPLEMENTADO     | -     |
+| RNF16 | Tempo de inatividade programada máximo de 2h por mês, com aviso prévo                     | RNF       | IMPLEMENTADO     | -     |
 | RNF17 | Tempo de carregamento inicial do app não deve ultrapassar 5 segundos em conexão móvel      | RNF       | IMPLEMENTADO     | -     |
 | RNF18 | Suporte a leitores de tela (TalkBack, VoiceOver) em todas as funcionalidades               | RNF       | IMPLEMENTADO     | -     |
 |RNF19 | Armazenamento anônimo de logs de erro respeitando a LGPD                                   | RNF       | IMPLEMENTADO     | -     |
 | RNF20 | Versão mínima em HTML5 responsiva para acesso via navegador em caso de falha do app        | RNF       | NÃO IMPLEMENTADO | -     |
 
-<font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
+
 
 ## Referências
 
@@ -92,3 +97,4 @@ Requisitos Não Funcionais, que especificam restrições e qualidades esperadas 
 | `2.0`   | 28/05/2025 | Corrigindo tabela de requisitos elicitados     | [José Eduardo](https://github.com/jevprado)    | [Diassis](https://github.com/Diaxiz)           |
 | `2.1`   | 29/05/2025 | Corrigindo e adicionando requisitos elicitados | [Thales Germano](https://github.com/thalesgvl) | [José Eduardo](https://github.com/jevprado)    |
 | `2.2`   | 29/05/2025 | Corrigindo código dos requisitos               | [José Eduardo](https://github.com/jevprado)    | [Thales Germano](https://github.com/thalesgvl)       |
+| `2.3`   | 29/05/2025 | Add req elicitados MM              | [Marco Marques](https://github.com/marcomarquesdc)    | [José Eduardo](https://github.com/jevprado)         |

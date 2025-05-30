@@ -54,7 +54,6 @@ Os requisitos obtidos foram analisados criticamente quanto à sua viabilidade e 
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
-## Tabela de requisitos 2
 
 <p style="text-align: center"><b>Tabela 2</b> - Tabela de requisitos obtidos atráves da introspecção </p>
 
@@ -71,6 +70,20 @@ Os requisitos obtidos foram analisados criticamente quanto à sua viabilidade e 
 
 <font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
+
+## Tabela de requisitos 2
+
+<p style="text-align: center"><b>Tabela 3</b> - Tabela de requisitos obtidos atráves da introspecção </p>
+
+| ID   | Descrição                                                           | Categoria | Status       |
+| ---- | ------------------------------------------------------------------- | --------- | ------------ |
+| INT26| Consulta de inscrição no CNPJ                                       | RF        | Implementado |     
+|INT27 | Consulta de tabelas CNAE, NCM e unidades da Receita Federal         | RF        | Implementado |    
+| INT28 | Acesso à Caixa Postal para mensagens oficiais da Receita Federal    | RF        | Implementado |   
+| INT29 | Visualização de notícias e vídeos institucionais da Receita Federal | RF        | Implementado | 
+
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
+
 ## Bibliografia
 > <a>1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf)
 >
@@ -81,3 +94,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 28/05/2025 | Criação do documento da instrospecção | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
 `1.1` | 29/05/2025 | Elicitando requisitos | [Thales Germano](https://github.com/thalesgvl) | [Jose Eduardo](https://github.com/jevprado)|
+`1.1` | 30/05/2025 | Elicitando requisitos II | [Marco Marques](https://github.com/marcomarquesdc) | [Jose Eduardo](https://github.com/jevprado)|
