@@ -14,66 +14,65 @@ Requisitos Não Funcionais, que especificam restrições e qualidades esperadas 
 ## Tabela de requisitos elicitados 
 
 ### Tabela 01 - Requisitos Funcionais
-| ID   | Descrição                                                                                 | Categoria | Status           | Fonte |
-| ---- | ----------------------------------------------------------------------------------------- | --------- | ---------------- | ----- |
-| RF1  | Acesso rápido e simultâneo a múltiplos CPFs/CNPJs                                         | RF        | NÃO IMPLEMENTADO | -     |
-| RF2  | Cadastro de CPF via app (totalmente remoto)                                               | RF        | NÃO IMPLEMENTADO | -     |
-| RF3  | Acompanhamento de status da restituição (precisão quanto aos lotes)                       | RF        | NÃO IMPLEMENTADO | -     |
-| RF4  | Notificação de vencimento próximo                                                         | RF        | NÃO IMPLEMENTADO | -     |
-| RF5  | Agendar no próprio aplicativo atendimentos presenciais em unidades da Receita Federal     | RF        | NÃO IMPLEMENTADO | -     |
-| RF6  | Acesso offline a serviços essenciais do app (históricos de contribuições, DARFs)          | RF        | NÃO IMPLEMENTADO | -     |
-| RF7  | Alteração de dados via app                                                                | RF        | NÃO IMPLEMENTADO | -     |
-| RF8  | Funcionalidade de histórico e acompanhamento de restituições e de declarações             | RF        | IMPLEMENTADO     | -     |
-| RF9  | Declaração simplificada do IR                                                             | RF        | IMPLEMENTADO     | -     |
-| RF10 | Geração de guias de pagamento                                                             | RF        | IMPLEMENTADO     | -     |
-| RF11 | Consultar o status do CPF (ativo ou não)                                                  | RF        | IMPLEMENTADO     | -     |
-| RF12 | Integração com conta Gov.br                                                               | RF        | IMPLEMENTADO     | -     |
-| RF13 | Envio de documentos para instrução de processos                                           | RF        | IMPLEMENTADO     | -     |
-| RF14 | O usuário deve poder acessar sua declaração de imposto de renda dos últimos anos          | RF        | IMPLEMENTADO     | -     |
-| RF15 | O aplicativo deve permitir o envio da declaração do Imposto de Renda diretamente pelo app | RF        | IMPLEMENTADO     | -     |
-| RF16 | O aplicativo deve mostrar um histórico das declarações entregues pelo usuário             | RF        | IMPLEMENTADO     | -     |
-| RF17 | Emissão de certidão negativa via aplicativo                                               | RF        | IMPLEMENTADO     | -     |
-| RF18 | Consultar pendências de Malha                                                             | RF        | IMPLEMENTADO     | -     |
-| RF19 | Dashboard para profissionais contábeis de múltiplos CPFs/CNPJs                            | RF        | NÃO IMPLEMENTADO | -     |
-| RF20 | Acesso offline a serviços essenciais do app (históricos de contribuições, DARFs)          | RF        | NÃO IMPLEMENTADO | -     |
-| RF21 | Acompanhar processos no próprio aplicativo                                                | RF        | NÃO IMPLEMENTADO | -     |
-| RF22 | Integração com o App Esocial dentro do próprio                                            | RF        | NÃO IMPLEMENTADO | -     |
-| RF23 | Permitir via App autorização de acesso à terceiros                                        | RF        | IMPLEMENTADO     | -     |
-| RF24 | Compartilhamento de comprovantes e certidões por WhatsApp, e-mail ou Drive                | RF        | NÃO IMPLEMENTADO | -     |
-| RF25 | Reenvio de notificações perdidas via e-mail ou mensagem no app                            | RF        | NÃO IMPLEMENTADO | -     |
-| RF26 | Comparativo automático entre declarações de anos anteriores                               | RF        | NÃO IMPLEMENTADO | -     |
-| RF27 | FAQ interativo com busca inteligente (filtrado por tema: CPF, IRPF, Certidões etc.)       | RF        | NÃO IMPLEMENTADO | -     |
-| RF28 | Integração com calendário do dispositivo para lembretes de obrigações fiscais             | RF        | NÃO IMPLEMENTADO | -     |
-| RF29 | Consulta de inscrição no CNPJ                                       | RF        | IMPLEMENTADO |-     |   
-| RF30 | Consulta de tabelas CNAE, NCM e unidades da Receita Federal         | RF        | IMPLEMENTADO |-     |      
-| RF31 | Acesso à Caixa Postal para mensagens oficiais da Receita Federal    | RF        | IMPLEMENTADO | -     |   
-| RF32 | Visualização de notícias e vídeos institucionais da Receita Federal | RF        | IMPLEMENTADO | -     |  
+| ID   | Descrição                                                                                 | Categoria | Status           | Fonte |Validada | 
+| ---- | ----------------------------------------------------------------------------------------- | --------- | ---------------- | ----- | ----- | 
+| RF1  | Acesso rápido e simultâneo a múltiplos CPFs/CNPJs                                         | RF        | NÃO IMPLEMENTADO | [ADC1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)    | - |
+| RF2  | Cadastro de CPF via app (totalmente remoto)                                               | RF        | NÃO IMPLEMENTADO |[ADC2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
+| RF3  | Acompanhamento de status da restituição (precisão quanto aos lotes)                       | RF        | NÃO IMPLEMENTADO | [ADC3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
+| RF4  | Notificação de vencimento próximo                                                         | RF        | NÃO IMPLEMENTADO |  [ADC4](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
+| RF5  | Agendar no próprio aplicativo atendimentos presenciais em unidades da Receita Federal     | RF        | NÃO IMPLEMENTADO |  [INT3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
+| RF6  | Acesso offline a serviços essenciais do app (históricos de contribuições, DARFs)          | RF        | NÃO IMPLEMENTADO | [ADC6](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
+| RF7  | Alteração de dados via app                                                                | RF        | NÃO IMPLEMENTADO |  [ADC7](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)    |- |
+| RF8  | Funcionalidade de histórico e acompanhamento de restituições e de declarações             | RF        | IMPLEMENTADO     |  [ADC8](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
+| RF9  | Declaração simplificada do IR                                                             | RF        | IMPLEMENTADO     |  [ADC9](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
+| RF10 | Geração de guias de pagamento                                                             | RF        | IMPLEMENTADO     |  [ADC10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)    |- |
+| RF11 | Consultar o status do CPF (ativo ou não)                                                  | RF        | IMPLEMENTADO     |  [ADC11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)    |- |
+| RF12 | Integração com conta Gov.br                                                               | RF        | IMPLEMENTADO     |  [ADC12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)   |- |
+| RF13 | Envio de documentos para instrução de processos                                           | RF        | IMPLEMENTADO     |  [ADC16](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
+| RF14 | O usuário deve poder acessar sua declaração de imposto de renda dos últimos anos          | RF        | IMPLEMENTADO     | [INT1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
+| RF15 | O aplicativo deve permitir o envio da declaração do Imposto de Renda diretamente pelo app | RF        | IMPLEMENTADO     |[INT2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
+| RF16 | O aplicativo deve mostrar um histórico das declarações entregues pelo usuário             | RF        | IMPLEMENTADO     | [INT5](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |- |
+| RF17 | Emissão de certidão negativa via aplicativo                                               | RF        | IMPLEMENTADO     | [INT6](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
+| RF18 | Consultar pendências de Malha                                                             | RF        | IMPLEMENTADO     | [INT7](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
+| RF19 | Dashboard para profissionais contábeis de múltiplos CPFs/CNPJs                            | RF        | NÃO IMPLEMENTADO | [INT8](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
+| RF20 | Acesso offline a serviços essenciais do app (históricos de contribuições, DARFs)          | RF        | NÃO IMPLEMENTADO |  [ADC6](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)    |- |
+| RF21 | Acompanhar processos no próprio aplicativo                                                | RF        | NÃO IMPLEMENTADO | [INT18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |- |
+| RF22 | Integração com o App Esocial dentro do próprio                                            | RF        | NÃO IMPLEMENTADO | [INT19](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
+| RF23 | Permitir via App autorização de acesso à terceiros                                        | RF        | IMPLEMENTADO     | [INT20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)   |- |
+| RF24 | Compartilhamento de comprovantes e certidões por WhatsApp, e-mail ou Drive                | RF        | NÃO IMPLEMENTADO | [INT21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
+| RF25 | Reenvio de notificações perdidas via e-mail ou mensagem no app                            | RF        | NÃO IMPLEMENTADO | [INT22](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |- |
+| RF26 | Comparativo automático entre declarações de anos anteriores                               | RF        | NÃO IMPLEMENTADO | [INT23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
+| RF27 | FAQ interativo com busca inteligente (filtrado por tema: CPF, IRPF, Certidões etc.)       | RF        | NÃO IMPLEMENTADO | [INT24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
+| RF28 | Integração com calendário do dispositivo para lembretes de obrigações fiscais             | RF        | NÃO IMPLEMENTADO | [INT25](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
+| RF29 | Consulta de inscrição no CNPJ                                       | RF        | IMPLEMENTADO |[INT26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |   - |
+| RF30 | Consulta de tabelas CNAE, NCM e unidades da Receita Federal         | RF        | IMPLEMENTADO |[INT27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |    - |  
+| RF31 | Acesso à Caixa Postal para mensagens oficiais da Receita Federal    | RF        | IMPLEMENTADO | [INT28](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |   - |
+| RF32 | Visualização de notícias e vídeos institucionais da Receita Federal | RF        | IMPLEMENTADO | [INT29](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |  - |
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), [Thales Germano](https://github.com/thalesgvl) e [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 ### Tabela 02 - Requisitos Não-Funcionais
-| ID   | Descrição                                                                                  | Categoria | Status           | Fonte |
-| ---- | ------------------------------------------------------------------------------------------ | --------- | ---------------- | ----- |
-| RNF1 | Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot sugeridas                 | RNF       | NÃO IMPLEMENTADO | -     |
-| RNF2 | Conteúdo educativo para iniciantes                                                         | RNF       | NÃO IMPLEMENTADO | -     |
-| RNF3 | Testes de desempenho para suportar alta demanda de usuários simultâneos                    | RNF       | IMPLEMENTADO     | -     |
-| RNF4 | Proteção de dados pessoais conforme a LGPD                                                 | RNF       | IMPLEMENTADO     | -     |
-| RNF5 | Interface responsiva e acessível                                                           | RNF       | IMPLEMENTADO     | -     |
-| RNF6 | Interface com a possibilidade de uso do modo escuro                                        | RNF       | NÃO IMPLEMENTADO | -     |
-| RNF7 | Testes de segurança para garantir a integridade dos dados e autenticação segura            | RNF       | IMPLEMENTADO     | -     |
-| RNF8 | Compatível com Android 8+ e iOS 14+                                                        | RNF       | IMPLEMENTADO     | -     |
-| RNF9 | Testes de usabilidade semestrais com público 60+                                           | RNF       | IMPLEMENTADO     | -     |
-| RNF10| O aplicativo deve ter tempo de resposta inferior a 3 segundos para ações comuns            | RNF       | IMPLEMENTADO     | -     |
-| RNF11| A interface deve manter legibilidade com contraste mínimo de 4,5:1                         | RNF       | IMPLEMENTADO     | -     |
-| RNF12| O aplicativo deve funcionar em smartphones com telas de 4.5" a 7" sem perda de usabilidade | RNF       | IMPLEMENTADO     | -     |
-| RNF13 | Linguagem da interface deve seguir padrão A2 do CEFR, evitando jargões técnicos            | RNF       | IMPLEMENTADO     | -     |
-| RNF14| O app deve suportar modo de operação em baixa conectividade, com cache de dados essenciais | RNF       | NÃO IMPLEMENTADO | -     |
-| RNF15 | Atualizações do app não devem causar perda de dados armazenados localmente                 | RNF       | IMPLEMENTADO     | -     |
-| RNF16 | Tempo de inatividade programada máximo de 2h por mês, com aviso prévo                     | RNF       | IMPLEMENTADO     | -     |
-| RNF17 | Tempo de carregamento inicial do app não deve ultrapassar 5 segundos em conexão móvel      | RNF       | IMPLEMENTADO     | -     |
-| RNF18 | Suporte a leitores de tela (TalkBack, VoiceOver) em todas as funcionalidades               | RNF       | IMPLEMENTADO     | -     |
-|RNF19 | Armazenamento anônimo de logs de erro respeitando a LGPD                                   | RNF       | IMPLEMENTADO     | -     |
-| RNF20 | Versão mínima em HTML5 responsiva para acesso via navegador em caso de falha do app        | RNF       | NÃO IMPLEMENTADO | -     |
+| ID   | Descrição                                                                                  | Categoria | Status           | Fonte | Validada | 
+| ---- | ------------------------------------------------------------------------------------------ | --------- | ---------------- | ----- |----- |
+| RNF1 | Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot                 | RNF       | NÃO IMPLEMENTADO | [ADC13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |-|
+| RNF2 | Conteúdo educativo para iniciantes                                                         | RNF       | NÃO IMPLEMENTADO | [ADC14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |-|
+| RNF3 | Testes de desempenho para suportar alta demanda de usuários simultâneos                    | RNF       | IMPLEMENTADO     | [ADC15](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |-|
+| RNF4 | Proteção de dados pessoais conforme a LGPD                                                 | RNF       | IMPLEMENTADO     | [ADC17](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |-|
+| RNF5 | Interface responsiva e acessível                                                           | RNF       | IMPLEMENTADO     | [ADC18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |-|
+| RNF6 | Interface com a possibilidade de uso do modo escuro                                        | RNF       | NÃO IMPLEMENTADO |[ADC23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [INT17](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |-|
+| RNF7 | Testes de segurança para garantir a integridade dos dados e autenticação segura            | RNF       | IMPLEMENTADO     | [ADC19](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |-|
+| RNF8 | Compatível com Android 8+ e iOS 14+                                                        | RNF       | IMPLEMENTADO     | [ADC20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)    |-|
+| RNF9 | Testes de usabilidade semestrais com público 60+                                           | RNF       | IMPLEMENTADO     | [ADC21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)    |-|
+| RNF10| O aplicativo deve ter tempo de resposta inferior a 3 segundos para ações comuns            | RNF       | IMPLEMENTADO     | [INT9](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |-|
+| RNF11| O aplicativo deve funcionar em smartphones com telas de 4.5" a 7" sem perda de usabilidade | RNF       | IMPLEMENTADO     | [INT10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |-|
+| RNF12 | Linguagem da interface deve seguir padrão A2 do CEFR, evitando jargões técnicos            | RNF       | IMPLEMENTADO     | [ADC25](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)    |-|
+| RNF13| O app deve suportar modo de operação em baixa conectividade, com cache de dados essenciais | RNF       | NÃO IMPLEMENTADO | [INT11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |-|
+| RNF14 | Atualizações do app não devem causar perda de dados armazenados localmente                 | RNF       | IMPLEMENTADO     | [INT12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |-|
+| RNF15 | Tempo de inatividade programada máximo de 2h por mês, com aviso prévo                     | RNF       | IMPLEMENTADO     | [INT13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |-|
+| RNF16 | Tempo de carregamento inicial do app não deve ultrapassar 5 segundos em conexão móvel      | RNF       | IMPLEMENTADO     | [ADC24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)    |-|
+| RNF17 | Suporte a leitores de tela (TalkBack, VoiceOver) em todas as funcionalidades               | RNF       | IMPLEMENTADO     | [INT14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  [ADC23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)  |-|
+|RNF18 | Armazenamento anônimo de logs de erro respeitando a LGPD                                   | RNF       | IMPLEMENTADO     | [INT15](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |-|
+| RNF19 | Versão mínima em HTML5 responsiva para acesso via navegador em caso de falha do app        | RNF       | NÃO IMPLEMENTADO | [INT16](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |-|
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
@@ -96,5 +95,6 @@ Requisitos Não Funcionais, que especificam restrições e qualidades esperadas 
 | `1.0`   | 18/05/2025 | Criação do documento                           | [José Eduardo](https://github.com/jevprado)    | [Thales Germano](https://github.com/thalesgvl) |
 | `2.0`   | 28/05/2025 | Corrigindo tabela de requisitos elicitados     | [José Eduardo](https://github.com/jevprado)    | [Diassis](https://github.com/Diaxiz)           |
 | `2.1`   | 29/05/2025 | Corrigindo e adicionando requisitos elicitados | [Thales Germano](https://github.com/thalesgvl) | [José Eduardo](https://github.com/jevprado)    |
-| `2.2`   | 29/05/2025 | Corrigindo código dos requisitos               | [José Eduardo](https://github.com/jevprado)    | [Thales Germano](https://github.com/thalesgvl)       |
-| `2.3`   | 29/05/2025 | Add req elicitados MM              | [Marco Marques](https://github.com/marcomarquesdc)    | [José Eduardo](https://github.com/jevprado)         |
+| `2.2`   | 29/05/2025 | Corrigindo código dos requisitos               | [José Eduardo](https://github.com/jevprado)    | [Thales Germano](https://github.com/thalesgvl) |
+| `2.3`   | 30/05/2025 | Add req elicitados MM              | [Marco Marques](https://github.com/marcomarquesdc)    | [José Eduardo](https://github.com/jevprado)         |
+| `2.4`   | 30/05/2025 | Adicionando Hyperlink nos requisitos elicitados | [José Eduardo](https://github.com/jevprado)    | [Thales Germano](https://github.com/thalesgvl) |

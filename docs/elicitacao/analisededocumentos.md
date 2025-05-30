@@ -55,32 +55,35 @@ O aplicativo da Receita Federal tem como objetivo centralizar, de forma digital 
 
 [Política de Privacidade](https://www.gov.br/pt-br/termos-de-uso).
 
-## Tabela de requisitos
+## Tabela de requisitos             
 
 | ID    | Descrição                                                                                    | Categoria |
 | ----- | -------------------------------------------------------------------------------------------- | --------- |
-| R1    | Acesso rápido e simultâneo a múltiplos CPFs/CNPJs                                            | RF        |
-| R2    | Cadastro de CPF via app (totalmente remoto)                                                  | RF        |
-| R3   | Acompanhamento de status da restituição (precisão quanto aos lotes)                           | RF        |
-| R4 | Notificação de vencimento próximo                                                               | RF        |
-| R5 | Unificação de serviços no app (ex: agendamento, acompanhamento de processos, certidões etc.)    | RF        |
-| R6 | Acesso offline a serviços essencial do app (históricos de contribuições anteriores, darfs)      | RF e RNF  |
-| R7 | Alteração de dados via app  | RF |
-| R8 | Funcionalidade de histórico e acompanhamento de restituições e de declarações                   | RF        |
-| R9 | Declaração simplificada do IR                                                                  | RF        |
-| R10 | Geração de guias de pagamento                                                                | RF        |
-| R11 | Consultar o status do CPF (ativo ou não)                                                     | RF        |
-| R12 | Integração com conta Gov.br                                                                  | RF        |
-| R13 | Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot sugeridas                   | RI        |
-| R14 | Conteúdo educativo para iniciantes                                                           | RI        |
-| R15 | Testes de desempenho para suportar alta demanda de usuários simultâneos                      | RT        |
-| R16 | Envio de documentos para instrução de processos                                              | RF        |
-| R17 | Proteção de dados pessoais conforme a LGPD                                                   | RR        |
-| R18 | Interface responsiva, acessível e com modo escuro.						       | RI |
-| R19 | Testes de segurança para garantir a integridade dos dados e autenticação segura. | RT |
-| R20 | Compatível com Android 8+ e iOS 14+.                                                         | RNF       |
-| R21 | Testes de usabilidade semestrais com público 60+.                                            | RT        |
-
+| ADC1    | Acesso rápido e simultâneo a múltiplos CPFs/CNPJs                                            | RF        |
+| ADC2  | Cadastro de CPF via app (totalmente remoto)                                                  | RF        |
+| ADC3| Acompanhamento de status da restituição (precisão quanto aos lotes)                           | RF        |
+| ADC4 | Notificação de vencimento próximo                                                               | RF        |
+| ADC5| Unificação de serviços no app (ex: agendamento, acompanhamento de processos, certidões etc.)    | RF        |
+| ADC6 | Acesso offline a serviços essencial do app (históricos de contribuições anteriores, darfs)      | RF e RNF  |
+| ADC7 | Alteração de dados via app  | RF |
+| ADC8 | Funcionalidade de histórico e acompanhamento de restituições e de declarações                   | RF        |
+| ADC9 | Declaração simplificada do IR                                                                  | RF        |
+| ADC10 | Geração de guias de pagamento                                                                | RF        |
+| ADC11 | Consultar o status do CPF (ativo ou não)                                                     | RF        |
+| ADC12 | Integração com conta Gov.br                                                                  | RF        |
+| ADC13 | Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot sugeridas                   | RI        |
+| ADC14 | Conteúdo educativo para iniciantes                                                           | RI        |
+| ADC15 | Testes de desempenho para suportar alta demanda de usuários simultâneos                      | RT        |
+| ADC16 | Envio de documentos para instrução de processos                                              | RF        |
+| ADC17 | Proteção de dados pessoais conforme a LGPD                                                   | RR        |
+| ADC18 | Interface responsiva, acessível               						                      | RI |
+| ADC19 | Testes de segurança para garantir a integridade dos dados e autenticação segura.                | RT |
+| ADC20 | Compatível com Android 8+ e iOS 14+.                                                         | RNF       |
+| ADC21 | Testes de usabilidade semestrais com público 60+.                                            | RT        |
+| ADC22 | Suporte a leitores de tela (TalkBack, VoiceOver) em todas as funcionalidades                 | RI        |
+| ADC23 | Interface com a possibilidade de uso do modo escuro      | RNF        | 
+| ADC24 | Tempo de carregamento inicial do app não deve ultrapassar 5 segundos em conexão móvel       | RNF        |
+| ADC25 | Linguagem da interface deve seguir padrão A2 do CEFR, evitando jargões técnicos     | RNF        | 
 
 <div style="text-align: center;"><p>Tabela 1 - Tabela dos requisitos levantados (Autor: Thales. 2025).</p></div>
 
@@ -105,3 +108,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 25/04/2025 | Criação do documento | [Thales Germano](https://github.com/thalesgvl) e [Marco Marques](https://github.com/marcomarquesdc) | [José Eduardo](https://github.com/jevprado) |
 `1.1` | 04/05/2025 | Ajustes do documento | [Thales Germano](https://github.com/thalesgvl) e [Marco Marques](https://github.com/marcomarquesdc) | [José Eduardo](https://github.com/jevprado) |
+`1.2` | 30/05/2025 | Correção dos códigos de requisitos | [José Eduardo](https://github.com/jevprado)| [Thales Germano](https://github.com/thalesgvl) |
