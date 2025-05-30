@@ -52,17 +52,17 @@ A acessibilidade está relacionada à capacidade do sistema de ser utilizado por
 
 ### Cartão de Especificação
 
-| Info          | Detalhes                                                                                                                      |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| ID NFR        | NFR01                                                                                                                         |
-| Classificação | Acessibilidade                                                                                                                |
-| Descrição     | Refere-se à capacidade do sistema de atender usuários idosos, com possíveis limitações visuais, motoras ou cognitivas.        |
-| Justificativa | Um sistema acessível para idosos promove inclusão digital e garante maior alcance da população atendida pela Receita Federal. |
-| Origem        | Especificação suplementar e requisitos elicitados                                                                             |
-| Dependências  | Nenhuma identificada                                                                                                          |
-| Prioridade    | Alta                                                                                                                          |
-| Conflitos     | Nenhum identificado                                                                                                           |
-| História      | 29/05/2024                                                                                                                    |
+| Info          | Detalhes                                                                                                                     |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| ID NFR        | NFR01                                                                                                                        |
+| Classificação | Acessibilidade                                                                                                               |
+| Descrição     | Refere-se à capacidade do sistema de atender usuários idosos                                                                 |
+| Justificativa | Um sistema acessível para idosos promove inclusão digital e garante maior alcance da população atendida pela Receita Federal |
+| Origem        | Especificação suplementar e requisitos elicitados                                                                            |
+| Dependências  | Usabilidade (interface clara e intuitiva é essencial para acessibilidade)                                                    |
+| Prioridade    | Alta                                                                                                                         |
+| Conflitos     | Nenhum identificado                                                                                                          |
+| História      | 29/05/2025                                                                                                                   |
 
 ---
 
@@ -87,7 +87,7 @@ A segurança trata da proteção dos dados dos usuários e da integridade das in
 | Descrição     | Garante que os dados dos usuários estão protegidos contra acessos indevidos.       |
 | Justificativa | Sistemas que tratam dados pessoais devem garantir confidencialidade e integridade. |
 | Origem        | Especificação suplementar e requisitos elicitados                                  |
-| Dependências  | Nenhuma identificada                                                               |
+| Dependências  | Privacidade (depende da implementação de segurança para proteção de dados)         |
 | Prioridade    | Alta                                                                               |
 | Conflitos     | Nenhum identificado                                                                |
 | História      | 29/05/2025                                                                         |
@@ -104,3 +104,4 @@ Disponível em: [https://aprender3.unb.br/pluginfile.php/3096155/mod\_resource/c
 | Versão | Data       | Descrição                          | Autor                                          | Revisor                                     |
 | ------ | ---------- | ---------------------------------- | ---------------------------------------------- | ------------------------------------------- |
 | 1.0    | 29/05/2025 | Criação do documento NRF-framework | [Thales Germano](https://github.com/thalesgvl) | [Jose Eduardo](https://github.com/jevprado) |
+| 1.1    | 29/05/2025 | Ajustes no documento | [Thales Germano](https://github.com/thalesgvl) |Revisor aqui |
