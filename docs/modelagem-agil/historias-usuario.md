@@ -53,6 +53,7 @@ Essa priorização será feita em conjunto com o cliente, garantindo que os recu
 
 ## Histórias de usuários 
 
+Padrão de tabelas para as histórias de usuário
 <p style="text-align: center"><b>Tabela 2</b> - Tabela padrão para as histórias de usuário </p>
 
 | Campo                      | Descrição                                                                 |
@@ -68,6 +69,109 @@ Essa priorização será feita em conjunto com o cliente, garantindo que os recu
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
 
+### US-01 - Acompanhamento de status da restituição (precisão quanto aos lotes)
+
+<p style="text-align: center"><b>Tabela 3</b> - Tabela da história de usuario 01 (US-01) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-01                                                                      |
+| **TÍTULO**                 | Acompanhamento de status da restituição (precisão quanto aos lotes)       |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte,quero visualizar o status detalhado da minha restituição, para saber exatamente em qual lote ela será paga e qual o andamento detalhado do processo.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O  sistema deve exibir o número do lote da restituição ao qual o contribuinte está vinculado. <br> - Deve ser possível visualizar o status atual (ex: "em processamento", "em fila de pagamento", "pago"). <br>- A informação do lote deve ser atualizada automaticamente conforme o status evoluir.<br>- A data prevista de pagamento deve ser exibida, se disponível.<br>- Se o contribuinte não for elegível à restituição, deve ser exibida a mensagem: "Você não possui valores a restituir nesta declaração."                                          |
+| **RASTREABILIDADE**        | [RF3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Não implementada                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+### US-02 - Agendar no proprio app da receita atendimentos presenciais
+
+<p style="text-align: center"><b>Tabela 3</b> - Tabela da história de usuario 02 (US-02) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-02                                                                      |
+| **TÍTULO**                 | Agendar no proprio app da receita atendimentos presenciais        |
+| **HISTÓRIA DE USUÁRIO**    | Como um cidadão, quero agendar atendimentos presenciais diretamente pelo aplicativo da Receita Federal, para que eu possa marcar compromissos de forma rápida, sem a necessidade de acessar o site/aplicativos externos, ou comparecer fisicamente para isso.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O usuário deve conseguir visualizar os postos de atendimento disponíveis com base na sua localização ou por estado/cidade. <br>- O sistema deve exibir os serviços disponíveis para agendamento presencial. <br>- O usuário deve poder selecionar a data e o horário entre os disponíveis para o posto escolhido. <br> - O aplicativo deve confirmar o agendamento e gerar um comprovante com número de protocolo. <br> - O usuário deve ter acesso a uma área no app para visualizar, reagendar ou cancelar seus agendamentos.                                         |
+| **RASTREABILIDADE**        | [RF5](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Não implementada                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+### US-03 - Geração de guias de pagamento
+
+<p style="text-align: center"><b>Tabela 4</b> - Tabela da história de usuario 03 (US-03) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-03                                                                      |
+| **TÍTULO**                 | Geração de guias de pagamento        |
+| **HISTÓRIA DE USUÁRIO**    | Como cidadão, quero gerar guias de pagamento diretamente pelo aplicativo da Receita Federal, para que eu possa quitar meus débitos de forma prática, sem depender de outras plataformas ou atendimento presencial.     |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O usuário deve conseguir selecionar o tipo de tributo ou débito para o qual deseja gerar a guia (ex.: DARF, GPS, DAS). <br> - O sistema deve permitir a inserção manual ou seleção de débitos em aberto. <br> - O aplicativo deve oferecer opção para salvar ou compartilhar a guia em formato PDF. <br> - A guia gerada deve conter código de barras e/ou QR Code para pagamento via internet banking ou PIX. <br> - O usuário deve ter acesso ao histórico de guias geradas, com status de pagamento (paga/não paga).                                          |
+| **RASTREABILIDADE**        | [RF10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Implementada                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+### US-04 - Consulta de status do CPF pelo aplicativo da Receita Federal 
+
+<p style="text-align: center"><b>Tabela 5</b> - Tabela da história de usuario 04 (US-04) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-04                                                                      |
+| **TÍTULO**                 | Consulta de status do CPF pelo aplicativo da Receita Federal        |
+| **HISTÓRIA DE USUÁRIO**    | Como um cidadão, quero consultar o status do meu CPF diretamente pelo aplicativo da Receita Federal, para que eu possa verificar se está ativo, suspenso ou irregular, e tomar providências caso necessário.  |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve exibir claramente o status atual do CPF (ex.: Ativo, Suspenso, Cancelado, Nulo ou Pendente de Regularização). <br> - A consulta deve apresentar também os dados básicos do CPF, como nome completo, data de nascimento e situação cadastral. <br> - Caso o CPF esteja com pendências, o aplicativo deve orientar o usuário com os próximos passos para regularização.|
+| **RASTREABILIDADE**        | [RF11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Implementada                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+
+### US-05 - Acesso a informações detalhadas da declaração de imposto de renda por ano
+
+<p style="text-align: center"><b>Tabela 6</b> - Tabela da história de usuario 05 (US-05) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-05                                                                      |
+| **TÍTULO**                 | Acesso a informações detalhadas da declaração de imposto de renda por ano        |
+| **HISTÓRIA DE USUÁRIO**    | Como um contribuinte, quero acessar as informações detalhadas da minha declaração de imposto de renda de um ano específico pelo aplicativo da Receita Federal, para que eu possa consultar detalhes (dados) de envios, dentro do próprio aplicativo.  |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve permitir a seleção do ano-base da declaração (ex.: 2022, 2023...). <br>  - O sistema deve permitir o download da declaração em PDF. <br> - O acesso deve ser protegido por autenticação de dois fatores ou biometria, garantindo a confidencialidade das informações. |
+| **RASTREABILIDADE**        | [RF14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Implementada                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+
+### US-06 - Emissão de certidão negativa via aplicativo 
+
+<p style="text-align: center"><b>Tabela 7</b> - Tabela da história de usuario 06 (US-06) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-06                                                                      |
+| **TÍTULO**                 | Emissão de certidão negativa via aplicativo        |
+| **HISTÓRIA DE USUÁRIO**    | Como um contribuinte, quero emitir (via PDF) a certidão negativa de débitos diretamente pelo aplicativo da Receita Federal, para que eu possa comprovar minha regularidade fiscal de forma rápida e sem precisar acessar o site ou comparecer a uma unidade presencial. |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O usuário deve estar autenticado para solicitar a certidão negativa. <br> - O sistema deve verificar automaticamente se o contribuinte possui pendências fiscais ou débitos. <br> - Caso não existam pendências, o sistema deve gerar a Certidão Negativa de Débitos (CND) em formato PDF. <br> - Se houver pendências, o sistema deve exibir mensagem informando que a certidão não pode ser emitida, acompanhada das instruções para regularização.|
+| **RASTREABILIDADE**        | [RF17](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Implementada                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 ## Video da validação 
 
@@ -79,3 +183,4 @@ Essa priorização será feita em conjunto com o cliente, garantindo que os recu
 Versão |   Data     | Descrição | Autor(es) | Revisor(es)
 ------ | ---------- | --------------------------------------------- | ---------- | ----------
 `1.0`  | 31/05/2025 | Criação do documento das histórias de usuário | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
+`1.1`  | 31/05/2025 | Criação das US01 - US06 | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
