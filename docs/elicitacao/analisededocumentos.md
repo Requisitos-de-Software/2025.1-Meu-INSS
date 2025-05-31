@@ -66,7 +66,7 @@ O aplicativo da Receita Federal tem como objetivo centralizar, de forma digital 
 | ADC5| Unificação de serviços no app (ex: agendamento, acompanhamento de processos, certidões etc.)    | RF        |
 | ADC6 | Acesso offline a serviços essencial do app (históricos de contribuições anteriores, darfs)      | RF e RNF  |
 | ADC7 | Alteração de dados via app  | RF |
-| ADC8 | Funcionalidade de histórico e acompanhamento de restituições e de declarações                   | RF        |
+| ADC8 | Funcionalidade de histórico e acompanhamento de restituições de anos anteriores                   | RF        |
 | ADC9 | Declaração simplificada do IR                                                                  | RF        |
 | ADC10 | Geração de guias de pagamento                                                                | RF        |
 | ADC11 | Consultar o status do CPF (ativo ou não)                                                     | RF        |
