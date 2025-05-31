@@ -33,11 +33,11 @@ Os requisitos obtidos foram analisados criticamente quanto à sua viabilidade e 
 
 | ID    | Descrição                                                            | Categoria |Status |
 | ----- | -----------------------------------------------------------------------| --------- |--------- |
-| INT1  | O usuário deve poder acessar sua declaração de imposto de renda dos últimos anos.| RF        |Implementado|
+| INT1  | Acessar informações detalhadas a cerca da declaração de imposto de renda de um ano especifico   | RF        |Implementado|
 | INT2  | O aplicativo deve permitir o envio da declaração do Imposto de Renda diretamente pelo app.| RF        |Implementado|
 | INT3  | Agendar no próprio aplicativo atendimentos presenciais em unidades da Receita Federal.| RF        |Não Implementado|
 | INT4  | O usuário pode fixar mais de 3 itens do aplicativo na sua página de favoritos| RF        |Não Implementado|
-| INT5  | O aplicativo deve mostrar um histórico das declarações entregues pelo usuário.| RF        |Implementado|
+| INT5  | O aplicativo deve mostrar um histórico de envio das declarações entregues pelo usuário.| RF        |Implementado|
 | INT6  | Emissão de certidão negativa via aplicativo.  | RF        |Implementado|
 | INT7  | Consultar pendências de Malha| RF        |Implementado|
 | INT8  | Dashboard para profissionais contábeis de múltiplos CPFs/CNPJs | RF        |Não Implementado|
