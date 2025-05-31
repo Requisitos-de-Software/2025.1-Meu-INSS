@@ -37,6 +37,8 @@ Essa priorização será feita em conjunto com o cliente, garantindo que os recu
 
 ## Atividadades por membro 
 
+<p style="text-align: center"><b>Tabela 1</b> - Tabela de atividade dos membros da equipe </p>
+
 | Membro                                             | Código das US                      | Feito | Status da validação |
 |----------------------------------------------------|------------------------------------|-------|---------------------|
 | [José Eduardo](https://github.com/jevprado)        | US01, US02, US03, US04, US05, US06 |       |                     |
@@ -47,9 +49,24 @@ Essa priorização será feita em conjunto com o cliente, garantindo que os recu
 | [João Pedro](https://github.com/JpRodrigues2)      | US31, US32, US33, US34, US35, US36 |       |                     |
 | [Marco Marques](https://github.com/marcomarquesdc) | US37, US38, US39, US40, US41, US42 |       |                     |
 
-
+<font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 ## Histórias de usuários 
+
+<p style="text-align: center"><b>Tabela 2</b> - Tabela padrão para as histórias de usuário </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | USxx                                                                      |
+| **TÍTULO**                 | Nome do requisito                                                         |
+| **HISTÓRIA DE USUÁRIO**    | Eu, como contribuinte/profissional contábil, quero [...] para [...]       |
+| **CRITÉRIOS DE ACEITAÇÃO** | - crit1;<br>- crit2;<br>- critX;                                          |
+| **RASTREABILIDADE**        | RFX                                                                       | 
+| **STATUS**                 | Implementada / Não implementada                                           |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 
 ## Video da validação 
