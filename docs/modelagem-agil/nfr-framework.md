@@ -127,6 +127,7 @@ Com base nessa divisão, os requisitos não funcionais foram mapeados, classific
 
 Para facilitar o registro e o rastreamento das decisões de projeto, foram utilizados **Cartões de Especificação de Requisitos Não-Funcionais**, apresentados nas Tabelas 2 a N. Cada cartão contém os seguintes campos:
 
+<p style="text-align: center"><b>Tabela 2</b> - Padrão dos cartões </p>
 
 | Campo              | Descrição                                                                 |
 |--------------------|---------------------------------------------------------------------------|
@@ -143,28 +144,83 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 
 
 
-### RNF 1 
+### Cartão de Especificação – RNF01
 
-| Campo              | Descrição                                                                 |
-|--------------------|---------------------------------------------------------------------------|
-| Nº do Requisito    | RNF 01                                       |
-| Descrição          |  Melhorias no chatbot, suporte a imagens descritivas e vídeos com legenda para garantir acessibilidade a usuários com deficiência visual ou auditiva.     |
-| Classificação      | Usabilidade     |
-| Origem             | Fonte do requisito (ex: usuário, legislação, análise técnica)             |
-| Justificativa      | Razão pela qual o requisito foi definido (ex: atender à LGPD)            |
-|Critério de aceitação| Condições que devem ser atendidas para considerar o requisito cumprido                                                                       |
-| Dependência        | Outros requisitos dos quais este depende ou se relaciona                 |
-| Prioridade         | Nível de importância (Alta, Média ou Baixa)                              |
-| Conflitos          | Possíveis requisitos com os quais este pode gerar conflito               |
-| Histórias          | Histórias de usuário relacionadas ao requisito, se aplicável             |
+<p style="text-align: center"><b>Tabela 3</b> - cartão 01 - RNF01</p>
 
+| Campo               | Descrição                                                                 |
+|---------------------|---------------------------------------------------------------------------|
+| Nº do Requisito     | RNF01                                                                     |
+| Descrição           | Melhorias no chatbot, suporte a imagens descritivas e vídeos com legenda para garantir acessibilidade a usuários com deficiência visual ou auditiva. |
+| Classificação       | Usabilidade                                                               |
+| Origem              |[ADC13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)                                                                          |
+| Justificativa       | Assegurar inclusão digital e garantir que o aplicativo seja utilizável por pessoas com deficiência, atendendo a critérios de acessibilidade universal. |
+| Critério de aceitação | O chatbot deve oferecer respostas por voz, suporte a leitores de tela e apresentar conteúdos multimídia com descrição textual ou legendas automáticas. |
+| Dependência         | RNF5 (Interface responsiva e acessível), RNF17 (Suporte a leitores de tela) |
+| Prioridade          |                                                                           |
+| Conflitos           | Pode impactar negativamente no desempenho do app em dispositivos mais simples (potencial conflito com RNF10 e RNF16). |
+| Histórias           |                                                                           |
 
-
-
-
-
+<font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 
+### Cartão de Especificação – RNF02
+
+<p style="text-align: center"><b>Tabela 4</b> - cartão 02 - RNF02</p>
+
+| Campo                | Descrição                                                                                      |
+|----------------------|------------------------------------------------------------------------------------------------|
+| Nº do Requisito      | RNF2                                                                                           |
+| Descrição            | O sistema deve fornecer conteúdos educativos adequados para iniciantes no tema do aplicativo. |
+| Classificação        | Usabilidade (Apoio à Aprendizagem)                                                             |
+| Origem               | [ADC14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)                                                                                              |
+| Justificativa        | Facilitar a curva de aprendizado para novos usuários e aumentar o engajamento inicial.         |
+| Critério de aceitação| Conteúdo acessível diretamente no app; linguagem simples; tutoriais básicos em texto ou vídeo.|
+| Dependência          | Pode depender da estrutura de interface (RNF5) e acessibilidade de mídia (RNF1).               |
+| Prioridade           |                                                                                                |
+| Conflitos            | Pode gerar conflito com desempenho (RNF16), caso o conteúdo aumente o tempo de carregamento.   |
+| Histórias            |                                                                                                |
+
+<font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+### Cartão de Especificação – RNF11
+
+<p style="text-align: center"><b>Tabela 13</b> - cartão 11 - RNF11</p>
+
+| Campo               | Descrição                                                                 |
+|---------------------|---------------------------------------------------------------------------|
+| Nº do Requisito     | RNF11                                                                     |
+| Descrição           | O aplicativo deve funcionar em smartphones com telas de 4.5" a 7" sem perda de usabilidade |
+| Classificação       | Usabilidade (FURPS+)                                                      |
+| Origem              | [INT10 – Introspecção](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) |
+| Justificativa       | Garantir que o aplicativo seja utilizável na maioria dos dispositivos disponíveis no mercado brasileiro |
+| Critério de aceitação | Aplicativo testado e validado em diferentes tamanhos de tela sem comprometimento da experiência do usuário |
+| Dependência         | RNF5 (Interface responsiva e acessível)                                   |
+| Prioridade          | Alta                                                                       |
+| Conflitos           | RNF19 (Versão em HTML5 pode exigir adaptação adicional de layout)         |
+| Histórias           |  |
+
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
+
+
+### Cartão de Especificação – RNF12
+
+<p style="text-align: center"><b>Tabela 13</b> - cartão 11 - RNF11</p>
+
+| Campo               | Descrição                                                                 |
+|---------------------|---------------------------------------------------------------------------|
+| Nº do Requisito     | RNF12                                                                     |
+| Descrição           | A linguagem da interface deve seguir padrão A2 do CEFR, evitando jargões técnicos |
+| Classificação       | Usabilidade (FURPS+)                                                      |
+| Origem              | [ADC25 – Análise de Documentos](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) |
+| Justificativa       | Facilitar o uso do app por pessoas com menor escolaridade ou pouca familiaridade com termos técnicos |
+| Critério de aceitação | Todo o conteúdo textual revisado com base em vocabulário controlado CEFR-A2 e testes com usuários reais |
+| Dependência         | RNF2 (Conteúdo educativo para iniciantes)                                 |
+| Prioridade          | Alta                                                                       |
+| Conflitos           | Nenhum identificado                                                        |
+| Histórias           | Como contribuinte iniciante, quero entender os textos do app com facilidade, sem precisar de ajuda externa |
+
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 ## Referências
 
@@ -178,3 +234,5 @@ Disponível em: [https://aprender3.unb.br/pluginfile.php/3096155/mod\_resource/c
 | `1.0`     | 29/05/2025 | Criação do documento NRF-framework | [Thales Germano](https://github.com/thalesgvl) | [Jose Eduardo](https://github.com/jevprado) |
 | `1.1`    | 29/05/2025 | Ajustes no documento | [Thales Germano](https://github.com/thalesgvl) |[Jose Eduardo](https://github.com/jevprado)|
 | `1.2`    | 01/06/2025 | Adicionando imagens e tópicos decomposição e contribuição | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
+| `1.3`    | 01/06/2025 | Adicionando cartões RNF 01/02/11/12 | [Jose Eduardo](https://github.com/jevprado)  | [Julia Massuda](https://github.com/JuliaReis18) | 
+| `1.4`    | 01/06/2025 | Adicionando cartões RNF 11/12 | [Marco Marques](https://github.com/marcomarquesdc) | [Julia Massuda](https://github.com/JuliaReis18) | 
