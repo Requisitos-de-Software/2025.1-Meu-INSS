@@ -173,6 +173,108 @@ Padrão de tabelas para as histórias de usuário
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
 
+### US-13 - Alteração de dados via aplicativo
+
+<p style="text-align: center"><b>Tabela 13</b> - Tabela da história de usuário 13 (US-13) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-13                                                                     |
+| **TÍTULO**                 | Alteração de dados via aplicativo                                        |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero alterar meus dados cadastrais diretamente pelo aplicativo da Receita Federal, para que eu possa manter minhas informações atualizadas sem precisar comparecer a uma unidade presencial ou acessar outros sistemas.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O usuário deve conseguir acessar uma seção para edição de dados pessoais (endereço, telefone, e-mail). <br> - O sistema deve validar os dados inseridos em tempo real. <br> - Alterações devem ser confirmadas via autenticação adicional (SMS, e-mail ou biometria). <br> - O usuário deve receber confirmação das alterações realizadas. <br> - Mudanças sensíveis devem gerar protocolo de atendimento para validação posterior.                    |
+| **RASTREABILIDADE**        | [RF7](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Não implementada                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+### US-14 - Acesso offline a serviços essenciais
+
+<p style="text-align: center"><b>Tabela 14</b> - Tabela da história de usuário 14 (US-14) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-14                                                                     |
+| **TÍTULO**                 | Acesso offline a serviços essenciais                                     |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero acessar serviços essenciais do aplicativo mesmo sem conexão com a internet, para que eu possa consultar informações importantes como histórico de contribuições e DARFs mesmo em locais com conectividade limitada.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O aplicativo deve permitir acesso a dados previamente sincronizados quando offline. <br> - Histórico de contribuições deve estar disponível offline após primeira sincronização. <br> - DARFs gerados anteriormente devem ser acessíveis sem internet. <br> - O usuário deve ser notificado sobre o status offline e limitações de funcionalidade. <br> - Sincronização automática deve ocorrer quando a conexão for restabelecida.                    |
+| **RASTREABILIDADE**        | [RF6](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Não implementada                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+### US-15 - Compatibilidade com versões modernas de sistemas operacionais
+
+<p style="text-align: center"><b>Tabela 15</b> - Tabela da história de usuário 15 (US-15) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-15                                                                     |
+| **TÍTULO**                 | Compatibilidade com versões modernas de sistemas operacionais            |
+| **HISTÓRIA DE USUÁRIO**    | Como usuário de dispositivos móveis, quero que o aplicativo da Receita Federal seja compatível com as versões mais recentes do Android e iOS, para que eu possa utilizar todos os recursos disponíveis no meu smartphone atualizado.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O aplicativo deve ser compatível com Android 8+ e iOS 14+. <br> - Todas as funcionalidades devem operar corretamente nas versões suportadas. <br> - O app deve aproveitar recursos nativos dos sistemas operacionais modernos (biometria, notificações, etc.). <br> - Atualizações devem ser disponibilizadas regularmente para manter compatibilidade. <br> - Usuários com versões não suportadas devem receber orientação para atualização.                    |
+| **RASTREABILIDADE**        | [RF20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Implementada                                                             |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+### US-16 - Consulta do status do CPF
+
+<p style="text-align: center"><b>Tabela 16</b> - Tabela da história de usuário 16 (US-16) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-16                                                                     |
+| **TÍTULO**                 | Consulta do status do CPF                                                |
+| **HISTÓRIA DE USUÁRIO**    | Como cidadão, quero consultar rapidamente o status do meu CPF pelo aplicativo, para verificar se está ativo ou se há alguma irregularidade que precisa ser resolvida.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve exibir claramente se o CPF está ativo ou inativo. <br> - Deve mostrar informações sobre possíveis pendências ou irregularidades. <br> - A consulta deve ser rápida e intuitiva. <br> - Caso haja problemas, o app deve orientar sobre os próximos passos. <br> - O histórico de consultas deve ser mantido para referência futura.                    |
+| **RASTREABILIDADE**        | [RF11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Implementada                                                             |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+### US-17 - Integração com conta Gov.br
+
+<p style="text-align: center"><b>Tabela 17</b> - Tabela da história de usuário 17 (US-17) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-17                                                                     |
+| **TÍTULO**                 | Integração com conta Gov.br                                              |
+| **HISTÓRIA DE USUÁRIO**    | Como cidadão brasileiro, quero fazer login no aplicativo da Receita Federal usando minha conta Gov.br, para ter acesso facilitado e seguro aos serviços sem precisar criar novas credenciais.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O aplicativo deve oferecer opção de login via Gov.br na tela inicial. <br> - A integração deve redirecionar para o ambiente oficial do Gov.br. <br> - Após autenticação, o usuário deve retornar automaticamente ao app. <br> - Todos os níveis de conta Gov.br devem ser suportados. <br> - A sessão deve ser mantida de forma segura conforme políticas do Gov.br.                    |
+| **RASTREABILIDADE**        | [RF12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Implementada                                                             |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+### US-18 - Interface responsiva, acessível e com modo escuro
+
+<p style="text-align: center"><b>Tabela 18</b> - Tabela da história de usuário 18 (US-18) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-18                                                                     |
+| **TÍTULO**                 | Interface responsiva, acessível e com modo escuro                        |
+| **HISTÓRIA DE USUÁRIO**    | Como usuário do aplicativo, quero uma interface que se adapte ao meu dispositivo, seja acessível para pessoas com deficiência e ofereça modo escuro, para que eu tenha uma experiência confortável e inclusiva.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - A interface deve se adaptar automaticamente a diferentes tamanhos de tela. <br> - Deve incluir recursos de acessibilidade (leitor de tela, alto contraste, fontes ampliadas). <br> - O modo escuro deve estar disponível como opção nas configurações. <br> - Contraste e legibilidade devem atender aos padrões de acessibilidade web. <br> - Navegação deve ser possível via teclado ou gestos de acessibilidade.                    |
+| **RASTREABILIDADE**        | [RF18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Implementada                                                             |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
 ### US-25 - Acesso simultâneo a múltiplos CPFs/CNPJs
 
 <p style="text-align: center"><b>Tabela 25</b> - Tabela da história de usuário 25 (US-25) </p>
@@ -292,3 +394,4 @@ Versão |   Data     | Descrição | Autor(es) | Revisor(es)
 `1.0`  | 31/05/2025 | Criação do documento das histórias de usuário | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
 `1.1`  | 31/05/2025 | Criação das US01 - US06 | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
 `1.2`  | 31/05/2025 | Criação das US25 - US30 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |
+`1.3`  | 31/05/2025 | Criação das US13 - US18 | [Júlia](https://github.com/JuliaReis18)
