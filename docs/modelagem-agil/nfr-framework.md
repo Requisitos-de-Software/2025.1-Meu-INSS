@@ -221,7 +221,7 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 
 <font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
-
+### Cartão de Especificação – RNF07
 <p style="text-align: center"><b>Tabela 7</b> - cartão 07 - RNF07</p>
 
 | Campo              | Descrição                                                                 |
@@ -239,7 +239,7 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 
 <font size="3"><p style="text-align: center">Fonte: [Júlia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
----
+### Cartão de Especificação – RNF08
 
 <p style="text-align: center"><b>Tabela 8</b> - cartão 08 - RNF08</p>
 
