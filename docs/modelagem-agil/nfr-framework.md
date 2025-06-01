@@ -183,7 +183,9 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
 
-### RNF 03
+### Cartão de Especificação – RNF03
+
+<p style="text-align: center"><b>Tabela 5</b> - cartão 04 - RNF03</p>
 
 | Campo              | Descrição                                                                 |
 |--------------------|---------------------------------------------------------------------------|
@@ -198,9 +200,11 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 | Conflitos            | Pode haver conflito com requisitos de segurança, como autenticação online obrigatória                                              |
 | Histórias            | US-07                           |
 
----
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
-### RNF 04
+### Cartão de Especificação – RNF04
+
+<p style="text-align: center"><b>Tabela 6</b> - cartão 04 - RNF04</p>
 
 | Campo              | Descrição                                                                 |
 |--------------------|---------------------------------------------------------------------------|
@@ -215,7 +219,7 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 | Conflitos            | Pode afetar performance em dispositivos com baixo processamento ou com dados incompletos           |
 | Histórias            | US-08     |
 
-
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
 ### Cartão de Especificação – RNF11
 
@@ -268,6 +272,6 @@ Disponível em: [https://aprender3.unb.br/pluginfile.php/3096155/mod\_resource/c
 | `1.0`     | 29/05/2025 | Criação do documento NRF-framework | [Thales Germano](https://github.com/thalesgvl) | [Jose Eduardo](https://github.com/jevprado) |
 | `1.1`    | 29/05/2025 | Ajustes no documento | [Thales Germano](https://github.com/thalesgvl) |[Jose Eduardo](https://github.com/jevprado)|
 | `1.2`    | 01/06/2025 | Adicionando imagens e tópicos decomposição e contribuição | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
-| `1.3`    | 01/06/2025 | Adicionando cartões RNF 01/02/ | [Thales Germano](https://github.com/thalesgvl)   | [Jose Eduardo](https://github.com/jevprado | 
+| `1.3`    | 01/06/2025 | Adicionando cartões RNF 03/04/ | [Thales Germano](https://github.com/thalesgvl)   |  [Jose Eduardo](https://github.com/jevprado) | 
 | `1.4`    | 01/06/2025 | Adicionando cartões RNF 01/02/ | [Jose Eduardo](https://github.com/jevprado)  | [Thales Germano](https://github.com/thalesgvl) | 
 | `1.5`    | 01/06/2025 | Adicionando cartões RNF 11/12 | [Marco Marques](https://github.com/marcomarquesdc) | [Thales Germano](https://github.com/thalesgvl) | 
