@@ -497,7 +497,7 @@ Padrão de tabelas para as histórias de usuário
 
 ### US-31 - Consulta de pendências de Malha Fiscal
 
-**Tabela 31** - Tabela da história de usuário 31 (US-31)
+<p style="text-align: center"><b>Tabela 31</b> - Tabela da história de usuário 31 (US-31) </p>
 
 | Campo                      | Descrição                                                                 |
 |----------------------------|---------------------------------------------------------------------------|
@@ -510,13 +510,12 @@ Padrão de tabelas para as histórias de usuário
 | **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
 | **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
 
-*Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.*
-
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 ---
 
 ### US-32 - Acompanhar processos administrativos
 
-**Tabela 32** - Tabela da história de usuário 32 (US-32)
+<p style="text-align: center"><b>Tabela 32</b> - Tabela da história de usuário 32 (US-32) </p>
 
 | Campo                      | Descrição                                                                 |
 |----------------------------|---------------------------------------------------------------------------|
@@ -529,13 +528,13 @@ Padrão de tabelas para as histórias de usuário
 | **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
 | **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
 
-*Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.*
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
 ---
 
 ### US-33 - Integração com eSocial
 
-**Tabela 33** - Tabela da história de usuário 33 (US-33)
+<p style="text-align: center"><b>Tabela 33</b> - Tabela da história de usuário 33 (US-33) </p>
 
 | Campo                      | Descrição                                                                 |
 |----------------------------|---------------------------------------------------------------------------|
@@ -548,13 +547,13 @@ Padrão de tabelas para as histórias de usuário
 | **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
 | **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
 
-*Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.*
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
 ---
 
 ### US-34 - Autorização de acesso a terceiros
 
-**Tabela 34** - Tabela da história de usuário 34 (US-34)
+<p style="text-align: center"><b>Tabela 34</b> - Tabela da história de usuário 34 (US-34) </p>
 
 | Campo                      | Descrição                                                                 |
 |----------------------------|---------------------------------------------------------------------------|
@@ -567,13 +566,13 @@ Padrão de tabelas para as histórias de usuário
 | **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
 | **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
 
-*Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.*
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
 ---
 
 ### US-35 - Consulta de tabelas auxiliares
 
-**Tabela 35** - Tabela da história de usuário 35 (US-35)
+<p style="text-align: center"><b>Tabela 35</b> - Tabela da história de usuário 35 (US-35) </p>
 
 | Campo                      | Descrição                                                                 |
 |----------------------------|---------------------------------------------------------------------------|
@@ -586,13 +585,13 @@ Padrão de tabelas para as histórias de usuário
 | **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
 | **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
 
-*Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.*
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
 ---
 
 ### US-36 - Acesso à Caixa Postal oficial
 
-**Tabela 36** - Tabela da história de usuário 36 (US-36)
+<p style="text-align: center"><b>Tabela 36</b> - Tabela da história de usuário 36 (US-36) </p>
 
 | Campo                      | Descrição                                                                 |
 |----------------------------|---------------------------------------------------------------------------|
@@ -605,7 +604,8 @@ Padrão de tabelas para as histórias de usuário
 | **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
 | **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
 
-*Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.*
+
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
 
 ## Video da validação 
