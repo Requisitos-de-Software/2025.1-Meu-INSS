@@ -221,6 +221,45 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 
 <font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
+
+<p style="text-align: center"><b>Tabela 7</b> - cartão 07 - RNF07</p>
+
+| Campo              | Descrição                                                                 |
+|--------------------|---------------------------------------------------------------------------|
+| Nº do Requisito    | RNF 07                                                                    |
+| Descrição          | Testes de segurança para garantir a integridade dos dados e autenticação segura |
+| Classificação      | Segurança                                                                 |
+| Origem             | Análise técnica e requisitos de compliance                               |
+| Justificativa      | Garantir a proteção dos dados dos usuários e conformidade com padrões de segurança, incluindo LGPD e boas práticas de desenvolvimento |
+| Critério de aceitação | - Implementação de testes automatizados de segurança<br/>- Validação de autenticação e autorização<br/>- Verificação de criptografia de dados sensíveis<br/>- Testes de penetração realizados com sucesso<br/>- Conformidade com padrões OWASP |
+| Dependência        | RNF relacionados à arquitetura do sistema e gerenciamento de dados       |
+| Prioridade         | Alta                                                                      |
+| Conflitos          | Possível impacto na performance devido aos controles de segurança        |
+| Histórias          | Como desenvolvedor, preciso garantir que o sistema seja seguro para proteger os dados dos usuários |
+
+<font size="3"><p style="text-align: center">Fonte: [Júlia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+---
+
+<p style="text-align: center"><b>Tabela 8</b> - cartão 08 - RNF08</p>
+
+| Campo              | Descrição                                                                 |
+|--------------------|---------------------------------------------------------------------------|
+| Nº do Requisito    | RNF 08                                                                    |
+| Descrição          | Compatível com Android 8+ e iOS 14+                                      |
+| Classificação      | Portabilidade                                                             |
+| Origem             | Análise de mercado e requisitos técnicos                                 |
+| Justificativa      | Garantir ampla compatibilidade com dispositivos móveis em uso no mercado, abrangendo aproximadamente 85% dos usuários ativos |
+| Critério de aceitação | - Aplicação executando corretamente em Android 8.0 (API 26) ou superior<br/>- Aplicação executando corretamente em iOS 14.0 ou superior<br/>- Testes realizados em diferentes modelos de dispositivos<br/>- Interface responsiva em diferentes tamanhos de tela |
+| Dependência        | Requisitos funcionais do aplicativo móvel                                |
+| Prioridade         | Alta                                                                      |
+| Conflitos          | Limitações de recursos em versões mais antigas podem restringir funcionalidades avançadas |
+| Histórias          | Como usuário, quero poder usar o aplicativo no meu dispositivo móvel independente da versão do sistema operacional (dentro dos limites suportados) |
+
+<font size="3"><p style="text-align: center">Fonte: [Júlia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+
+
 ### Cartão de Especificação – RNF09
 
 <p style="text-align: center"><b>Tabela 11</b> - cartão 09 - RNF09</p>
@@ -314,3 +353,4 @@ Disponível em: [https://aprender3.unb.br/pluginfile.php/3096155/mod\_resource/c
 | `1.3`    | 01/06/2025 | Adicionando cartões RNF 03/04/ | [Thales Germano](https://github.com/thalesgvl)   |  [Jose Eduardo](https://github.com/jevprado) | 
 | `1.4`    | 01/06/2025 | Adicionando cartões RNF 01/02/ | [Jose Eduardo](https://github.com/jevprado)  | [Thales Germano](https://github.com/thalesgvl) | 
 | `1.5`    | 01/06/2025 | Adicionando cartões RNF 11/12 | [Marco Marques](https://github.com/marcomarquesdc) | [Thales Germano](https://github.com/thalesgvl) | 
+| `1.6`    | 01/06/2025 | Adicionando cartões RNF 07/08 | [Júlia Massuda](https://github.com/JuliaReis18) | | 
