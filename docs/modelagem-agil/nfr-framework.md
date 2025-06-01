@@ -152,7 +152,7 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 |---------------------|---------------------------------------------------------------------------|
 | Nº do Requisito     | RNF01                                                                     |
 | Descrição           | Melhorias no chatbot, suporte a imagens descritivas e vídeos com legenda para garantir acessibilidade a usuários com deficiência visual ou auditiva. |
-| Classificação       | Usabilidade                                                               |
+| Classificação       | Acessibilidade                                                              |
 | Origem              |[ADC13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)                                                                          |
 | Justificativa       | Assegurar inclusão digital e garantir que o aplicativo seja utilizável por pessoas com deficiência, atendendo a critérios de acessibilidade universal. |
 | Critério de aceitação | O chatbot deve oferecer respostas por voz, suporte a leitores de tela e apresentar conteúdos multimídia com descrição textual ou legendas automáticas. |
@@ -378,6 +378,125 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 | Histórias           |  |
 
 <font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
+
+
+## NFR00: Geral
+
+### Requisitos
+
+- **RNF04** – Comparativo automático entre declarações de IR
+- **RNF03** – Acesso offline a serviços essenciais do app
+
+### Propagação de Impacto
+
+| Origem | Impacto |
+|--------|---------|
+| RNF04  |  🗲       |
+| RNF03  |  𝒲−      |
+
+
+## NFR01: Portabilidade
+
+### Requisitos
+
+- **RNF06** – Interface com suporte a modo escuro
+- **RNF08** – Compatível com Android 8+ e iOS 14+
+
+### Propagação de Impacto
+
+| Origem | Impacto |
+|--------|---------|
+| RNF06  | ✓       |
+| RNF08  | 𝒲+      |
+
+
+## NFR02: Confiabilidade
+
+### Requisitos
+
+- **RNF10** – Sincronização automática de dados com a nuvem
+- **RNF13** – Backup e recuperação automática
+
+### Propagação de Impacto
+
+| Origem |  Impacto |
+|--------|----------|
+| RNF10  |  ✓       |
+| RNF13  | 𝒲+      |
+
+
+## NFR03: Segurança
+
+### Requisitos
+
+- **RNF07** – Testes de segurança e conformidade LGPD
+
+### Propagação de Impacto
+
+| Origem | Impacto |
+|--------|---------|
+| RNF07  |  🗲       |
+| RNF07  |  𝒲+      |
+
+
+## NFR04: Usabilidade
+
+### Requisitos
+
+- **RNF02** – Conteúdos educativos para iniciantes
+- **RNF04** – Comparativo automático de IR
+- **RNF06** – Suporte a modo escuro
+- **RNF05** – Interface responsiva e acessível
+- **RNF09** – Testes de usabilidade semestrais com público 60+
+- **RNF11** – O aplicativo deve funcionar em smartphones com telas de 4.5" a 7" sem perda de usabilidade
+- **RNF12** – A linguagem da interface deve seguir padrão A2 do CEFR, evitando jargões técnicos
+
+### Propagação de Impacto
+
+| Origem | Impacto |
+|--------|---------|
+| RNF02  |  𝒲+      |
+| RNF04  |  ✓       |
+| RNF05  |  ✓       |
+| RNF06  |  𝒲+      |
+| RNF09  |  ✓       |
+| RNF11  |   ✓      |
+| RNF12  |   𝒲+     |
+
+## NFR05: Acessibilidade
+
+### Requisitos
+
+- **RNF01** – Chatbot com suporte a acessibilidade
+- **RNF05** – Interface responsiva e acessível
+
+### Propagação de Impacto
+
+| Origem |  Impacto |
+|--------|--------|
+| RNF01  |  ✓       |
+| RNF05  |  ✓       |
+| RNF09  |  𝒲+      |
+
+
+## NFR06: SIG Completo
+
+### Requisitos
+
+- **Todos os anteriores** integrados no Sistema de Informação Gerencial
+
+### Propagação de Impacto
+
+| Origem |  Impacto |
+|--------|---------|
+| RNF05  |  ✓       |
+| RNF07  |  ✓       |
+| RNF07  |  ✓       |
+| RNF07  |  ✓       |
+| RNF10  |  ✓       |
+| RNF09  |  𝒲+      |
+
+
 
 ## Referências
 
