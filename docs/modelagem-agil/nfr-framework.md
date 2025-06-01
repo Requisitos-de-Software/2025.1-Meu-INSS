@@ -68,24 +68,85 @@ No NFR Framework, os softgoals são progressivamente refinados em metas mais esp
 - SOME: a forma de contribuição é conhecida, no entanto, a intensidade dessa contribuição é desconhecida.
 
 ---
+### Propagação de impactos 
+
+A **propagação de impactos** no NFR Framework diz respeito à análise das relações de dependência entre os requisitos não funcionais, avaliando como alterações em um softgoal podem influenciar outros com os quais mantém algum tipo de vínculo. Essa avaliação é essencial para identificar **efeitos colaterais**, **conflitos** e **contribuições acumuladas** que podem afetar diretamente a qualidade geral do sistema.
+
+Para que essa análise seja eficaz, é necessário compreender com clareza:
+- As **interações entre os softgoals**;
+- As **prioridades atribuídas a cada meta de qualidade**;
+- Os **possíveis trade-offs** entre requisitos concorrentes.
+
+Ao considerar a propagação de impactos, os engenheiros de requisitos conseguem tomar **decisões mais conscientes**, identificar **pontos críticos do sistema** e **gerenciar mudanças** de forma mais segura e estruturada.
+
+**Tipos de Impacto entre Softgoals**
+
+A seguir, são apresentados os tipos mais comuns de impacto entre softgoals, junto com suas respectivas notações simbólicas, conforme utilizados no NFR Framework:
+
+- **✓ (Satisfeito)**
+  Indica que um requisito não funcional contribui de forma clara e significativa para a satisfação de outro softgoal. Representa uma relação de impacto **fortemente positiva**.
+
+- **𝒲+ (Fracamente satisfeito)**
+  Indica uma contribuição positiva, porém **moderada**. O requisito relacionado apoia o softgoal-alvo, mas sua influência é limitada ou indireta.
+
+- **✗ (Negado)**
+  Indica que o requisito em questão tem um impacto **negativo direto**, impedindo ou contradizendo a realização de outro softgoal.
+
+- **𝒲− (Fracamente negado)**  
+  Representa uma **influência negativa mais fraca**, que pode dificultar, mas não necessariamente inviabilizar, o alcance do softgoal afetado.
+
+- **🗲 (Conflitante)** 
+  Indica a existência de um **conflito** entre softgoals. A realização de um pode beneficiar alguns aspectos e prejudicar outros, exigindo negociação e priorização.
+
+- **? (Indeterminado)**
+  Utilizado quando a relação entre dois requisitos não funcionais é **desconhecida ou incerta**. Pode indicar falta de informação ou necessidade de análise posterior.
+
 
 ## Metodologia
 
-Neste projeto, o NFR Framework é aplicado à modelagem de requisitos não-funcionais de um sistema da Receita Federal, priorizando atributos como segurança, acessibilidade e usabilidade. Os requisitos foram extraídos com base no modelo **FURPS+**.
+A metodologia adotada nesta aplicação do NFR Framework seguiu uma abordagem prática e colaborativa, baseada nos princípios de **Reinaldo Antônio da Silva (2019)**, com foco na coleta, organização e análise de requisitos não funcionais relacionados ao sistema da Receita Federal.
 
-> **Nota**: O modelo **FURPS+** é uma sigla usada para classificar requisitos de software. Significa: **F**uncionalidade, **U**sabilidade, **R**eliabilidade (confiabilidade), **P**erformance (desempenho), **S**uportabilidade e o **+** para outros requisitos complementares como legais ou de hardware.
+Cada integrante do grupo foi responsável por duas funcionalidades específicas do sistema, sendo também responsável por levantar e modelar os requisitos não funcionais associados à sua área. Os RNFs foram obtidos por meio de técnicas de elicitação, como introspecção e análise de documentos.
 
-Para cada RNF, são apresentados:
+A Tabela 1 apresenta a distribuição das funcionalidades por integrante:
 
-* Um **SIG (Softgoal Interdependency Graph)**
-* A **propagação de impactos**
-* Um **cartão de especificação detalhado**
+<p style="text-align: center"><b>Tabela 1</b> - Distribuição de funcionalidades por integrante</p>
 
-> **Nota**: A **propagação de impactos** mostra como um requisito pode influenciar outros, positiva ou negativamente. Isso ajuda a evitar conflitos e entender efeitos colaterais.
+| Funcionalidade               | Integrante Responsável |
+|-----------------------------|------------------------|
+| [Funcionalidade A]          | [Nome 1]               |
+| [Funcionalidade B]          | [Nome 2]               |
+| ...                         | ...                    |
+| [Funcionalidade N]          | [Nome N]               |
 
-> **Nota**: O **cartão de especificação** é uma ficha padronizada que documenta cada requisito não-funcional com campos como ID, prioridade, origem e justificativa.
+<p style="text-align: center"><b>Tabela 1</b> - Distribuição de funcionalidades por integrante</p>
 
----
+Com base nessa divisão, os requisitos não funcionais foram mapeados, classificados em softgoals e organizados em modelos gráficos segundo os conceitos do NFR Framework.
+
+### Cartões de Especificação
+
+Para facilitar o registro e o rastreamento das decisões de projeto, foram utilizados **Cartões de Especificação de Requisitos Não-Funcionais**, apresentados nas Tabelas 2 a N. Cada cartão contém os seguintes campos:
+- Nome do softgoal
+- Descrição
+- Categoria (NFR, Operacionalização, Afirmação)
+- Dependências e contribuições
+- Prioridade
+- Critérios de avaliação
+
+Esses cartões servem como documentação formal para a construção dos modelos do NFR Framework e apoiam a análise de impacto entre os softgoals.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## NFR01 - Acessibilidade
 

@@ -286,7 +286,6 @@ Padrão de tabelas para as histórias de usuário
 
 <font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
-```markdown
 ### US-13 - Compartilhamento de comprovantes e certidões
 
 <p style="text-align: center"><b>Tabela 13</b> - Tabela da história de usuário 13 (US-13) </p>
@@ -388,7 +387,7 @@ Padrão de tabelas para as histórias de usuário
 | **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
-```
+
 
 ### US-25 - Acesso simultâneo a múltiplos CPFs/CNPJs
 
