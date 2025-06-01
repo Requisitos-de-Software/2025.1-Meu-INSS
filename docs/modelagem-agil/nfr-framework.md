@@ -161,6 +161,42 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 
 
 
+## RNF 7
+
+| Campo              | Descrição                                                                 |
+|--------------------|---------------------------------------------------------------------------|
+| Nº do Requisito    | RNF 07                                                                    |
+| Descrição          | Testes de segurança para garantir a integridade dos dados e autenticação segura |
+| Classificação      | Segurança                                                                 |
+| Origem             | Análise técnica e requisitos de compliance                               |
+| Justificativa      | Garantir a proteção dos dados dos usuários e conformidade com padrões de segurança, incluindo LGPD e boas práticas de desenvolvimento |
+| Critério de aceitação | - Implementação de testes automatizados de segurança<br/>- Validação de autenticação e autorização<br/>- Verificação de criptografia de dados sensíveis<br/>- Testes de penetração realizados com sucesso<br/>- Conformidade com padrões OWASP |
+| Dependência        | RNF relacionados à arquitetura do sistema e gerenciamento de dados       |
+| Prioridade         | Alta                                                                      |
+| Conflitos          | Possível impacto na performance devido aos controles de segurança        |
+| Histórias          | Como desenvolvedor, preciso garantir que o sistema seja seguro para proteger os dados dos usuários |
+
+<p style="text-align: center">Fonte: Júlia Massuda, 2025.</p>
+
+---
+
+## RNF 8
+
+| Campo              | Descrição                                                                 |
+|--------------------|---------------------------------------------------------------------------|
+| Nº do Requisito    | RNF 08                                                                    |
+| Descrição          | Compatível com Android 8+ e iOS 14+                                      |
+| Classificação      | Portabilidade                                                             |
+| Origem             | Análise de mercado e requisitos técnicos                                 |
+| Justificativa      | Garantir ampla compatibilidade com dispositivos móveis em uso no mercado, abrangendo aproximadamente 85% dos usuários ativos |
+| Critério de aceitação | - Aplicação executando corretamente em Android 8.0 (API 26) ou superior<br/>- Aplicação executando corretamente em iOS 14.0 ou superior<br/>- Testes realizados em diferentes modelos de dispositivos<br/>- Interface responsiva em diferentes tamanhos de tela |
+| Dependência        | Requisitos funcionais do aplicativo móvel                                |
+| Prioridade         | Alta                                                                      |
+| Conflitos          | Limitações de recursos em versões mais antigas podem restringir funcionalidades avançadas |
+| Histórias          | Como usuário, quero poder usar o aplicativo no meu dispositivo móvel independente da versão do sistema operacional (dentro dos limites suportados) |
+
+<p style="text-align: center">Fonte: Júlia Massuda, 2025.</p>
+
 
 
 
@@ -178,3 +214,5 @@ Disponível em: [https://aprender3.unb.br/pluginfile.php/3096155/mod\_resource/c
 | `1.0`     | 29/05/2025 | Criação do documento NRF-framework | [Thales Germano](https://github.com/thalesgvl) | [Jose Eduardo](https://github.com/jevprado) |
 | `1.1`    | 29/05/2025 | Ajustes no documento | [Thales Germano](https://github.com/thalesgvl) |[Jose Eduardo](https://github.com/jevprado)|
 | `1.2`    | 01/06/2025 | Adicionando imagens e tópicos decomposição e contribuição | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
+| `1.3`    | 31/05/2025 | Adicionando RNF07 e RNF08 | [Júlia Massuda](https://github.com/JuliaReis18) |[Add revisor aqui]()|
+| 
