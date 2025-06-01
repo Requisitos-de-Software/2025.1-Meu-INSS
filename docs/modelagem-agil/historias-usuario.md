@@ -173,10 +173,6 @@ Padrão de tabelas para as histórias de usuário
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
 
-Perfeito! Aqui estão as **histórias de usuário US-25 a US-30**, seguindo o template do José Eduardo e com a autoria atribuída a você:
-
----
-
 ### US-25 - Acesso simultâneo a múltiplos CPFs/CNPJs
 
 <p style="text-align: center"><b>Tabela 25</b> - Tabela da história de usuário 25 (US-25) </p>
@@ -193,8 +189,6 @@ Perfeito! Aqui estão as **histórias de usuário US-25 a US-30**, seguindo o te
 | **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                                                                                                                                                                                                              |
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
-
----
 
 ### US-26 - Cadastro de CPF via aplicativo
 
@@ -213,7 +207,6 @@ Perfeito! Aqui estão as **histórias de usuário US-25 a US-30**, seguindo o te
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
----
 
 ### US-27 - Integração com conta Gov.br
 
@@ -232,7 +225,6 @@ Perfeito! Aqui estão as **histórias de usuário US-25 a US-30**, seguindo o te
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
----
 
 ### US-28 - Envio de documentos para instrução de processos
 
@@ -251,7 +243,6 @@ Perfeito! Aqui estão as **histórias de usuário US-25 a US-30**, seguindo o te
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
----
 
 ### US-29 - Envio da declaração do IR diretamente pelo app
 
@@ -270,7 +261,6 @@ Perfeito! Aqui estão as **histórias de usuário US-25 a US-30**, seguindo o te
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
----
 
 ### US-30 - Histórico de declarações enviadas
 
@@ -289,7 +279,6 @@ Perfeito! Aqui estão as **histórias de usuário US-25 a US-30**, seguindo o te
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
----
 
 ## Video da validação 
 
@@ -302,4 +291,4 @@ Versão |   Data     | Descrição | Autor(es) | Revisor(es)
 ------ | ---------- | --------------------------------------------- | ---------- | ----------
 `1.0`  | 31/05/2025 | Criação do documento das histórias de usuário | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
 `1.1`  | 31/05/2025 | Criação das US01 - US06 | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
-`1.1`  | 31/05/2025 | Criação das US25 - US30 | [Jose Eduardo](https://github.com/Diaxiz) | [Thales Germano](https://github.com/jevprado) |
+`1.2`  | 31/05/2025 | Criação das US25 - US30 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |
