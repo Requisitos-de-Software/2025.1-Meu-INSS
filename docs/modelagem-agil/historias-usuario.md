@@ -173,6 +173,119 @@ Padrão de tabelas para as histórias de usuário
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
 
+
+### US-07 - Acesso offline a serviços essenciais do app
+
+<p style="text-align: center"><b>Tabela 7</b> - Tabela da história de usuário 07 (US-07) </p>
+
+| Campo                      | Descrição                                                                                                                                                                                        |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-07                                                                                                                                                                                             |
+| **TÍTULO**                 | Acesso offline a serviços essenciais do app                                                                                                                                                       |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero acessar alguns serviços essenciais do aplicativo mesmo sem conexão com a internet, para consultar rapidamente dados como históricos de contribuição e DARFs emitidos.  |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O aplicativo deve permitir acesso offline ao histórico de contribuições e DARFs previamente baixados. <br> - O sistema deve alertar que os dados estão desatualizados sem conexão.            |
+| **RASTREABILIDADE**        | [RF20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                        | 
+| **STATUS**                 | Não implementada                                                                                                                                                                                  |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                                                                                                                                         |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                                                                                                                                         |
+
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
+
+---
+
+### US-08 - Comparativo automático entre declarações de anos anteriores
+
+<p style="text-align: center"><b>Tabela 8</b> - Tabela da história de usuário 08 (US-08) </p>
+
+| Campo                      | Descrição                                                                                                                                                                                             |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-08                                                                                                                                                                                                  |
+| **TÍTULO**                 | Comparativo automático entre declarações de anos anteriores                                                                                                                                           |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero visualizar um comparativo entre minhas declarações de imposto de renda de anos anteriores, para identificar alterações e inconsistências de forma automática.                 |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve listar informações relevantes lado a lado (ex: rendimentos, deduções, restituições). <br> - O app deve destacar alterações ou divergências de forma visual.                          |
+| **RASTREABILIDADE**        | [RF26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                              | 
+| **STATUS**                 | Não implementada                                                                                                                                                                                       |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                                                                                                                                              |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                                                                                                                                             |
+
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
+
+---
+
+### US-09 - Alteração de dados via app
+
+<p style="text-align: center"><b>Tabela 9</b> - Tabela da história de usuário 09 (US-09) </p>
+
+| Campo                      | Descrição                                                                                                                                                         |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-09                                                                                                                                                              |
+| **TÍTULO**                 | Alteração de dados via app                                                                                                                                         |
+| **HISTÓRIA DE USUÁRIO**    | Como cidadão, quero poder alterar meus dados cadastrais diretamente no aplicativo da Receita Federal, para manter minhas informações atualizadas de forma prática. |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O usuário deve poder alterar endereço, telefone e e-mail. <br> - Alterações devem ser confirmadas com autenticação segura.                                       |
+| **RASTREABILIDADE**        | [RF06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                          | 
+| **STATUS**                 | Implementada                                                                                                                                                       |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                                                                                                          |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                                                                                                         |
+
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
+
+---
+
+### US-10 - Notificação de vencimento próximo
+
+<p style="text-align: center"><b>Tabela 10</b> - Tabela da história de usuário 10 (US-10) </p>
+
+| Campo                      | Descrição                                                                                                                                                            |
+|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-10                                                                                                                                                                 |
+| **TÍTULO**                 | Notificação de vencimento próximo                                                                                                                                     |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero ser notificado pelo aplicativo quando uma obrigação fiscal estiver próxima do vencimento, para evitar atrasos no pagamento ou envio.        |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve exibir alertas com antecedência de X dias. <br> - As notificações devem permitir acesso direto à ação correspondente (pagamento/envio).             |
+| **RASTREABILIDADE**        | [RF04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                             | 
+| **STATUS**                 | Implementada                                                                                                                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                                                                                                             |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                                                                                                            |
+
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
+
+---
+
+### US-11 - Declaração simplificada do IR
+
+<p style="text-align: center"><b>Tabela 11</b> - Tabela da história de usuário 11 (US-11) </p>
+
+| Campo                      | Descrição                                                                                                                                                          |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-11                                                                                                                                                               |
+| **TÍTULO**                 | Declaração simplificada do IR                                                                                                                                       |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero realizar uma declaração de imposto de renda simplificada no app, para agilidade no envio de informações quando não tenho deduções complexas. |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve oferecer opção de declaração simplificada com cálculo automático. <br> - Deve apresentar simulação de restituição ou valor a pagar.               |
+| **RASTREABILIDADE**        | [RF09](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                            | 
+| **STATUS**                 | Implementada                                                                                                                                                        |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                                                                                                           |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                                                                                                          |
+
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
+
+---
+
+### US-12 - Consulta de inscrição no CNPJ
+
+<p style="text-align: center"><b>Tabela 12</b> - Tabela da história de usuário 12 (US-12) </p>
+
+| Campo                      | Descrição                                                                                                                                                        |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-12                                                                                                                                                             |
+| **TÍTULO**                 | Consulta de inscrição no CNPJ                                                                                                                                    |
+| **HISTÓRIA DE USUÁRIO**    | Como cidadão ou empresário, quero consultar a inscrição de um CNPJ diretamente pelo app, para verificar a situação cadastral de empresas de forma rápida.        |
+| **CRITÉRIOS DE ACEITAÇÃO** | - Deve ser possível pesquisar pelo número do CNPJ. <br> - O sistema deve exibir dados como razão social, endereço e situação cadastral.                           |
+| **RASTREABILIDADE**        | [RF29](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                          | 
+| **STATUS**                 | Implementada                                                                                                                                                      |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                                                                                                         |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                                                                                                        |
+
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
+
 ### US-25 - Acesso simultâneo a múltiplos CPFs/CNPJs
 
 <p style="text-align: center"><b>Tabela 25</b> - Tabela da história de usuário 25 (US-25) </p>
@@ -292,3 +405,4 @@ Versão |   Data     | Descrição | Autor(es) | Revisor(es)
 `1.0`  | 31/05/2025 | Criação do documento das histórias de usuário | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
 `1.1`  | 31/05/2025 | Criação das US01 - US06 | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
 `1.2`  | 31/05/2025 | Criação das US25 - US30 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |
+`1.3`  | 31/05/2025 | Criação das US07 - US12 | [Thales Germano](https://github.com/thalesgvl) |[Diassis](https://github.com/Diaxiz) |
