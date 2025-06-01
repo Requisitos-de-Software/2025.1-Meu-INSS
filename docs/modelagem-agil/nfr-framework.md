@@ -126,85 +126,47 @@ Com base nessa divisão, os requisitos não funcionais foram mapeados, classific
 ### Cartões de Especificação
 
 Para facilitar o registro e o rastreamento das decisões de projeto, foram utilizados **Cartões de Especificação de Requisitos Não-Funcionais**, apresentados nas Tabelas 2 a N. Cada cartão contém os seguintes campos:
-- Nome do softgoal
-- Descrição
-- Categoria (NFR, Operacionalização, Afirmação)
-- Dependências e contribuições
-- Prioridade
-- Critérios de avaliação
-
-Esses cartões servem como documentação formal para a construção dos modelos do NFR Framework e apoiam a análise de impacto entre os softgoals.
 
 
-
-
-
-
-
-
+| Campo              | Descrição                                                                 |
+|--------------------|---------------------------------------------------------------------------|
+| Nº do Requisito    | Identificador único do requisito (ex: RNF01, RNF02...)                   |
+| Descrição          | Texto explicativo sobre o que o requisito exige ou pretende garantir     |
+| Classificação      | FURPS+    |
+| Origem             | Fonte do requisito (ex: usuário, legislação, análise técnica)             |
+| Justificativa      | Razão pela qual o requisito foi definido (ex: atender à LGPD)            |
+|Critério de aceitação| Condições que devem ser atendidas para considerar o requisito cumprido                                                                       |
+| Dependência        | Outros requisitos dos quais este depende ou se relaciona                 |
+| Prioridade         | Nível de importância (Alta, Média ou Baixa)                              |
+| Conflitos          | Possíveis requisitos com os quais este pode gerar conflito               |
+| Histórias          | Histórias de usuário relacionadas ao requisito, se aplicável             |
 
 
 
+### RNF 1 
+
+| Campo              | Descrição                                                                 |
+|--------------------|---------------------------------------------------------------------------|
+| Nº do Requisito    | RNF 01                                       |
+| Descrição          |  Melhorias no chatbot, suporte a imagens descritivas e vídeos com legenda para garantir acessibilidade a usuários com deficiência visual ou auditiva.     |
+| Classificação      | Usabilidade     |
+| Origem             | Fonte do requisito (ex: usuário, legislação, análise técnica)             |
+| Justificativa      | Razão pela qual o requisito foi definido (ex: atender à LGPD)            |
+|Critério de aceitação| Condições que devem ser atendidas para considerar o requisito cumprido                                                                       |
+| Dependência        | Outros requisitos dos quais este depende ou se relaciona                 |
+| Prioridade         | Nível de importância (Alta, Média ou Baixa)                              |
+| Conflitos          | Possíveis requisitos com os quais este pode gerar conflito               |
+| Histórias          | Histórias de usuário relacionadas ao requisito, se aplicável             |
 
 
 
-## NFR01 - Acessibilidade
 
-A acessibilidade está relacionada à capacidade do sistema de ser utilizado por **usuários idosos**, com possíveis limitações visuais, motoras ou cognitivas.
 
-### Softgoal Interdependency Graph
 
-*(Inserir diagrama SIG específico aqui)*
 
-### Propagação de Impactos
 
-*(Inserir análise de impactos: como a acessibilidade influencia outros requisitos e é influenciada por eles)*
 
-### Cartão de Especificação
-
-| Info          | Detalhes                                                                                                                     |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| ID NFR        | NFR01                                                                                                                        |
-| Classificação | Acessibilidade                                                                                                               |
-| Descrição     | Refere-se à capacidade do sistema de atender usuários idosos                                                                 |
-| Justificativa | Um sistema acessível para idosos promove inclusão digital e garante maior alcance da população atendida pela Receita Federal |
-| Origem        | Especificação suplementar e requisitos elicitados                                                                            |
-| Dependências  | Usabilidade (interface clara e intuitiva é essencial para acessibilidade)                                                    |
-| Prioridade    | Alta                                                                                                                         |
-| Conflitos     | Nenhum identificado                                                                                                          |
-| História      | 29/05/2025                                                                                                                   |
-
----
-
-## NFR02 - Segurança
-
-A segurança trata da proteção dos dados dos usuários e da integridade das informações do sistema.
-
-### Softgoal Interdependency Graph
-
-*(Inserir diagrama SIG específico aqui)*
-
-### Propagação de Impactos
-
-*(Inserir análise dos efeitos da segurança em outras áreas, como desempenho ou usabilidade)*
-
-### Cartão de Especificação
-
-| Info          | Detalhes                                                                           |
-| ------------- | ---------------------------------------------------------------------------------- |
-| ID NFR        | NFR02                                                                              |
-| Classificação | Segurança                                                                          |
-| Descrição     | Garante que os dados dos usuários estão protegidos contra acessos indevidos.       |
-| Justificativa | Sistemas que tratam dados pessoais devem garantir confidencialidade e integridade. |
-| Origem        | Especificação suplementar e requisitos elicitados                                  |
-| Dependências  | Privacidade (depende da implementação de segurança para proteção de dados)         |
-| Prioridade    | Alta                                                                               |
-| Conflitos     | Nenhum identificado                                                                |
-| História      | 29/05/2025                                                                         |
-
----
-
-## Referência
+## Referências
 
 SILVA, Reinaldo Antônio da. *NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. Recife: Universidade Federal de Pernambuco, 2019.
 Disponível em: [https://aprender3.unb.br/pluginfile.php/3096155/mod\_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf)
