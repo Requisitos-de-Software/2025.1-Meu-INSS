@@ -395,4 +395,4 @@ Disponível em: [https://aprender3.unb.br/pluginfile.php/3096155/mod\_resource/c
 | `1.4`    | 01/06/2025 | Adicionando cartões RNF 01/02/ | [Jose Eduardo](https://github.com/jevprado)  | [Thales Germano](https://github.com/thalesgvl) | 
 | `1.5`    | 01/06/2025 | Adicionando cartões RNF 11/12 | [Marco Marques](https://github.com/marcomarquesdc) | [Thales Germano](https://github.com/thalesgvl) | 
 | `1.6`    | 01/06/2025 | Adicionando cartões RNF 07/08 | [Júlia Massuda](https://github.com/JuliaReis18) | [Jose Eduardo](https://github.com/jevprado)| 
-| `1.7`    | 01/06/2025 | Adicionando cartões RNF 07/08 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado)| 
+| `1.7`    | 01/06/2025 | Adicionando cartões RNF 05/06 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado)| 
