@@ -495,6 +495,118 @@ Padrão de tabelas para as histórias de usuário
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
+### US-31 - Consulta de pendências de Malha Fiscal
+
+**Tabela 31** - Tabela da história de usuário 31 (US-31)
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-31                                                                     |
+| **TÍTULO**                 | Consulta de pendências de Malha Fiscal                                   |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero consultar se minha declaração de imposto de renda está na malha fiscal diretamente pelo aplicativo, para que eu possa verificar possíveis inconsistências e tomar as providências necessárias rapidamente.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve exibir o status da declaração em relação à malha fiscal (em análise, liberada, retida). <br> - Deve mostrar detalhes das inconsistências encontradas quando aplicável. <br> - O aplicativo deve orientar sobre os documentos necessários para esclarecimentos. <br> - Deve permitir o acompanhamento do processo de regularização. <br> - As informações devem ser atualizadas em tempo real conforme análise da Receita Federal.                    |
+| **RASTREABILIDADE**        | [RF18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Implementada                                                              |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+*Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.*
+
+---
+
+### US-32 - Acompanhar processos administrativos
+
+**Tabela 32** - Tabela da história de usuário 32 (US-32)
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-32                                                                     |
+| **TÍTULO**                 | Acompanhar processos administrativos                                      |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero acompanhar o andamento dos meus processos administrativos junto à Receita Federal diretamente pelo aplicativo, para que eu possa ter transparência sobre o status e próximos passos sem precisar ligar ou comparecer presencialmente.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve listar todos os processos administrativos do contribuinte. <br> - Deve exibir o status atual de cada processo (em análise, aguardando documentos, deferido, indeferido). <br> - O usuário deve conseguir visualizar o histórico de movimentações. <br> - Deve mostrar prazo estimado para conclusão quando disponível. <br> - O aplicativo deve enviar notificações sobre mudanças de status.                    |
+| **RASTREABILIDADE**        | [RF21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Não implementada                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+*Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.*
+
+---
+
+### US-33 - Integração com eSocial
+
+**Tabela 33** - Tabela da história de usuário 33 (US-33)
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-33                                                                     |
+| **TÍTULO**                 | Integração com eSocial                                                    |
+| **HISTÓRIA DE USUÁRIO**    | Como empregador ou profissional de RH, quero acessar funcionalidades do eSocial diretamente pelo aplicativo da Receita Federal, para que eu possa gerenciar informações trabalhistas e previdenciárias de forma integrada e prática.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O aplicativo deve permitir acesso às principais funcionalidades do eSocial. <br> - Deve ser possível consultar eventos enviados e pendências. <br> - O sistema deve sincronizar dados entre as plataformas automaticamente. <br> - Deve incluir notificações sobre prazos e obrigações do eSocial. <br> - A navegação entre os sistemas deve ser transparente para o usuário.                    |
+| **RASTREABILIDADE**        | [RF22](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Não implementada                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+*Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.*
+
+---
+
+### US-34 - Autorização de acesso a terceiros
+
+**Tabela 34** - Tabela da história de usuário 34 (US-34)
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-34                                                                     |
+| **TÍTULO**                 | Autorização de acesso a terceiros                                        |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero autorizar o acesso de terceiros (contadores, advogados, familiares) aos meus dados fiscais diretamente pelo aplicativo, para que eu possa permitir que profissionais me auxiliem sem precisar comparecer presencialmente ou usar procuração física.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve permitir buscar e selecionar terceiros por CPF/CNPJ. <br> - Deve ser possível definir quais informações o terceiro pode acessar. <br> - As autorizações devem ter prazo de validade configurável. <br> - O usuário deve poder revogar autorizações a qualquer momento. <br> - Deve manter histórico de acessos realizados pelos terceiros autorizados.                    |
+| **RASTREABILIDADE**        | [RF23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Implementada                                                              |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+*Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.*
+
+---
+
+### US-35 - Consulta de tabelas auxiliares
+
+**Tabela 35** - Tabela da história de usuário 35 (US-35)
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-35                                                                     |
+| **TÍTULO**                 | Consulta de tabelas auxiliares (CNAE, NCM, unidades da RF)               |
+| **HISTÓRIA DE USUÁRIO**    | Como empresário ou profissional contábil, quero consultar tabelas de códigos CNAE, NCM e localizar unidades da Receita Federal diretamente pelo aplicativo, para que eu possa obter informações técnicas necessárias para preenchimento de documentos e obrigações fiscais.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve permitir busca por código ou descrição nas tabelas CNAE e NCM. <br> - Deve incluir filtro geográfico para localizar unidades da Receita Federal próximas. <br> - As informações devem incluir endereços, telefones e horários de funcionamento das unidades. <br> - Deve permitir favoritar códigos ou unidades frequentemente consultados. <br> - As tabelas devem ser atualizadas automaticamente conforme alterações oficiais.                    |
+| **RASTREABILIDADE**        | [RF30](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Implementada                                                              |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+*Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.*
+
+---
+
+### US-36 - Acesso à Caixa Postal oficial
+
+**Tabela 36** - Tabela da história de usuário 36 (US-36)
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-36                                                                     |
+| **TÍTULO**                 | Acesso à Caixa Postal oficial                                            |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero acessar minha caixa postal oficial da Receita Federal diretamente pelo aplicativo, para que eu possa receber e consultar comunicações, intimações e documentos oficiais de forma segura e centralizada.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve exibir todas as mensagens oficiais da Receita Federal. <br> - Mensagens devem ser organizadas por data e tipo (informativa, intimação, cobrança). <br> - Deve permitir marcar mensagens como lidas/não lidas. <br> - O usuário deve poder fazer download de anexos quando disponíveis. <br> - Deve incluir notificações push quando novas mensagens chegarem.                    |
+| **RASTREABILIDADE**        | [RF31](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Implementada                                                              |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+*Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.*
+
 
 ## Video da validação 
 
@@ -510,3 +622,4 @@ Versão |   Data     | Descrição | Autor(es) | Revisor(es)
 `1.2`  | 31/05/2025 | Criação das US25 - US30 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |
 `1.3`  | 31/05/2025 | Criação das US07 - US12 | [Thales Germano](https://github.com/thalesgvl) |[Diassis](https://github.com/Diaxiz) |
 `1.4`  | 31/05/2025 | Criação das US13 - US18 | [Júlia Massuda](https://github.com/JuliaReis18) |[]() |
+`1.5`  | 31/05/2025 | Criação das US31 - US36 | [João Pedro Rodrigues](https://github.com/JpRodrigues2) |[]() |
