@@ -235,7 +235,7 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 | Dependência        | RNF relacionados à arquitetura do sistema e gerenciamento de dados       |
 | Prioridade         | Alta                                                                      |
 | Conflitos          | Possível impacto na performance devido aos controles de segurança        |
-| Histórias          | Como desenvolvedor, preciso garantir que o sistema seja seguro para proteger os dados dos usuários |
+| Histórias          | |
 
 <font size="3"><p style="text-align: center">Fonte: [Júlia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
@@ -254,7 +254,7 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 | Dependência        | Requisitos funcionais do aplicativo móvel                                |
 | Prioridade         | Alta                                                                      |
 | Conflitos          | Limitações de recursos em versões mais antigas podem restringir funcionalidades avançadas |
-| Histórias          | Como usuário, quero poder usar o aplicativo no meu dispositivo móvel independente da versão do sistema operacional (dentro dos limites suportados) |
+| Histórias          | |
 
 <font size="3"><p style="text-align: center">Fonte: [Júlia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
@@ -277,7 +277,7 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 | Conflitos          | Possível conflito com design moderno que pode não ser familiar ao público idoso |
 | Histórias          |  |
 
-<p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p>
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
 
 ### Cartão de Especificação – RNF 10
@@ -297,7 +297,7 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 | Conflitos          | Funcionalidades complexas podem exigir mais tempo de processamento       |
 | Histórias          |  |
 
-<p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p>
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
 ### Cartão de Especificação – RNF11
 
@@ -334,7 +334,7 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 | Dependência         | RNF2 (Conteúdo educativo para iniciantes)                                 |
 | Prioridade          | Alta                                                                       |
 | Conflitos           | Nenhum identificado                                                        |
-| Histórias           | Como contribuinte iniciante, quero entender os textos do app com facilidade, sem precisar de ajuda externa |
+| Histórias           |  |
 
 <font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
@@ -353,4 +353,4 @@ Disponível em: [https://aprender3.unb.br/pluginfile.php/3096155/mod\_resource/c
 | `1.3`    | 01/06/2025 | Adicionando cartões RNF 03/04/ | [Thales Germano](https://github.com/thalesgvl)   |  [Jose Eduardo](https://github.com/jevprado) | 
 | `1.4`    | 01/06/2025 | Adicionando cartões RNF 01/02/ | [Jose Eduardo](https://github.com/jevprado)  | [Thales Germano](https://github.com/thalesgvl) | 
 | `1.5`    | 01/06/2025 | Adicionando cartões RNF 11/12 | [Marco Marques](https://github.com/marcomarquesdc) | [Thales Germano](https://github.com/thalesgvl) | 
-| `1.6`    | 01/06/2025 | Adicionando cartões RNF 07/08 | [Júlia Massuda](https://github.com/JuliaReis18) | | 
+| `1.6`    | 01/06/2025 | Adicionando cartões RNF 07/08 | [Júlia Massuda](https://github.com/JuliaReis18) | [Jose Eduardo](https://github.com/jevprado)| 
