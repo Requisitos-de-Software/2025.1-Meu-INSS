@@ -286,6 +286,110 @@ Padrão de tabelas para as histórias de usuário
 
 <font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
+```markdown
+### US-13 - Compartilhamento de comprovantes e certidões
+
+<p style="text-align: center"><b>Tabela 13</b> - Tabela da história de usuário 13 (US-13) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-13                                                                     |
+| **TÍTULO**                 | Compartilhamento de comprovantes e certidões                             |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero compartilhar meus comprovantes e certidões diretamente pelo aplicativo através de WhatsApp, e-mail ou salvamento em nuvem, para que eu possa enviar documentos oficiais de forma prática e segura quando solicitado.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O aplicativo deve permitir compartilhamento via WhatsApp, e-mail e Google Drive/iCloud. <br> - Documentos devem manter formato oficial e assinatura digital. <br> - Deve ser possível compartilhar múltiplos documentos simultaneamente. <br> - O sistema deve registrar o histórico de compartilhamentos para auditoria. <br> - Deve incluir opções de proteção por senha nos documentos compartilhados.                    |
+| **RASTREABILIDADE**        | [RF24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Não implementada                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+### US-14 - Reenvio de notificações perdidas
+
+<p style="text-align: center"><b>Tabela 14</b> - Tabela da história de usuário 14 (US-14) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-14                                                                     |
+| **TÍTULO**                 | Reenvio de notificações perdidas                                         |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero poder solicitar o reenvio de notificações importantes que perdi ou não recebi, através de e-mail ou mensagem no aplicativo, para que eu não perca prazos importantes por falha na comunicação.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O usuário deve conseguir visualizar histórico de notificações enviadas. <br> - Deve ser possível reenviar notificações via e-mail ou push no app. <br> - O sistema deve permitir configurar canais preferenciais de comunicação. <br> - Deve incluir filtros por tipo de notificação e período. <br> - Notificações críticas devem ter opção de reenvio automático.                    |
+| **RASTREABILIDADE**        | [RF25](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Não implementada                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+### US-15 - Comparativo automático entre declarações
+
+<p style="text-align: center"><b>Tabela 15</b> - Tabela da história de usuário 15 (US-15) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-15                                                                     |
+| **TÍTULO**                 | Comparativo automático entre declarações                                 |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte que declara imposto de renda anualmente, quero visualizar um comparativo automático entre minha declaração atual e as de anos anteriores, para que eu possa identificar discrepâncias e garantir consistência nas informações prestadas.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve gerar comparativo visual entre declarações de diferentes anos. <br> - Deve destacar variações significativas em rendimentos, deduções e impostos. <br> - O usuário deve poder selecionar quais anos comparar. <br> - Deve incluir alertas para divergências que possam gerar questionamentos. <br> - O comparativo deve ser exportável em formato PDF.                    |
+| **RASTREABILIDADE**        | [RF26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Não implementada                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+### US-16 - FAQ interativo com busca inteligente
+
+<p style="text-align: center"><b>Tabela 16</b> - Tabela da história de usuário 16 (US-16) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-16                                                                     |
+| **TÍTULO**                 | FAQ interativo com busca inteligente                                     |
+| **HISTÓRIA DE USUÁRIO**    | Como usuário do aplicativo, quero acessar um FAQ interativo com busca inteligente filtrada por temas como CPF, IRPF e Certidões, para que eu possa encontrar respostas rápidas e precisas para minhas dúvidas sem precisar entrar em contato com atendimento.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve permitir busca por palavras-chave com sugestões automáticas. <br> - Deve incluir filtros por categoria (CPF, IRPF, Certidões, etc.). <br> - As respostas devem ser organizadas por relevância e popularidade. <br> - Deve incluir recursos visuais como imagens e vídeos explicativos. <br> - O usuário deve poder avaliar a utilidade das respostas encontradas.                    |
+| **RASTREABILIDADE**        | [RF27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Não implementada                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+### US-17 - Integração com calendário do dispositivo
+
+<p style="text-align: center"><b>Tabela 17</b> - Tabela da história de usuário 17 (US-17) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-17                                                                     |
+| **TÍTULO**                 | Integração com calendário do dispositivo                                 |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero que o aplicativo se integre automaticamente com o calendário do meu dispositivo para criar lembretes de obrigações fiscais, para que eu possa visualizar todos os meus compromissos tributários junto com minha agenda pessoal.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O aplicativo deve solicitar permissão para acessar o calendário do usuário. <br> - Deve criar eventos automaticamente para vencimentos de obrigações fiscais. <br> - Os eventos devem incluir informações detalhadas sobre a obrigação. <br> - O usuário deve poder personalizar antecedência dos lembretes. <br> - Deve sincronizar automaticamente mudanças de datas e novos prazos.                    |
+| **RASTREABILIDADE**        | [RF28](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Não implementada                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+### US-18 - Dashboard para profissionais contábeis
+
+<p style="text-align: center"><b>Tabela 18</b> - Tabela da história de usuário 18 (US-18) </p>
+
+| Campo                      | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **CÓDIGO**                 | US-18                                                                     |
+| **TÍTULO**                 | Dashboard para profissionais contábeis                                   |
+| **HISTÓRIA DE USUÁRIO**    | Como profissional contábil, quero ter acesso a um dashboard especializado que me permita gerenciar múltiplos CPFs/CNPJs dos meus clientes, para que eu possa ter uma visão consolidada e eficiente de todas as obrigações fiscais sob minha responsabilidade.      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O dashboard deve exibir resumo de todos os clientes vinculados. <br> - Deve mostrar alertas de vencimentos e pendências por cliente. <br> - Deve permitir filtros por tipo de obrigação, status e prazo. <br> - O sistema deve gerar relatórios consolidados. <br> - Deve incluir ferramentas de busca rápida por CPF/CNPJ ou nome do cliente.                    |
+| **RASTREABILIDADE**        | [RF19](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **STATUS**                 | Não implementada                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+```
+
 ### US-25 - Acesso simultâneo a múltiplos CPFs/CNPJs
 
 <p style="text-align: center"><b>Tabela 25</b> - Tabela da história de usuário 25 (US-25) </p>
@@ -406,3 +510,4 @@ Versão |   Data     | Descrição | Autor(es) | Revisor(es)
 `1.1`  | 31/05/2025 | Criação das US01 - US06 | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
 `1.2`  | 31/05/2025 | Criação das US25 - US30 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |
 `1.3`  | 31/05/2025 | Criação das US07 - US12 | [Thales Germano](https://github.com/thalesgvl) |[Diassis](https://github.com/Diaxiz) |
+`1.4`  | 31/05/2025 | Criação das US13 - US18 | [Júlia Massuda](https://github.com/JuliaReis18) |[]() |
