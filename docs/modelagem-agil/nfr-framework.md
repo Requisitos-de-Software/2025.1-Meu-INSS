@@ -221,6 +221,42 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 
 <font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
+### Cartão de Especificação – RNF 9
+
+| Campo              | Descrição                                                                 |
+|--------------------|---------------------------------------------------------------------------|
+| Nº do Requisito    | RNF 09                                                                    |
+| Descrição          | Testes de usabilidade semestrais com público 60+                         |
+| Classificação      | Usabilidade                                                               |
+| Origem             | Análise demográfica e requisitos de acessibilidade                       |
+| Justificativa      | Garantir que o aplicativo seja acessível e intuitivo para usuários idosos, considerando que representam uma parcela significativa dos contribuintes |
+| Critério de aceitação | - Realização de testes de usabilidade com grupos de usuários acima de 60 anos a cada 6 meses<br/>- Identificação e correção de barreiras de usabilidade específicas para este público<br/>- Taxa de conclusão de tarefas superior a 80% nos testes<br/>- Tempo médio de conclusão de tarefas dentro dos padrões aceitáveis<br/>- Feedback positivo de pelo menos 70% dos participantes |
+| Dependência        | Interface do usuário implementada e funcionalidades principais disponíveis |
+| Prioridade         | Média                                                                     |
+| Conflitos          | Possível conflito com design moderno que pode não ser familiar ao público idoso |
+| Histórias          | Como usuário idoso, quero conseguir usar o aplicativo de forma intuitiva para realizar minhas obrigações fiscais sem dificuldades |
+
+<p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p>
+
+---
+
+### Cartão de Especificação – RNF 10
+
+| Campo              | Descrição                                                                 |
+|--------------------|---------------------------------------------------------------------------|
+| Nº do Requisito    | RNF 10                                                                    |
+| Descrição          | O aplicativo deve ter tempo de resposta inferior a 3 segundos para ações comuns |
+| Classificação      | Performance                                                               |
+| Origem             | Requisitos de experiência do usuário e padrões de mercado               |
+| Justificativa      | Garantir uma experiência fluida e satisfatória para o usuário, evitando abandono devido à lentidão do sistema |
+| Critério de aceitação | - Tempo de resposta máximo de 3 segundos para operações comuns (login, consultas, navegação)<br/>- Tempo de carregamento inicial do aplicativo inferior a 5 segundos<br/>- Testes de performance realizados em diferentes dispositivos e conexões<br/>- Monitoramento contínuo dos tempos de resposta em produção<br/>- 95% das requisições devem atender ao critério de tempo |
+| Dependência        | Arquitetura do sistema, infraestrutura de servidores e otimização de código |
+| Prioridade         | Alta                                                                      |
+| Conflitos          | Funcionalidades complexas podem exigir mais tempo de processamento       |
+| Histórias          | Como usuário, quero que o aplicativo responda rapidamente às minhas ações para não perder tempo esperando |
+
+<p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p>
+
 ### Cartão de Especificação – RNF11
 
 <p style="text-align: center"><b>Tabela 13</b> - cartão 11 - RNF11</p>
