@@ -221,7 +221,9 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 
 <font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
-### Cartão de Especificação – RNF 9
+### Cartão de Especificação – RNF09
+
+<p style="text-align: center"><b>Tabela 11</b> - cartão 09 - RNF09</p>
 
 | Campo              | Descrição                                                                 |
 |--------------------|---------------------------------------------------------------------------|
@@ -234,13 +236,14 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 | Dependência        | Interface do usuário implementada e funcionalidades principais disponíveis |
 | Prioridade         | Média                                                                     |
 | Conflitos          | Possível conflito com design moderno que pode não ser familiar ao público idoso |
-| Histórias          | Como usuário idoso, quero conseguir usar o aplicativo de forma intuitiva para realizar minhas obrigações fiscais sem dificuldades |
+| Histórias          |  |
 
 <p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p>
 
----
 
 ### Cartão de Especificação – RNF 10
+
+<p style="text-align: center"><b>Tabela 12</b> - cartão 10 - RNF10</p>
 
 | Campo              | Descrição                                                                 |
 |--------------------|---------------------------------------------------------------------------|
@@ -253,7 +256,7 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 | Dependência        | Arquitetura do sistema, infraestrutura de servidores e otimização de código |
 | Prioridade         | Alta                                                                      |
 | Conflitos          | Funcionalidades complexas podem exigir mais tempo de processamento       |
-| Histórias          | Como usuário, quero que o aplicativo responda rapidamente às minhas ações para não perder tempo esperando |
+| Histórias          |  |
 
 <p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p>
 
