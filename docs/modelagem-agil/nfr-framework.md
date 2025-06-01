@@ -8,7 +8,7 @@ Os *softgoals* ajudam desenvolvedores a tomar decisões durante o projeto, consi
 
 ### Tipos de Softgoals
 
-Os *softgoals* podem ser classificados em três grupos principais, conforme descrito por **Reinaldo Antônio da Silva**:
+Os *softgoals* podem ser classificados em três grupos principais: 
 
 1. **Softgoals NFR**: Representam diretamente os Requisitos Não-Funcionais e podem ser organizados de forma hierárquica.
 2. **Softgoals de Operacionalização**: Apontam para alternativas de implementação dos softgoals NFR, por meio de funções, estruturas ou restrições.
