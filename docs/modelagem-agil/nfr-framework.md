@@ -221,6 +221,47 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 
 <font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
+
+### Cartão de Especificação – RNF05
+
+<p style="text-align: center"><b>Tabela 14</b> - cartão 05 - RNF05</p>
+
+| Campo                 | Descrição                                                                                                                                                                                                                                   |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nº do Requisito       | RNF05                                                                                                                                                                                                                                       |
+| Descrição             | A interface do aplicativo deve ser responsiva e acessível, adaptando-se a diferentes tamanhos de tela e compatível com tecnologias assistivas.                                                                                              |
+| Classificação         | Usabilidade (FURPS+)                                                                                                                                                                                                                        |
+| Origem                | [ADC18 – Análise de Documentos](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)                                                                                                             |
+| Justificativa         | Garantir que o aplicativo funcione de forma eficiente e compreensível em diversos dispositivos, promovendo a inclusão digital.                                                                                                              |
+| Critério de aceitação | - Layout adaptável para diferentes tamanhos de tela.<br/>- Compatibilidade com leitores de tela como TalkBack e VoiceOver.<br/>- Navegação por teclado e suporte a contraste de cores acessível.<br/>- Cumprimento das diretrizes WCAG 2.1. |
+| Dependência           | RNF11 (Compatibilidade com telas 4.5" a 7"), RNF17 (Suporte a leitores de tela)                                                                                                                                                             |
+| Prioridade            | Alta                                                                                                                                                                                                                                        |
+| Conflitos             | Ajustes de layout podem impactar o tempo de desenvolvimento ou performance inicial                                                                                                                                                          |
+| Histórias             | US-06, US-30                                                                                                                                                                                                                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+
+### Cartão de Especificação – RNF06
+
+<p style="text-align: center"><b>Tabela 15</b> - cartão 06 - RNF06</p>
+
+| Campo                 | Descrição                                                                                                                                                                                                                                                                                                              |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nº do Requisito       | RNF06                                                                                                                                                                                                                                                                                                                  |
+| Descrição             | O aplicativo deve oferecer suporte ao modo escuro para reduzir o cansaço visual e economizar bateria em dispositivos compatíveis.                                                                                                                                                                                      |
+| Classificação         | Usabilidade / Portabilidade                                                                                                                                                                                                                                                                                            |
+| Origem                | [ADC23 – Análise de Documentos](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [INT17 – Introspecção](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)                                                                       |
+| Justificativa         | Melhorar a experiência do usuário em ambientes com pouca luz e atender preferências individuais e limitações visuais.                                                                                                                                                                                                  |
+| Critério de aceitação | - O sistema deve permitir alternância entre modo claro e escuro.<br/>- O modo escuro deve aplicar-se à interface completa sem comprometer a legibilidade.<br/>- O usuário deve poder ativar/desativar pelo app ou seguir o tema do sistema operacional.<br/>- Testes de contraste e legibilidade devem ser realizados. |
+| Dependência           | RNF05 (Interface responsiva), RNF12 (Padrão de linguagem acessível)                                                                                                                                                                                                                                                    |
+| Prioridade            | Média                                                                                                                                                                                                                                                                                                                  |
+| Conflitos             | Pode exigir ajustes adicionais em componentes visuais e ícones                                                                                                                                                                                                                                                         |
+| Histórias             | US-27, US-29                                                                                                                                                                                                                                                                                                           |
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+
 ### Cartão de Especificação – RNF07
 <p style="text-align: center"><b>Tabela 7</b> - cartão 07 - RNF07</p>
 
