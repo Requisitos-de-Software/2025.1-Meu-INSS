@@ -158,8 +158,37 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 | Conflitos          | Possíveis requisitos com os quais este pode gerar conflito               |
 | Histórias          | Histórias de usuário relacionadas ao requisito, se aplicável             |
 
+### RNF 03
 
+| Campo              | Descrição                                                                 |
+|--------------------|---------------------------------------------------------------------------|
+| Nº do Requisito    | RNF 03
+| Descrição          | Permitir acesso offline a serviços essenciais do app, como históricos de contribuições e guias DARF já geradas.                    |
+| Classificação      |   Usabilidade        |
+| Origem             | Uso do App em locais com dificuldade de acesso à internet estável e áreas rurais               |
+| Justificativa      | Garantir que o usuário tenha acesso a informações fiscais básicas mesmo sem conexão, aumentando a autonomia em regiões remotas     |
+| Critério de aceitação| O sistema deve funcionar corretamente em modo offline, exibindo dados previamente sincronizados. Deve indicar que está offline.     |
+| Dependência          | Sincronização prévia dos dados com o servidor  |
+| Prioridade           | A definir                                 |
+| Conflitos            | Pode haver conflito com requisitos de segurança, como autenticação online obrigatória                                              |
+| Histórias            | US-07                           |
 
+---
+
+### RNF 04
+
+| Campo              | Descrição                                                                 |
+|--------------------|---------------------------------------------------------------------------|
+| Nº do Requisito    | RNF 04             |
+| Descrição          | O sistema deve oferecer comparativo automático entre declarações de IR de anos diferentes, destacando alterações relevantes.  |
+| Classificação      | Funcionalidade / Usabilidade   |
+| Origem             | Necessidade identificada em análise técnica    |
+| Justificativa      | Facilitar a verificação de mudanças entre declarações, reduzindo erros e aumentando a transparência no preenchimento               |
+| Critério de aceitação| O sistema deve listar lado a lado os valores por categoria e destacar visualmente diferenças entre os anos comparados       |
+| Dependência          | Dados das declarações anteriores devem estar disponíveis no sistema                |
+| Prioridade           | A definir       |
+| Conflitos            | Pode afetar performance em dispositivos com baixo processamento ou com dados incompletos           |
+| Histórias            | US-08     |
 
 
 
