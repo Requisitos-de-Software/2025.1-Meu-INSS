@@ -173,6 +173,124 @@ Padrão de tabelas para as histórias de usuário
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
 
+Perfeito! Aqui estão as **histórias de usuário US-25 a US-30**, seguindo o template do José Eduardo e com a autoria atribuída a você:
+
+---
+
+### US-25 - Acesso simultâneo a múltiplos CPFs/CNPJs
+
+<p style="text-align: center"><b>Tabela 25</b> - Tabela da história de usuário 25 (US-25) </p>
+
+| Campo                      | Descrição                                                                                                                                                                                                                                                               |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CÓDIGO**                 | US-25                                                                                                                                                                                                                                                                   |
+| **TÍTULO**                 | Acesso simultâneo a múltiplos CPFs/CNPJs                                                                                                                                                                                                                                |
+| **HISTÓRIA DE USUÁRIO**    | Como contador, quero acessar rapidamente diversos CPFs e CNPJs de meus clientes pelo app, para que eu possa gerenciar múltiplas declarações e obrigações fiscais de forma prática e eficiente.                                                                          |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve permitir o login e alternância entre diferentes CPFs/CNPJs.<br>- Deve haver um menu ou dashboard que exiba todos os perfis acessíveis com seus respectivos nomes.<br>- O usuário deve conseguir alternar entre perfis sem precisar sair do aplicativo. |
+| **RASTREABILIDADE**        | [RF1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                                                                                 |
+| **STATUS**                 | Não implementada                                                                                                                                                                                                                                                        |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                                                                                                                                                                                                               |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                                                                                                                                                                                                              |
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+---
+
+### US-26 - Cadastro de CPF via aplicativo
+
+<p style="text-align: center"><b>Tabela 26</b> - Tabela da história de usuário 26 (US-26) </p>
+
+| Campo                      | Descrição                                                                                                                                                                                                                                                                                                                              |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CÓDIGO**                 | US-26                                                                                                                                                                                                                                                                                                                                  |
+| **TÍTULO**                 | Cadastro de CPF remotamente pelo app                                                                                                                                                                                                                                                                                                   |
+| **HISTÓRIA DE USUÁRIO**    | Como cidadão, quero poder cadastrar meu CPF de forma totalmente remota pelo app, para que eu não precise comparecer fisicamente a uma unidade da Receita Federal.                                                                                                                                                                      |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O aplicativo deve oferecer um formulário com os dados necessários para emissão de CPF.<br>- O sistema deve validar os dados em tempo real e solicitar documentos via upload.<br>- O status do pedido deve ser atualizado no próprio app.<br>- Ao final, deve permitir o download ou visualização do comprovante de inscrição no CPF. |
+| **RASTREABILIDADE**        | [RF2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                                                                                                                                                |
+| **STATUS**                 | Não implementada                                                                                                                                                                                                                                                                                                                       |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                                                                                                                                                                                                                                                                              |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                                                                                                                                                                                                                                                                             |
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+---
+
+### US-27 - Integração com conta Gov.br
+
+<p style="text-align: center"><b>Tabela 27</b> - Tabela da história de usuário 27 (US-27) </p>
+
+| Campo                      | Descrição                                                                                                                                                                                                                                     |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CÓDIGO**                 | US-27                                                                                                                                                                                                                                         |
+| **TÍTULO**                 | Login com conta Gov.br                                                                                                                                                                                                                        |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero acessar o app utilizando minha conta Gov.br, para facilitar o login e garantir a segurança dos meus dados.                                                                                                           |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O app deve oferecer botão de login com Gov.br já na tela inicial.<br>- A autenticação deve ser redirecionada para o ambiente oficial do Gov.br.<br>- Após autenticar, o usuário deve retornar automaticamente ao app com a sessão iniciada. |
+| **RASTREABILIDADE**        | [RF12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                                                      |
+| **STATUS**                 | Implementada                                                                                                                                                                                                                                  |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                                                                                                                                                                                     |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                                                                                                                                                                                    |
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+---
+
+### US-28 - Envio de documentos para instrução de processos
+
+<p style="text-align: center"><b>Tabela 28</b> - Tabela da história de usuário 28 (US-28) </p>
+
+| Campo                      | Descrição                                                                                                                                                                                                                                             |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CÓDIGO**                 | US-28                                                                                                                                                                                                                                                 |
+| **TÍTULO**                 | Enviar documentos para processos pelo app                                                                                                                                                                                                             |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero enviar documentos diretamente pelo aplicativo, para instruir ou complementar processos junto à Receita Federal sem precisar ir a uma unidade presencial.                                                                     |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O usuário deve poder selecionar o tipo de processo que deseja instruir.<br>- O sistema deve aceitar arquivos PDF, JPG e PNG.<br>- O usuário deve receber uma confirmação do envio e protocolo.<br>- O status do processo deve ser visível pelo app. |
+| **RASTREABILIDADE**        | [RF13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                                                              |
+| **STATUS**                 | Implementada                                                                                                                                                                                                                                          |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                                                                                                                                                                                             |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                                                                                                                                                                                            |
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+---
+
+### US-29 - Envio da declaração do IR diretamente pelo app
+
+<p style="text-align: center"><b>Tabela 29</b> - Tabela da história de usuário 29 (US-29) </p>
+
+| Campo                      | Descrição                                                                                                                                                                                                                                              |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **CÓDIGO**                 | US-29                                                                                                                                                                                                                                                  |
+| **TÍTULO**                 | Envio da declaração do IR pelo app                                                                                                                                                                                                                     |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero enviar minha declaração do Imposto de Renda diretamente pelo aplicativo, para cumprir minha obrigação fiscal de maneira mais rápida e prática.                                                                                |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O app deve permitir o preenchimento completo ou importação da declaração.<br>- Deve haver botão de envio oficial da declaração.<br>- O sistema deve emitir um comprovante de entrega ao final.<br>- Caso haja erros, o app deve orientar a correção. |
+| **RASTREABILIDADE**        | [RF15](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                                                               |
+| **STATUS**                 | Implementada                                                                                                                                                                                                                                           |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                                                                                                                                                                                              |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                                                                                                                                                                                             |
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+---
+
+### US-30 - Histórico de declarações enviadas
+
+<p style="text-align: center"><b>Tabela 30</b> - Tabela da história de usuário 30 (US-30) </p>
+
+| Campo                      | Descrição                                                                                                                                                                                                                              |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CÓDIGO**                 | US-30                                                                                                                                                                                                                                  |
+| **TÍTULO**                 | Histórico de envio das declarações                                                                                                                                                                                                     |
+| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero visualizar o histórico das minhas declarações já enviadas pelo app, para que eu possa consultar datas, comprovantes e possíveis pendências.                                                                   |
+| **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve listar as declarações enviadas por ano.<br>- Deve ser possível baixar o comprovante em PDF.<br>- Declarações com pendências devem ser sinalizadas com alertas.<br>- O sistema deve permitir filtro por ano ou status. |
+| **RASTREABILIDADE**        | [RF16](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                                               |
+| **STATUS**                 | Implementada                                                                                                                                                                                                                           |
+| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                                                                                                                                                                              |
+| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                                                                                                                                                                             |
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+---
+
 ## Video da validação 
 
 
@@ -184,3 +302,4 @@ Versão |   Data     | Descrição | Autor(es) | Revisor(es)
 ------ | ---------- | --------------------------------------------- | ---------- | ----------
 `1.0`  | 31/05/2025 | Criação do documento das histórias de usuário | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
 `1.1`  | 31/05/2025 | Criação das US01 - US06 | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
+`1.1`  | 31/05/2025 | Criação das US25 - US30 | [Jose Eduardo](https://github.com/Diaxiz) | [Thales Germano](https://github.com/jevprado) |
