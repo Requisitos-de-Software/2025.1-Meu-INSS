@@ -1,6 +1,6 @@
 ## 1. Lista de Verificação dos Entregáveis
 
-Esta é uma lista de verificação com critérios para serem observados na **quarta entrega**: *Modelagem de Requisitos: Ágil* (Histórias de Usuário, Backlogs, NFR Framework).
+Esta é uma lista de verificação com critérios para serem observados na **quarta entrega**: *Modelagem de Requisitos: Ágil* (Histórias de Usuário, Backlogs, NFR Framework)
 
 ### 1.1 Itens da Lista de Verificação
 
