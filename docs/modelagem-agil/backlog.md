@@ -14,7 +14,7 @@ O backlog do produto é uma **lista priorizada de demandas** que representam fun
 
 A definição do backlog do produto foi conduzida a partir da análise dos requisitos funcionais previamente elicitados. Esses requisitos foram interpretados e refinados pela equipe de desenvolvimento com base em documentos oficiais, observação de necessidades do sistema e levantamento colaborativo.
 
-Para facilitar a organização, as histórias de usuário foram categorizadas em temas, épicos e features, permitindo uma visão hierárquica do backlog e auxiliando no planejamento das entregas.
+Para facilitar a organização, as histórias de usuário foram categorizadas em épicos e features, permitindo uma visão hierárquica do backlog e auxiliando no planejamento das entregas.
 
 
 <p style="text-align: center"><b>Tabela 1</b> - Épicos e Features</p>
