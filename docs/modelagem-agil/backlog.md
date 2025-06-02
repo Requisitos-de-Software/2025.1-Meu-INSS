@@ -1,7 +1,7 @@
 # Backlog do Produto
 ## Introdução
 O backlog do produto é uma **lista priorizada de demandas** que representam funcionalidades, melhorias, correções de erros ou qualquer outra necessidade relacionada ao produto. Cada item do backlog serve como base para o planejamento das sprints, sendo essencial em metodologias ágeis.
-É importante destacar que o backlog é um artefato **dinâmico** — novos itens podem ser adicionados a qualquer momento do desenvolvimento. Os requisitos presentes no backlog podem estar organizados em diferentes níveis de abstração, como **épicos, temas e histórias de usuário**, permitindo uma estrutura hierárquica e flexível.
+É importante destacar que o backlog é um artefato **dinâmico** — novos itens podem ser adicionados a qualquer momento do desenvolvimento. Os requisitos presentes no backlog podem estar organizados em diferentes níveis de abstração, como **épicos e histórias de usuário**, permitindo uma estrutura hierárquica e flexível.
 ## Vantagens de Utilizar o Backlog
 - Favorece a comunicação e o alinhamento entre todos os envolvidos no projeto quanto às prioridades e ao progresso.
 - Garante que a equipe foque nas funcionalidades com **maior valor para o negócio**.
