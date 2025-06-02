@@ -11,8 +11,8 @@ O backlog do produto é uma **lista priorizada de demandas** que representam fun
 - **Gera valor ao cliente final** ao priorizar entregas significativas.
 - Ajuda a antecipar e mitigar riscos potenciais, reduzindo problemas futuros.
 ## Metodologia
+
 A definição do backlog do produto foi conduzida a partir da análise dos requisitos funcionais previamente elicitados. Esses requisitos foram interpretados e refinados pela equipe de desenvolvimento com base em documentos oficiais, observação de necessidades do sistema e levantamento colaborativo.
-Os critérios de aceitação foram definidos pela equipe com base no comportamento esperado do sistema, e cada história foi priorizada segundo o método Three-Level Scale, para priorização preliminar, sendo classificadas como de Alta, Média ou Baixa prioridade, conforme seu impacto no valor entregue ao usuário. A priorização final para implementação no ciclo atual foi refinada com o uso da técnica MoSCoW, que define o grau de urgência e necessidade de cada funcionalidade.
 
 Para facilitar a organização, as histórias de usuário foram categorizadas em temas, épicos e features, permitindo uma visão hierárquica do backlog e auxiliando no planejamento das entregas.
 
@@ -60,7 +60,7 @@ Para facilitar a organização, as histórias de usuário foram categorizadas em
 
 ### Épico 01: Declaração do Imposto de Renda
 
-<p style="text-align: center"><b>Tabela 1</b> - Épico 01</p>
+<p style="text-align: center"><b>Tabela 2</b> - Épico 01</p>
 
 | Feature | História de Usuário | Priorização |
 |---------|---------------------|-------------|
@@ -76,7 +76,7 @@ Para facilitar a organização, as histórias de usuário foram categorizadas em
 
 ### Épico 02: Regularização e Pagamentos
 
-<p style="text-align: center"><b>Tabela 2</b> - Épico 02</p>
+<p style="text-align: center"><b>Tabela 3</b> - Épico 02</p>
 
 | Feature | História de Usuário | Priorização |
 |---------|---------------------|-------------|
@@ -89,7 +89,7 @@ Para facilitar a organização, as histórias de usuário foram categorizadas em
 
 ### Épico 03: Cadastro e Atualização Cadastral
 
-<p style="text-align: center"><b>Tabela 3</b> - Épico 03</p>
+<p style="text-align: center"><b>Tabela 4</b> - Épico 03</p>
 
 | Feature | História de Usuário | Priorização |
 |---------|---------------------|-------------|
@@ -102,7 +102,7 @@ Para facilitar a organização, as histórias de usuário foram categorizadas em
 
 ### Épico 04: Atendimento e Comunicação
 
-<p style="text-align: center"><b>Tabela 4</b> - Épico 04</p>
+<p style="text-align: center"><b>Tabela 5</b> - Épico 04</p>
 
 | Feature | História de Usuário | Priorização |
 |---------|---------------------|-------------|
@@ -114,7 +114,7 @@ Para facilitar a organização, as histórias de usuário foram categorizadas em
 
 ### Épico 05: Experiência do Usuário e Acessibilidade
 
-<p style="text-align: center"><b>Tabela 5</b> - Épico 05</p>
+<p style="text-align: center"><b>Tabela 6</b> - Épico 05</p>
 
 | Feature | História de Usuário | Priorização |
 |---------|---------------------|-------------|
@@ -128,7 +128,7 @@ Para facilitar a organização, as histórias de usuário foram categorizadas em
 
 ### Épico 06: Gestão de Documentos e Processos
 
-<p style="text-align: center"><b>Tabela 6</b> - Épico 06</p>
+<p style="text-align: center"><b>Tabela 7</b> - Épico 06</p>
 
 | Feature | História de Usuário | Priorização |
 |---------|---------------------|-------------|
@@ -140,7 +140,7 @@ Para facilitar a organização, as histórias de usuário foram categorizadas em
 
 ### Épico 07: Integrações e Autorização
 
-<p style="text-align: center"><b>Tabela 7</b> - Épico 07</p>
+<p style="text-align: center"><b>Tabela 8</b> - Épico 07</p>
 
 | Feature | História de Usuário | Priorização |
 |---------|---------------------|-------------|
