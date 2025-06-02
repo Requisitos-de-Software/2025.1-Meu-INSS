@@ -57,10 +57,7 @@ Esta é uma lista de verificação com critérios para serem observados na *quar
 
 ---
 
-## 3. Histórico de Versões
-
-<font size="3"><p style="text-align: center">Tabela 3: Histórico de Versões</p></font>
-
-| Versão | Descrição | Autor | Data | Revisor |
-|--------|-----------|--------|------|---------|
-| 1.0 | Criação da lista de verificação da Entrega 4 | [Diassis](https://github.com/Diaxiz) | 01/06/2025 | [José Eduardo](https://github.com/jevprado) |
+## 3. Histórico de versão
+Versão |   Data     | Descrição | Autor(es) | Revisor(es)
+------ | ---------- | --------------------------------------------- | ---------- | ----------
+`1.0`  | 01/06/2025 | Criação da lista de verificação da Entrega 4 | [Diassis](https://github.com/Diaxiz) | [Thales Germano](https://github.com/thalesgvl) |
