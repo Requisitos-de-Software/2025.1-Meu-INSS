@@ -83,7 +83,7 @@ nav:
       - Cenários: modelagem/cenarios.md
       - Casos de uso: modelagem/casosdeuso.md
       - Léxicos: modelagem/lexicos.md
-      - Especificação Suplementar: modelagem/especificacao-suplementar.m
+      - Especificação Suplementar: modelagem/especificacao-suplementar.md
   - Modelagem ágil: 
       - NFR Framework: modelagem-agil/nfr-framework.md
       - Histórias de usuário: modelagem-agil/historias-usuario.md
