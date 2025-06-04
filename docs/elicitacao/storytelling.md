@@ -45,6 +45,27 @@ Paulo tem 19 anos e está no início da graduação em Engenharia de Software. S
 Certo dia, ao ver o pai utilizando o app da Receita Federal no celular, Paulo reconhece o aplicativo, mas não se sente motivado a saber mais. Para ele, esse tipo de ferramenta ainda parece distante da sua realidade. A burocracia e a linguagem técnica da área tributária o afastam ainda mais, reforçando sua percepção de que o tema é complicado e chato.
 Mesmo sabendo que, em algum momento, terá que lidar com isso, Paulo evita qualquer envolvimento. Ele ignora notificações relacionadas a impostos. Por enquanto, não tem nenhuma necessidade que o leve a utilizar o app da Receita Federal, e não demonstra qualquer interesse até que seja obrigatório.
 
+## Tabela de requisitos - storytelling 
+
+<p style="text-align: center"><b>Tabela 1</b> - Tabela de requisitos - Storytelling </p>
+
+| Código | Descrição                                                                               | Categoria | Status         | 
+| ------ | --------------------------------------------------------------------------------------- | --------- |-------------- |    
+| ST01   | Acesso simultâneo a múltiplos CPFs/CNPJs                                                | RF        | Não implementada |
+| ST02   | Acompanhamento de status da restituição (precisão quanto aos lotes)                     | RF        | Não implementada |
+| ST03   | Geração de guia de pagamentos                                                           | RF        | Implementada |
+| ST04   | Consultar débitos pendentes (DARFs)                                                     | RF        | Implementada |
+| ST05   | Pagamento do DARF com cartão de crédito                                                 | RF        | Implementada |
+| ST06   | Consultar o status do CPF (ativo ou não)                                                | RF        | Implementada |
+| ST07   | Emitir comprovante de CPF em PDF                                                        | RF        | Implementada |
+| ST08   | Conteúdo educativo para iniciantes                                                      | RNF       | Implementada |
+| ST09   | O aplicativo deve mostrar um histórico de envio das declarações entregues pelo usuário. | RF        | Implementada |
+| ST10   | Integração com conta Gov.br                                                             | RF        | Implementada |
+| ST11   | Interface com a possibilidade de uso do modo escuro                                     | RNF       | Não implementada |
+| ST12   | Clareza na apresentação de dados fiscais                                                | RNF       | Implementada |
+| ST13   | Integração confiável com serviços externos (Gov.br, instituições financeiras)           | RNF       | Implementada |
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado) 2025.</p></font>
 
 ## Bibliografia
 
@@ -59,6 +80,7 @@ Mesmo sabendo que, em algum momento, terá que lidar com isso, Paulo evita qualq
 
 
 ## Histórico de versão
-Versão |   Data  | Descrição | Autor(es) | Revisor(es)
------- | ---- | ------ | ---------- | ----------
-`1.0` | 30/04/2025 | Criação da página exclusiva para o Storytelling | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
+Versão |   Data    | Descrição                                                                   | Autor(es)  | Revisor(es) |
+------ | --------- | --------------------------------------------------------------------------- | ---------- | ----------  |
+`1.0`  |30/04/2025 | Criação da página exclusiva para o Storytelling                             | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
+`1.1`  |04/06/2025 | Adicionando uma tabela de requisitos já elicitados a partir do storytelling | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
