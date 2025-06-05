@@ -14,17 +14,20 @@ Requisitos Não Funcionais, que especificam restrições e qualidades esperadas 
 ## Tabela de requisitos elicitados 
 
 ### Tabela 01 - Requisitos Funcionais
-| ID   | Descrição                                                                                 | Categoria | Status           | Fonte |Validada | 
+
+<p style="text-align: center"><b>Tabela 1</b> - Tabela de requisitos  funcionais elicitados </p>
+
+| ID   | Descrição                                                                                 | Categoria | Status da implemntação       | Fonte |Validada | 
 | ---- | ----------------------------------------------------------------------------------------- | --------- | ---------------- | ----- | ----- | 
-| RF1  | Acesso simultâneo a múltiplos CPFs/CNPJs                                         | RF        | NÃO IMPLEMENTADO | [ADC1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)   | - |
-| RF2  | Cadastro de CPF via app (totalmente remoto)                                               | RF        | NÃO IMPLEMENTADO |[ADC2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
-| RF3  | Acompanhamento de status da restituição (precisão quanto aos lotes)                       | RF        | NÃO IMPLEMENTADO | [ADC3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)     |- |
-| RF4  | Notificação de vencimento próximo                                                         | RF        | NÃO IMPLEMENTADO |  [ADC4](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
-| RF5  | Agendar no próprio aplicativo atendimentos presenciais em unidades da Receita Federal     | RF        | NÃO IMPLEMENTADO |  [INT3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
-| RF6  | Acesso offline a serviços essenciais do app (históricos de contribuições, DARFs)          | RF        | NÃO IMPLEMENTADO | [ADC6](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
-| RF7  | Alteração de dados via app                                                                | RF        | NÃO IMPLEMENTADO |  [ADC7](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)    |- |
-| RF8  | Funcionalidade de histórico e acompanhamento de restituições de anos anteriores             | RF        | IMPLEMENTADO     |  [ADC8](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
-| RF9  | Declaração simplificada do IR                                                             | RF        | IMPLEMENTADO     |  [ADC9](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
+| RF01  | Acesso simultâneo a múltiplos CPFs/CNPJs                                         | RF        | NÃO IMPLEMENTADO | [ADC1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)   | - |
+| RF02  | Cadastro de CPF via app (totalmente remoto)                                               | RF        | NÃO IMPLEMENTADO |[ADC2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
+| RF03  | Acompanhamento de status da restituição (precisão quanto aos lotes)                       | RF        | NÃO IMPLEMENTADO | [ADC3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)     |- |
+| RF04  | Notificação de vencimento próximo                                                         | RF        | NÃO IMPLEMENTADO |  [ADC4](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
+| RF05  | Agendar no próprio aplicativo atendimentos presenciais em unidades da Receita Federal     | RF        | NÃO IMPLEMENTADO |  [INT3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
+| RF06  | Acesso offline a serviços essenciais do app (históricos de contribuições, DARFs)          | RF        | NÃO IMPLEMENTADO | [ADC6](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
+| RF07  | Alteração de dados via app                                                                | RF        | NÃO IMPLEMENTADO |  [ADC7](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)    |- |
+| RF08  | Funcionalidade de histórico e acompanhamento de restituições de anos anteriores             | RF        | IMPLEMENTADO     |  [ADC8](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
+| RF09  | Declaração simplificada do IR                                                             | RF        | IMPLEMENTADO     |  [ADC9](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
 | RF10 | Geração de guias de pagamento                                                             | RF        | IMPLEMENTADO     |  [ADC10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)    |- |
 | RF11 | Consultar o status do CPF (ativo ou não)                                                  | RF        | IMPLEMENTADO     |  [ADC11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)    |- |
 | RF12 | Integração com conta Gov.br                                                               | RF        | IMPLEMENTADO     |  [ADC12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)   |- |
@@ -54,7 +57,10 @@ Requisitos Não Funcionais, que especificam restrições e qualidades esperadas 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), [Thales Germano](https://github.com/thalesgvl) e [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 ### Tabela 02 - Requisitos Não-Funcionais
-| ID   | Descrição                                                                                  | Categoria | Status           | Fonte | Validada | 
+
+<p style="text-align: center"><b>Tabela 2</b> - Tabela de requisitos não funcionais elicitados </p>
+
+| ID   | Descrição                                                                                  | Categoria | Status da implemntação           | Fonte | Validada | 
 | ---- | ------------------------------------------------------------------------------------------ | --------- | ---------------- | ----- |----- |
 | RNF1 | Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot                 | RNF       | NÃO IMPLEMENTADO | [ADC13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |-|
 | RNF2 | Conteúdo educativo para iniciantes                                                         | RNF       | NÃO IMPLEMENTADO | [ADC14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST08](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)     |-|
