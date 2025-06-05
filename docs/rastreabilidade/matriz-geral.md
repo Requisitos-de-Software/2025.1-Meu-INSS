@@ -39,37 +39,35 @@ introd + objetivos aqui
 | RF24 | Reenvio de notificações perdidas via e-mail ou mensagem no app        | Não implementado       | [INT22](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | FAZER DEPOIS  | FAZER DEPOIS |
 | RF25 | Comparativo automático entre declarações de anos anteriores       | Não implementado       |  [INT23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | FAZER DEPOIS  | FAZER DEPOIS |
 | RF26 | FAQ interativo com busca inteligente (filtrado por tema: CPF, IRPF, Certidões etc.)        | Não implementado       |[INT24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)   | FAZER DEPOIS  | FAZER DEPOIS |
-| RF27 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RF28 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RF29 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RF30 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RF31 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RF32 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RF33 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RF34 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF01|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF02|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF03|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF04|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF05|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF06|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF07|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF08|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF09|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF10|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF11|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF12|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF13|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF14|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF15|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF16|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF17|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF18|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF19|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF20|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-| RNF21|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-
-
+| RF27 |  Integração com calendário do dispositivo para lembretes de obrigações fiscais        | Não implementado       |[INT25](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)   | FAZER DEPOIS  | FAZER DEPOIS |
+| RF28 | Consulta de inscrição no CNPJ         | Implementado       | [INT26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RF29 | Consulta de tabelas CNAE, NCM e unidades da Receita Federal        | Implementado        |[INT27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RF30 | Acesso à Caixa Postal para mensagens oficiais da Receita Federal        | Implementado       |[INT28](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    | FAZER DEPOIS  | FAZER DEPOIS |
+| RF31 | Visualização de notícias e vídeos institucionais da Receita Federal        | Implementado       | [INT29](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RF32 | Consultar débitos pendentes (DARFs)       | Implementado       | [ST04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RF33 | Pagamento do DARF com cartão de crédito         | Implementado       | [ST05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)   | FAZER DEPOIS  | FAZER DEPOIS |
+| RF34 | Emitir comprovante de CPF em PDF        | Implementado       | [ST07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF01| Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot        | Não implementado       | [ADC13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF02| Conteúdo educativo para iniciantes         | Não implementado       | [ADC14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) e [ST08](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF03| Testes de desempenho para suportar alta demanda de usuários simultâneos        | Implementado       | [ADC15](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF04| Proteção de dados pessoais conforme a LGPD         | Implementado       | [ADC17](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF05| Interface responsiva e acessível        | Implementado       | [ADC18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF06| Interface com a possibilidade de uso do modo escuro        | Não implementado       | [ADC23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [INT17](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) e [ST11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF07| Testes de segurança para garantir a integridade dos dados e autenticação segura         | Implementado       | [ADC19](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF08| Compatível com Android 8+ e iOS 14+         | Implementado       | [ADC20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF09| Testes de usabilidade semestrais com público 60+         | Implementado       | [ADC21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF10| O aplicativo deve ter tempo de resposta inferior a 3 segundos para ações comuns        | Implementado       | [INT9](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF11|  O aplicativo deve funcionar em smartphones com telas de 4.5" a 7" sem perda de usabilidade        | Implementado       | [INT10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF12|  Linguagem da interface deve seguir padrão A2 do CEFR, evitando jargões técnicos         | Implementado       | [ADC25](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF13|  O app deve suportar modo de operação em baixa conectividade, com cache de dados essenciais        | Não implementado       | [INT11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF14| Atualizações do app não devem causar perda de dados armazenados localmente        | Implementado       |[INT12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF15| Tempo de inatividade programada máximo de 2h por mês, com aviso prévo        | Implementado       | [INT13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF16| Tempo de carregamento inicial do app não deve ultrapassar 5 segundos em conexão móvel       | Implementado       | [ADC24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF17| Suporte a leitores de tela (TalkBack, VoiceOver) em todas as funcionalidades         | Implementado       | [INT14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) e [ADC23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF18| Armazenamento anônimo de logs de erro respeitando a LGPD                                   | RNF       | IMPLEMENTADO        | Implementado       | [INT15](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF19| Versão mínima em HTML5 responsiva para acesso via navegador em caso de falha do app         | Não implementado       | [INT16](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF20| Clareza na apresentação de dados fiscais        | Implementado       | [ST12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF21| Integração confiável com serviços externos (Gov.br, instituições financeiras)        | Implementado       | [ST13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)  | FAZER DEPOIS  | FAZER DEPOIS |
 
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
