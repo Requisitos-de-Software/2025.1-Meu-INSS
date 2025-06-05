@@ -37,8 +37,8 @@ introd + objetivos aqui
 | RF22 | Permitir via App autorização de acesso à terceiros        | Implementado       | [INT20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | FAZER DEPOIS  | FAZER DEPOIS |
 | RF23 | Compartilhamento de comprovantes e certidões por WhatsApp, e-mail ou Drive       | Não implementado       | [INT21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)   | FAZER DEPOIS  | FAZER DEPOIS |
 | RF24 | Reenvio de notificações perdidas via e-mail ou mensagem no app        | Não implementado       | [INT22](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | FAZER DEPOIS  | FAZER DEPOIS |
-| RF25 | Comparativo automático entre declarações de anos anteriores       | Implementado       |  [INT23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | FAZER DEPOIS  | FAZER DEPOIS |
-| RF26 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RF25 | Comparativo automático entre declarações de anos anteriores       | Não implementado       |  [INT23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RF26 | FAQ interativo com busca inteligente (filtrado por tema: CPF, IRPF, Certidões etc.)        | Não implementado       |[INT24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)   | FAZER DEPOIS  | FAZER DEPOIS |
 | RF27 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
 | RF28 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
 | RF29 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
@@ -47,33 +47,27 @@ introd + objetivos aqui
 | RF32 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
 | RF33 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
 | RF34 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| RNF01|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF02|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF03|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF04|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF05|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF06|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF07|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF08|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF09|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF10|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF11|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF12|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF13|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF14|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF15|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF16|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF17|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF18|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF19|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF20|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RNF21|         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
 
 
 
