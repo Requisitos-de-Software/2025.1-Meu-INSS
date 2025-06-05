@@ -27,7 +27,26 @@ introd + objetivos aqui
 | RF12 | Integração com conta Gov.br   | Implementado       | [ADC12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) e [ST10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) | FAZER DEPOIS  | FAZER DEPOIS   |
 | RF13 | Envio de documentos para instrução de processos         | Implementado       | [ADC16](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) | FAZER DEPOIS  | FAZER DEPOIS   |
 | RF14 | Acessar informações detalhadas a cerca da declaração de imposto de renda de um ano especifico         | Implementado       | [INT1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) | FAZER DEPOIS  | FAZER DEPOIS   |
-| RF15 |  O aplicativo deve permitir o envio da declaração do Imposto de Renda diretamente pelo app        | Implementado       | [INT2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | FAZER DEPOIS  | FAZER DEPOIS   |
+| RF15 |  O aplicativo deve permitir o envio da declaração do Imposto de Renda diretamente pelo app        | Implementado       | [INT2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RF16 | O aplicativo deve mostrar um histórico de envio das declarações entregues pelo usuário.        | Implementado       | [INT5](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) e [ST09](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)    | FAZER DEPOIS  | FAZER DEPOIS |
+| RF17 |  Emissão de certidão negativa via aplicativo        | Implementado       | [INT6](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)   | FAZER DEPOIS  | FAZER DEPOIS |
+| RF18 |  Consultar pendências de Malha         | Implementado       | [INT7](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) | FAZER DEPOIS  | FAZER DEPOIS |
+| RF19 | Dashboard para profissionais contábeis de múltiplos CPFs/CNPJs   | Não implementado       | [INT8](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) e [ST14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)   | FAZER DEPOIS  | FAZER DEPOIS |
+| RF20 | Acompanhar processos no próprio aplicativo        | Não implementado      | [INT18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)   | FAZER DEPOIS  | FAZER DEPOIS |
+| RF21 | Integração com o App Esocial dentro do próprio       | Não implementado       | [INT19](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)   | FAZER DEPOIS  | FAZER DEPOIS |
+| RF22 | Permitir via App autorização de acesso à terceiros        | Implementado       | [INT20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RF23 | Compartilhamento de comprovantes e certidões por WhatsApp, e-mail ou Drive       | Não implementado       | [INT21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)   | FAZER DEPOIS  | FAZER DEPOIS |
+| RF24 | Reenvio de notificações perdidas via e-mail ou mensagem no app        | Não implementado       | [INT22](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RF25 | Comparativo automático entre declarações de anos anteriores       | Implementado       |  [INT23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | FAZER DEPOIS  | FAZER DEPOIS |
+| RF26 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RF27 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RF28 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RF29 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RF30 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RF31 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RF32 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RF33 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
+| RF34 |         | Implementado       |   | FAZER DEPOIS  | FAZER DEPOIS |
 
 
 

@@ -64,6 +64,7 @@ Mesmo sabendo que, em algum momento, terá que lidar com isso, Paulo evita qualq
 | ST11   | Interface com a possibilidade de uso do modo escuro                                     | RNF       | Não implementada |
 | ST12   | Clareza na apresentação de dados fiscais                                                | RNF       | Implementada |
 | ST13   | Integração confiável com serviços externos (Gov.br, instituições financeiras)           | RNF       | Implementada |
+| ST14   | Dashboard para profissionais contábeis de múltiplos CPFs/CNPJs                          | RF        | Não implementada |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado) 2025.</p></font>
 
