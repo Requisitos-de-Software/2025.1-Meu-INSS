@@ -629,4 +629,4 @@ Versão |   Data     | Descrição | Autor(es) | Revisor(es)
 `1.3`  | 31/05/2025 | Criação das US07 - US12 | [Thales Germano](https://github.com/thalesgvl) |[Diassis](https://github.com/Diaxiz) |
 `1.4`  | 31/05/2025 | Criação das US13 - US18 | [Júlia Massuda](https://github.com/JuliaReis18) |[]() |
 `1.5`  | 31/05/2025 | Criação das US31 - US36 | [João Pedro Rodrigues](https://github.com/JpRodrigues2) |[Júlia Massuda](https://github.com/JuliaReis18)|
-`1.6`  | 06/06/2025 | Adicionando Validaçao e Priorização das US13 - US18 | [Júlia Massuda](https://github.com/JuliaReis18) |[]() |
+`1.6`  | 06/06/2025 | Adicionando Validaçao e Priorização das US13 - US18 | [Júlia Massuda](https://github.com/JuliaReis18) |[Jose Eduardo](https://github.com/jevprado) |
