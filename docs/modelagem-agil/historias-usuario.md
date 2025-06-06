@@ -298,8 +298,8 @@ Padrão de tabelas para as histórias de usuário
 | **CRITÉRIOS DE ACEITAÇÃO** | - O aplicativo deve permitir compartilhamento via WhatsApp, e-mail e Google Drive/iCloud. <br> - Documentos devem manter formato oficial e assinatura digital. <br> - Deve ser possível compartilhar múltiplos documentos simultaneamente. <br> - O sistema deve registrar o histórico de compartilhamentos para auditoria. <br> - Deve incluir opções de proteção por senha nos documentos compartilhados.                    |
 | **RASTREABILIDADE**        | [RF24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Não implementada                                                          |
-| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
-| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+| **PRIORIDADE**             | MOSCOW - Must Have                                                  |
+| **VALIDAÇÃO**              | Validada com o usuário                          |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
@@ -315,8 +315,8 @@ Padrão de tabelas para as histórias de usuário
 | **CRITÉRIOS DE ACEITAÇÃO** | - O usuário deve conseguir visualizar histórico de notificações enviadas. <br> - Deve ser possível reenviar notificações via e-mail ou push no app. <br> - O sistema deve permitir configurar canais preferenciais de comunicação. <br> - Deve incluir filtros por tipo de notificação e período. <br> - Notificações críticas devem ter opção de reenvio automático.                    |
 | **RASTREABILIDADE**        | [RF25](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Não implementada                                                          |
-| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
-| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+| **PRIORIDADE**             | MOSCOW - Should Have                                                 |
+| **VALIDAÇÃO**              | Validada pelo Usuário
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
@@ -332,8 +332,8 @@ Padrão de tabelas para as histórias de usuário
 | **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve gerar comparativo visual entre declarações de diferentes anos. <br> - Deve destacar variações significativas em rendimentos, deduções e impostos. <br> - O usuário deve poder selecionar quais anos comparar. <br> - Deve incluir alertas para divergências que possam gerar questionamentos. <br> - O comparativo deve ser exportável em formato PDF.                    |
 | **RASTREABILIDADE**        | [RF26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Não implementada                                                          |
-| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
-| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+| **PRIORIDADE**             | MOSCOW - Should Have                                                |
+| **VALIDAÇÃO**              | Validada                               |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
@@ -349,8 +349,8 @@ Padrão de tabelas para as histórias de usuário
 | **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve permitir busca por palavras-chave com sugestões automáticas. <br> - Deve incluir filtros por categoria (CPF, IRPF, Certidões, etc.). <br> - As respostas devem ser organizadas por relevância e popularidade. <br> - Deve incluir recursos visuais como imagens e vídeos explicativos. <br> - O usuário deve poder avaliar a utilidade das respostas encontradas.                    |
 | **RASTREABILIDADE**        | [RF27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Não implementada                                                          |
-| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
-| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+| **PRIORIDADE**             | MOSCOW - Should Have                                                |
+| **VALIDAÇÃO**              | Validada pelo usuário                                |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
@@ -366,8 +366,8 @@ Padrão de tabelas para as histórias de usuário
 | **CRITÉRIOS DE ACEITAÇÃO** | - O aplicativo deve solicitar permissão para acessar o calendário do usuário. <br> - Deve criar eventos automaticamente para vencimentos de obrigações fiscais. <br> - Os eventos devem incluir informações detalhadas sobre a obrigação. <br> - O usuário deve poder personalizar antecedência dos lembretes. <br> - Deve sincronizar automaticamente mudanças de datas e novos prazos.                    |
 | **RASTREABILIDADE**        | [RF28](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Não implementada                                                          |
-| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
-| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+| **PRIORIDADE**             | MOSCOW - Must Have                                             |
+| **VALIDAÇÃO**              | Validada pelo Usuário                               |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
@@ -383,8 +383,8 @@ Padrão de tabelas para as histórias de usuário
 | **CRITÉRIOS DE ACEITAÇÃO** | - O dashboard deve exibir resumo de todos os clientes vinculados. <br> - Deve mostrar alertas de vencimentos e pendências por cliente. <br> - Deve permitir filtros por tipo de obrigação, status e prazo. <br> - O sistema deve gerar relatórios consolidados. <br> - Deve incluir ferramentas de busca rápida por CPF/CNPJ ou nome do cliente.                    |
 | **RASTREABILIDADE**        | [RF19](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Não implementada                                                          |
-| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
-| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+| **PRIORIDADE**             | MOSCOW - Should Have                                                |
+| **VALIDAÇÃO**              | Validada pelo Usuário                              |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
@@ -628,4 +628,5 @@ Versão |   Data     | Descrição | Autor(es) | Revisor(es)
 `1.2`  | 31/05/2025 | Criação das US25 - US30 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |
 `1.3`  | 31/05/2025 | Criação das US07 - US12 | [Thales Germano](https://github.com/thalesgvl) |[Diassis](https://github.com/Diaxiz) |
 `1.4`  | 31/05/2025 | Criação das US13 - US18 | [Júlia Massuda](https://github.com/JuliaReis18) |[]() |
-`1.5`  | 31/05/2025 | Criação das US31 - US36 | [João Pedro Rodrigues](https://github.com/JpRodrigues2) |[]() |
+`1.5`  | 31/05/2025 | Criação das US31 - US36 | [João Pedro Rodrigues](https://github.com/JpRodrigues2) |[Júlia Massuda](https://github.com/JuliaReis18)|
+`1.6`  | 06/06/2025 | Adicionando Validaçao e Priorização das US13 - US18 | [Júlia Massuda](https://github.com/JuliaReis18) |[]() |
