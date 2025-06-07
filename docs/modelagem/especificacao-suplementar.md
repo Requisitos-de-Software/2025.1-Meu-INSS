@@ -1,10 +1,8 @@
 ## Introdução 
 
 Este documento apresenta a Especificação Suplementar, que trata-se de um documento em linguagem natural, no qual são 
-descritos os requisitos não funcionais do aplicativo da Receita Federal. Dentre os requisitos levantados estão inclusos:  Requisitos legais, regulatórios, atributos de qualidade, padrões técnicos, desempenho, suportabilidade e restrições de design.
+descritos os requisitos não funcionais do aplicativo da Receita Federal. Dentre as categorias detalhadas estão: Acessibilidade, restrições de design, requisitos de implementação, sistema de ajuda e documentação, requisitos de licenciamento, observações legais, padrões aplicáveis e requisitos físicos. 
 
-
-Introd + finalidade do seu uso 
 
 ## Metodologia 
 
@@ -23,7 +21,9 @@ A classificação e organização dos requisitos foi realizada com base na metod
 - **+**: requisitos legais (LGPD), acessibilidade avançada, aspectos técnicos complementares.
 
 
-## Teste
+## Classificação dos Requisitos Não Funcionais 
+
+Abaixo, a divisão dos Requisitos Não Funcionais, divididos por tabelas, seguindo a classificação da metodologia **FURPS+**. 
 
 ### Usabilidade (U):
 
