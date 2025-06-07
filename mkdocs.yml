@@ -90,6 +90,8 @@ nav:
       - Backlog: modelagem-agil/backlog.md
   - Rastreabilidade: 
       - Matriz Geral: rastreabilidade/matriz-geral.md
+      - Backward-from: rastreabilidade/backward-from.md
+      - Foward-to: rastreabilidade/foward-to.md      
       - Pós-Rastreabilidade: rastreabilidade/pos-rastreabilidade.md
   
 
