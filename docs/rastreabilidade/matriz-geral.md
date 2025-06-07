@@ -82,5 +82,5 @@ introd + objetivos aqui
 
 | Versão | Data       | Descrição                                      | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 05/06/2025 | Criação do documento matriz geral             | [José Eduardo](https://github.com/jevprado)    | [Diassis](https://github.com/Diaxiz) |
-| `1.1`   | 05/06/2025 | Adicionando tabela da matriz geral            | [José Eduardo](https://github.com/jevprado)    | [Diassis](https://github.com/Diaxiz) |
+| `1.0`   | 05/06/2025 | Criação do documento matriz geral             | [José Eduardo](https://github.com/jevprado)    | [Thales Germano](https://github.com/thalesgvl) |
+| `1.1`   | 05/06/2025 | Adicionando tabela da matriz geral            | [José Eduardo](https://github.com/jevprado)    | [Thales Germano](https://github.com/thalesgvl) |
