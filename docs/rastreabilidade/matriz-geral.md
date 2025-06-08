@@ -1,9 +1,41 @@
 ## Introdução 
-introd + objetivos aqui 
+<p style="text-indent: 2em; text-align: justify;">
+A matriz geral é uma ferramenta utilizada para organizar os requisitos identificados no projeto, permitindo visualizar suas ligações anteriores e posteriores. Estruturada em formato de tabela, ela facilita o mapeamento entre cada requisito e os documentos que o justificam ou resultam dele.
+</p>
+
+<p style="text-indent: 2em; text-align: justify;">
+Por meio dessa associação entre documentos e requisitos, é possível observar interdependências e relações diretas entre os elementos do sistema. A matriz também possibilita rastrear os vínculos entre os diferentes artefatos produzidos durante o desenvolvimento.
+</p>
+
+<p style="text-indent: 2em; text-align: justify;">
+Assim, essa matriz contribui significativamente para a análise dos requisitos, oferecendo uma visão ampla e integrada de como os componentes do projeto estão conectados.
+</p>
+
+<p style="text-indent: 2em; text-align: justify;">
+O objetivo deste artefato é reunir, em uma única matriz de rastreabilidade, os resultados obtidos por meio das análises Backward-From e Forward-From. Dessa forma, ele consolida as informações de rastreamento dos requisitos em uma visão integrada e mais completa.
+</p>
 
 
-## Metodologia 
+## Metodologia
 
+<p style="text-indent: 2em; text-align: justify;">
+Para a construção da matriz geral, foram utilizados os requisitos elicitados no artefato de Requisitos Elicitados, com foco naqueles que apresentavam status de implementação total, parcial ou inexistente no momento da análise. A matriz tem como objetivo central consolidar, em um único artefato, as evidências de rastreabilidade dos requisitos, tanto em sua origem (pré-rastreabilidade) quanto nas saídas e artefatos gerados a partir deles (pós-rastreabilidade).
+</p>
+
+<p style="text-indent: 2em; text-align: justify;">
+A tabela foi estruturada com colunas que contemplam os seguintes elementos: 
+</p>
+
+- **ID**: Identificador único de cada requisito (ex: RF01, RNF01).
+- **Descrição**: Resumo textual da funcionalidade ou característica descrita pelo requisito.
+- **Status da implementação**: Informa se o requisito está implementado, não implementado ou parcialmente implementado.
+- **Pré-Rastreabilidade**: Fonte original do requisito, como análise documental, entrevistas, storytelling ou introspecção.
+- **Artefatos**: Representa os elementos gerados a partir do requisito, como histórias de usuário, protótipos, casos de uso ou diagramas.
+- **Elos**: Evidenciam as conexões entre os requisitos e os artefatos gerados, reforçando o encadeamento entre as fases do processo de engenharia de requisitos.
+
+<p style="text-indent: 2em; text-align: justify;">
+Com isso, a matriz geral permite não apenas documentar o histórico dos requisitos, mas também facilitar a verificação da cobertura e da consistência dos artefatos produzidos ao longo do projeto.
+</p>
 
 
 ## Matriz geral
@@ -84,3 +116,4 @@ introd + objetivos aqui
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 05/06/2025 | Criação do documento matriz geral             | [José Eduardo](https://github.com/jevprado)    | [Thales Germano](https://github.com/thalesgvl) |
 | `1.1`   | 05/06/2025 | Adicionando tabela da matriz geral            | [José Eduardo](https://github.com/jevprado)    | [Thales Germano](https://github.com/thalesgvl) |
+| `1.2`   | 07/06/2025 | Adicionado Introdução e Metodologia em Matriz-Geral           | [Diaxiz](https://github.com/jevprado)    | [José Eduardo](https://github.com/jevprado) |
