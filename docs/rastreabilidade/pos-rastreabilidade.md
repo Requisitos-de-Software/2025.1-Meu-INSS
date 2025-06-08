@@ -34,6 +34,7 @@ Fonte:
 | **Backward-from** | [ADC2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [US26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-26-cadastro-de-cpf-via-aplicativo), [C01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/#cenario-01) |
 | **Foward-from** | Agregação – Relacionado à etapa de inscrição<br>Satisfação – Reduz burocracia para o usuário |
 | **Representação** | C01, US26 |
+
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 ---
@@ -48,6 +49,7 @@ Fonte:
 | **Backward-from** | [ADC12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/), [US27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-27-integracao-com-conta-govbr) |
 | **Foward-from** | Agregação – Integração com autenticação do sistema<br>Satisfação – Facilita login com identidade digital |
 | **Representação** | US27 |
+
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 ---
@@ -62,6 +64,7 @@ Fonte:
 | **Backward-from** | [ADC16](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [US28](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-28-envio-de-documentos-para-instrucao-de-processos) |
 | **Foward-from** | Agregação – Alocado no Módulo de Processos<br>Satisfação – Evita deslocamentos físicos para entrega documental |
 | **Representação** | US28 |
+
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 ---
@@ -76,6 +79,7 @@ Fonte:
 | **Backward-from** | [INT2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [US29](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-29-envio-da-declaracao-do-ir-diretamente-pelo-app), [L03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l03-declarar-imposto-de-renda) |
 | **Foward-from** | Agregação – Parte do Módulo de Declarações<br>Satisfação – Simplifica o processo de declaração do IR |
 | **Representação** | US29, L03 |
+
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 ---
@@ -90,6 +94,7 @@ Fonte:
 | **Backward-from** | [INT5](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [ST09](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/), [US30](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-30-historico-de-declaracoes-enviadas) |
 | **Foward-from** | Agregação – Alocado no Módulo IR<br>Satisfação – Usuário pode verificar rapidamente o histórico de suas declarações |
 | **Representação** | US30 |
+
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 ---
@@ -104,6 +109,7 @@ Fonte:
 | **Backward-from** | [INT18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [US02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-02-agendar-no-proprio-app-da-receita-atendimentos-presenciais) |
 | **Foward-from** | Agregação – Alocado no Módulo de Agendamento<br>Satisfação – Facilita agendamento de serviços pelo app |
 | **Representação** | US02 |
+
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 
