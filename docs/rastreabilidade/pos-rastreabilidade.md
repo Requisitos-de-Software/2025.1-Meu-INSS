@@ -82,6 +82,7 @@ Fonte:
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
+
 ---
 
 <p style="text-align: center"><b>Tabela 11</b> - Tabela 11 - Cartão Pós Rastreabilidade RF11</p>
@@ -107,7 +108,9 @@ Fonte:
 | **Código do req** | [RF12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf12) |
 | **Backward-from** | [ADC12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/), [US27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-27-integracao-com-conta-govbr) |
 | **Foward-from** | Agregação – Integração com autenticação do sistema<br>Satisfação – Facilita login com identidade digital |
-| **Representação** | |
+| **Representação** |-|
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
 ---
@@ -121,7 +124,9 @@ Fonte:
 | **Código do req** | [RF13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf13) |
 | **Backward-from** | [ADC16](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [US28](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-28-envio-de-documentos-para-instrucao-de-processos) |
 | **Foward-from** | Agregação – Alocado no Módulo de Processos<br>Satisfação – Evita deslocamentos físicos para entrega documental |
-| **Representação** | |
+| **Representação** | - |
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
 ---
@@ -150,7 +155,8 @@ Fonte:
 | **Foward-from** | Agregação – Parte do Módulo de Declarações<br>Satisfação – Simplifica o processo de declaração do IR |
 | **Representação** |  |
 
-<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
 ---
 
 <p style="text-align: center"><b>Tabela 16</b> - Tabela 16 - Cartão Pós Rastreabilidade RF16 </p>
@@ -164,8 +170,8 @@ Fonte:
 | **Foward-from** | Agregação – Alocado no Módulo IR<br>Satisfação – Usuário pode verificar rapidamente o histórico de suas declarações |
 | **Representação** |  |
 
-<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
----
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
 
 <p style="text-align: center"><b>Tabela 20</b> - Tabela 20 - Cartão Pós Rastreabilidade RF20 </p>
 
@@ -178,7 +184,7 @@ Fonte:
 | **Foward-from** | Agregação – Alocado no Módulo de Agendamento<br>Satisfação – Facilita agendamento de serviços pelo app |
 | **Representação** |  |
 
-<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 <p style="text-align: center"><b>Tabela 35</b> - Tabela 35 - Cartão Pós Rastreabilidade RNF01 </p>
 

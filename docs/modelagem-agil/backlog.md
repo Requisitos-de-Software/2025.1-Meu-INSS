@@ -46,7 +46,7 @@ Para facilitar a organização, as histórias de usuário foram categorizadas em
 |                                          | F23 - Integração com conta Gov.br                                                                                      |             |
 | **E06 - Gestão de Documentos e Processos**       | F24 - Envio de documentos para instrução de processos                                                                 |             |
 |                                          | F25 - Consulta de pendências de Malha Fiscal                                                                           |             |
-|                                          | F26 - Acompanhar processos administrativos                                                                             |             |
+
 | **E07 - Integrações e Autorização**               | F27 - Integração com eSocial                                                                                            |             |
 |                                          | F28 - Autorização de acesso a terceiros                                                                                 |             |
 |                                          | F29 - Consulta de tabelas auxiliares                                                                                   |             |
@@ -134,7 +134,7 @@ Para facilitar a organização, as histórias de usuário foram categorizadas em
 |---------|---------------------|-------------|
 | F24 - Envio de documentos para instrução de processos | US-28 - Envio de documentos para instrução de processos |             |
 | F25 - Consulta de pendências de Malha Fiscal | US-31 - Consulta de pendências de Malha Fiscal |             |
-| F26 - Acompanhar processos administrativos | US-32 - Acompanhar processos administrativos |             |
+
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado) e  [Thales Germano](https://github.com/thalesgvl).</p></font>
 
