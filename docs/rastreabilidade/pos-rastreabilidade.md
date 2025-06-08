@@ -511,9 +511,6 @@ Fonte:
 | Versão | Data       | Descrição                                      | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 05/06/2025 | Criação do documento de pós rastreabilidade   | [José Eduardo](https://github.com/jevprado)    | [Diassis](https://github.com/Diaxiz) |
-
 | `1.1`   | 08/06/2025 | Criação dos cartões RF02, RF12, RF13, RF15, RF16, RF20 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [Diassis](https://github.com/Diaxiz)   | [José Eduardo](https://github.com/jevprado)
-
 | `1.2`   | 05/06/2025 | Criação dos cartões RF03, RF05, RF10, RF11, RF14 e  RF17 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [José Eduardo](https://github.com/jevprado)   | [Diassis](https://github.com/Diaxiz)  |
-
 | `1.3`   | 05/06/2025 | Criação dos cartões RF03, RF05, RF10, RF11, RF14 e  RF17 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [Diassis](https://github.com/Diaxiz)   |  [José Eduardo](https://github.com/jevprado)  |
