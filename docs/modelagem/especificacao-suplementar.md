@@ -29,14 +29,14 @@ Abaixo, a divisão dos Requisitos Não Funcionais, divididos por tabelas, seguin
 
 <p style="text-align: center"><b>Tabela 1</b> - Tabela da usabilidade </p>
 
-| ID    | Descrição                                                                       | Rastreabilidade            |
-| ----- | ------------------------------------------------------------------------------- | -------------------------- | 
-| RNF1  | Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot                |  [ADC13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)                                                                                                  |
-| RNF2  | Conteúdo educativo para iniciantes                                              |  [ADC14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) e [ST08](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) |
-| RNF6  | Interface com a possibilidade de uso do modo escuro                             |  [ADC23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [INT17](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) e [ST11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)                                                                                                                                                                 |
-| RNF9  | Testes de usabilidade semestrais com público 60+                                | [ADC21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)                                                                                                                                                                                         |
-| RNF12 | Linguagem da interface deve seguir padrão A2 do CEFR, evitando jargões técnicos | [ADC25](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)                                                                                                                                                                        |
-| RNF20 | Clareza na apresentação de dados fiscais                                        |  [ST12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)                                                                                                                                                                                            |
+| ID    | Descrição                                                                       | Rastreabilidade            | Codigo |
+| ----- | ------------------------------------------------------------------------------- | -------------------------- | ------ | 
+| RNF1  | Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot                |  [ADC13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)                                                                                                  | USA 01 |
+| RNF2  | Conteúdo educativo para iniciantes                                              |  [ADC14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) e [ST08](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) | USA 02 |
+| RNF6  | Interface com a possibilidade de uso do modo escuro                             |  [ADC23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [INT17](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) e [ST11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)                                                                                                                                                                 | USA 03 |
+| RNF9  | Testes de usabilidade semestrais com público 60+                                | [ADC21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)                                                                                                                                                                                         | USA 04 |
+| RNF12 | Linguagem da interface deve seguir padrão A2 do CEFR, evitando jargões técnicos | [ADC25](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)                                                                                                                                                                        | USA 05 |
+| RNF20 | Clareza na apresentação de dados fiscais                                        |  [ST12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)                                                                                                                                                                                            | USA 06 |
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado) 2025.</p></font>
 
@@ -44,13 +44,13 @@ Abaixo, a divisão dos Requisitos Não Funcionais, divididos por tabelas, seguin
 
 <p style="text-align: center"><b>Tabela 2</b> - Tabela da confiabilidade </p>
 
-| ID    | Descrição                                                                       |  Rastreabilidade |
-| ----- | ------------------------------------------------------------------------------- | ------------ |
-| RNF4  | Proteção de dados pessoais conforme a LGPD                                      | [ADC17](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) |
-| RNF7  | Testes de segurança para garantir a integridade dos dados e autenticação segura |  [ADC19](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) |
-| RNF14 | Atualizações do app não devem causar perda de dados armazenados localmente      |  [INT12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) |
-| RNF18 | Armazenamento anônimo de logs de erro respeitando a LGPD                        |  [INT15](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) |
-| RNF21 | Integração confiável com serviços externos (Gov.br, instituições financeiras)   |  [ST13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)      |
+| ID    | Descrição                                                                       | Rastreabilidade            | Codigo |
+| ----- | ------------------------------------------------------------------------------- | -------------------------- | ------ | 
+| RNF4  | Proteção de dados pessoais conforme a LGPD                                      | [ADC17](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) | CON01 |
+| RNF7  | Testes de segurança para garantir a integridade dos dados e autenticação segura |  [ADC19](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) | CON02 |
+| RNF14 | Atualizações do app não devem causar perda de dados armazenados localmente      |  [INT12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) | CON03 |
+| RNF18 | Armazenamento anônimo de logs de erro respeitando a LGPD                        |  [INT15](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) | CON04 |
+| RNF21 | Integração confiável com serviços externos (Gov.br, instituições financeiras)   |  [ST13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)      | CON05 |
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado) 2025.</p></font>
 
@@ -59,13 +59,13 @@ Abaixo, a divisão dos Requisitos Não Funcionais, divididos por tabelas, seguin
 
 <p style="text-align: center"><b>Tabela 3</b> - Tabela de desempenho </p>
 
-| ID    | Descrição                                                               | Status           | Rastreabilidade |
-| ----- | ----------------------------------------------------------------------- | ---------------- | ------------ |
-| RNF3  | Testes de desempenho para suportar alta demanda de usuários simultâneos | IMPLEMENTADO     | [ADC15](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) |
-| RNF10 | Tempo de resposta inferior a 3 segundos para ações comuns               | IMPLEMENTADO     | [INT9](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  |
-| RNF13 | Suporte offline com cache de dados essenciais em baixa conectividade    | NÃO IMPLEMENTADO | [INT11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) |
-| RNF15 | Tempo de inatividade programada máximo de 2h por mês, com aviso prévio  | IMPLEMENTADO     | [INT13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)|
-| RNF16 | Carregamento inicial inferior a 5 segundos em conexão móvel             | IMPLEMENTADO     | [ADC24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) |
+| ID    | Descrição                                                                       | Rastreabilidade            | Codigo |
+| ----- | ------------------------------------------------------------------------------- | -------------------------- | ------ | 
+| RNF3  | Testes de desempenho para suportar alta demanda de usuários simultâneos | [ADC15](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) | DES01 |
+| RNF10 | Tempo de resposta inferior a 3 segundos para ações comuns               | [INT9](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | DES02 |
+| RNF13 | Suporte offline com cache de dados essenciais em baixa conectividade    |  [INT11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) | DES03 |
+| RNF15 | Tempo de inatividade programada máximo de 2h por mês, com aviso prévio  |  [INT13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)| DES04 |
+| RNF16 | Carregamento inicial inferior a 5 segundos em conexão móvel             |  [ADC24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) | DES05 |
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado) 2025.</p></font>
 
@@ -73,12 +73,12 @@ Abaixo, a divisão dos Requisitos Não Funcionais, divididos por tabelas, seguin
 
 <p style="text-align: center"><b>Tabela 4</b> - Tabela de suportabilidade </p>
 
-| ID    | Descrição                                                     | Rastreabilidade |
-| ----- | ------------------------------------------------------------- | --------------- |
-| RNF5  | Interface responsiva e acessível                              |  [ADC18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)   |
-| RNF8  | Compatível com Android 8+ e iOS 14+                           |  [ADC20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)  |
-| RNF11 | Funciona em smartphones de 4.5" a 7" sem perda de usabilidade |  [INT10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)   |
-| RNF19 | Versão mínima em HTML5 responsiva em caso de falha do app     | [INT16](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  |
+| ID    | Descrição                                                                       | Rastreabilidade            | Codigo |
+| ----- | ------------------------------------------------------------------------------- | -------------------------- | ------ | 
+| RNF5  | Interface responsiva e acessível                              |  [ADC18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)   | SUP01 |
+| RNF8  | Compatível com Android 8+ e iOS 14+                           |  [ADC20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)  | SUP02 |
+| RNF11 | Funciona em smartphones de 4.5" a 7" sem perda de usabilidade |  [INT10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)   | SUP03 |
+| RNF19 | Versão mínima em HTML5 responsiva em caso de falha do app     | [INT16](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  | SUP04 |
 
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado) 2025.</p></font>
@@ -88,9 +88,9 @@ Abaixo, a divisão dos Requisitos Não Funcionais, divididos por tabelas, seguin
 
 <p style="text-align: center"><b>Tabela 4</b> - Tabela de suportabilidade </p>
 
-| ID    | Descrição                                                     | Rastreabilidade |
-| ----- | ------------------------------------------------------------- | --------------- |
-| RNF17 | Suporte a leitores de tela (TalkBack, VoiceOver) em todas as funcionalidades                            |  [INT14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) e [ADC22](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)   |
+| ID    | Descrição                                                                       | Rastreabilidade            | Codigo |
+| ----- | ------------------------------------------------------------------------------- | -------------------------- | ------ | 
+| RNF17 | Suporte a leitores de tela (TalkBack, VoiceOver) em todas as funcionalidades                            |  [INT14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) e [ADC22](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)   | AC01 |
 
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado) 2025.</p></font>
@@ -164,4 +164,5 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 11/05/2025 | Criação do documento de especificacao suplementar |[João Pedro](https://github.com/JpRodrigues2)  | [José Eduardo](https://github.com/jevprado) |
 `2.0` | 07/06/2025 | Correções na especificação suplementar | [José Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
+`2.1` | 08/06/2025 | Adicionando códigos individuais | [José Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
 
