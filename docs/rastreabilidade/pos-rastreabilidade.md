@@ -10,9 +10,8 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | Descrição     |       Descrição do requisito                                               |
 | Tipos de Elo  | Ambiental/Organizacional/Gerencial/Desenvolvimento                         |
 | Código do req    | RF e RNF/  |
-| Representação |                  -                  |
-| Backward-from | TIPO DE ELO (Origem) - US,C,L,USA, CON, DES, SUP, AC / INT, ADC, GDF, ST / NFRx, US, E                 |
-| Foward-from   |  TIPO DE ELO (Relação)                -                  |
+| Backward-from | TIPO DE ELO (Origem) - US,C,L,USA, CON, DES, SUP, AC / INT, ADC, GDF, ST / NFRx, US, E        |
+| Foward-from   |  TIPO DE ELO (Relação)                - Satisfação/agregação + descrição                  |
 | Representação |         Imagem ou vídeo             |
 
 Fonte: 
