@@ -43,18 +43,10 @@ Para criar os léxicos, empregamos a metodologia do **Léxico Ampliado da Lingua
 
 ## Léxicos
 
-### <a id="L09" href="#anchor_L09" style="color:inherit;">L09 – Contribuinte</a>
-
-| Contribuinte      | Descrição                                                                                                               |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Sujeito                                                                                                                 |
-| **Impacto**       | Pessoa física ou jurídica que possui obrigações fiscais junto à Receita Federal e utiliza o aplicativo para cumpri‑las. |
-| **Noção**         | Realiza consultas, declarações, pagamentos e atualizações cadastrais.                                                   |
-| **Sinônimos**     | Usuário; Pessoa Física; Pessoa Jurídica                                                                                 |
 
 ### <a id="L01" href="#anchor_L01" style="color:inherit;">L01 – Consultar CPF</a>
 
-O contribuinte consulta a situação cadastral do CPF pelo aplicativo da Receita Federal.
+O contribuinte consulta a situação cadastral do CPF pelo aplicativo da Receita Federal, relacionado ao seguinte requisito não implementado: Consultar o status do CPF (ativo ou não) - ([ADC11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) e [ST06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/))
 
 | L01               | Descrição                                                                                                                 |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -67,7 +59,7 @@ O contribuinte consulta a situação cadastral do CPF pelo aplicativo da Receita
 
 ### <a id="L02" href="#anchor_L02" style="color:inherit;">L02 – Gerar DARF</a>
 
-Geração de Documento de Arrecadação de Receitas Federais (DARF) para pagamento de tributos.
+Geração de Documento de Arrecadação de Receitas Federais (DARF) para pagamento de tributos. Relacionado ao seguinte requisitos: Consultar débitos pendentes (DARFs) - [ST04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) e Geração de guias de pagamento - ([ADC10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) e [ST03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)) 
 
 | L02               | Descrição                                                                                                                                     |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -80,7 +72,7 @@ Geração de Documento de Arrecadação de Receitas Federais (DARF) para pagamen
 
 ### <a id="L03" href="#anchor_L03" style="color:inherit;">L03 – Declarar Imposto de Renda</a>
 
-Permite o envio da declaração anual do Imposto de Renda Pessoa Física (IRPF).
+Permite o envio da declaração anual do Imposto de Renda Pessoa Física (IRPF). Relacionado ao seguintes requisitos: Declaração simplificada do IR - [ADC4](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) e O aplicativo deve permitir o envio da declaração do Imposto de Renda diretamente pelo app - [INT3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)
 
 | L03               | Descrição                                                                                                                        |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -93,7 +85,7 @@ Permite o envio da declaração anual do Imposto de Renda Pessoa Física (IRPF).
 
 ### <a id="L04" href="#anchor_L04" style="color:inherit;">L04 – Visualizar Restituição</a>
 
-Permite consultar a situação da restituição do IRPF.
+Permite consultar a situação da restituição do IRPF. Relacionado ao seguinte requisito: Acompanhamento de status da restituição (precisão quanto aos lotes) - [ADC3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) e [ST02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)
 
 | L04               | Descrição                                                                                                                     |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -106,7 +98,7 @@ Permite consultar a situação da restituição do IRPF.
 
 ### <a id="L05" href="#anchor_L05" style="color:inherit;">L05 – Atualizar Cadastro</a>
 
-Atualização de dados cadastrais do contribuinte (endereço, telefone, e‑mail).
+Atualização de dados cadastrais do contribuinte (endereço, telefone, e‑mail). Relacionado ao seguinte requisito: Alteração de dados via app - [ADC7](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) e [ST02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)
 
 | L05               | Descrição                                                                                                                    |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -132,7 +124,7 @@ Gera o comprovante de rendimentos fornecido por fonte pagadora para fins de decl
 
 ### <a id="L07" href="#anchor_L07" style="color:inherit;">L07 – Acompanhar Processamento</a>
 
-Permite acompanhar o processamento da declaração de IRPF.
+Permite acompanhar o processamento da declaração de IRPF. Relacionado ao seguinte requisito: Acessar informações detalhadas a cerca da declaração de imposto de renda de um ano especifico - [INT1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)
 
 | L07               | Descrição                                                                                                                             |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -145,7 +137,8 @@ Permite acompanhar o processamento da declaração de IRPF.
 
 ### <a id="L08" href="#anchor_L08" style="color:inherit;">L08 – Pagar Dívida Ativa</a>
 
-Permite gerar guia para quitação de valores inscritos em Dívida Ativa da União.
+Permite gerar guia para quitação de valores inscritos em Dívida Ativa da União. Relacionado ao seguinte requisitos:Emissão de certidão negativa via aplicativo - [INT6](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)
+ e Geração de guias de pagamento - ([ADC10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) e [ST03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)) 
 
 | L08               | Descrição                                                                                                              |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -154,6 +147,15 @@ Permite gerar guia para quitação de valores inscritos em Dívida Ativa da Uni�
 | **Noção**         | 1. O usuário acessa **Pagar Dívida Ativa**.<br>2. Visualiza débitos.<br>3. Gera guia de pagamento ou parcela a dívida. |
 | **Sinônimos**     | Quitar Dívida; Regularizar Débito                                                                                      |
 
+
+### <a id="L09" href="#anchor_L09" style="color:inherit;">L09 – Contribuinte</a>
+
+| Contribuinte      | Descrição                                                                                                               |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Classificação** | Sujeito                                                                                                                 |
+| **Impacto**       | Pessoa física ou jurídica que possui obrigações fiscais junto à Receita Federal e utiliza o aplicativo para cumpri‑las. |
+| **Noção**         | Realiza consultas, declarações, pagamentos e atualizações cadastrais.                                                   |
+| **Sinônimos**     | Usuário; Pessoa Física; Pessoa Jurídica                                                                                 |
 ---
 
 
@@ -187,4 +189,6 @@ Permite gerar guia para quitação de valores inscritos em Dívida Ativa da Uni�
 
 | Versão | Data       | Descrição                                  | Autor                                     | Revisor                                     |
 | ------ | ---------- | ------------------------------------------ | ----------------------------------------- | ------------------------------------------- |
-| `1.0`  | 10/05/2025 | Criação dos léxicos do App Receita Federal | [Thales Germano](https://github.com/thalesgvl), [Marco Marques](https://github.com/marcomarquesdc) | Revisor aqui |
+| `1.0`  | 10/05/2025 | Criação dos léxicos do App Receita Federal | [Thales Germano](https://github.com/thalesgvl), [Marco Marques](https://github.com/marcomarquesdc) | [Diassis](https://github.com/Diaxiz) |
+| `1.1`  | 08/06/2025 | Ajuste nos léxicos | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
+
