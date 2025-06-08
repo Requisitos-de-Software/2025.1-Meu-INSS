@@ -63,7 +63,7 @@ Usuário institucional, com acesso ao sistema para:
 
 ### 5.1 Diagrama de Casos de Uso: Requisitos Implementados
 
-![Diagrama de Casos de Uso](docs/assets/Diagrama%20de%20Casos%20de%20Uso.jpg)  
+![Diagrama de Casos de Uso](../assets/Diagrama%20de%20Casos%20de%20Uso.jpg)  
 Fonte: [Julia Massuda](https://github.com/JuliaReis18)
 
 ### 5.2 Diagrama de Casos de Uso: Requisitos Não Implementados
