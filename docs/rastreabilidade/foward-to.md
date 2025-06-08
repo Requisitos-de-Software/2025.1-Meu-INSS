@@ -6,7 +6,7 @@ O presente documento apresenta o rastreamento dos requisitos priorizados para o 
 
 ## 2. Metodologia
 
-A elaboração do Forward From envolveu a identificação dos requisitos elicitados por meio de diversas técnicas (como entrevistas, introspecção, análise de documentos, storytelling e brainstorming), seguidas da priorização por múltiplas abordagens (First Things First, In or Out, $100, Three-Level Scale). Cada requisito foi posteriormente agrupado em épicos e refinado em artefatos como histórias de usuário, casos de uso, léxicos e cenários.
+A elaboração do Forward From envolveu a identificação dos requisitos elicitados por meio de diversas técnicas, como: introspecção, análise de documentos, storytelling e etc, seguidas da priorização por múltiplas abordagens (First Things First, In or Out, $100, Three-Level Scale). Cada requisito foi posteriormente agrupado em épicos e refinado em artefatos como histórias de usuário, casos de uso, léxicos e cenários.
 
 ## 3. Cronograma de Participantes
 

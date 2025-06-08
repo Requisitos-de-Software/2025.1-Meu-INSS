@@ -1,56 +1,25 @@
-
-# Backward From – Receita Federal
-
-## 1. Introdução
+## Introdução
 
 O presente documento tem como objetivo demonstrar a rastreabilidade dos requisitos do sistema da Receita Federal utilizando a abordagem **Backward From**. Esta abordagem permite acompanhar a origem e os artefatos associados a cada requisito, promovendo transparência e controle ao processo de engenharia de requisitos.
 
-## 2. Metodologia
+## Metodologia
 
 Para a construção do Backward From, foram utilizados os requisitos previamente elicitados por meio de técnicas como introspecção, storytelling, análise de documentos, entrevistas e brainstorming. A partir disso, cada requisito foi relacionado aos seus artefatos de modelagem (histórias de usuário, cenários, léxicos e casos de uso), compondo os elos que revelam o encadeamento da engenharia de requisitos.
 
-## 3. Cronograma de Participantes
+## Atividadades do participantes 
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
-<div align="center">
-<table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-      <th>Data</th>
-      <th>Hora</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td> Diassis </td><td> - </td><td> - </td></tr>
-    <tr><td> José Eduardo </td><td> - </td><td> - </td></tr>
-    <tr><td> Thales Germano </td><td> - </td><td> - </td></tr>
-    <tr><td> Julia Massuda </td><td> - </td><td> - </td></tr>
-    <tr><td> Andre Lopes </td><td> - </td><td> - </td></tr>
-    <tr><td> Marco Marques </td><td> - </td><td> - </td></tr>
-    <tr><td> João Pedro </td><td> - </td><td> - </td></tr>
-  </tbody>
-</table>
-</div>
+|Nome                                        | Cartões entregues | Status   |
+| ------------------------------------------ | ----------------- | -------- | 
+|[José Eduardo](https://github.com/jevprado) | ----------------- | -------- |
+|[Diassis](https://github.com/Diaxiz)        | ----------------- | -------- | 
 
-<font size="2"><p style="text-align: center">Fonte: </p></font>
+<font size="2"><p style="text-align: center">Fonte:[José Eduardo](https://github.com/jevprado), 2025</p></font>
 
-## 4. Cartões dos Requisitos
+## Cartões dos Requisitos
 
-# Backward From – Receita Federal
-
-## 1. Introdução
-
-O presente documento apresenta o rastreamento dos requisitos do sistema desenvolvido para o aplicativo da Receita Federal. Utilizamos a técnica **Backward From** para conectar cada requisito aos artefatos que o originaram e às modelagens relacionadas, garantindo assim rastreabilidade, completude e clareza no processo de engenharia de requisitos.
-
-## 2. Metodologia
-
-A metodologia utilizada baseou-se em uma abordagem centrada no usuário, envolvendo diversas técnicas de elicitação como análise de documentos, introspecção, grupo de foco, storytelling e personas. Os requisitos foram classificados entre funcionais e não funcionais e rastreados com artefatos como histórias de usuário, casos de uso, léxicos, cenários e NFR Framework.
-
-As informações foram estruturadas em cartões, contendo os elementos essenciais de rastreabilidade. Cada cartão indica o requisito, sua origem, categoria, os elementos em que aparece e os elos backward-from correspondentes.
-
-## 3. Legenda
+### Legenda
 
 - **RF**: Requisito Funcional
 - **RNF**: Requisito Não Funcional
@@ -62,7 +31,7 @@ As informações foram estruturadas em cartões, contendo os elementos essenciai
 - **ESP**: Especificação Suplementar
 - **BP**: Backlog Prioritário
 
-## 4. Cartões dos Requisitos
+## Cartões dos Requisitos
 
 <font size="3"><p style="text-align: center">Tabela 1: Cartão do Requisito Funcional RF01</p></font>
 
