@@ -39,6 +39,65 @@ Fonte:
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
 ---
 
+<p style="text-align: center"><b>Tabela 3</b> - Tabela 3 - Cartão Pós Rastreabilidade RF03 </p>
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+|--------------------|--------------------------------------|
+| **Descrição** | Acompanhamento de status da restituição (precisão quanto aos lotes) |
+| **Tipos de Elo** | Organizacional |
+| **Código do req** | [RF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf03) |
+| **Backward-from** | [ADC3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) |
+| **Foward-from** | Agregação – Relacionado à etapa de restituição |
+| **Representação** | - |
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+---
+
+<p style="text-align: center"><b>Tabela 5</b> - Tabela 5 - Cartão Pós Rastreabilidade RF05 </p>
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+|--------------------|--------------------------------------|
+| **Descrição** | Agendar no próprio aplicativo atendimentos presenciais em unidades da Receita Federal |
+| **Tipos de Elo** | Organizacional |
+| **Código do req** | [RF05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf05) |
+| **Backward-from** | [INT3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [US02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-02-agendar-no-proprio-app-da-receita-atendimentos-presenciais) |
+| **Foward-from** | Integração – Sistemas de agendamento da Receita<br>Satisfação – Facilidade de acesso aos serviços presenciais |
+| **Representação**| - |
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+---
+
+<p style="text-align: center"><b>Tabela 10</b> - Tabela 10 - Cartão Pós Rastreabilidade RF10</p>
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+|--------------------|--------------------------------------|
+| **Descrição** | Geração de guias de pagamento |
+| **Tipos de Elo** | Desenvolvimento |
+| **Código do req** | [RF10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf10) |
+| **Backward-from** | [ADC10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) |
+| **Foward-from** |  Integração – Conectado ao sistema de arrecadação |
+| **Representação** | - |
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+---
+
+<p style="text-align: center"><b>Tabela 11</b> - Tabela 11 - Cartão Pós Rastreabilidade RF11</p>
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+|--------------------|--------------------------------------|
+| **Descrição** | Consultar o status do CPF (ativo ou não) |
+| **Tipos de Elo** | Organizacional |
+| **Código do req** | [RF11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf11) |
+| **Backward-from** | [ADC11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) |
+| **Foward-from** | Integração – Consulta em bases oficiais da Receita |
+| **Representação** | - |
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+---
 <p style="text-align: center"><b>Tabela 12</b> - Tabela 12 - Cartão Pós Rastreabilidade RF12 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
@@ -66,7 +125,20 @@ Fonte:
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
 ---
+<p style="text-align: center"><b>Tabela 14</b> - Tabela 14 - Cartão Pós Rastreabilidade RF14</p>
 
+| Artefato Analisado | Classificação do Artefato Analisado |
+|--------------------|--------------------------------------|
+| **Descrição** | Acessar informações detalhadas acerca da declaração de imposto de renda de um ano específico |
+| **Tipos de Elo** | Organizacional |
+| **Código do req** | [RF14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf14) |
+| **Backward-from** | [INT1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) |
+| **Foward-from** | Agregação – Relacionado à análise de dados da declaração por período |
+| **Representação** | - |
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+---
 <p style="text-align: center"><b>Tabela 15</b> - Tabela 15 - Cartão Pós Rastreabilidade RF15 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
@@ -436,4 +508,6 @@ Fonte:
 
 | `1.1`   | 08/06/2025 | Criação dos cartões RF02, RF12, RF13, RF15, RF16, RF20 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [Diassis](https://github.com/Diaxiz)   | [José Eduardo](https://github.com/jevprado)
 
-| `1.2`   | 08/06/2025 | Correções nos cartões | [Diassis](https://github.com/Diaxiz)   | [José Eduardo](https://github.com/jevprado)
+| `1.2`   | 05/06/2025 | Criação dos cartões RF03, RF05, RF10, RF11, RF14 e  RF17 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [José Eduardo](https://github.com/jevprado)   | [Diassis](https://github.com/Diaxiz)  |
+
+| `1.3`   | 05/06/2025 | Criação dos cartões RF03, RF05, RF10, RF11, RF14 e  RF17 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [Diassis](https://github.com/Diaxiz)   |  [José Eduardo](https://github.com/jevprado)  |
