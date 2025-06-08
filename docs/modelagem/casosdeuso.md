@@ -27,10 +27,10 @@ Os relacionamentos foram representados por semirretas características, caso se 
 
 | Nome do Elemento | Imagem | Função |
 |---|---|---|
-| **Ator** | ![Boneco Palito](docs/assets/ChatGPT%20Image%205_06_2025,%2008_51_23.png) | Representa os diferentes tipos de usuários externos que interagem com o sistema. |
+| **Ator** | ![Boneco Palito](../assets/ChatGPT%20Image%205_06_2025,%2008_51_23.png) | Representa os diferentes tipos de usuários externos que interagem com o sistema. |
 | **Elipse (Caso de Uso)** | ![Elipse](https://images.vexels.com/content/139183/preview/ellipse-cba9d3.png) | Representa uma funcionalidade ou uma ação específica que o sistema pode realizar. A elipse contém o nome do caso de uso. |
 | **Retângulo (Sistema)** | ![Retângulo](https://images.vexels.com/media/users/3/139257/isolated/svg/b8fa8f291632f8fe68842e4fb100d8e0.svg) | Representa o sistema ou o bloco em análise. Ele envolve os casos de uso e atores relacionados. |
-| **Flecha (Relações)** | ![Flecha](docs/assets/Captura%20de%20tela%202025-06-08%20173528.png) | Representa as relações ou interações entre atores e casos de uso. |
+| **Flecha (Relações)** | ![Flecha](../assets/Captura%20de%20tela%202025-06-08%20173528.png) | Representa as relações ou interações entre atores e casos de uso. |
 
 Fonte: [Julia Massuda](https://github.com/JuliaReis18)
 

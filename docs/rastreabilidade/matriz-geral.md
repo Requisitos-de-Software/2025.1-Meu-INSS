@@ -116,5 +116,5 @@ Com isso, a matriz geral permite não apenas documentar o histórico dos requisi
 | ------ | ---------- | -------------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 05/06/2025 | Criação do documento matriz geral                             | [José Eduardo](https://github.com/jevprado)    | [Thales Germano](https://github.com/thalesgvl) |
 | `1.1`   | 05/06/2025 | Adicionando tabela da matriz geral                            | [José Eduardo](https://github.com/jevprado)    | [Thales Germano](https://github.com/thalesgvl) |
-| `1.2`   | 07/06/2025 | Adicionado Introdução e Metodologia em Matriz-Geral           | [Diaxiz](https://github.com/jevprado)          | [José Eduardo](https://github.com/jevprado) |
-| `1.3`   | 08/06/2025 | Adicionando hyperlinks                                        | [José Eduardo](https://github.com/jevprado)    | [Diaxiz](https://github.com/jevprado)  |
+| `1.2`   | 07/06/2025 | Adicionado Introdução e Metodologia em Matriz-Geral           |  [Diassis](https://github.com/Diaxiz)          | [José Eduardo](https://github.com/jevprado) |
+| `1.3`   | 08/06/2025 | Adicionando hyperlinks                                        | [José Eduardo](https://github.com/jevprado)    |  [Diassis](https://github.com/Diaxiz)  |
