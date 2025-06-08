@@ -36,9 +36,10 @@ Fonte: [Julia Massuda](https://github.com/JuliaReis18)
 
 ## 4. Atores
 
-### 4.1 Ator Primário: Contribuinte
+### 4.1 Ator Primário: Contribuinte 
 
 Usuário principal do aplicativo. Suas ações incluem:
+
 - Consultar situação fiscal
 - Enviar declaração de IRPF
 - Consultar e acompanhar restituições
@@ -48,9 +49,10 @@ Usuário principal do aplicativo. Suas ações incluem:
 - Emitir certidões
 - Acessar vídeos e notícias institucionais
 
-### 4.2 Ator Secundário: Auditor da Receita
+### 4.2 Ator Secundário: Auditor da Receita 
 
 Usuário institucional, com acesso ao sistema para:
+
 - Atualizar base de dados
 - Validar informações declaradas
 - Enviar notificações automatizadas
