@@ -41,12 +41,12 @@ Essa priorização será feita em conjunto com o cliente, garantindo que os recu
 
 | Membro                                             | Código das US                      | Feito | Status da validação |
 |----------------------------------------------------|------------------------------------|-------|---------------------|
-| [José Eduardo](https://github.com/jevprado)        | US01, US02, US03, US04, US05, US06 |       |                     |
-| [Thales Germano](https://github.com/thalesgvl)     | US07, US08, US09, US10, US11, US12 |       |                     |
-| [Julia Massuda](https://github.com/JuliaReis18)    | US13, US14, US15, US16, US17, US18 |       |                     |
+| [José Eduardo](https://github.com/jevprado)        | US01, US02, US03, US04, US05, US06 | SIM      |                     |
+| [Thales Germano](https://github.com/thalesgvl)     | US07, US08, US09, US10, US11, US12 |  SIM      |                     |
+| [Julia Massuda](https://github.com/JuliaReis18)    | US13, US14, US15, US16, US17, US18 | SIM       |                     |
 | [Andre Lopes](https://github.com/andrewslopes)     | US19, US20, US21, US22, US23, US24 |       |                     |
-| [Diassis](https://github.com/Diaxiz)               | US25, US26, US27, US28, US29, US30 |       |                     |
-| [João Pedro](https://github.com/JpRodrigues2)      | US31, US32, US33, US34, US35, US36 |       |                     |
+| [Diassis](https://github.com/Diaxiz)               | US25, US26, US27, US28, US29, US30 | SIM       |                     |
+| [João Pedro](https://github.com/JpRodrigues2)      | US31, US32, US33, US34, US35, US36 | SIM       |                     |
 | [Marco Marques](https://github.com/marcomarquesdc) | US37, US38, US39, US40, US41, US42 |       |                     |
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
@@ -203,7 +203,7 @@ Padrão de tabelas para as histórias de usuário
 | **TÍTULO**                 | Comparativo automático entre declarações de anos anteriores                                                                                                                                           |
 | **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero visualizar um comparativo entre minhas declarações de imposto de renda de anos anteriores, para identificar alterações e inconsistências de forma automática.                 |
 | **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve listar informações relevantes lado a lado (ex: rendimentos, deduções, restituições). <br> - O app deve destacar alterações ou divergências de forma visual.                          |
-| **RASTREABILIDADE**        | [RF26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                              | 
+| **RASTREABILIDADE**        | [RF25](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                              | 
 | **STATUS**                 | Não implementada                                                                                                                                                                                       |
 | **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                                                                                                                                              |
 | **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                                                                                                                                             |
@@ -222,7 +222,7 @@ Padrão de tabelas para as histórias de usuário
 | **TÍTULO**                 | Alteração de dados via app                                                                                                                                         |
 | **HISTÓRIA DE USUÁRIO**    | Como cidadão, quero poder alterar meus dados cadastrais diretamente no aplicativo da Receita Federal, para manter minhas informações atualizadas de forma prática. |
 | **CRITÉRIOS DE ACEITAÇÃO** | - O usuário deve poder alterar endereço, telefone e e-mail. <br> - Alterações devem ser confirmadas com autenticação segura.                                       |
-| **RASTREABILIDADE**        | [RF06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                          | 
+| **RASTREABILIDADE**        | [RF07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                          | 
 | **STATUS**                 | Implementada                                                                                                                                                       |
 | **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                                                                                                          |
 | **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                                                                                                         |
@@ -279,7 +279,7 @@ Padrão de tabelas para as histórias de usuário
 | **TÍTULO**                 | Consulta de inscrição no CNPJ                                                                                                                                    |
 | **HISTÓRIA DE USUÁRIO**    | Como cidadão ou empresário, quero consultar a inscrição de um CNPJ diretamente pelo app, para verificar a situação cadastral de empresas de forma rápida.        |
 | **CRITÉRIOS DE ACEITAÇÃO** | - Deve ser possível pesquisar pelo número do CNPJ. <br> - O sistema deve exibir dados como razão social, endereço e situação cadastral.                           |
-| **RASTREABILIDADE**        | [RF29](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                          | 
+| **RASTREABILIDADE**        | [RF28](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                          | 
 | **STATUS**                 | Implementada                                                                                                                                                      |
 | **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                                                                                                         |
 | **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                                                                                                        |
@@ -296,7 +296,7 @@ Padrão de tabelas para as histórias de usuário
 | **TÍTULO**                 | Compartilhamento de comprovantes e certidões                             |
 | **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero compartilhar meus comprovantes e certidões diretamente pelo aplicativo através de WhatsApp, e-mail ou salvamento em nuvem, para que eu possa enviar documentos oficiais de forma prática e segura quando solicitado.      |
 | **CRITÉRIOS DE ACEITAÇÃO** | - O aplicativo deve permitir compartilhamento via WhatsApp, e-mail e Google Drive/iCloud. <br> - Documentos devem manter formato oficial e assinatura digital. <br> - Deve ser possível compartilhar múltiplos documentos simultaneamente. <br> - O sistema deve registrar o histórico de compartilhamentos para auditoria. <br> - Deve incluir opções de proteção por senha nos documentos compartilhados.                    |
-| **RASTREABILIDADE**        | [RF24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **RASTREABILIDADE**        | [RF23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Não implementada                                                          |
 | **PRIORIDADE**             | MOSCOW - Must Have                                                  |
 | **VALIDAÇÃO**              | Validada com o usuário                          |
@@ -313,29 +313,13 @@ Padrão de tabelas para as histórias de usuário
 | **TÍTULO**                 | Reenvio de notificações perdidas                                         |
 | **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero poder solicitar o reenvio de notificações importantes que perdi ou não recebi, através de e-mail ou mensagem no aplicativo, para que eu não perca prazos importantes por falha na comunicação.      |
 | **CRITÉRIOS DE ACEITAÇÃO** | - O usuário deve conseguir visualizar histórico de notificações enviadas. <br> - Deve ser possível reenviar notificações via e-mail ou push no app. <br> - O sistema deve permitir configurar canais preferenciais de comunicação. <br> - Deve incluir filtros por tipo de notificação e período. <br> - Notificações críticas devem ter opção de reenvio automático.                    |
-| **RASTREABILIDADE**        | [RF25](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **RASTREABILIDADE**        | [RF24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Não implementada                                                          |
 | **PRIORIDADE**             | MOSCOW - Should Have                                                 |
 | **VALIDAÇÃO**              | Validada pelo usuário
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
-### US-15 - Comparativo automático entre declarações
-
-<p style="text-align: center"><b>Tabela 15</b> - Tabela da história de usuário 15 (US-15) </p>
-
-| Campo                      | Descrição                                                                 |
-|----------------------------|---------------------------------------------------------------------------|
-| **CÓDIGO**                 | US-15                                                                     |
-| **TÍTULO**                 | Comparativo automático entre declarações                                 |
-| **HISTÓRIA DE USUÁRIO**    | Como contribuinte que declara imposto de renda anualmente, quero visualizar um comparativo automático entre minha declaração atual e as de anos anteriores, para que eu possa identificar discrepâncias e garantir consistência nas informações prestadas.      |
-| **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve gerar comparativo visual entre declarações de diferentes anos. <br> - Deve destacar variações significativas em rendimentos, deduções e impostos. <br> - O usuário deve poder selecionar quais anos comparar. <br> - Deve incluir alertas para divergências que possam gerar questionamentos. <br> - O comparativo deve ser exportável em formato PDF.                    |
-| **RASTREABILIDADE**        | [RF26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
-| **STATUS**                 | Não implementada                                                          |
-| **PRIORIDADE**             | MOSCOW - Should Have                                                |
-| **VALIDAÇÃO**              | Validada pelo usuário                              |
-
-<font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
 ### US-16 - FAQ interativo com busca inteligente
 
@@ -347,7 +331,7 @@ Padrão de tabelas para as histórias de usuário
 | **TÍTULO**                 | FAQ interativo com busca inteligente                                     |
 | **HISTÓRIA DE USUÁRIO**    | Como usuário do aplicativo, quero acessar um FAQ interativo com busca inteligente filtrada por temas como CPF, IRPF e Certidões, para que eu possa encontrar respostas rápidas e precisas para minhas dúvidas sem precisar entrar em contato com atendimento.      |
 | **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve permitir busca por palavras-chave com sugestões automáticas. <br> - Deve incluir filtros por categoria (CPF, IRPF, Certidões, etc.). <br> - As respostas devem ser organizadas por relevância e popularidade. <br> - Deve incluir recursos visuais como imagens e vídeos explicativos. <br> - O usuário deve poder avaliar a utilidade das respostas encontradas.                    |
-| **RASTREABILIDADE**        | [RF27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **RASTREABILIDADE**        | [RF26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Não implementada                                                          |
 | **PRIORIDADE**             | MOSCOW - Should Have                                                |
 | **VALIDAÇÃO**              | Validada pelo usuário                                |
@@ -364,7 +348,7 @@ Padrão de tabelas para as histórias de usuário
 | **TÍTULO**                 | Integração com calendário do dispositivo                                 |
 | **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero que o aplicativo se integre automaticamente com o calendário do meu dispositivo para criar lembretes de obrigações fiscais, para que eu possa visualizar todos os meus compromissos tributários junto com minha agenda pessoal.      |
 | **CRITÉRIOS DE ACEITAÇÃO** | - O aplicativo deve solicitar permissão para acessar o calendário do usuário. <br> - Deve criar eventos automaticamente para vencimentos de obrigações fiscais. <br> - Os eventos devem incluir informações detalhadas sobre a obrigação. <br> - O usuário deve poder personalizar antecedência dos lembretes. <br> - Deve sincronizar automaticamente mudanças de datas e novos prazos.                    |
-| **RASTREABILIDADE**        | [RF28](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **RASTREABILIDADE**        | [RF27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Não implementada                                                          |
 | **PRIORIDADE**             | MOSCOW - Must Have                                             |
 | **VALIDAÇÃO**              | Validada pelo Usuário                               |
@@ -399,7 +383,7 @@ Padrão de tabelas para as histórias de usuário
 | **TÍTULO**                 | Acompanhamento de processos administrativos |
 | **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero acompanhar o andamento dos meus processos administrativos junto à Receita Federal diretamente pelo aplicativo, para que eu possa ter transparência sobre o status e próximos passos sem precisar comparecer presencialmente.|
 | **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve listar todos os processos administrativos do contribuinte.<br>- Deve exibir o status atual (em análise, deferido, aguardando documentos etc.).<br>- Deve mostrar histórico de movimentações e prazos estimados. |
-| **RASTREABILIDADE**        | [RF20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                                                                                 |
+| **RASTREABILIDADE**        | [RF01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                                                                                 |
 | **STATUS**                 | Não implementada                                                                                                                                                                                                                                                        |
 | **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                                                                                                                                                                                                               |
 | **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                                                                                                                                                                                                              |
@@ -513,24 +497,6 @@ Padrão de tabelas para as histórias de usuário
 <font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 ---
 
-### US-32 - Acompanhar processos administrativos
-
-<p style="text-align: center"><b>Tabela 32</b> - Tabela da história de usuário 32 (US-32) </p>
-
-| Campo                      | Descrição                                                                 |
-|----------------------------|---------------------------------------------------------------------------|
-| **CÓDIGO**                 | US-32                                                                     |
-| **TÍTULO**                 | Acompanhar processos administrativos                                      |
-| **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero acompanhar o andamento dos meus processos administrativos junto à Receita Federal diretamente pelo aplicativo, para que eu possa ter transparência sobre o status e próximos passos sem precisar ligar ou comparecer presencialmente.      |
-| **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve listar todos os processos administrativos do contribuinte. <br> - Deve exibir o status atual de cada processo (em análise, aguardando documentos, deferido, indeferido). <br> - O usuário deve conseguir visualizar o histórico de movimentações. <br> - Deve mostrar prazo estimado para conclusão quando disponível. <br> - O aplicativo deve enviar notificações sobre mudanças de status.                    |
-| **RASTREABILIDADE**        | [RF21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
-| **STATUS**                 | Não implementada                                                          |
-| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
-| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
-
-<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
-
----
 
 ### US-33 - Integração com eSocial
 
@@ -561,7 +527,7 @@ Padrão de tabelas para as histórias de usuário
 | **TÍTULO**                 | Autorização de acesso a terceiros                                        |
 | **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero autorizar o acesso de terceiros (contadores, advogados, familiares) aos meus dados fiscais diretamente pelo aplicativo, para que eu possa permitir que profissionais me auxiliem sem precisar comparecer presencialmente ou usar procuração física.      |
 | **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve permitir buscar e selecionar terceiros por CPF/CNPJ. <br> - Deve ser possível definir quais informações o terceiro pode acessar. <br> - As autorizações devem ter prazo de validade configurável. <br> - O usuário deve poder revogar autorizações a qualquer momento. <br> - Deve manter histórico de acessos realizados pelos terceiros autorizados.                    |
-| **RASTREABILIDADE**        | [RF23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **RASTREABILIDADE**        | [RF22](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Implementada                                                              |
 | **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
 | **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
@@ -580,7 +546,7 @@ Padrão de tabelas para as histórias de usuário
 | **TÍTULO**                 | Consulta de tabelas auxiliares (CNAE, NCM, unidades da RF)               |
 | **HISTÓRIA DE USUÁRIO**    | Como empresário ou profissional contábil, quero consultar tabelas de códigos CNAE, NCM e localizar unidades da Receita Federal diretamente pelo aplicativo, para que eu possa obter informações técnicas necessárias para preenchimento de documentos e obrigações fiscais.      |
 | **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve permitir busca por código ou descrição nas tabelas CNAE e NCM. <br> - Deve incluir filtro geográfico para localizar unidades da Receita Federal próximas. <br> - As informações devem incluir endereços, telefones e horários de funcionamento das unidades. <br> - Deve permitir favoritar códigos ou unidades frequentemente consultados. <br> - As tabelas devem ser atualizadas automaticamente conforme alterações oficiais.                    |
-| **RASTREABILIDADE**        | [RF30](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **RASTREABILIDADE**        | [RF29](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Implementada                                                              |
 | **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
 | **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
@@ -599,7 +565,7 @@ Padrão de tabelas para as histórias de usuário
 | **TÍTULO**                 | Acesso à Caixa Postal oficial                                            |
 | **HISTÓRIA DE USUÁRIO**    | Como contribuinte, quero acessar minha caixa postal oficial da Receita Federal diretamente pelo aplicativo, para que eu possa receber e consultar comunicações, intimações e documentos oficiais de forma segura e centralizada.      |
 | **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve exibir todas as mensagens oficiais da Receita Federal. <br> - Mensagens devem ser organizadas por data e tipo (informativa, intimação, cobrança). <br> - Deve permitir marcar mensagens como lidas/não lidas. <br> - O usuário deve poder fazer download de anexos quando disponíveis. <br> - Deve incluir notificações push quando novas mensagens chegarem.                    |
-| **RASTREABILIDADE**        | [RF31](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
+| **RASTREABILIDADE**        | [RF30](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Implementada                                                              |
 | **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
 | **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
@@ -631,3 +597,4 @@ Versão |   Data     | Descrição | Autor(es) | Revisor(es)
 `1.5`  | 31/05/2025 | Criação das US31 - US36 | [João Pedro Rodrigues](https://github.com/JpRodrigues2) |[Júlia Massuda](https://github.com/JuliaReis18)|
 `1.6`  | 06/06/2025 | Adicionando Validaçao e Priorização das US13 - US18 | [Júlia Massuda](https://github.com/JuliaReis18) |[Jose Eduardo](https://github.com/jevprado) |
 `1.7`  | 06/06/2025 | Correções e Validações US-25 até US-30 | [Diassis](https://github.com/Diaxiz) |[Jose Eduardo](https://github.com/jevprado) |
+`1.8`  | 08/06/2025 | Removendo US repetidas ou sem RF relacionado | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
