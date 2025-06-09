@@ -751,3 +751,4 @@ Fonte:
 | `1.2`   | 05/06/2025 | Criação dos cartões RF03, RF05, RF10, RF11, RF14 e  RF17 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [José Eduardo](https://github.com/jevprado)   | [Diassis](https://github.com/Diaxiz)  |
 | `1.3`   | 05/06/2025 | Criação dos cartões RF03, RF05, RF10, RF11, RF14 e  RF17 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [Diassis](https://github.com/Diaxiz)   |  [José Eduardo](https://github.com/jevprado)  |
 | `1.4`   | 05/06/2025 | Criação dos cartões RF23, RF24, RF26, RF27, RF19, RNF03, RNF08, RNF13 e RNF18  | [Julia Massuda](https://github.com/JuliaReis18)  | [Diassis](https://github.com/Diaxiz) |
+| `1.5`   | 05/06/2025 | Criação dos cartões RF18, RF22, RF22, RF29, RF30, RNF04, RNF09, RNF14 e RNF19  | [João Pedro](https://github.com/JpRodrigues2)  | ADD REVISOR |
