@@ -23,13 +23,17 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 ## Participação por membro da equipe 
 
-| Nome do membro                                  | Elos do membro |
+| Nome do membro                                  | Elos do membro    |
 | ----------------------------------------------- | ----------------- |
 |[José Eduardo](https://github.com/jevprado)      | ----------------- |
 |[Diassis](https://github.com/Diaxiz)             | ----------------- |
 |[Julia Massuda](https://github.com/JuliaReis18)  | ----------------- |
-|[Andre Lopes](https://github.com/andrewslopes) | ----------------- |
+|[Andre Lopes](https://github.com/andrewslopes)   | ----------------- |
+|[João Pedro](https://github.com/JpRodrigues2)    | ----------------- |
 
+## Requisitos
+
+### RF02
 
 <p style="text-align: center"><b>Tabela 2</b> - Tabela 2 - Cartão Pós Rastreabilidade RF02 </p>
 
@@ -43,6 +47,8 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Representação** | |
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+### RF03
 
 <p style="text-align: center"><b>Tabela 3</b> - Tabela 3 - Cartão Pós Rastreabilidade RF03 </p>
 
@@ -58,7 +64,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 ---
-
+### RF05
 
 <p style="text-align: center"><b>Tabela 5</b> - Tabela 5 - Cartão Pós Rastreabilidade RF05 </p>
 
@@ -74,6 +80,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 ---
+### RF07
 
 <p style="text-align: center"><b>Tabela 6</b> - Cartão Pós Rastreabilidade RF07</p>
 
@@ -87,6 +94,8 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | *Representação* | - |
 
 <font size="3"><p style="text-align: center">Fonte: André Lopes, 2025.</p></font>
+
+### RF10
 
 <p style="text-align: center"><b>Tabela 10</b> - Tabela 10 - Cartão Pós Rastreabilidade RF10</p>
 
@@ -104,6 +113,8 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 ---
 
+### RF11
+
 <p style="text-align: center"><b>Tabela 11</b> - Tabela 11 - Cartão Pós Rastreabilidade RF11</p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
@@ -118,6 +129,9 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 ---
+
+### RF12
+
 <p style="text-align: center"><b>Tabela 12</b> - Tabela 12 - Cartão Pós Rastreabilidade RF12 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
@@ -131,8 +145,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
-
-
+### RF13
 
 <p style="text-align: center"><b>Tabela 13</b> - Tabela 13 - Cartão Pós Rastreabilidade RF13 </p>
 
@@ -148,6 +161,8 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 
+### RF14
+
 <p style="text-align: center"><b>Tabela 14</b> - Tabela 14 - Cartão Pós Rastreabilidade RF14</p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
@@ -161,7 +176,9 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
----
+
+### RF15
+
 <p style="text-align: center"><b>Tabela 15</b> - Tabela 15 - Cartão Pós Rastreabilidade RF15 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
@@ -177,6 +194,8 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 ---
 
+### RF16
+
 <p style="text-align: center"><b>Tabela 16</b> - Tabela 16 - Cartão Pós Rastreabilidade RF16 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
@@ -190,6 +209,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
+### RF17
 
 <p style="text-align: center"><b>Tabela x</b> - Tabela x - Cartão Pós Rastreabilidade RF17</p>
 
@@ -204,6 +224,8 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
+### RF18
+
 <p style="text-align: center"><b>Tabela 18</b> - Tabela 18 - Cartão Pós Rastreabilidade RF18 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
@@ -217,19 +239,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
-
-<p style="text-align: center"><b>Tabela 8</b> - Cartão Pós Rastreabilidade RF18</p>
-
-| Artefato Analisado | Classificação do Artefato Analisado |
-|--------------------|--------------------------------------|
-| *Descrição* | O aplicativo deve permitir a consulta de débitos fiscais pendentes com opção de filtrar por período ou tipo de tributo. |
-| *Tipos de Elo* | Desenvolvimento |
-| *Código do req* | [RF18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf18) |
-| *Backward-from* | [US-10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-10-consulta-de-debitos-fiscais), [C04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/#cenario-04), [L04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l04-debitos-fiscais), [UC-Consultar Débitos Pendentes](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/casos-de-uso/#uc-consultar-debitos-pendentes), [E02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/epicos/#e02-regularizacao-e-pagamentos), [USA05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/especificacao-suplementar/#usa05-design-responsivo), [USA06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/especificacao-suplementar/#usa06-clareza-na-apresentacao-de-dados-fiscais) |
-| *Foward-from* | Agregação – História de Usuário: US-10 - Consulta de débitos fiscais; Feature: F08 - Consulta de débitos fiscais<br>Satisfação – Especificação Suplementar: USA05, USA06 |
-| *Representação* | - |
-
-<font size="3"><p style="text-align: center">Fonte: André Lopes, 2025.</p></font>
+### RF19
 
 <p style="text-align: center"><b>Tabela 19</b> - Tabela 19 - Cartão Pós Rastreabilidade RF19 </p>
 
@@ -244,6 +254,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
+### RF20
 
 <p style="text-align: center"><b>Tabela 20</b> - Tabela 20 - Cartão Pós Rastreabilidade RF20 </p>
 
@@ -258,20 +269,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
-
-<p style="text-align: center"><b>Tabela 9</b> - Cartão Pós Rastreabilidade RF21</p>
-
-| Artefato Analisado | Classificação do Artefato Analisado |
-|--------------------|--------------------------------------|
-| *Descrição* | O aplicativo deve oferecer suporte a múltiplos idiomas para facilitar o uso por diferentes públicos. |
-| *Tipos de Elo* | Desenvolvimento |
-| *Código do req* | [RF21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf21) |
-| *Backward-from* | [US-11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-11-suporte-a-multiplos-idiomas), [C09](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/#cenario-09), [L09](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l09-suporte-multilingue), [UC-Configurar Idioma](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/casos-de-uso/#uc-configurar-idioma), [E05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/epicos/#e05-experiencia-do-usuario), [USA01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/especificacao-suplementar/#usa01-acessibilidade), [USA10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/especificacao-suplementar/#usa10-suporte-a-idiomas) |
-| *Foward-from* | Agregação – História de Usuário: US-11 - Suporte a múltiplos idiomas; Feature: F10 - Suporte multilíngue<br>Satisfação – Especificação Suplementar: USA01, USA10 |
-| *Representação* | - |
-
-<font size="3"><p style="text-align: center">Fonte: André Lopes, 2025.</p></font>
-
+### RF21
 
 <p style="text-align: center"><b>Tabela 22</b> - Tabela 22 - Cartão Pós Rastreabilidade RF22 (US-33) </p>
 
@@ -279,13 +277,14 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 |--------------------|--------------------------------------|
 | Descrição | Integração com eSocial |
 | Tipos de Elo | Desenvolvimento |
-| Código do req | [RF22](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf22) |
+| Código do req | [RF21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf21) |
 | Backward-from | [US-33](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-33-integracao-com-esocial)<br>[E07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/epicos/#e07-integracoes-e-autorizacao) |
 | Foward-from | Agregação – Relacionada à integração com sistemas externos<br>Satisfação – Facilita a gestão de informações trabalhistas e previdenciárias de forma integrada |
 | Representação | Não aplicável |
 
 <font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
+### RF22
 
 <p style="text-align: center"><b>Tabela 22</b> - Tabela 22 - Cartão Pós Rastreabilidade RF22 (US-34) </p>
 
@@ -300,7 +299,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
-
+### RF23
 
 <p style="text-align: center"><b>Tabela 23</b> - Tabela 23 - Cartão Pós Rastreabilidade RF23 </p>
 
@@ -316,7 +315,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
 
----
+### RF24
 
 <p style="text-align: center"><b>Tabela 24</b> - Tabela 24 - Cartão Pós Rastreabilidade RF24 </p>
 
@@ -333,7 +332,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 
 
----
+### RF26
 
 <p style="text-align: center"><b>Tabela 26</b> - Tabela 26 - Cartão Pós Rastreabilidade RF26 </p>
 
@@ -349,7 +348,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
 
----
+### RF27
 
 <p style="text-align: center"><b>Tabela 27</b> - Tabela 27 - Cartão Pós Rastreabilidade RF27 </p>
 
@@ -364,6 +363,8 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
+### RF29
+
 <p style="text-align: center"><b>Tabela 29</b> - Tabela 29 - Cartão Pós Rastreabilidade RF29 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
@@ -376,6 +377,9 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | Representação | Não aplicável |
 
 <font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
+
+
+### RF30
 
 <p style="text-align: center"><b>Tabela 30</b> - Tabela 30 - Cartão Pós Rastreabilidade RF30 </p>
 
@@ -390,6 +394,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
+### RF32
 
 <p style="text-align: center"><b>Tabela 10</b> - Cartão Pós Rastreabilidade RF32</p>
 
@@ -405,8 +410,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 <font size="3"><p style="text-align: center">Fonte: André Lopes, 2025.</p></font>
 
 
-
-
+### RFN01
 
 <p style="text-align: center"><b>Tabela 35</b> - Tabela 35 - Cartão Pós Rastreabilidade RNF01 </p>
 
@@ -421,7 +425,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
 
----
+### RFN02
 
 <p style="text-align: center"><b>Tabela 36</b> - Tabela 36 - Cartão Pós Rastreabilidade RNF02 </p>
 
@@ -436,7 +440,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: </p></font>
 
----
+### RFN03
 
 <p style="text-align: center"><b>Tabela X</b> - Cartão Pós Rastreabilidade RNF03 </p>
 
@@ -452,9 +456,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
 
-<font size="3"><p style="text-align: center">Fonte: </p></font>
-
-## Cartão de Rastreabilidade RNF03
+### RFN03
 
 <p style="text-align: center"><b>Tabela X</b> - Cartão Pós Rastreabilidade RNF03 </p>
 
@@ -469,7 +471,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
-
+### RFN04
 
 <p style="text-align: center"><b>Tabela 38</b> - Tabela 38 - Cartão Pós Rastreabilidade RNF04 </p>
 
@@ -484,7 +486,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
----
+### RFN05
 
 <p style="text-align: center"><b>Tabela x</b> - Cartão Pós Rastreabilidade RNF05</p>
 
@@ -499,7 +501,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: André Lopes, 2025.</p></font>
 
----
+### RFN06
 
 <p style="text-align: center"><b>Tabela 40</b> - Tabela 40 - Cartão Pós Rastreabilidade RNF06 </p>
 
@@ -514,7 +516,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
 
----
+### RFN07
 
 <p style="text-align: center"><b>Tabela 41</b> - Tabela 41 - Cartão Pós Rastreabilidade RNF07 </p>
 
@@ -529,6 +531,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: </p></font>
 
+### RFN08
 
 <p style="text-align: center"><b>Tabela X</b> - Cartão Pós Rastreabilidade RNF08 </p>
 
@@ -544,7 +547,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
 
----
+### RFN09
 
 <p style="text-align: center"><b>Tabela 43</b> - Tabela 43 - Cartão Pós Rastreabilidade RNF09 </p>
 
@@ -559,7 +562,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
----
+### RFN10
 
 <p style="text-align: center"><b>Tabela 44</b> - Tabela 44 - Cartão Pós Rastreabilidade RNF10 </p>
 
@@ -574,7 +577,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: </p></font>
 
----
+### RFN11
 
 <p style="text-align: center"><b>Tabela 45</b> - Tabela 45 - Cartão Pós Rastreabilidade RNF11 </p>
 
@@ -592,7 +595,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 <font size="3"><p style="text-align: center">Fonte: André Lopes, 2025.</p></font>
 
 
----
+### RFN12
 
 <p style="text-align: center"><b>Tabela 46</b> - Tabela 46 - Cartão Pós Rastreabilidade RNF12 </p>
 
@@ -607,7 +610,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: </p></font>
 
----
+### RFN13
 
 <p style="text-align: center"><b>Tabela 13b> - Cartão Pós Rastreabilidade RNF13 </p>
 
@@ -624,7 +627,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 
 
-<p style="text-align: center"><b>Tabela 48</b> - Tabela 48 - Cartão Pós Rastreabilidade RNF14 </p>
+### RFN14
 
 <p style="text-align: center"><b>Tabela X</b> - Cartão Pós Rastreabilidade RNF14 </p>
 
@@ -640,7 +643,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 <font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
 
----
+### RFN15
 
 <p style="text-align: center"><b>Tabela 49</b> - Tabela 49 - Cartão Pós Rastreabilidade RNF15 </p>
 
@@ -655,7 +658,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: </p></font>
 
----
+### RFN16
 
 <p style="text-align: center"><b>Tabela 50</b> - Tabela 50 - Cartão Pós Rastreabilidade RNF16 </p>
 
@@ -670,7 +673,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
 
----
+### RFN17
 
 <p style="text-align: center"><b>Tabela 51</b> - Tabela 51 - Cartão Pós Rastreabilidade RNF17 </p>
 
@@ -685,7 +688,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: </p></font>
 
----
+### RFN18
 
 <p style="text-align: center"><b>Tabela </b> - Cartão Pós Rastreabilidade RNF18 </p>
 
@@ -700,11 +703,10 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
----
+### RFN19
 
 <p style="text-align: center"><b>Tabela 53</b> - Tabela 53 - Cartão Pós Rastreabilidade RNF19 </p>
 
-<p style="text-align: center"><b>Tabela X</b> - Cartão Pós Rastreabilidade RNF19 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 |--------------------|--------------------------------------|
@@ -716,7 +718,8 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | *Representação* | --- |
 
 <font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
----
+
+### RFN20
 
 <p style="text-align: center"><b>Tabela 4</b> - Cartão Pós Rastreabilidade RNF20</p>
 
@@ -732,7 +735,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 <font size="3"><p style="text-align: center">Fonte: André Lopes, 2025.</p></font>
 
 
----
+### RFN21
 
 <p style="text-align: center"><b>Tabela 55</b> - Tabela 55 - Cartão Pós Rastreabilidade RNF21 </p>
 
