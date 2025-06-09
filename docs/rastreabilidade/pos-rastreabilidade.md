@@ -1,7 +1,5 @@
 ## Introdução 
 
-A etapa de pós-rastreabilidade visa evidenciar como os requisitos especificados se desdobram nos demais artefatos do projeto, estabelecendo vínculos claros entre a fase de elicitação e as etapas subsequentes de arquitetura e implementação. Por meio da análise dos elos traçados entre documentos, modelos e código, é possível avaliar a consistência, a cobertura e a maturidade da solução proposta para o sistema da Receita Federal.
-
 A pós-rastreabilidade desempenha um papel fundamental na verificação da conformidade entre os requisitos elicitados e os elementos que os representam nas fases subsequentes do desenvolvimento. Seu principal objetivo é garantir que cada requisito — funcional ou não funcional — tenha continuidade e seja refletido de forma clara na arquitetura, nos artefatos de projeto e futuramente na implementação do sistema.
 
 ## Metodologia 
