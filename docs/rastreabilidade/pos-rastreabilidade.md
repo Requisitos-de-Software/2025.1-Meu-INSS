@@ -42,8 +42,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Foward-from** | Agregação – Relacionado à etapa de inscrição<br>Satisfação – Reduz burocracia para o usuário |
 | **Representação** | |
 
-<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
----
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 <p style="text-align: center"><b>Tabela 3</b> - Tabela 3 - Cartão Pós Rastreabilidade RF03 </p>
 
@@ -60,9 +59,6 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 ---
 
-
-
-<font size="3"><p style="text-align: center">Fonte: André Lopes, 2025.</p></font>
 
 <p style="text-align: center"><b>Tabela 5</b> - Tabela 5 - Cartão Pós Rastreabilidade RF05 </p>
 
@@ -135,8 +131,8 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
----
+
+
 
 <p style="text-align: center"><b>Tabela 13</b> - Tabela 13 - Cartão Pós Rastreabilidade RF13 </p>
 
@@ -151,8 +147,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
----
+
 <p style="text-align: center"><b>Tabela 14</b> - Tabela 14 - Cartão Pós Rastreabilidade RF14</p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
@@ -513,7 +508,6 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: André Lopes, 2025.</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
 
 ---
 
