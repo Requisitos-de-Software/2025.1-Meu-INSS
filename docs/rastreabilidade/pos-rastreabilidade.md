@@ -542,7 +542,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | *Código do req* | [RNF08](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf08) |
 | *Backward-from* | *NFR:* [RNF08](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem_agil/nfr-framework/#rnf08)<br>*Especificação Suplementar:* [SUP02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/especificacaosuplementar/#sup02)<br>*Requisitos Elicitados:* [ADC20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#adc20) |
 | *Foward-from* | *Satisfação:* Especificação Suplementar: SUP02 (Compatível com Android 8+ e iOS 14+)<br>*Agregação:* Informação não disponível |
-| *Representação* | ![Representação do App](2025.1-ReceitaFederal/docs/assets/Representação%20app.png) |
+| *Representação* | ![Representação do App](../assets/Representação%20app.png) |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
