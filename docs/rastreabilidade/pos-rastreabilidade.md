@@ -57,7 +57,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Descrição** | Acompanhamento de status da restituição (precisão quanto aos lotes) |
 | **Tipos de Elo** | Organizacional |
 | **Código do req** | [RF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf03) |
-| **Backward-from** | [ADC3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) |
+| **Backward-from** | [ADC3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/), [C04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/#cenario-04), [L04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l04-visualizar-restituicao), [US01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/ |
 | **Foward-from** | Agregação – Relacionado à etapa de restituição |
 | **Representação** | - |
 
@@ -73,7 +73,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Descrição** | Agendar no próprio aplicativo atendimentos presenciais em unidades da Receita Federal |
 | **Tipos de Elo** | Organizacional |
 | **Código do req** | [RF05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf05) |
-| **Backward-from** | [INT3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [US02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-02-agendar-no-proprio-app-da-receita-atendimentos-presenciais) |
+| **Backward-from** | [INT3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [US02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-02-agendar-no-proprio-app-da-receita-atendimentos-presenciais),[US02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-02-agendar-no-proprio-app-da-receita-atendimentos-presenciais)|
 | **Foward-from** | Integração – Sistemas de agendamento da Receita<br>Satisfação – Facilidade de acesso aos serviços presenciais |
 | **Representação**| - |
 
@@ -104,7 +104,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Descrição** | Geração de guias de pagamento |
 | **Tipos de Elo** | Desenvolvimento |
 | **Código do req** | [RF10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf10) |
-| **Backward-from** | [ADC10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) |
+| **Backward-from** | [ADC10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/),  [C07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/#cenario-07), [L02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l02-gerar-darf), [L08](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l08-pagar-divida-ativa), [US03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-03-geracao-de-guias-de-pagamento), [UC](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/casosdeuso/#41-ator-primario-contribuinte) |
 | **Foward-from** |  Integração – Conectado ao sistema de arrecadação |
 | **Representação** |[guiapagemento - imagem 01](../assets/prints-jose/guia-pagemento%20(1).jpg) e [guiapagemento - imagem 02](../assets/prints-jose/guia-pagemento%20(2).jpg)|
 
@@ -170,7 +170,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Descrição** | Acessar informações detalhadas acerca da declaração de imposto de renda de um ano específico |
 | **Tipos de Elo** | Organizacional |
 | **Código do req** | [RF14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf14) |
-| **Backward-from** | [INT1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) |
+| **Backward-from** | [INT1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [L07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l07-acompanhar-processamento), [US05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-05-acesso-a-informacoes-detalhadas-da-declaracao-de-imposto-de-renda-por-ano) |
 | **Foward-from** | Agregação – Relacionado à análise de dados da declaração por período |
 | **Representação** | [Historico das declaracoes](../assets/prints-jose/historico-declaracoes.jpg) e [Informações detalhadas]() |
 
