@@ -1,7 +1,12 @@
 ## Introdução 
 
+A pós-rastreabilidade desempenha um papel fundamental na verificação da conformidade entre os requisitos elicitados e os elementos que os representam nas fases subsequentes do desenvolvimento. Seu principal objetivo é garantir que cada requisito — funcional ou não funcional — tenha continuidade e seja refletido de forma clara na arquitetura, nos artefatos de projeto e futuramente na implementação do sistema.
+
 ## Metodologia 
 
+Para estruturar a análise de pós-rastreabilidade no sistema da Receita Federal, foi adotado um modelo padronizado de cartão que organiza de forma sistemática os vínculos entre os requisitos e seus artefatos relacionados. Esse modelo permite rastrear a evolução dos requisitos a partir de suas fontes de origem até sua implementação, promovendo a transparência e a rastreabilidade entre as diversas fases do processo de engenharia de requisitos.
+
+**Tabela base dessa etapa é:**
 
 Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
@@ -14,7 +19,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | Foward-from   |  TIPO DE ELO (Relação)                - Satisfação/agregação + descrição                  |
 | Representação |         Imagem ou vídeo             |
 
-Fonte: 
+<font size="3"><p style="text-align: center">Fonte: Seu nome aqui, 2025 </p></font>
 
 ## Participação por membro da equipe 
 
@@ -22,8 +27,8 @@ Fonte:
 | ----------------------------------------------- | ----------------- |
 |[José Eduardo](https://github.com/jevprado)      | ----------------- |
 |[Diassis](https://github.com/Diaxiz)             | ----------------- |
-| [Julia Massuda](https://github.com/JuliaReis18) | ----------------- |
-
+|[Julia Massuda](https://github.com/JuliaReis18)  | ----------------- |
+|[Andre Lopes](https://github.com/andrewslopes) | ----------------- |
 
 
 <p style="text-align: center"><b>Tabela 2</b> - Tabela 2 - Cartão Pós Rastreabilidade RF02 </p>
@@ -37,8 +42,7 @@ Fonte:
 | **Foward-from** | Agregação – Relacionado à etapa de inscrição<br>Satisfação – Reduz burocracia para o usuário |
 | **Representação** | |
 
-<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
----
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 <p style="text-align: center"><b>Tabela 3</b> - Tabela 3 - Cartão Pós Rastreabilidade RF03 </p>
 
@@ -55,9 +59,6 @@ Fonte:
 
 ---
 
-
-
-<font size="3"><p style="text-align: center">Fonte: André Lopes, 2025.</p></font>
 
 <p style="text-align: center"><b>Tabela 5</b> - Tabela 5 - Cartão Pós Rastreabilidade RF05 </p>
 
@@ -130,8 +131,8 @@ Fonte:
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
----
+
+
 
 <p style="text-align: center"><b>Tabela 13</b> - Tabela 13 - Cartão Pós Rastreabilidade RF13 </p>
 
@@ -146,8 +147,7 @@ Fonte:
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
----
+
 <p style="text-align: center"><b>Tabela 14</b> - Tabela 14 - Cartão Pós Rastreabilidade RF14</p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
@@ -577,7 +577,6 @@ Fonte:
 
 <font size="3"><p style="text-align: center">Fonte: André Lopes, 2025.</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz) </p></font>
 
 ---
 
@@ -748,7 +747,8 @@ Fonte:
 | `1.0`   | 05/06/2025 | Criação do documento de pós rastreabilidade   | [José Eduardo](https://github.com/jevprado)    | [Diassis](https://github.com/Diaxiz) |
 | `1.1`   | 05/06/2025 | Criação dos cartões RF02, RF12, RF13, RF15, RF16, RF20 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [Diassis](https://github.com/Diaxiz)   | [José Eduardo](https://github.com/jevprado)|
 | `1.1`   | 08/06/2025 | Criação dos cartões RF02, RF12, RF13, RF15, RF16, RF20 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [Diassis](https://github.com/Diaxiz)   | [José Eduardo](https://github.com/jevprado)
-| `1.2`   | 05/06/2025 | Criação dos cartões RF03, RF05, RF10, RF11, RF14 e  RF17 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [José Eduardo](https://github.com/jevprado)   | [Diassis](https://github.com/Diaxiz)  |
-| `1.3`   | 05/06/2025 | Criação dos cartões RF03, RF05, RF10, RF11, RF14 e  RF17 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [Diassis](https://github.com/Diaxiz)   |  [José Eduardo](https://github.com/jevprado)  |
-| `1.4`   | 05/06/2025 | Criação dos cartões RF23, RF24, RF26, RF27, RF19, RNF03, RNF08, RNF13 e RNF18  | [Julia Massuda](https://github.com/JuliaReis18)  | [Diassis](https://github.com/Diaxiz) |
-| `1.5`   | 05/06/2025 | Criação dos cartões RF18, RF22, RF22, RF29, RF30, RNF04, RNF09, RNF14 e RNF19  | [João Pedro](https://github.com/JpRodrigues2)  | ADD REVISOR |
+| `1.2`   | 08/06/2025 | Criação dos cartões RF03, RF05, RF10, RF11, RF14 e  RF17 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [José Eduardo](https://github.com/jevprado)   | [Diassis](https://github.com/Diaxiz)  |
+| `1.3`   | 08/06/2025 | Criação dos cartões RF03, RF05, RF10, RF11, RF14 e  RF17 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [Diassis](https://github.com/Diaxiz)   |  [José Eduardo](https://github.com/jevprado)  |
+| `1.4`   | 08/06/2025 | Criação dos cartões RF23, RF24, RF26, RF27, RF19, RNF03, RNF08, RNF13 e RNF18  | [Julia Massuda](https://github.com/JuliaReis18)  | [Diassis](https://github.com/Diaxiz) |
+| `1.5`   | 08/06/2025 | Criação introdução e metodologia da pos-rastreabilidade | [José Eduardo](https://github.com/jevprado)  | [Diassis](https://github.com/Diaxiz) |
+| `1.6`   | 05/06/2025 | Criação dos cartões RF18, RF22, RF22, RF29, RF30, RNF04, RNF09, RNF14 e RNF19  | [João Pedro](https://github.com/JpRodrigues2)  | [José Eduardo](https://github.com/jevprado) |
