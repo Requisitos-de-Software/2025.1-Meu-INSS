@@ -180,11 +180,12 @@ Fonte:
 | Descrição | O aplicativo possui um dashboard especializado que permite gerenciar múltiplos CPFs/CNPJs dos clientes. |
 | Tipos de Elo | Desenvolvimento |
 | Código do req | [RF19](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf19) |
-| Backward-from | US-18 <br> C03<br> L09 <br> UC: Relacionado a "Consultar Situação Fiscal", "Pagar Tributos", "Consultar Processos", "Acesso simultâneo a múltiplos CPFs/CNPJs"<br> E05 <br> RNF20 , RNF21 <br>USA06 , CON05|
-| Foward-from | **Satisfação:** Especificação Suplementar: USA06, CON05<br>**Agregação:** História de Usuário: US-18 - Dashboard para profissionais contábeis; Feature: F21 - Dashboard para profissionais contábeis |
+| Backward-from | [US-18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-18-dashboard-para-profissionais-contabeis)<br>[C03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/#cenario-03)<br>[L09](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l09-contribuinte)<br>UC: Relacionado a "Consultar Situação Fiscal", "Pagar Tributos", "Consultar Processos", "Acesso simultâneo a múltiplos CPFs/CNPJs"<br>[E05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/epicos/#e05-experiencia-do-usuario-e-acessibilidade)<br>[RNF20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/nfr-framework/#rnf20), [RNF21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/nfr-framework/#rnf21)<br>[USA06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/especificacaosuplementar/#usa06), [CON05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/especificacaosuplementar/#con05) |
+| Foward-from | *Satisfação:* Especificação Suplementar: USA06, CON05<br>*Agregação:* História de Usuário: US-18 - Dashboard para profissionais contábeis; Feature: F21 - Dashboard para profissionais contábeis |
 | Representação | Não aplicável |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
 
 <p style="text-align: center"><b>Tabela 20</b> - Tabela 20 - Cartão Pós Rastreabilidade RF20 </p>
 
@@ -205,12 +206,13 @@ Fonte:
 |---|---|
 | Descrição | O aplicativo permite o compartilhamento de comprovantes e certidões diretamente pelo aplicativo através de WhatsApp, e-mail ou salvamento em nuvem. |
 | Tipos de Elo | Desenvolvimento |
-| Código do req |[RF23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf23) |
-| Backward-from | US-13 <br>C06<br>L06 <br> UC: Consultar Recibo<br>E02 <br>RNF1 , RNF20 <br>USA01, USA06|
-| Foward-from | **Satisfação:** Especificação Suplementar: USA01, USA06<br>**Agregação:** História de Usuário: US-13 - Compartilhamento de comprovantes e certidões; Feature: F11 - Compartilhamento de comprovantes e certidões |
+| Código do req | [RF23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf23) |
+| Backward-from | [US-13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-13-compartilhamento-de-comprovantes-e-certidoes)<br>[C06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/#cenario-06)<br>[L06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l06-emitir-comprovante-de-rendimentos)<br>UC: Consultar Recibo<br>[E02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/epicos/#e02-regularizacao-e-pagamentos)<br>[RNF1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/nfr-framework/#rnf1), [RNF20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/nfr-framework/#rnf20)<br>[USA01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/especificacaosuplementar/#usa01), [USA06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/especificacaosuplementar/#usa06) |
+| Foward-from | *Satisfação:* Especificação Suplementar: USA01, USA06<br>*Agregação:* História de Usuário: US-13 - Compartilhamento de comprovantes e certidões; Feature: F11 - Compartilhamento de comprovantes e certidões |
 | Representação | Não aplicável |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
 
 ---
 
@@ -221,11 +223,13 @@ Fonte:
 | Descrição | O aplicativo permite o reenvio de notificações importantes que o usuário perdeu ou não recebeu. |
 | Tipos de Elo | Desenvolvimento |
 | Código do req | [RF24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf24) |
-| Backward-from |  US-14<br> UC: Relacionado a "Receber notificações da Receita"<br> E04|
-| Foward-from | **Agregação:** História de Usuário: US-14 - Reenvio de notificações perdidas; Feature: F17 - Reenvio de notificações perdidas |
+| Backward-from | [US-14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-14-reenvio-de-notificacoes-perdidas)<br>UC: Relacionado a "Receber notificações da Receita"<br>[E04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/epicos/#e04-atendimento-e-comunicacao) |
+| Foward-from | *Agregação:* História de Usuário: US-14 - Reenvio de notificações perdidas; Feature: F17 - Reenvio de notificações perdidas |
 | Representação | Não aplicável |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+
 
 ---
 
@@ -235,12 +239,13 @@ Fonte:
 |---|---|
 | Descrição | O aplicativo permite acesso a um FAQ interativo com busca inteligente filtrada por temas. |
 | Tipos de Elo | Desenvolvimento |
-| Código do req |  [RF26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf26) |
-| Backward-from | US-16 <br> C02<br> UC: Relacionado a "Acessar vídeos e notícias institucionais" e "Sistema de Ajuda e Documentação"<br> E04 <br> RNF1 , RNF2 <br> USA01 , USA02  |
-| Foward-from | **Satisfação:** Especificação Suplementar: USA01, USA02<br>**Agregação:** História de Usuário: US-16 - FAQ interativo com busca inteligente; Feature: F18 - FAQ interativo com busca inteligente |
+| Código do req | [RF26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf26) |
+| Backward-from | [US-16](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-16-faq-interativo-com-busca-inteligente)<br>[C02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/#cenario-02)<br>UC: Relacionado a "Acessar vídeos e notícias institucionais" e "Sistema de Ajuda e Documentação"<br>[E04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/epicos/#e04-atendimento-e-comunicacao)<br>[RNF1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/nfr-framework/#rnf1), [RNF2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/nfr-framework/#rnf2)<br>[USA01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/especificacaosuplementar/#usa01), [USA02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/especificacaosuplementar/#usa02) |
+| Foward-from | *Satisfação:* Especificação Suplementar: USA01, USA02<br>*Agregação:* História de Usuário: US-16 - FAQ interativo com busca inteligente; Feature: F18 - FAQ interativo com busca inteligente |
 | Representação | Não aplicável |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
 
 ---
 
@@ -250,12 +255,13 @@ Fonte:
 |---|---|
 | Descrição | O aplicativo se integra automaticamente com o calendário do dispositivo para criar lembretes de obrigações fiscais. |
 | Tipos de Elo | Desenvolvimento |
-| Código do req |  [RF27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf27) |
-| Backward-from |  US-17 <br> UC: Relacionado a "Lembretes automáticos" (de Agendar Atendimento)<br> E05 |
-| Foward-from | **Satisfação:** Especificação Suplementar: Informação não disponível<br>**Agregação:** História de Usuário: US-17 - Integração com calendário do dispositivo; Feature: F20 - Integração com calendário do dispositivo |
+| Código do req | [RF27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf27) |
+| Backward-from | [US-17](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-17-integracao-com-calendario-do-dispositivo)<br>UC: Relacionado a "Lembretes automáticos" (de Agendar Atendimento)<br>[E05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/epicos/#e05-experiencia-do-usuario-e-acessibilidade) |
+| Foward-from | *Satisfação:* Especificação Suplementar: Informação não disponível<br>*Agregação:* História de Usuário: US-17 - Integração com calendário do dispositivo; Feature: F20 - Integração com calendário do dispositivo |
 | Representação | Não aplicável |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
 
 
 
@@ -292,16 +298,19 @@ Fonte:
 
 ---
 
-<p style="text-align: center"><b>Tabela 37</b> - Tabela 37 - Cartão Pós Rastreabilidade RNF03 </p>
+<p style="text-align: center"><b>Tabela X</b> - Cartão Pós Rastreabilidade RNF03 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
-|--------------------|--------------------------------------|
-| **Descrição** | Testes de desempenho para suportar alta demanda de usuários simultâneos |
-| **Tipos de Elo** | Ambiental / Organizacional / Gerencial / Desenvolvimento |
-| **Código do req** | [RNF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf03) |
-| **Backward-from** | ADC15 |
-| **Foward-from** |  |
-| **Representação** |  |
+|---|---|
+| *Descrição* | Testes de desempenho para suportar alta demanda de usuários simultâneos |
+| *Tipos de Elo* | Desenvolvimento |
+| *Código do req* | [RNF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf03) |
+| *Backward-from* | [RNF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem_agil/nfr-framework/#rnf03)<br>[DES01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/especificacaosuplementar/#des01)<br>[ADC15](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#adc15) |
+| *Foward-from* | *Satisfação:* Especificação Suplementar: DES01 (Testes de desempenho para suportar alta demanda de usuários simultâneos)<br>*Agregação:* Informação não disponível |
+| *Representação* | - |
+
+<font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
 
 <font size="3"><p style="text-align: center">Fonte: </p></font>
 
@@ -381,19 +390,19 @@ Fonte:
 <font size="3"><p style="text-align: center">Fonte: </p></font>
 
 
-
 <p style="text-align: center"><b>Tabela X</b> - Cartão Pós Rastreabilidade RNF08 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
-|--------------------|--------------------------------------|
-| **Descrição** | Compatível com Android 8+ e iOS 14+ |
-| **Tipos de Elo** | Desenvolvimento |
-| **Código do req** | [RNF08](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf08) |
-| **Backward-from** | RNF08<br> SUP02<br> ADC20 |
-| **Foward-from** | **Satisfação:** Especificação Suplementar: SUP02 (Compatível com Android 8+ e iOS 14+)<br>**Agregação:** Informação não disponível |
-| **Representação** | - |
+|---|---|
+| *Descrição* | Compatível com Android 8+ e iOS 14+ |
+| *Tipos de Elo* | Desenvolvimento |
+| *Código do req* | [RNF08](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf08) |
+| *Backward-from* | *NFR:* [RNF08](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem_agil/nfr-framework/#rnf08)<br>*Especificação Suplementar:* [SUP02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/especificacaosuplementar/#sup02)<br>*Requisitos Elicitados:* [ADC20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#adc20) |
+| *Foward-from* | *Satisfação:* Especificação Suplementar: SUP02 (Compatível com Android 8+ e iOS 14+)<br>*Agregação:* Informação não disponível |
+| *Representação* | ![Representação do App](2025.1-ReceitaFederal/docs/assets/Representação%20app.png) |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
 
 ---
 
@@ -457,18 +466,20 @@ Fonte:
 
 ---
 
-<p style="text-align: center"><b>Tabela X</b> - Cartão Pós Rastreabilidade RNF13 </p>
+<p style="text-align: center"><b>Tabela 13b> - Cartão Pós Rastreabilidade RNF13 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
-|--------------------|--------------------------------------|
-| **Descrição** | O app deve suportar modo de operação em baixa conectividade, com cache de dados essenciais |
-| **Tipos de Elo** | Desenvolvimento |
-| **Código do req** | [RNF13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf13) |
-| **Backward-from** | RNF13<br>DES03<br> INT11 |
-| **Foward-from** | **Satisfação:** Especificação Suplementar: DES03 (Suporte offline com cache de dados essenciais em baixa conectividade)<br>**Agregação:** Informação não disponível |
-| **Representação** | Não aplicável |
+|---|---|
+| *Descrição* | O app deve suportar modo de operação em baixa conectividade, com cache de dados essenciais |
+| *Tipos de Elo* | Desenvolvimento |
+| *Código do req* | [RNF13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf13) |
+| *Backward-from* | [RNF13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem_agil/nfr-framework/#rnf13)<br>[DES03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/especificacaosuplementar/#des03)<br>[INT11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#int11) |
+| *Foward-from* | *Satisfação:* Especificação Suplementar: DES03 (Suporte offline com cache de dados essenciais em baixa conectividade)<br>*Agregação:* Informação não disponível |
+| *Representação* | Não aplicável |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+
 
 <p style="text-align: center"><b>Tabela 48</b> - Tabela 48 - Cartão Pós Rastreabilidade RNF14 </p>
 
@@ -530,16 +541,16 @@ Fonte:
 
 ---
 
-<p style="text-align: center"><b>Tabela X</b> - Cartão Pós Rastreabilidade RNF18 </p>
+<p style="text-align: center"><b>Tabela </b> - Cartão Pós Rastreabilidade RNF18 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
-|--------------------|--------------------------------------|
-| **Descrição** | Armazenamento anônimo de logs de erro respeitando a LGPD |
-| **Tipos de Elo** | Desenvolvimento / Organizacional |
-| **Código do req** | [RNF18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf18) |
-| **Backward-from** |RNF18<br>CON04<br> INT15 |
-| **Foward-from** | **Satisfação:** Especificação Suplementar: CON04 (Armazenamento anônimo de logs de erro respeitando a LGPD)<br>**Agregação:** Informação não disponível |
-| **Representação** | - |
+|---|---|
+| *Descrição* | Armazenamento anônimo de logs de erro respeitando a LGPD |
+| *Tipos de Elo* | Desenvolvimento / Organizacional |
+| *Código do req* | [RNF18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf18) |
+| *Backward-from* | [RNF18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem_agil/nfr-framework/#rnf18)<br>[CON04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/especificacaosuplementar/#con04)<br>[INT15](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#int15) |
+| *Foward-from* | *Satisfação:* Especificação Suplementar: CON04 (Armazenamento anônimo de logs de erro respeitando a LGPD)<br>*Agregação:* Informação não disponível |
+| *Representação* | - |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
