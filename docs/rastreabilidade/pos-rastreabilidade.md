@@ -211,7 +211,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 ### RF17
 
-<p style="text-align: center"><b>Tabela x</b> - Tabela x - Cartão Pós Rastreabilidade RF17</p>
+<p style="text-align: center"><b>Tabela 17</b> - Tabela 17 - Cartão Pós Rastreabilidade RF17</p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 |--------------------|--------------------------------------|
@@ -396,7 +396,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 ### RF32
 
-<p style="text-align: center"><b>Tabela 10</b> - Cartão Pós Rastreabilidade RF32</p>
+<p style="text-align: center"><b>Tabela 34</b> - Cartão Pós Rastreabilidade RF32</p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 |--------------------|--------------------------------------|
@@ -442,7 +442,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 ### RFN03
 
-<p style="text-align: center"><b>Tabela X</b> - Cartão Pós Rastreabilidade RNF03 </p>
+<p style="text-align: center"><b>Tabela 36</b> - Cartão Pós Rastreabilidade RNF03 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 |---|---|
@@ -458,7 +458,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 ### RFN03
 
-<p style="text-align: center"><b>Tabela X</b> - Cartão Pós Rastreabilidade RNF03 </p>
+<p style="text-align: center"><b>Tabela 37</b> - Cartão Pós Rastreabilidade RNF03 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 |--------------------|--------------------------------------|
@@ -488,7 +488,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 ### RFN05
 
-<p style="text-align: center"><b>Tabela x</b> - Cartão Pós Rastreabilidade RNF05</p>
+<p style="text-align: center"><b>Tabela 39</b> - Cartão Pós Rastreabilidade RNF05</p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 |--------------------|--------------------------------------|
@@ -533,7 +533,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 ### RFN08
 
-<p style="text-align: center"><b>Tabela X</b> - Cartão Pós Rastreabilidade RNF08 </p>
+<p style="text-align: center"><b>Tabela 42</b> - Cartão Pós Rastreabilidade RNF08 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 |---|---|
@@ -612,7 +612,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 ### RFN13
 
-<p style="text-align: center"><b>Tabela 13b> - Cartão Pós Rastreabilidade RNF13 </p>
+<p style="text-align: center"><b>Tabela 47</b> - Cartão Pós Rastreabilidade RNF13 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 |---|---|
@@ -629,7 +629,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 ### RFN14
 
-<p style="text-align: center"><b>Tabela X</b> - Cartão Pós Rastreabilidade RNF14 </p>
+<p style="text-align: center"><b>Tabela 48</b> - Cartão Pós Rastreabilidade RNF14 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 |--------------------|--------------------------------------|
@@ -690,7 +690,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 ### RFN18
 
-<p style="text-align: center"><b>Tabela </b> - Cartão Pós Rastreabilidade RNF18 </p>
+<p style="text-align: center"><b>Tabela 52 </b> - Cartão Pós Rastreabilidade RNF18 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 |---|---|
@@ -721,7 +721,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 ### RFN20
 
-<p style="text-align: center"><b>Tabela 4</b> - Cartão Pós Rastreabilidade RNF20</p>
+<p style="text-align: center"><b>Tabela 54</b> - Cartão Pós Rastreabilidade RNF20</p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 |--------------------|--------------------------------------|
@@ -737,7 +737,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 ### RFN21
 
-<p style="text-align: center"><b>Tabela 55</b> - Tabela 55 - Cartão Pós Rastreabilidade RNF21 </p>
+<p style="text-align: center"><b>Tabela 55</b> - Tabela 21 - Cartão Pós Rastreabilidade RNF21 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 |--------------------|--------------------------------------|
