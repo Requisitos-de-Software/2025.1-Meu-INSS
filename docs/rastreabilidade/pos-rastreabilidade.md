@@ -751,6 +751,10 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 ## Referências 
 
+> <a>1.</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf.
+>
+> <a>2.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 26. Universidade de Brasília, Campus Gama (UnB Gama). Material de aula. 
+>
 
 
 
@@ -765,4 +769,5 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | `1.3`   | 08/06/2025 | Criação dos cartões RF03, RF05, RF10, RF11, RF14 e  RF17 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [Diassis](https://github.com/Diaxiz)   |  [José Eduardo](https://github.com/jevprado)  |
 | `1.4`   | 08/06/2025 | Criação dos cartões RF23, RF24, RF26, RF27, RF19, RNF03, RNF08, RNF13 e RNF18  | [Julia Massuda](https://github.com/JuliaReis18)  | [Diassis](https://github.com/Diaxiz) |
 | `1.5`   | 08/06/2025 | Criação introdução e metodologia da pos-rastreabilidade | [José Eduardo](https://github.com/jevprado)  | [Diassis](https://github.com/Diaxiz) |
-| `1.6`   | 05/06/2025 | Criação dos cartões RF18, RF22, RF22, RF29, RF30, RNF04, RNF09, RNF14 e RNF19  | [João Pedro](https://github.com/JpRodrigues2)  | [José Eduardo](https://github.com/jevprado) |
+| `1.6`   | 08/06/2025 | Criação dos cartões RF18, RF22, RF22, RF29, RF30, RNF04, RNF09, RNF14 e RNF19  | [João Pedro](https://github.com/JpRodrigues2)  | [José Eduardo](https://github.com/jevprado) |
+| `1.7`   | 08/06/2025 | adicionando as referencias  | [José Eduardo](https://github.com/jevprado)   | [Diassis](https://github.com/Diaxiz)  |

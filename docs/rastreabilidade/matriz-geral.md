@@ -107,7 +107,10 @@ Com isso, a matriz geral permite não apenas documentar o histórico dos requisi
 
 ## Referências 
 
-
+> <a>1.</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf.
+>
+> <a>2.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 26. Universidade de Brasília, Campus Gama (UnB Gama). Material de aula. 
+>
 
 
 ## Historico de versões
@@ -118,3 +121,4 @@ Com isso, a matriz geral permite não apenas documentar o histórico dos requisi
 | `1.1`   | 05/06/2025 | Adicionando tabela da matriz geral                            | [José Eduardo](https://github.com/jevprado)    | [Thales Germano](https://github.com/thalesgvl) |
 | `1.2`   | 07/06/2025 | Adicionado Introdução e Metodologia em Matriz-Geral           |  [Diassis](https://github.com/Diaxiz)          | [José Eduardo](https://github.com/jevprado) |
 | `1.3`   | 08/06/2025 | Adicionando hyperlinks                                        | [José Eduardo](https://github.com/jevprado)    |  [Diassis](https://github.com/Diaxiz)  |
+| `1.4`   | 08/06/2025 | adicionando as referencias  | [José Eduardo](https://github.com/jevprado)   | [Diassis](https://github.com/Diaxiz)  |
