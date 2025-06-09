@@ -190,6 +190,19 @@ Fonte:
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
+<p style="text-align: center"><b>Tabela 18</b> - Tabela 18 - Cartão Pós Rastreabilidade RF18 </p>
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+|---|---|
+| Descrição | Consulta de pendências de Malha Fiscal |
+| Tipos de Elo | Desenvolvimento |
+| Código do req | [RF18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf18) |
+| Backward-from | [US-31](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-31-consulta-de-pendencias-de-malha-fiscal)<br>UC: Consultar Situação Fiscal, UC: Acompanhar Processamento<br>[C04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/#cenario-04)<br>[E06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/epicos/#e06-gestao-de-documentos-e-processos)<br>[RNF20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem_agil/nfr-framework/#rnf20)<br>[USA06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/especificacaosuplementar/#usa06) |
+| Foward-from | Agregação – Relacionada ao acompanhamento da declaração de IR<br>Satisfação – Permite ao contribuinte verificar e resolver rapidamente inconsistências fiscais |
+| Representação | Não aplicável |
+
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
+
 
 <p style="text-align: center"><b>Tabela 8</b> - Cartão Pós Rastreabilidade RF18</p>
 
@@ -244,6 +257,35 @@ Fonte:
 | *Representação* | - |
 
 <font size="3"><p style="text-align: center">Fonte: André Lopes, 2025.</p></font>
+
+
+<p style="text-align: center"><b>Tabela 22</b> - Tabela 22 - Cartão Pós Rastreabilidade RF22 (US-33) </p>
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+|--------------------|--------------------------------------|
+| Descrição | Integração com eSocial |
+| Tipos de Elo | Desenvolvimento |
+| Código do req | [RF22](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf22) |
+| Backward-from | [US-33](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-33-integracao-com-esocial)<br>[E07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/epicos/#e07-integracoes-e-autorizacao) |
+| Foward-from | Agregação – Relacionada à integração com sistemas externos<br>Satisfação – Facilita a gestão de informações trabalhistas e previdenciárias de forma integrada |
+| Representação | Não aplicável |
+
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
+
+
+<p style="text-align: center"><b>Tabela 22</b> - Tabela 22 - Cartão Pós Rastreabilidade RF22 (US-34) </p>
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+|--------------------|--------------------------------------|
+| Descrição | Autorização de acesso a terceiros |
+| Tipos de Elo | Desenvolvimento / Organizacional |
+| Código do req | [RF22](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf22) |
+| Backward-from | [US-34](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-34-autorizacao-de-acesso-a-terceiros)<br>[C03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/#cenario-03)<br>[E07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/epicos/#e07-integracoes-e-autorizacao)<br>[RNF4](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem_agil/nfr-framework/#rnf4)<br>[CON01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/especificacaosuplementar/#con01) |
+| Foward-from | Agregação – Relacionada à segurança e privacidade dos dados<br>Satisfação – Permite que profissionais auxiliem contribuintes de forma remota |
+| Representação | Não aplicável |
+
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
+
 
 
 <p style="text-align: center"><b>Tabela 23</b> - Tabela 23 - Cartão Pós Rastreabilidade RF23 </p>
@@ -307,6 +349,33 @@ Fonte:
 | Representação | Não aplicável |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+<p style="text-align: center"><b>Tabela 29</b> - Tabela 29 - Cartão Pós Rastreabilidade RF29 </p>
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+|--------------------|--------------------------------------|
+| Descrição | Consulta de tabelas auxiliares (CNAE, NCM, unidades da RF) |
+| Tipos de Elo | Desenvolvimento |
+| Código do req | [RF29](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf29) |
+| Backward-from | [US-35](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-35-consulta-de-tabelas-auxiliares)<br>[E07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/epicos/#e07-integracoes-e-autorizacao) |
+| Foward-from | Agregação – Relacionada à disponibilização de dados de referência<br>Satisfação – Fornece informações técnicas essenciais para o preenchimento de documentos fiscais |
+| Representação | Não aplicável |
+
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
+
+<p style="text-align: center"><b>Tabela 30</b> - Tabela 30 - Cartão Pós Rastreabilidade RF30 </p>
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+|--------------------|--------------------------------------|
+| Descrição | Acesso à Caixa Postal oficial |
+| Tipos de Elo | Desenvolvimento |
+| Código do req | [RF30](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf30) |
+| Backward-from | [US-36](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-36-acesso-a-caixa-postal-oficial)<br>UC: Relacionado a "Receber notificações da Receita"<br>[E07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/epicos/#e07-integracoes-e-autorizacao) |
+| Foward-from | Agregação – Relacionada à comunicação oficial com o contribuinte<br>Satisfação – Permite o recebimento e consulta segura de comunicações e documentos oficiais |
+| Representação | Não aplicável |
+
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
+
 
 <p style="text-align: center"><b>Tabela 10</b> - Cartão Pós Rastreabilidade RF32</p>
 
@@ -392,14 +461,14 @@ Fonte:
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 |--------------------|--------------------------------------|
-| **Descrição** | Proteção de dados pessoais conforme a LGPD |
-| **Tipos de Elo** | Ambiental / Organizacional / Gerencial / Desenvolvimento |
-| **Código do req** | [RNF04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf04) |
-| **Backward-from** | ADC17 |
-| **Foward-from** |  |
-| **Representação** |  |
+| *Descrição* | A compra deve ser feita em no máximo 5 páginas. |
+| *Tipos de Elo* | Desenvolvimento |
+| *Código do req* | [RNF04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf04) |
+| *Backward-from* | *NFR:* [RNF04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem_agil/nfr-framework/#rnf04)<br>*Especificação Suplementar:* Informação não disponível.<br>*Requisitos Elicitados:* Informação não disponível. |
+| *Foward-from* | *Satisfação:* Garante um processo de compra rápido e simplificado para o usuário.<br>*Agregação:* Informação não disponível |
+| *Representação* | --- |
 
-<font size="3"><p style="text-align: center">Fonte: </p></font>
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
 ---
 
@@ -467,14 +536,14 @@ Fonte:
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 |--------------------|--------------------------------------|
-| **Descrição** | Testes de usabilidade semestrais com público 60+ |
-| **Tipos de Elo** | Ambiental / Organizacional / Gerencial / Desenvolvimento |
-| **Código do req** | [RNF09](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf09) |
-| **Backward-from** | ADC21 |
-| **Foward-from** |  |
-| **Representação** |  |
+| *Descrição* | Testes de usabilidade semestrais com público 60+ |
+| *Tipos de Elo* | Desenvolvimento |
+| *Código do req* | [RNF09](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf09) |
+| *Backward-from* | *NFR:* [RNF09](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem_agil/nfr-framework/#rnf09)<br>*Especificação Suplementar:* [USA04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/especificacaosuplementar/#usa04)<br>*Requisitos Elicitados:* [ADC21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#adc21) |
+| *Foward-from* | *Satisfação:* Garante que o aplicativo seja acessível e fácil de usar para idosos.<br>*Agregação:* Informação não disponível |
+| *Representação* | --- |
 
-<font size="3"><p style="text-align: center">Fonte: </p></font>
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
 ---
 
@@ -544,16 +613,19 @@ Fonte:
 
 <p style="text-align: center"><b>Tabela 48</b> - Tabela 48 - Cartão Pós Rastreabilidade RNF14 </p>
 
+<p style="text-align: center"><b>Tabela X</b> - Cartão Pós Rastreabilidade RNF14 </p>
+
 | Artefato Analisado | Classificação do Artefato Analisado |
 |--------------------|--------------------------------------|
-| **Descrição** | Atualizações do app não devem causar perda de dados armazenados localmente |
-| **Tipos de Elo** | Ambiental / Organizacional / Gerencial / Desenvolvimento |
-| **Código do req** | [RNF14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf14) |
-| **Backward-from** | INT12 |
-| **Foward-from** |  |
-| **Representação** |  |
+| *Descrição* | Atualizações do app não devem causar perda de dados armazenados localmente |
+| *Tipos de Elo* | Desenvolvimento |
+| *Código do req* | [RNF14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf14) |
+| *Backward-from* | *NFR:* [RNF14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem_agil/nfr-framework/#rnf14)<br>*Especificação Suplementar:* [CON03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/especificacaosuplementar/#con03)<br>*Requisitos Elicitados:* [INT12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#int12) |
+| *Foward-from* | *Satisfação:* Garante a integridade e a segurança dos dados do usuário.<br>*Agregação:* Informação não disponível |
+| *Representação* | --- |
 
-<font size="3"><p style="text-align: center">Fonte: </p></font>
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
+
 
 ---
 
@@ -619,17 +691,18 @@ Fonte:
 
 <p style="text-align: center"><b>Tabela 53</b> - Tabela 53 - Cartão Pós Rastreabilidade RNF19 </p>
 
+<p style="text-align: center"><b>Tabela X</b> - Cartão Pós Rastreabilidade RNF19 </p>
+
 | Artefato Analisado | Classificação do Artefato Analisado |
 |--------------------|--------------------------------------|
-| **Descrição** | Versão mínima em HTML5 responsiva para acesso via navegador em caso de falha do app |
-| **Tipos de Elo** | Ambiental / Organizacional / Gerencial / Desenvolvimento |
-| **Código do req** | [RNF19](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf19) |
-| **Backward-from** | INT16 |
-| **Foward-from** |  |
-| **Representação** |  |
+| *Descrição* | Versão mínima em HTML5 responsiva para acesso via navegador em caso de falha do app |
+| *Tipos de Elo* | Desenvolvimento |
+| *Código do req* | [RNF19](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf19) |
+| *Backward-from* | *NFR:* [RNF19](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem_agil/nfr-framework/#rnf19)<br>*Especificação Suplementar:* [SUP04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/especificacaosuplementar/#sup04)<br>*Requisitos Elicitados:* [INT16](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#int16) |
+| *Foward-from* | *Satisfação:* Garante a continuidade do acesso aos serviços em caso de falha do aplicativo nativo.<br>*Agregação:* Informação não disponível |
+| *Representação* | --- |
 
-<font size="3"><p style="text-align: center">Fonte: </p></font>
-
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 ---
 
 <p style="text-align: center"><b>Tabela 4</b> - Cartão Pós Rastreabilidade RNF20</p>
