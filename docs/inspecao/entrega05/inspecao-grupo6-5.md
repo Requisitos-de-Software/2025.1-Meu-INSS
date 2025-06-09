@@ -42,6 +42,15 @@ Este checklist foi elaborado com base na literatura especializada em rastreabili
 ## Gravação 
 
 
+<iframe width="600" height="315" 
+        src="https://www.youtube.com/embed/M5ca-DVpq1Y" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+
 
 ## Referências Bibliográficas
 
