@@ -113,7 +113,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Código do req** | [RF11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf11) |
 | **Backward-from** | [ADC11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) |
 | **Foward-from** | Integração – Consulta em bases oficiais da Receita |
-| **Representação** | - |
+| **Representação** | [status cpf](../assets/prints-jose/status-cpf.png) |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -157,7 +157,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Código do req** | [RF14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf14) |
 | **Backward-from** | [INT1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) |
 | **Foward-from** | Agregação – Relacionado à análise de dados da declaração por período |
-| **Representação** | - |
+| **Representação** | [Historico das declaracoes](../assets/prints-jose/historico-declaracoes.jpg) e [Informações detalhadas]() |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
