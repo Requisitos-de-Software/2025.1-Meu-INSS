@@ -79,7 +79,7 @@ Fonte:
 | **Código do req** | [RF10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf10) |
 | **Backward-from** | [ADC10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) |
 | **Foward-from** |  Integração – Conectado ao sistema de arrecadação |
-| **Representação** | - |
+| **Representação** |[guiapagemento - imagem 01](../assets/prints-jose/guia-pagemento%20(1).jpg) e [guiapagemento - imagem 02](../assets/prints-jose/guia-pagemento%20(2).jpg)|
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
