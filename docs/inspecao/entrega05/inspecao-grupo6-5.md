@@ -2,22 +2,22 @@
 
 # Introdução
 
-Este checklist foi elaborado com base na literatura especializada em rastreabilidade de requisitos. O objetivo é verificar se o artefato de rastreabilidade do projeto está em conformidade com os princípios do método *Forward* e quanto à *matriz de rastreabilidade*, abordando aspectos como tipos de elos utilizados, uso de requisitos, referências a modelos teóricos e clareza na identificação dos elementos rastreados.
+Este checklist foi elaborado com base na literatura especializada em rastreabilidade de requisitos. O objetivo é verificar se o artefato de rastreabilidade do projeto está em conformidade com os princípios do método Forward e quanto à matriz de rastreabilidade, abordando aspectos como tipos de elos utilizados, uso de requisitos, referências a modelos teóricos e clareza na identificação dos elementos rastreados.
 
 ## Tabela 1: Itens da Lista de Verificação da Matriz de Rasteabilidade
 
 | ID  | Item  | Conforme/Não Conforme |
 |-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
-| 1   | O documento apresenta claramente a definição e o propósito da matriz de rastreabilidade?         |                        |
-| 2   | A matriz de rastreabilidade possui uma coluna com o identificador de cada requisito?               |                        |
-| 3   | A matriz apresenta uma coluna com a descrição detalhada de cada requisito?               |                        |
-| 4   | A matriz inclui uma coluna informando a técnica de elicitação utilizada para obter cada requisito?               |                        |
-| 5   | Existe uma coluna na matriz que indica se o requisito foi implementado ou não?                     |                        |
-| 6   | Há uma coluna identificando os artefatos produzidos com base em cada requisito?               |                        |
-| 7   | A matriz apresenta uma coluna com os identificadores dos elos associados a cada requisito?               |                        |
-| 8   | A matriz fornece hyperlinks que permitem navegar diretamente para os artefatos relacionados ao requisito?               |                        |
-| 9   | A matriz fornece hyperlinks que permitem navegar para os elos de rastreabilidade relacionados a cada requisito?          |                        |
-| 10  | A matriz fornece hyperlinks que apontam para os documentos de elicitação correspondentes a cada requisito?               |                        |
+| 1   | O documento apresenta claramente a definição e o propósito da matriz de rastreabilidade?         |     Conforme                   |
+| 2   | A matriz de rastreabilidade possui uma coluna com o identificador de cada requisito?               |    Conforme                    |
+| 3   | A matriz apresenta uma coluna com a descrição detalhada de cada requisito?               |      Conforme                  |
+| 4   | A matriz inclui uma coluna informando a técnica de elicitação utilizada para obter cada requisito?               |   Conforme                     |
+| 5   | Existe uma coluna na matriz que indica se o requisito foi implementado ou não?                     | Conforme                       |
+| 6   | Há uma coluna identificando os artefatos produzidos com base em cada requisito?               |        Conforme                |
+| 7   | A matriz apresenta uma coluna com os identificadores dos elos associados a cada requisito?               |     Conforme                   |
+| 8   | A matriz fornece hyperlinks que permitem navegar diretamente para os artefatos relacionados ao requisito?               | Conforme                       |
+| 9   | A matriz fornece hyperlinks que permitem navegar para os elos de rastreabilidade relacionados a cada requisito?          |          Conforme              |
+| 10  | A matriz fornece hyperlinks que apontam para os documentos de elicitação correspondentes a cada requisito?               |     Conforme                   |
 
 <p align="center"><strong>Tabela 1:</strong> Itens da Lista de Verificação da matriz de rastreabilidade — Fonte: <a href="https://github.com/thalesgvl">Thales Germano</a></p>
 
@@ -27,17 +27,16 @@ Este checklist foi elaborado com base na literatura especializada em rastreabili
 
 | ID  | Item | Conforme/Não Conforme |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
-| 1   | Os tipos de elos utilizados são abrangentes (Satisfação, Agregação, Alocação, Recurso, Representação e Responsabilidade)?           |    |
-| 2   | O artefato contempla tanto requisitos funcionais quanto não funcionais?                                  |    |
-| 3   | Existem hyperlinks ligando os requisitos às suas origens ou documentos fontes?                                      |    |
-| 4   | Há evidência de versionamento ou controle de mudanças nos artefatos rastreados?                                  |    |
-| 5   | Os requisitos estão claramente associados às suas fontes documentais ou referenciais?                                |    |
-| 6   | A classificação das informações rastreadas inclui aspectos ambientais, de desenvolvimento, gerenciais e organizacionais?                |    |
-| 7   | Os elos indicam corretamente os elementos rastreáveis e seus respectivos tipos?                                       |    |
-| 8   | O artefato fornece uma legenda clara para identificação dos requisitos e artefatos envolvidos na rastreabilidade?                          |    |
+| 1   | Os tipos de elos utilizados são abrangentes (Satisfação, Agregação, Alocação, Recurso, Representação e Responsabilidade)?           |   Conforme |
+| 2   | O artefato contempla tanto requisitos funcionais quanto não funcionais?                                  |   Conforme |
+| 3   | Existem hyperlinks ligando os requisitos às suas origens ou documentos fontes?                                      |  Conforme  |
+| 4   | Há evidência de versionamento ou controle de mudanças nos artefatos rastreados?                                  |   Conforme |
+| 5   | Os requisitos estão claramente associados às suas fontes documentais ou referenciais?                                |   Não Conforme |
+| 6   | A classificação das informações rastreadas inclui aspectos ambientais, de desenvolvimento, gerenciais e organizacionais?                |  Conforme  |
+| 7   | Os elos indicam corretamente os elementos rastreáveis e seus respectivos tipos?                                       |   Conforme |
+| 8   | O artefato fornece uma legenda clara para identificação dos requisitos e artefatos envolvidos na rastreabilidade?                          |  Conforme  |
 
 <p align="center"><strong>Tabela 2:</strong> Itens da Lista de Verificação pós-rastreabilidade — Fonte: <a href="https://github.com/thalesgvl">Thales Germano</a></p>
-
 
 ## Gravação 
 
@@ -62,10 +61,9 @@ Este checklist foi elaborado com base na literatura especializada em rastreabili
 
 > <a id="FTF2Ref" href="#FTF3"></a> Slides da Aula 26 da Professora Milene Serrano.
 
-## Histórico de Versões
+## Histórico de versões
+Versão |   Data  | Descrição | Autor(es) | Revisor(es)
+------ | ---- | ------ | ---------- | ----------
+`1.0` | 08/06/2025 | Criação da lista de verificação da Entrega 5 | [Thales Germano](https://github.com/thalesgvl) | [Diassis](https://github.com/Diaxiz) | 
+`1.1` | 08/06/2025 |Mudando status | [Thales Germano](https://github.com/thalesgvl) | [Jose Eduardo](https://github.com/jevprado) | 
 
-<font size="3"><p style="text-align: center">Tabela 3: Histórico de Versões</p></font>
-
-| Versão | Descrição | Autor | Data | Revisor |
-|--------|-----------|--------|------|---------|
-| 1.0 | Criação da lista de verificação da Entrega 5 | [Thales Germano](https://github.com/thalesgvl) | 08/06/2025 | [Diassis](https://github.com/Diaxiz) |
