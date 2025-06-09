@@ -59,4 +59,4 @@ Este checklist foi elaborado com base na literatura especializada em rastreabili
 
 | Versão | Descrição | Autor | Data | Revisor |
 |--------|-----------|--------|------|---------|
-| 1.0 | Criação da lista de verificação da Entrega 5 | [Thales Germano](https://github.com/thalesgvl) | 08/06/2025 | Revisor Aqui |
+| 1.0 | Criação da lista de verificação da Entrega 5 | [Thales Germano](https://github.com/thalesgvl) | 08/06/2025 | [Diassis](https://github.com/Diaxiz) |
