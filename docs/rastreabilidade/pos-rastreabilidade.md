@@ -190,6 +190,20 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
+
+<p style="text-align: center"><b>Tabela x</b> - Tabela x - Cartão Pós Rastreabilidade RF17</p>
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+|--------------------|--------------------------------------|
+| **Descrição** | Emissão de certidão negativa via aplicativo |
+| **Tipos de Elo** | Organizacional |
+| **Código do req** | [RF17](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf17) |
+| **Backward-from** | [INT6](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) |
+| **Foward-from** | Integração – Conectado à base de débitos da Receita |
+| **Representação** | [Emitir certidão negativa](../assets/prints-jose/certidao-negativa.jpg) |
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
 <p style="text-align: center"><b>Tabela 18</b> - Tabela 18 - Cartão Pós Rastreabilidade RF18 </p>
 
 | Artefato Analisado | Classificação do Artefato Analisado |
