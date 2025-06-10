@@ -526,11 +526,11 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Descrição** | Testes de segurança para garantir a integridade dos dados e autenticação segura |
 | **Tipos de Elo** | Ambiental / Organizacional / Gerencial / Desenvolvimento |
 | **Código do req** | [RNF07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf07) |
-| **Backward-from** | ADC19 |
-| **Foward-from** |  |
+| **Backward-from** | [ADC19](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#adc19)|
+| **Foward-from** | *Satisfação*: Garante testes para a segurança de dados |
 | **Representação** |  |
 
-<font size="3"><p style="text-align: center">Fonte: </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques]](https://github.com/marcomarquesdc)</p></font>
 
 ### RFN08
 
