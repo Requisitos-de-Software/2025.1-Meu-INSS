@@ -30,6 +30,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 |[Julia Massuda](https://github.com/JuliaReis18)  | ----------------- |
 |[Andre Lopes](https://github.com/andrewslopes)   | ----------------- |
 |[João Pedro](https://github.com/JpRodrigues2)    | ----------------- |
+|[Marco Marques](https://github.com/marcomarquesdc)| ----------------- |
 
 ## Requisitos
 
