@@ -2,11 +2,11 @@
 
 ## Introdução 
 
-Apresentação da entrega 03 da disciplina de Requisitos de Software. 
+Apresentação da entrega 03 (etapa 03 - modelagem de requisitos) da disciplina de Requisitos de Software. 
 
 ## Objetivo 
 
-Entregas dos artefatos do projeto **Receita Federal** referentes a entrega 03. 
+Entregas dos artefatos do projeto **Receita Federal** referentes a entrega 03 (etapa 03 - modelagem de requisitos). 
 
 ## Participantes 
 
@@ -45,3 +45,4 @@ Entregas dos artefatos do projeto **Receita Federal** referentes a entrega 03.
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 18/05/2025 | Criação do documento de apresentação 3 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 
+`1.1` | 10/06/2025 | Especificação do código | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 

@@ -2,11 +2,11 @@
 
 ## Introdução 
 
-Apresentação da entrega 05 da disciplina de Requisitos de Software. 
+Apresentação da entrega 05 (Etapa 06 - Gerência II)  da disciplina de Requisitos de Software. 
 
 ## Objetivo 
 
-Entregas dos artefatos do projeto *Receita Federal* referentes a entrega 05. 
+Entregas dos artefatos do projeto *Receita Federal* referentes a entrega 05 (Etapa 06 - Gerencia II). 
 
 ## Participantes 
 
@@ -44,4 +44,4 @@ Entregas dos artefatos do projeto *Receita Federal* referentes a entrega 05.
 ## Histórico de versões
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-1.0 | 08/06/2025 | Criação do documento de apresentação 5| [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |
+`1.0`| 08/06/2025 | Criação do documento de apresentação 5| [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |`1.1` | 10/06/2025 | Correção código| [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |

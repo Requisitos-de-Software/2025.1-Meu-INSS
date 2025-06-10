@@ -2,11 +2,11 @@
 
 ## Introdução 
 
-Apresentação da entrega 02 da disciplina de Requisitos de Software. 
+Apresentação da entrega 02 (etapa 02 - elicitação) da disciplina de Requisitos de Software. 
 
 ## Objetivo 
 
-Entregas dos artefatos do projeto **Receita Federal** referentes a entrega 02. 
+Entregas dos artefatos do projeto **Receita Federal** referentes a entrega 02 (etapa 02 - elicitação). 
 
 ## Participantes 
 
@@ -40,3 +40,4 @@ Entregas dos artefatos do projeto **Receita Federal** referentes a entrega 02.
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 04/05/2025 | Criação do documento de apresentação 2 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 
+`1.1` | 10/06/2025 | Especificação do código | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 
