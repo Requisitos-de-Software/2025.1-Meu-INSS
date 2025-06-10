@@ -683,8 +683,8 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Descrição** | Suporte a leitores de tela (TalkBack, VoiceOver) em todas as funcionalidades |
 | **Tipos de Elo** | Ambiental / Organizacional / Gerencial / Desenvolvimento |
 | **Código do req** | [RNF17](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf17) |
-| **Backward-from** | INT14 e ADC23 |
-| **Foward-from** |  |
+| **Backward-from** | [INT14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#int14)<br>[ADC22](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) |
+| **Foward-from** | *Satisfação*: Fornece suporte para leitura |
 | **Representação** |  |
 
 <font size="3"><p style="text-align: center">Fonte: </p></font>
