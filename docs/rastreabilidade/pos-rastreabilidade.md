@@ -530,7 +530,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Foward-from** | *Satisfação*: Garante testes para a segurança de dados |
 | **Representação** |  |
 
-<font size="3"><p style="text-align: center">Fonte: [Marco Marques]](https://github.com/marcomarquesdc)</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc)</p></font>
 
 ### RFN08
 
