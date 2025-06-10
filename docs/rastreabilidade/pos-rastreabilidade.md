@@ -605,11 +605,11 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Descrição** | Linguagem da interface deve seguir padrão A2 do CEFR, evitando jargões técnicos |
 | **Tipos de Elo** | Ambiental / Organizacional / Gerencial / Desenvolvimento |
 | **Código do req** | [RNF12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf12) |
-| **Backward-from** | ADC25 |
-| **Foward-from** |  |
+| **Backward-from** | [ADC25](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) |
+| **Foward-from** | *Satisfação*: Garante uma linguagem para todos os públicos |
 | **Representação** |  |
 
-<font size="3"><p style="text-align: center">Fonte: </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc)</p></font>
 
 ### RFN13
 
