@@ -36,25 +36,25 @@ nav:
   - Guias: 
       - Tutorial mkdocs: guias/tutorial-mkdocs.md
   - Apresentações: 
-      - Apresentação 1: apresentacoes/apresentacao1.md
-      - Apresentação 2: apresentacoes/apresentacao2.md
-      - Apresentação 3: apresentacoes/apresentacao3.md
-      - Apresentação 4: apresentacoes/apresentacao4.md
-      - Apresentação 5: apresentacoes/apresentacao5.md
+      - Apresentação 1 (Etapa 01): apresentacoes/apresentacao1.md
+      - Apresentação 2 (Etapa 02): apresentacoes/apresentacao2.md
+      - Apresentação 3 (Etapa 03): apresentacoes/apresentacao3.md
+      - Apresentação 4 (Etapa 04): apresentacoes/apresentacao4.md
+      - Apresentação 5 (Etapa 06): apresentacoes/apresentacao5.md
   - Inspeção: 
-      - Entrega 01:
+      - Entrega 01 (Etapa 01):
           - Grupo 6: inspecao/entrega01/inspecao-grupo6.md
           - Grupo +1: inspecao/entrega01/inspecao-grupo7.md
-      - Entrega 02:
+      - Entrega 02 (Etapa 02):
           - Grupo 6: inspecao/entrega02/inspecao-grupo6.md
           - Grupo +1: inspecao/entrega02/inspecao-grupo7-2.md
-      - Entrega 03:
+      - Entrega 03 (Etapa 03):
           - Grupo 6: inspecao/entrega03/inspecao-grupo6-3.md
           - Grupo +1: inspecao/entrega03/inspecao-grupo7-3.md
-      - Entrega 04:
+      - Entrega 04 (Etapa 04)::
           - Grupo 6: inspecao/entrega04/inspecao-grupo6-4.md
           - Grupo +1: inspecao/entrega04/inspecao-grupo7-4.md
-      - Entrega 05:
+      - Entrega 05 (Etapa 06):
           - Grupo 6: inspecao/entrega05/inspecao-grupo6-5.md
           - Grupo +1: inspecao/entrega05/inspecao-grupo7-5.md
   - Atas: 

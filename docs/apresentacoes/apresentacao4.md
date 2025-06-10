@@ -2,11 +2,11 @@
 
 ## Introdução 
 
-Apresentação da entrega 04 da disciplina de Requisitos de Software. 
+Apresentação da entrega 04 (Etapa 04 - Modelagem de requisitos - Ágil) da disciplina de Requisitos de Software. 
 
 ## Objetivo 
 
-Entregas dos artefatos do projeto **Receita Federal** referentes a entrega 04. 
+Entregas dos artefatos do projeto **Receita Federal** referentes a entrega 04 (Etapa 04 - Modelagem de requisitos - Ágil). 
 
 ## Participantes 
 
@@ -45,3 +45,4 @@ Entregas dos artefatos do projeto **Receita Federal** referentes a entrega 04.
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 01/06/2025 | Criação do documento de apresentação 4 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 
+`1.1` | 10/06/2025 | Especificação do código | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 

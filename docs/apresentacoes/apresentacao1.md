@@ -2,11 +2,11 @@
 
 ## Introdução 
 
-Apresentação da entrega 01 da disciplina de Requisitos de Software. 
+Apresentação da entrega 01 (etapa 01 - pré rastreabilidade) da disciplina de Requisitos de Software. 
 
 ## Objetivo 
 
-Apresentar o GitHub Pages do projeto *Meu INSS* e os respectivos artefatos da entrega 01. 
+Apresentar o GitHub Pages do projeto *Meu INSS* e os respectivos artefatos da entrega 01 (etapa 01 - pré rastreabilidade). 
 
 ## Participantes 
 
@@ -44,3 +44,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 13/04/2025 | Criação do documento de apresentação 1 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 
 `1.1` | 18/05/2025 | Retirando a lista de inspeção da página de apresentação | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 
+`1.2` | 10/06/2025 | Especificação do código | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 
