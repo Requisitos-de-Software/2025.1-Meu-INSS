@@ -435,11 +435,11 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Descrição** | Conteúdo educativo para iniciantes |
 | **Tipos de Elo** | Ambiental / Organizacional / Gerencial / Desenvolvimento |
 | **Código do req** | [RNF02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf02) |
-| **Backward-from** | ADC14 e ST08 |
-| **Foward-from** |  |
+| **Backward-from** |[ADC14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem_agil/nfr-framework/#ADC14)<br>[ST08](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) |
+| **Foward-from** | *Satisfação*: Garante contúdo explicativo para pessoas iniciantes |
 | **Representação** |  |
 
-<font size="3"><p style="text-align: center">Fonte: </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc)</p></font>
 
 ### RFN03
 
@@ -526,11 +526,11 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Descrição** | Testes de segurança para garantir a integridade dos dados e autenticação segura |
 | **Tipos de Elo** | Ambiental / Organizacional / Gerencial / Desenvolvimento |
 | **Código do req** | [RNF07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf07) |
-| **Backward-from** | ADC19 |
-| **Foward-from** |  |
+| **Backward-from** | [ADC19](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#adc19)|
+| **Foward-from** | *Satisfação*: Garante testes para a segurança de dados |
 | **Representação** |  |
 
-<font size="3"><p style="text-align: center">Fonte: </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques]](https://github.com/marcomarquesdc)</p></font>
 
 ### RFN08
 
@@ -605,11 +605,11 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Descrição** | Linguagem da interface deve seguir padrão A2 do CEFR, evitando jargões técnicos |
 | **Tipos de Elo** | Ambiental / Organizacional / Gerencial / Desenvolvimento |
 | **Código do req** | [RNF12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf12) |
-| **Backward-from** | ADC25 |
-| **Foward-from** |  |
+| **Backward-from** | [ADC25](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) |
+| **Foward-from** | *Satisfação*: Garante uma linguagem para todos os públicos |
 | **Representação** |  |
 
-<font size="3"><p style="text-align: center">Fonte: </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc)</p></font>
 
 ### RFN13
 
@@ -683,8 +683,8 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Descrição** | Suporte a leitores de tela (TalkBack, VoiceOver) em todas as funcionalidades |
 | **Tipos de Elo** | Ambiental / Organizacional / Gerencial / Desenvolvimento |
 | **Código do req** | [RNF17](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf17) |
-| **Backward-from** | INT14 e ADC23 |
-| **Foward-from** |  |
+| **Backward-from** | [INT14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#int14)<br>[ADC22](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) |
+| **Foward-from** | *Satisfação*: Fornece suporte para leitura |
 | **Representação** |  |
 
 <font size="3"><p style="text-align: center">Fonte: </p></font>
@@ -764,14 +764,18 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 ## Historico de versões
 
+## Histórico de Versões
+
 | Versão | Data       | Descrição                                      | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 05/06/2025 | Criação do documento de pós rastreabilidade   | [José Eduardo](https://github.com/jevprado)    | [Diassis](https://github.com/Diaxiz) |
-| `1.1`   | 05/06/2025 | Criação dos cartões RF02, RF12, RF13, RF15, RF16, RF20 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [Diassis](https://github.com/Diaxiz)   | [José Eduardo](https://github.com/jevprado)|
-| `1.1`   | 08/06/2025 | Criação dos cartões RF02, RF12, RF13, RF15, RF16, RF20 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [Diassis](https://github.com/Diaxiz)   | [José Eduardo](https://github.com/jevprado)
-| `1.2`   | 08/06/2025 | Criação dos cartões RF03, RF05, RF10, RF11, RF14 e  RF17 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [José Eduardo](https://github.com/jevprado)   | [Diassis](https://github.com/Diaxiz)  |
-| `1.3`   | 08/06/2025 | Criação dos cartões RF03, RF05, RF10, RF11, RF14 e  RF17 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [Diassis](https://github.com/Diaxiz)   |  [José Eduardo](https://github.com/jevprado)  |
-| `1.4`   | 08/06/2025 | Criação dos cartões RF23, RF24, RF26, RF27, RF19, RNF03, RNF08, RNF13 e RNF18  | [Julia Massuda](https://github.com/JuliaReis18)  | [Diassis](https://github.com/Diaxiz) |
-| `1.5`   | 08/06/2025 | Criação introdução e metodologia da pos-rastreabilidade | [José Eduardo](https://github.com/jevprado)  | [Diassis](https://github.com/Diaxiz) |
-| `1.6`   | 08/06/2025 | Criação dos cartões RF18, RF22, RF22, RF29, RF30, RNF04, RNF09, RNF14 e RNF19  | [João Pedro](https://github.com/JpRodrigues2)  | [José Eduardo](https://github.com/jevprado) |
-| `1.7`   | 08/06/2025 | adicionando as referencias  | [José Eduardo](https://github.com/jevprado)   | [Diassis](https://github.com/Diaxiz)  |
+| `1.0`  | 05/06/2025 | Criação do documento de pós rastreabilidade    | [José Eduardo](https://github.com/jevprado)    | [Diassis](https://github.com/Diaxiz) |
+| `1.1`  | 05/06/2025 | Criação dos cartões RF02, RF12, RF13, RF15, RF16, RF20 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [Diassis](https://github.com/Diaxiz)   | [José Eduardo](https://github.com/jevprado) |
+| `1.1`  | 08/06/2025 | Criação dos cartões RF02, RF12, RF13, RF15, RF16, RF20 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [Diassis](https://github.com/Diaxiz)   | [José Eduardo](https://github.com/jevprado) |
+| `1.2`  | 08/06/2025 | Criação dos cartões RF03, RF05, RF10, RF11, RF14 e  RF17 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [José Eduardo](https://github.com/jevprado)   | [Diassis](https://github.com/Diaxiz)  |
+| `1.3`  | 08/06/2025 | Criação dos cartões RF03, RF05, RF10, RF11, RF14 e  RF17 e RNF01, RNF06, RNF11, RNF16 e RNF21 | [Diassis](https://github.com/Diaxiz)   |  [José Eduardo](https://github.com/jevprado)  |
+| `1.4`  | 08/06/2025 | Criação dos cartões RF23, RF24, RF26, RF27, RF19, RNF03, RNF08, RNF13 e RNF18  | [Julia Massuda](https://github.com/JuliaReis18)  | [Diassis](https://github.com/Diaxiz) |
+| `1.5`  | 08/06/2025 | Criação introdução e metodologia da pos-rastreabilidade | [José Eduardo](https://github.com/jevprado)  | [Diassis](https://github.com/Diaxiz) |
+| `1.6`  | 08/06/2025 | Criação dos cartões RF18, RF22, RF22, RF29, RF30, RNF04, RNF09, RNF14 e RNF19  | [João Pedro](https://github.com/JpRodrigues2)  | [José Eduardo](https://github.com/jevprado) |
+| `1.7`  | 08/06/2025 | Adicionando as referências  | [José Eduardo](https://github.com/jevprado)   | [Diassis](https://github.com/Diaxiz)  |
+| `1.8`  | 08/06/2025 | Criação dos cartões RNF02, RNF07, RNF12 e RNF17 | [Marco Marques](https://github.com/marcomarquesdc) | [José Eduardo](https://github.com/jevprado) |
+
