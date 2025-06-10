@@ -435,11 +435,11 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Descrição** | Conteúdo educativo para iniciantes |
 | **Tipos de Elo** | Ambiental / Organizacional / Gerencial / Desenvolvimento |
 | **Código do req** | [RNF02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf02) |
-| **Backward-from** | ADC14 e ST08 |
-| **Foward-from** |  |
+| **Backward-from** |[ADC14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem_agil/nfr-framework/#ADC14)<br>[ST08](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) |
+| **Foward-from** | *Satisfação*: Garante contúdo explicativo para pessoas iniciantes |
 | **Representação** |  |
 
-<font size="3"><p style="text-align: center">Fonte: </p></font>
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc)</p></font>
 
 ### RFN03
 
