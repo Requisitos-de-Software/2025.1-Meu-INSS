@@ -1,7 +1,7 @@
 
 # Documento de Casos de Uso do Aplicativo da Receita Federal do Brasil
 
-## 1. Introdução
+## Introdução
 
 Caso de uso é uma modelagem descritiva de sequência de interações entre atores e um sistema específico que resulta em um resultado que permite compreensões necessárias ao desenvolvimento de uma atividade. No nosso trabalho, o sistema é o da Receita Federal do Brasil, e estabelecemos relações entre o ator primário (contribuintes) e o secundário (servidor do órgão).
 
@@ -9,13 +9,22 @@ O documento apresenta os diagramas de casos de uso do aplicativo da Receita Fede
 
 Este documento foca em funcionalidades típicas para o cidadão usuário do app. A modelagem descrita visa mapear as interações entre os usuários e o sistema, bem como os requisitos já implementados e os previstos.
 
-## 2. Metodologia Utilizada
+
+## Tabela de atividades feitas - por membro
+
+|Nome                                               | Atividade entregue                        | 
+| ------------------------------------------------- | ----------------------------------------- | 
+| [Andre Lopes](https://github.com/andrewslopes)    | Criação da documentação geral do artefato                                            | 
+| [Julia Massuda](https://github.com/JuliaReis18)   | Criação do diagrama de usos e descrições do diagrama | 
+| [Jose Eduardo](https://github.com/jevprado)       | Revisor dos artefatos |
+
+## Metodologia Utilizada
 
 A metodologia adotada para a confecção dos diagramas seguiu os princípios da UML (Unified Modeling Language). A equipe utilizou o quadro de modelo de negócios Canvas para alinhar objetivos, atores envolvidos e funcionalidades do sistema.
 
 A validação parcial foi realizada com base em funcionalidades reais do aplicativo e dados públicos disponíveis no site da Receita Federal. A metodologia adotada assegura que os casos de uso identifiquem de modo claro e fiel a atuação do sistema.
 
-## 3. Descrição do Diagrama de Caso de Uso
+## Descrição do Diagrama de Caso de Uso
 
 O diagrama de casos de uso é uma representação gráfica das funcionalidades do aplicativo sob a ótica dos usuários. Ele identifica quais ações estão disponíveis para cada ator (pessoas, sistemas externos ou dispositivos que possam interagir com o sistema em estudo), representando a relação entre os serviços oferecidos e os perfis que interagem com o sistema.
 
@@ -34,9 +43,9 @@ Os relacionamentos foram representados por semirretas características, caso se 
 
 Fonte: [Julia Massuda](https://github.com/JuliaReis18)
 
-## 4. Atores
+## Atores
 
-### 4.1 Ator Primário: Contribuinte 
+### Ator Primário: Contribuinte 
 
 Usuário principal do aplicativo. Suas ações incluem:
 
@@ -49,7 +58,7 @@ Usuário principal do aplicativo. Suas ações incluem:
 - Emitir certidões
 - Acessar vídeos e notícias institucionais
 
-### 4.2 Ator Secundário: Auditor da Receita 
+### Ator Secundário: Auditor da Receita 
 
 Usuário institucional, com acesso ao sistema para:
 
@@ -58,28 +67,28 @@ Usuário institucional, com acesso ao sistema para:
 - Enviar notificações automatizadas
 - Integrar sistemas internos da RFB ao app
 
-## 5. Descrição Geral dos Diagramas Realizados
+## Descrição Geral dos Diagramas Realizados
 
 - O contribuinte interage com o sistema para realizar todos os casos de uso.
 - O servidor da Receita Federal valida e processa os dados.
 
-### 5.1 Diagrama de Casos de Uso: Requisitos Implementados
+### Diagrama de Casos de Uso: Requisitos Implementados
 
 ![Diagrama de Casos de Uso](../assets/Diagrama%20de%20Casos%20de%20Uso.jpg)  
 Fonte: [Julia Massuda](https://github.com/JuliaReis18)
 
-### 5.2 Diagrama de Casos de Uso: Requisitos Não Implementados
+### Diagrama de Casos de Uso: Requisitos Não Implementados
 
 *Em desenvolvimento.*
 
-## 6. Pré-condições
+## Pré-condições
 
 Situações que devem ser atendidas antes que um caso de uso possa ser executado:
 - O aplicativo da Receita deve estar instalado em um dispositivo compatível.
 - O contribuinte deve possuir acesso à internet e autenticação por CPF e senha Gov.br.
 - O sistema da Receita deve estar operacional para sincronização com o banco de dados.
 
-## 7. Pós-condições
+## Pós-condições
 
 Situações que descrevem o que se altera ou permanece após a execução dos casos de uso:
 - Consulta ou serviço solicitado é realizado com sucesso.
@@ -87,44 +96,44 @@ Situações que descrevem o que se altera ou permanece após a execução dos ca
 - Declarações e comprovantes são enviados ou baixados.
 - O usuário recebe notificação da conclusão do processo.
 
-## 8. Relacionamentos
+## Relacionamentos
 
 Identificam as interações entre os atores e os casos de uso, podendo ser:
 - **Associação**: Entre o contribuinte e os casos de uso (ex: "Emitir DARF").
 - **Inclusão (`<<include>>`)**: Validação de conexão com a internet incluída em vários casos.
 - **Extensão (`<<extend>>`)**: Compartilhamento de comprovantes ou acesso a vídeos explicativos.
 
-### 8.1 Pontos de Extensão
+### Pontos de Extensão
 
 - **PE1**: Compartilhar comprovante de declaração via e-mail/WhatsApp
 - **PE2**: Acessar vídeos sobre como interpretar pendências
 - **PE3**: Acompanhar histórico de declarações anteriores
 
-### 8.2 Pontos de Inclusão
+### Pontos de Inclusão
 
 - **PI1**: Validar conexão com internet
 - **PI2**: Validar CPF com o sistema da Receita
 - **PI3**: Exibir status da declaração após envio
 
-## 9. Compreensão do Diagrama
+## Compreensão do Diagrama
 
-### 9.1 Sistema
+### Sistema
 - O sistema é representado por um retângulo?
 - O sistema tem título no topo?
 - Todas as funcionalidades estão dentro do retângulo?
 - Tudo fora do retângulo ocorre fora do app?
 
-### 9.2 Atores
+### Atores
 - O ator contribuinte interage com o app?
 - O ator servidor interage com o app?
 - O ator primário está à esquerda?
 - O ator secundário está à direita?
 
-### 9.3 Casos de Uso
+### Casos de Uso
 
-#### 9.3.1 Autenticação
+#### Autenticação
 
-##### 9.3.1.1 Realizar Login
+##### Realizar Login
 - Login com CPF
 - Login com certificado digital
 - Login com conta Gov.br
@@ -132,42 +141,42 @@ Identificam as interações entre os atores e os casos de uso, podendo ser:
 - Bloqueio após tentativas inválidas
 - Armazenamento seguro de credenciais
 
-##### 9.3.1.2 Recuperar Senha
+##### Recuperar Senha
 - Recuperação por e-mail
 - Recuperação por SMS
 - Validação de dados pessoais
 - Link de recuperação com expiração
 
-##### 9.3.1.3 Validar Acesso via Gov.br
+##### Validar Acesso via Gov.br
 - Integração com Gov.br
 - Reconhecimento de níveis de autenticação
 - Redirecionamento pós-login
 - Transmissão segura de dados
 
-#### 9.3.2 Consultas Gerais
+#### Consultas Gerais
 
-##### 9.3.2.1 Consultar Situação Fiscal
+##### Consultar Situação Fiscal
 - Exibição de pendências
 - Visualização de extrato
 - Detalhamento de débitos
 - Status em tempo real
 - Download de relatório
 
-##### 9.3.2.2 Atualizar Dados Cadastrais
+##### Atualizar Dados Cadastrais
 - Alterar endereço
 - Alterar contatos (e-mail/telefone)
 - Alterar dados bancários
 - Confirmação por e-mail/SMS
 - Proteção contra alterações indevidas
 
-##### 9.3.2.3 Consultar Processos
+##### Consultar Processos
 - Lista de processos
 - Detalhes do processo
 - Notificações de atualizações
 - Histórico de movimentações
 - Download de documentos
 
-#### 9.3.3 Agendar Atendimento
+#### Agendar Atendimento
 - Disponibilidade de datas/horários
 - Escolha de unidades
 - Confirmação de agendamento
@@ -175,17 +184,15 @@ Identificam as interações entre os atores e os casos de uso, podendo ser:
 - Lembretes automáticos
 
 
-
-
-#### 9.3.4. Pagar Tributos
+####  Pagar Tributos
 * Lista de tributos pendentes 
 * Integração com bancos 
 * Histórico de pagamentos 
 * Parcelamento de débitos 
 * Emissão de comprovante 
 
-#### 9.3.5. Declaração de Imposto de Renda
-##### 9.3.5.1 Preencher Declaração
+####  Declaração de Imposto de Renda
+##### Preencher Declaração
 * Importar dados do ano anterior 
 * Dados pré-preenchidos 
 * Importar fontes pagadoras 
@@ -201,39 +208,39 @@ Identificam as interações entre os atores e os casos de uso, podendo ser:
 * Status de processamento 
 * Desempenho de envio 
 
-##### 9.3.5.3 Consultar Recibo
+##### Consultar Recibo
 * Visualizar recibo 
 * Baixar em PDF 
 * Compartilhar recibo 
 * Histórico de recibos 
 
-#### 9.3.6. Restituição de IR
-##### 9.3.6.1 Consultar Lotes
+#### Restituição de IR
+##### Consultar Lotes
 * Cronograma de lotes 
 * Consulta por CPF 
 * Valor e data do pagamento 
 * Status de análise 
 * Notificações de liberação 
 
-##### 9.3.6.2 Atualizar Dados Bancários
+##### Atualizar Dados Bancários
 * Alterar conta para crédito 
 * Validação de dados bancários 
 * Confirmação da alteração 
 * Histórico de alterações 
 
-##### 9.3.6.3 Emitir Comprovante
+##### Emitir Comprovante
 * Geração de comprovante 
 * Baixar PDF 
 * Validação fiscal 
 * Compartilhamento 
 * Histórico de comprovantes 
 
-#### 9.3.7 Segurança
+#### Segurança
 * Proteção de dados locais 
 * Autenticação biométrica 
 * Conformidade com LGPD 
 
-#### 9.3.8 Usabilidade
+#### Usabilidade
 * Acessibilidade 
 * Compatibilidade com telas 
 * Clareza das instruções 
@@ -241,14 +248,14 @@ Identificam as interações entre os atores e os casos de uso, podendo ser:
 * Ajuda contextual 
 * Busca no app 
 
-### 9.4. RELACIONAMENTO
+### RELACIONAMENTO
 * Atores interagem com os casos de uso? 
 * Existe associação entre atores e funcionalidades? 
 * Existe inclusão (<<include>>)? 
 * Existe extensão (<<extend>>)? 
 * Existe generalização? (não aplicável neste caso) 
 
-## 10. Validação
+## Validação
 A validação dos diagramas considerou a descrição oficial do aplicativo da Receita Federal, bem como testes simulados por usuários reais. A análise será complementada em nova rodada após entrevista com especialistas da RFB.
 
 
@@ -266,5 +273,6 @@ A validação dos diagramas considerou a descrição oficial do aplicativo da Re
 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-1.0 | 11/05/2025 | Criação do documento Casos de uso | [Julia Massuda](https://github.com/JuliaReis18) e  [Andre Lopes](https://github.com/andrewslopes)  | [Jose Eduardo](https://github.com/jevprado) |
-1.0 | 08/06/2025 | Alterações no conteúdo + adicionando novo diagrama e tabela de casos de uso | [Julia Massuda](https://github.com/JuliaReis18) e  [Andre Lopes](https://github.com/andrewslopes)  | [Jose Eduardo](https://github.com/jevprado) |
+`1.0`| 11/05/2025 | Criação do documento Casos de uso | [Julia Massuda](https://github.com/JuliaReis18) e  [Andre Lopes](https://github.com/andrewslopes)  | [Jose Eduardo](https://github.com/jevprado) |
+`2.0` | 08/06/2025 | Alterações no conteúdo + adicionando novo diagrama e tabela de casos de uso | [Julia Massuda](https://github.com/JuliaReis18) e  [Andre Lopes](https://github.com/andrewslopes)  | [Jose Eduardo](https://github.com/jevprado) |
+| `2.1`  | 12/06/2025 | Adição da tabela de atividade dos membros | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |

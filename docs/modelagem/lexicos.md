@@ -4,11 +4,25 @@
 
 Léxicos são conjuntos de termos específicos usados em uma área particular, para descrever conceitos. Eles incluem vocabulário técnico e especializado que é essencial para a comunicação eficaz dentro desses contextos específicos, estabelecendo uma linguagem compartilhada entre os profissionais e membros da comunidade. O léxico é uma forma controlada e organizada de definir todos os termos do domínio que o software precisa tratar. Ele é muito útil para documentar requisitos de forma clara e consistente.
 
+## Tabela de atividades feitas - por membro
+
+<p style="text-align: center"><b>Tabela 1</b> - Atividades por membro</p>
+
+|Nome                                                | Atividade entregue                        | 
+| -------------------------------------------------- | ----------------------------------------- | 
+| [Thales Germano](https://github.com/thalesgvl)     |    Introdução                                      | 
+| [Marco Marques](https://github.com/marcomarquesdc) |  Criação das tabelas dos léxicos         | 
+| [Jose Eduardo](https://github.com/jevprado)       | Revisor dos artefatos, adição do código para rastreabilidade e mudança na descrição introdutória das tabelas |
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
 ## Metodologia
 
 Para criar os léxicos, empregamos a metodologia do **Léxico Ampliado da Linguagem (LAL)**. Os símbolos da Receita Federal foram identificados a partir do uso do aplicativo e dos requisitos elicitados na etapa anterior. Após identificados eles foram ordenados e descritos como: noção e impacto.
 
-### Tabela 1 – Léxicos do tipo LAL
+### Tabela 2 – Léxicos do tipo LAL
+
+<p style="text-align: center"><b>Tabela 2</b> - Léxicos do tipo LAL</p>
 
 | Tipo do símbolo | Noção                                                                       | Impacto                                                                         |
 | --------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
@@ -19,7 +33,9 @@ Para criar os léxicos, empregamos a metodologia do **Léxico Ampliado da Lingua
 
 <font size="3"><p style="text-align:center">Fonte: SAYÃO e CARVALHO.</p></font>
 
-### Tabela 2 – Exemplo de símbolo de um léxico do tipo LAL
+### Tabela 3 – Exemplo de símbolo de um léxico do tipo LAL
+
+<p style="text-align: center"><b>Tabela 3</b> - Exemplo de símbolo de um léxico do tipo LAL</p>
 
 | Tipo do Símbolo | Noção                                                         | Impactos                                                                                                     |
 | --------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -28,7 +44,9 @@ Para criar os léxicos, empregamos a metodologia do **Léxico Ampliado da Lingua
 <font size="3"><p style="text-align:center">Fonte: SAYÃO e CARVALHO.</p></font>
 
 
-### Tabela 3 – Template Léxicos
+### Tabela 4 – Template Léxicos
+
+<p style="text-align: center"><b>Tabela 4</b> - Template Léxicos</p>
 
 | Léxico            | Descrição                            |
 | ----------------- | ------------------------------------ |
@@ -46,6 +64,8 @@ Para criar os léxicos, empregamos a metodologia do **Léxico Ampliado da Lingua
 
 ### <a id="L01" href="#anchor_L01" style="color:inherit;">L01 – Consultar CPF</a>
 
+<p style="text-align: center"><b>Tabela 5</b> - Léxico 01 (L01)</p>
+
 O contribuinte consulta a situação cadastral do CPF pelo aplicativo da Receita Federal, relacionado ao seguinte requisito não implementado: Consultar o status do CPF (ativo ou não) - ([ADC11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) e [ST06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/))
 
 | L01               | Descrição                                                                                                                 |
@@ -55,9 +75,13 @@ O contribuinte consulta a situação cadastral do CPF pelo aplicativo da Receita
 | **Noção**         | 1. O usuário acessa **Consultar CPF**.<br>2. O sistema retorna o status atual, pendências e orientações de regularização. |
 | **Sinônimos**     | Verificar CPF; Consultar Situação Cadastral                                                                               |
 
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
+
 ---
 
 ### <a id="L02" href="#anchor_L02" style="color:inherit;">L02 – Gerar DARF</a>
+
+<p style="text-align: center"><b>Tabela 6</b> - Léxico 02 (L02)</p>
 
 Geração de Documento de Arrecadação de Receitas Federais (DARF) para pagamento de tributos. Relacionado ao seguinte requisitos: Consultar débitos pendentes (DARFs) - [ST04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) e Geração de guias de pagamento - ([ADC10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) e [ST03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)) 
 
@@ -68,9 +92,13 @@ Geração de Documento de Arrecadação de Receitas Federais (DARF) para pagamen
 | **Noção**         | 1. O usuário seleciona **Gerar DARF**.<br>2. Preenche código da receita, valor e vencimento.<br>3. O sistema gera o documento para pagamento. |
 | **Sinônimos**     | Emitir DARF; Criar Guia de Pagamento                                                                                                          |
 
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
+
 ---
 
 ### <a id="L03" href="#anchor_L03" style="color:inherit;">L03 – Declarar Imposto de Renda</a>
+
+<p style="text-align: center"><b>Tabela 7</b> - Léxico 03 (L03)</p>
 
 Permite o envio da declaração anual do Imposto de Renda Pessoa Física (IRPF). Relacionado ao seguintes requisitos: Declaração simplificada do IR - [ADC4](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) e O aplicativo deve permitir o envio da declaração do Imposto de Renda diretamente pelo app - [INT3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)
 
@@ -81,9 +109,12 @@ Permite o envio da declaração anual do Imposto de Renda Pessoa Física (IRPF).
 | **Noção**         | 1. O usuário acessa **Declarar IR**.<br>2. Preenche ou importa informações fiscais.<br>3. O sistema valida e envia a declaração. |
 | **Sinônimos**     | Entregar IR; Submeter Declaração de IRPF                                                                                         |
 
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 ---
 
 ### <a id="L04" href="#anchor_L04" style="color:inherit;">L04 – Visualizar Restituição</a>
+
+<p style="text-align: center"><b>Tabela 8</b> - Léxico 04 (L04)</p>
 
 Permite consultar a situação da restituição do IRPF. Relacionado ao seguinte requisito: Acompanhamento de status da restituição (precisão quanto aos lotes) - [ADC3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) e [ST02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)
 
@@ -94,9 +125,12 @@ Permite consultar a situação da restituição do IRPF. Relacionado ao seguinte
 | **Noção**         | 1. O usuário acessa **Consultar Restituição**.<br>2. O sistema informa o status (*Em Processamento*, *Liberado*, *Pendente*). |
 | **Sinônimos**     | Consultar Restituição; Ver Restituição do IR                                                                                  |
 
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 ---
 
 ### <a id="L05" href="#anchor_L05" style="color:inherit;">L05 – Atualizar Cadastro</a>
+
+<p style="text-align: center"><b>Tabela 9</b> - Léxico 05 (L05)</p>
 
 Atualização de dados cadastrais do contribuinte (endereço, telefone, e‑mail). Relacionado ao seguinte requisito: Alteração de dados via app - [ADC7](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) e [ST02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)
 
@@ -107,9 +141,12 @@ Atualização de dados cadastrais do contribuinte (endereço, telefone, e‑mail
 | **Noção**         | 1. O usuário acessa **Atualizar Cadastro**.<br>2. Edita os campos desejados.<br>3. O sistema salva e confirma a atualização. |
 | **Sinônimos**     | Alterar Dados; Atualizar Informações Pessoais                                                                                |
 
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 ---
 
 ### <a id="L06" href="#anchor_L06" style="color:inherit;">L06 – Emitir Comprovante de Rendimentos</a>
+
+<p style="text-align: center"><b>Tabela 10</b> - Léxico 06 (L06)</p>
 
 Gera o comprovante de rendimentos fornecido por fonte pagadora para fins de declaração.
 
@@ -120,9 +157,12 @@ Gera o comprovante de rendimentos fornecido por fonte pagadora para fins de decl
 | **Noção**         | 1. O usuário seleciona **Emitir Comprovante**.<br>2. Escolhe o ano‑base.<br>3. O sistema gera o PDF do comprovante. |
 | **Sinônimos**     | Obter Informe de Rendimentos; Gerar Comprovante                                                                     |
 
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 ---
 
 ### <a id="L07" href="#anchor_L07" style="color:inherit;">L07 – Acompanhar Processamento</a>
+
+<p style="text-align: center"><b>Tabela 11</b> - Léxico 07 (L07)</p>
 
 Permite acompanhar o processamento da declaração de IRPF. Relacionado ao seguinte requisito: Acessar informações detalhadas a cerca da declaração de imposto de renda de um ano especifico - [INT1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)
 
@@ -133,9 +173,12 @@ Permite acompanhar o processamento da declaração de IRPF. Relacionado ao segui
 | **Noção**         | 1. O usuário acessa **Acompanhar Declaração**.<br>2. O sistema exibe status (*Em Processamento*, *Em Fila de Restituição*, *Retida*). |
 | **Sinônimos**     | Verificar Processamento; Acompanhar Declaração                                                                                        |
 
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 ---
 
 ### <a id="L08" href="#anchor_L08" style="color:inherit;">L08 – Pagar Dívida Ativa</a>
+
+<p style="text-align: center"><b>Tabela 12</b> - Léxico 08 (L08)</p>
 
 Permite gerar guia para quitação de valores inscritos em Dívida Ativa da União. Relacionado ao seguinte requisitos:Emissão de certidão negativa via aplicativo - [INT6](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)
  e Geração de guias de pagamento - ([ADC10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) e [ST03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)) 
@@ -147,8 +190,11 @@ Permite gerar guia para quitação de valores inscritos em Dívida Ativa da Uni�
 | **Noção**         | 1. O usuário acessa **Pagar Dívida Ativa**.<br>2. Visualiza débitos.<br>3. Gera guia de pagamento ou parcela a dívida. |
 | **Sinônimos**     | Quitar Dívida; Regularizar Débito                                                                                      |
 
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
 ### <a id="L09" href="#anchor_L09" style="color:inherit;">L09 – Contribuinte</a>
+
+<p style="text-align: center"><b>Tabela 13</b> - Léxico 08 (L08)</p>
 
 | Contribuinte      | Descrição                                                                                                               |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -156,12 +202,16 @@ Permite gerar guia para quitação de valores inscritos em Dívida Ativa da Uni�
 | **Impacto**       | Pessoa física ou jurídica que possui obrigações fiscais junto à Receita Federal e utiliza o aplicativo para cumpri‑las. |
 | **Noção**         | Realiza consultas, declarações, pagamentos e atualizações cadastrais.                                                   |
 | **Sinônimos**     | Usuário; Pessoa Física; Pessoa Jurídica                                                                                 |
+
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 ---
 
 
 ## Relacionamento dos Léxicos
 
-### Tabela 4 – Tabela de Relacionamento dos Léxicos
+### Tabela 14 – Tabela de Relacionamento dos Léxicos
+
+<p style="text-align: center"><b>Tabela 14</b> - Relacionamento dos Léxicos</p>
 
 | Léxico                                                                    | Relaciona‑se com                                                                                                           | Descrição do Relacionamento                                              |
 | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
@@ -174,6 +224,8 @@ Permite gerar guia para quitação de valores inscritos em Dívida Ativa da Uni�
 | <a id="anchor_L07" href="#L07">L07</a>: Acompanhar Processamento          | <a id="anchor_L03" href="#L03">L03</a>: Declarar Imposto de Renda                                                          | Permite acompanhar o status da declaração enviada.                       |
 | <a id="anchor_L08" href="#L08">L08</a>: Pagar Dívida Ativa                | <a id="anchor_L09" href="#L09">L09</a>: Contribuinte                                                                       | O contribuinte quita débitos inscritos em dívida ativa.                  |
 | <a id="anchor_L09" href="#L09">L09</a>: Contribuinte                      | Todos os léxicos de ação (L01–L08)                                                                                         | O contribuinte é o agente central que executa todas as ações no sistema. |
+
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
 ---
 
@@ -191,4 +243,4 @@ Permite gerar guia para quitação de valores inscritos em Dívida Ativa da Uni�
 | ------ | ---------- | ------------------------------------------ | ----------------------------------------- | ------------------------------------------- |
 | `1.0`  | 10/05/2025 | Criação dos léxicos do App Receita Federal | [Thales Germano](https://github.com/thalesgvl), [Marco Marques](https://github.com/marcomarquesdc) | [Diassis](https://github.com/Diaxiz) |
 | `1.1`  | 08/06/2025 | Ajuste nos léxicos | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
-
+| `1.2`  | 12/06/2025 | Correção das tabelas e adição da tabela de atividade dos membros | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |

@@ -8,6 +8,14 @@ Os cenários de uso são descrições narrativas que representam situações rea
 Os cenários foram elaborados com base nas personas previamente criadas e nos requisitos identificados previamente do aplicativo da Receita Federal. Eles buscam capturar situações típicas e também exceções que o sistema deve lidar, servindo como ferramenta para validar e refinar os requisitos levantados.
 </p>
 
+## Tabela de atividades feitas - por membro
+
+|Nome                                               | Atividade entregue                        | 
+| ------------------------------------------------- | ----------------------------------------- | 
+| [Jose Eduardo](https://github.com/jevprado)   | Criação dos cenários C01, C02, C03 e C04. Ajustes nos códigos do cenários.                                   | 
+| [Diassis](https://github.com/Diaxiz)                 | Criação dos cenários C05, C06 e C07           | 
+| [Thales Germano](https://github.com/thalesgvl)       | Revisor dos artefatos |
+
 ## Meteodologia 
 <p align="justify">
 A construção dos cenários foi orientada pela técnica de engenharia de requisitos centrada no usuário, utilizando personas como ponto de partida. Os cenários foram estruturados com os seguintes elementos: <b>título</b>, <b>objetivo</b>, <b>contexto</b>, <b>atores</b>, <b>recursos</b>, <b>episódios</b>, <b>restrições</b> e <b>exceções</b>. Essa estrutura permite uma análise rica do uso do sistema, considerando tanto o comportamento ideal quanto as condições adversas que podem surgir.
@@ -21,6 +29,7 @@ Os requisitos utilizados como base para os cenários foram extraídos da tabela 
 ### Cenário 01 (C01)
 
 <p style="text-align: center"><b>Tabela 1</b> - Cenário 01</p>
+
 | Abstração | Descrição |
 |----------|-----------|
 | Título   | Cadastro de CPF totalmente remoto via aplicativo |
@@ -154,3 +163,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 09/05/2025 | Criação do documento de cenários | [Jose Eduardo](https://github.com/jevprado) e [Diassis](https://github.com/Diaxiz) | [Thales Germano](https://github.com/thalesgvl)  |
 `1.1` | 08/06/2025 | Colocando código nos cenários | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz)  |
+| `1.2`  | 12/06/2025 | Adição da tabela de atividade dos membros | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
