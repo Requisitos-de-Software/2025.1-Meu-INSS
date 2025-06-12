@@ -9,8 +9,8 @@ descritos os requisitos não funcionais do aplicativo da Receita Federal. Dentre
 
 |Nome                                                | Atividade entregue                        | 
 | -------------------------------------------------- | ----------------------------------------- | 
-| [João Pedro](https://github.com/JpRodrigues2)    |    Introdução e Metodologia                                       | 
-| [José Eduardo](https://github.com/jevprado) |  Metodologia, criação da tabela 01, 02, 03, 04 e 05 e produção dos tópicos com código (+)        | 
+| [João Pedro](https://github.com/JpRodrigues2)    |    Introdução e Metodologia, e tabelas da versão `1.0`                                       | 
+| [José Eduardo](https://github.com/jevprado) |  Revisor da versão `1.0`,  Metodologia, criação da tabela 01, 02, 03, 04 e 05 e produção dos tópicos com código (+)       | 
 
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
@@ -174,7 +174,7 @@ O sistema deve atender aos seguintes padrões:
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 11/05/2025 | Criação do documento de especificacao suplementar |[João Pedro](https://github.com/JpRodrigues2)  | [José Eduardo](https://github.com/jevprado) |
-`2.0` | 07/06/2025 | Correções na especificação suplementar | [José Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
+`2.0` | 07/06/2025 | Correções na especificação suplementar e criação das novas tabelas | [José Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
 `2.1` | 08/06/2025 | Adicionando códigos individuais | [José Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
-| `2.2`  | 12/06/2025 | Adição da tabela de atividade dos membros | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
+ `2.2`  | 12/06/2025 | Adição da tabela de atividade dos membros | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
 

@@ -13,8 +13,8 @@ Os cenários foram elaborados com base nas personas previamente criadas e nos re
 |Nome                                               | Atividade entregue                        | 
 | ------------------------------------------------- | ----------------------------------------- | 
 | [Jose Eduardo](https://github.com/jevprado)   | Criação dos cenários C01, C02, C03 e C04. Ajustes nos códigos do cenários.                                   | 
-| [Diassis](https://github.com/Diaxiz)                 | Criação dos cenários C05, C06 e C07           | 
-| [Thales Germano](https://github.com/thalesgvl)       | Revisor dos artefatos |
+| [Diassis](https://github.com/Diaxiz)                 | Criação dos cenários C05, C06 e C07 e revisor das versões `1.1` e `1.2`         | 
+| [Thales Germano](https://github.com/thalesgvl)       | Revisor da versão `1.0` |
 
 ## Meteodologia 
 <p align="justify">
@@ -163,4 +163,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 09/05/2025 | Criação do documento de cenários | [Jose Eduardo](https://github.com/jevprado) e [Diassis](https://github.com/Diaxiz) | [Thales Germano](https://github.com/thalesgvl)  |
 `1.1` | 08/06/2025 | Colocando código nos cenários | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz)  |
-| `1.2`  | 12/06/2025 | Adição da tabela de atividade dos membros | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
+ `1.2`  | 12/06/2025 | Adição da tabela de atividade dos membros | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
