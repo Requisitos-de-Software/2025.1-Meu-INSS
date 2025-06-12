@@ -3,6 +3,17 @@
 Este documento apresenta a Especificação Suplementar, que trata-se de um documento em linguagem natural, no qual são 
 descritos os requisitos não funcionais do aplicativo da Receita Federal. Dentre as categorias detalhadas estão: Acessibilidade, restrições de design, requisitos de implementação, sistema de ajuda e documentação, requisitos de licenciamento, observações legais, padrões aplicáveis e requisitos físicos. 
 
+## Tabela de atividades feitas - por membro
+
+<p style="text-align: center"><b>Tabela 1</b> - Atividades por membro</p>
+
+|Nome                                                | Atividade entregue                        | 
+| -------------------------------------------------- | ----------------------------------------- | 
+| [João Pedro](https://github.com/JpRodrigues2)    |    Introdução e Metodologia                                       | 
+| [José Eduardo](https://github.com/jevprado) |  Metodologia, criação da tabela 01, 02, 03, 04 e 05 e produção dos tópicos com código (+)        | 
+
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 ## Metodologia 
 
@@ -86,7 +97,7 @@ Abaixo, a divisão dos Requisitos Não Funcionais, divididos por tabelas, seguin
 
 ### Acessibilidade (+): 
 
-<p style="text-align: center"><b>Tabela 4</b> - Tabela de suportabilidade </p>
+<p style="text-align: center"><b>Tabela 5</b> - Tabela de suportabilidade </p>
 
 | ID    | Descrição                                                                       | Rastreabilidade            | Codigo |
 | ----- | ------------------------------------------------------------------------------- | -------------------------- | ------ | 
@@ -165,4 +176,5 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 `1.0` | 11/05/2025 | Criação do documento de especificacao suplementar |[João Pedro](https://github.com/JpRodrigues2)  | [José Eduardo](https://github.com/jevprado) |
 `2.0` | 07/06/2025 | Correções na especificação suplementar | [José Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
 `2.1` | 08/06/2025 | Adicionando códigos individuais | [José Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
+| `2.2`  | 12/06/2025 | Adição da tabela de atividade dos membros | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
 
