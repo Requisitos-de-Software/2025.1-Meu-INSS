@@ -6,6 +6,19 @@ Para o desenvolvimento de soluções digitais eficazes e centradas no usuário, 
 
 As personas apresentadas a seguir são fictícias e foram criadas com base em características típicas de usuários reais. As imagens foram geradas por inteligência artificial através do site this-person-does-not-exist.com, garantindo o respeito à privacidade.
 
+## Tabela de atividades feitas - por membro
+
+<p style="text-align: center"><b>Tabela 1</b> - Atividades por membro</p>
+
+|Nome                                               | Atividade entregue                        | 
+| ------------------------------------------------- | ----------------------------------------- | 
+| [Jose Eduardo](https://github.com/jevprado)    | Criação da introdução, metodologia, tabela 2. Revisor da tabela 3 e 4. | 
+| [Thales Germano](https://github.com/thalesgvl)  | Criação da tabela 3. Revisor da introduçaõ, metodologia e tabela 2. | 
+| [Marco Marques](https://github.com/marcomarquesdc)       | Criação da tabela 4. |
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+
 ## Metodologia
 
 1. **Definição de Público-Alvo**  

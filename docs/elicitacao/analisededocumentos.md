@@ -4,6 +4,19 @@
 
 Este documento tem como objetivo elicitar e documentar os requisitos de software para o aplicativo móvel da Receita Federal, utilizando a técnica de análise de documentos. O aplicativo é uma plataforma oficial que fornece acesso a serviços fiscais, tributários e aduaneiros diretamente em dispositivos Android e iOS, atendendo cidadãos e empresas por meio da integração com o gov.br.
 
+## Tabela de atividades feitas - por membro
+
+<p style="text-align: center"><b>Tabela 1</b> - Atividades por membro</p>
+
+|Nome                                               | Atividade entregue                        | 
+| ------------------------------------------------- | ----------------------------------------- | 
+| [Thales Germano](https://github.com/thalesgvl)    | Criação da introdução, metodologia, elicitação de requisitos do app da receita atraves da técnica, tabela 2 e legendas. Revisor do código dos requisitos. | 
+| [Marco Marques](https://github.com/marcomarquesdc)  | Criação da tabela 2. | 
+| [Jose Eduardo](https://github.com/jevprado)         | Adição do código dos requisitos e revisor geral. |
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+
 ## Metodologia
 
 A técnica utilizada neste documento é a análise de documentos. Essa técnica é particularmente útil quando os requisitos do software estão implícitos em documentos existentes e podem ser extraídos por meio de uma análise cuidadosa do conteúdo. A análise de documentos é uma técnica complementar a outras técnicas de elicitação de requisitos, para obter uma visão abrangente dos requisitos do software.
@@ -55,7 +68,9 @@ O aplicativo da Receita Federal tem como objetivo centralizar, de forma digital 
 
 [Política de Privacidade](https://www.gov.br/pt-br/termos-de-uso).
 
-## Tabela de requisitos             
+## Tabela de requisitos  
+
+<p style="text-align: center"><b>Tabela 2</b> - Tabela de requisitos elicitados</p>
 
 | ID    | Descrição                                                                                    | Categoria |
 | ----- | -------------------------------------------------------------------------------------------- | --------- |
@@ -85,7 +100,7 @@ O aplicativo da Receita Federal tem como objetivo centralizar, de forma digital 
 | ADC24 | Tempo de carregamento inicial do app não deve ultrapassar 5 segundos em conexão móvel       | RNF        |
 | ADC25 | Linguagem da interface deve seguir padrão A2 do CEFR, evitando jargões técnicos     | RNF        | 
 
-<div style="text-align: center;"><p>Tabela 1 - Tabela dos requisitos levantados (Autor: Thales. 2025).</p></div>
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl) e [Marco Marques](https://github.com/marcomarquesdc)</p></font>
 
 ## Legenda
 

@@ -10,6 +10,18 @@ Requisitos Funcionais, que descrevem as funcionalidades que o sistema deve ofere
 
 Requisitos Não Funcionais, que especificam restrições e qualidades esperadas do sistema, como desempenho, usabilidade e segurança.
 
+## Tabela de atividades feitas - por membro
+
+<p style="text-align: center"><b>Tabela 1</b> - Atividades por membro</p>
+
+|Nome                                               | Atividade entregue                        | 
+| ------------------------------------------------- | ----------------------------------------- | 
+| [Jose Eduardo](https://github.com/jevprado)    | Criação da introdução, metodologia e tabela 2 e 3 de requisitos elicitados e adição das fontes com hyperlink. Revisor| 
+| [Thales Germano](https://github.com/thalesgvl)  | Criação da tabela 2 e 3. Revisor.| 
+| [Marco Marques](https://github.com/marcomarquesdc)       | Criação da tabela 2. |
+| [Diassis](https://github.com/Diaxiz)          | Revisor. |
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 ## Tabela de requisitos elicitados 
 

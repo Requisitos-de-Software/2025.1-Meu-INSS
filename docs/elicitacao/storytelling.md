@@ -4,6 +4,18 @@
 
 A partir da criação de [Personas](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/personas/), é possível aplicar a técnica de storytelling, dando vida a perfis fictícios que refletem motivações, frustrações e objetivos reais. Isso facilita a empatia da equipe de desenvolvimento e o entendimento das necessidades do público-alvo, contribuindo para decisões mais acertadas durante o processo de design e implementação.
 
+## Tabela de atividades feitas - por membro
+
+<p style="text-align: center"><b>Tabela 1</b> - Atividades por membro</p>
+
+|Nome                                               | Atividade entregue                        | 
+| ------------------------------------------------- | ----------------------------------------- | 
+| [Jose Eduardo](https://github.com/jevprado)    | Criação da introdução, metodologia, das 5 storytellings e tabela 2. | 
+| [Thales Germano](https://github.com/thalesgvl)  | Revisor da introdução, metodologia e das 5 storytellings. | 
+| [Diassis](https://github.com/Diaxiz)          | Revisor da tabela 2. |
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
 ## Metodologia
 1. **Definição de Público-Alvo**  
    Histórias foram criadas com base nas personas definidas, retratando situações reais de uso do sistema no cotidiano.
@@ -47,7 +59,7 @@ Mesmo sabendo que, em algum momento, terá que lidar com isso, Paulo evita qualq
 
 ## Tabela de requisitos - storytelling 
 
-<p style="text-align: center"><b>Tabela 1</b> - Tabela de requisitos - Storytelling </p>
+<p style="text-align: center"><b>Tabela 2</b> - Tabela de requisitos - Storytelling </p>
 
 | Código | Descrição                                                                               | Categoria | Status         | 
 | ------ | --------------------------------------------------------------------------------------- | --------- |-------------- |    

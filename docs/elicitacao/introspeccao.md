@@ -4,6 +4,17 @@ A elicitação de requisitos é uma etapa fundamental no desenvolvimento de sist
 
 A introspecção consiste em um processo reflexivo individual, no qual o analista ou desenvolvedor examina suas próprias ideias, experiências e expectativas para identificar possíveis funcionalidades, restrições e objetivos do sistema. Essa abordagem pode ser especialmente relevante em projetos pessoais, acadêmicos ou em situações onde o próprio analista desempenha também o papel de usuário.
 
+## Tabela de atividades feitas - por membro
+
+<p style="text-align: center"><b>Tabela 1</b> - Atividades por membro</p>
+
+|Nome                                               | Atividade entregue                        | 
+| ------------------------------------------------- | ----------------------------------------- | 
+| [Jose Eduardo](https://github.com/jevprado)    | Criação da introdução, metodologia, tabela 2. Revisor da tabela 3 e 4. | 
+| [Thales Germano](https://github.com/thalesgvl)  | Criação da tabela 3. Revisor da introduçaõ, metodologia e tabela 2. Revisor da tabela 2.| 
+| [Marco Marques](https://github.com/marcomarquesdc)       | Criação da tabela 4. |
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 ## Metodologia 
 
@@ -29,7 +40,7 @@ Os requisitos obtidos foram analisados criticamente quanto à sua viabilidade e 
 
 ## Tabela de requisitos 
 
-<p style="text-align: center"><b>Tabela 1</b> - Tabela de requisitos obtidos atráves da introspecção </p>
+<p style="text-align: center"><b>Tabela 2</b> - Tabela de requisitos obtidos atráves da introspecção </p>
 
 | ID    | Descrição                                                            | Categoria |Status |
 | ----- | -----------------------------------------------------------------------| --------- |--------- |
@@ -55,7 +66,7 @@ Os requisitos obtidos foram analisados criticamente quanto à sua viabilidade e 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 
-<p style="text-align: center"><b>Tabela 2</b> - Tabela de requisitos obtidos atráves da introspecção </p>
+<p style="text-align: center"><b>Tabela 3</b> - Tabela de requisitos obtidos atráves da introspecção </p>
 
 | ID    | Descrição                                                            | Categoria |Status |
 | ----- | -----------------------------------------------------------------------| --------- |--------- |
@@ -71,9 +82,9 @@ Os requisitos obtidos foram analisados criticamente quanto à sua viabilidade e 
 <font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
 
-## Tabela de requisitos 2
+## Tabela de requisitos 
 
-<p style="text-align: center"><b>Tabela 3</b> - Tabela de requisitos obtidos atráves da introspecção </p>
+<p style="text-align: center"><b>Tabela 4</b> - Tabela de requisitos obtidos atráves da introspecção </p>
 
 | ID   | Descrição                                                           | Categoria | Status       |
 | ---- | ------------------------------------------------------------------- | --------- | ------------ |
