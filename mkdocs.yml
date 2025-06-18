@@ -95,5 +95,10 @@ nav:
   - Rastreabilidade: 
       - Matriz Geral: rastreabilidade/matriz-geral.md  
       - Pós-Rastreabilidade: rastreabilidade/pos-rastreabilidade.md
+  - Verificação: 
+      - XYZ: mudarisso/mudar.md
+      - XYZ123: mudarisso/mudar.md
+  - Validação: 
+      - Prototipação: validacao/prototipacao.md
   
 
