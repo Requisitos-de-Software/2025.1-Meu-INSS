@@ -30,14 +30,14 @@ Os **objetivos** dessa etapa são:
 
 ## Prototipação do [RF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
 
-O usuário João Pedro testou o protótipo desenvolvido, especificamente o referente ao [RF03 - Acompanhamento de status da restituição (precisão quanto aos lotes)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/), e pontuou as melhorias desenvolvidas, principalmente a maior clareza nas informações a cerca do status detalhado da restituição, como por exemplo o status do lote atual (geral) e o lote atual do usuário. Não foram pontuadas possíveis melhorias no protótipo. 
+O usuário João Costa testou o protótipo desenvolvido, especificamente o referente ao [RF03 - Acompanhamento de status da restituição (precisão quanto aos lotes)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/), e pontuou as melhorias desenvolvidas, principalmente a maior clareza nas informações a cerca do status detalhado da restituição, como por exemplo o status do lote atual (geral) e o lote atual do usuário. Não foram pontuadas possíveis melhorias no protótipo. 
 
 <p style="text-align: center"><b>Tabela 2</b> - Validação do protótipo RF03</p>
 
 | Participantes                                | Função           | Data da realização da validação |
 | -------------------------------------------- | ---------------- | ------------------------------- | 
 | [José Eduardo](https://github.com/jevprado)  | Entrevistador    | 18/06/2025                      |
-| João Pedro                                   | Usuário          | 18/06/2025                      |
+| João Costa                                   | Usuário          | 18/06/2025                      |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -85,14 +85,14 @@ O usuário João Pedro testou o protótipo desenvolvido, especificamente o refer
 
 ## Prototipação do [RF05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
 
-O usuário João Pedro testou o protótipo desenvolvido, especificamente o referente ao [RF05 - Agendar no próprio aplicativo atendimentos presenciais em unidades da Receita Federal](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/), e pontuando as melhorias desenvolvidas, a facilidade e intuituividade para marcar um agendamento presencial em uma agência física, e principalmente o diferencial da função ser tudo feito dentro do próprio aplicativo da Receita Federal, sem utilização de apps externos. Não foram pontuadas possíveis melhorias no protótipo. 
+O usuário João Costa testou o protótipo desenvolvido, especificamente o referente ao [RF05 - Agendar no próprio aplicativo atendimentos presenciais em unidades da Receita Federal](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/), e pontuando as melhorias desenvolvidas, a facilidade e intuituividade para marcar um agendamento presencial em uma agência física, e principalmente o diferencial da função ser tudo feito dentro do próprio aplicativo da Receita Federal, sem utilização de apps externos. Não foram pontuadas possíveis melhorias no protótipo. 
 
-<p style="text-align: center"><b>Tabela 2</b> - Validação do protótipo RF03</p>
+<p style="text-align: center"><b>Tabela 3</b> - Validação do protótipo RF05</p>
 
 | Participantes                                | Função           | Data da realização da validação |
 | -------------------------------------------- | ---------------- | ------------------------------- | 
 | [José Eduardo](https://github.com/jevprado)  | Entrevistador    | 18/06/2025                      |
-| João Pedro                                   | Usuário          | 18/06/2025                      |
+| João Costa                                   | Usuário          | 18/06/2025                      |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
