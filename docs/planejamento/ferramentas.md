@@ -23,6 +23,7 @@ Para garantir um fluxo de trabalho eficiente, organizado e colaborativo, foi nec
 | <img src="./../../assets/logoFerramentas/canva.svg" alt="Logo do Canva" style="height:80px;width:80px;">                               |        Canva   <sup>[9](#FRM9)</sup>     | Utilizado para produção de auxílios visuais.|
 | <img src="./../../assets/logoFerramentas/chat-gpt.svg" alt="Logo do ChatGPT" style="height:80px;width:80px;">                               |        ChatGPT   <sup>[10](#FRM10)</sup>     | Utilizado para automações e auxilio de tarefas repetitivas.|
 | <img src="./../../assets/logoFerramentas/thispersondoesntexist.png" alt="Logo do thispersondoesntexist" style="height:80px;width:80px;">                               |        This Person Does Not Exist  <sup>[11](#FRM11)</sup>     | Utilizado na geração de rostos que não existem para as personas.|
+| <img src="./../assets/logoFerramentas/figma.svg" alt="Logo do Figma" style="height:80px;width:80px;">                               |        Figma  <sup>[12](#FRM12)</sup>     | Utilizado para a prototipação visual do requisitos do projeto.|
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -50,6 +51,9 @@ Para garantir um fluxo de trabalho eficiente, organizado e colaborativo, foi nec
 >
 > <a id="FRM11" href="#anchor_11">11.</a> This Person Does Not Exist. Disponível em: [https://this-person-does-not-exist.com/](). Acesso em: 21 de abr. de 2025.
 >
+> <a id="FRM12" href="#anchor_12">12.</a> Figma. Disponível em: [https://www.figma.com/](). Acesso em: 19 de jun. de 2025.
+>
+
 
 ## Histórico de versões
 
@@ -58,3 +62,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 `1.0` | 12/04/2025 | Criação do documento de ferramentas | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
 `1.1` | 13/04/2025 | Adição de ferramentas | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
 `1.2` | 21/04/2025 | Adição de novas ferramentas | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
+`1.3` | 19/06/2025 | Adição de novas ferramentas II | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
