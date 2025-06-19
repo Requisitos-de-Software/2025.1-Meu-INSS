@@ -37,7 +37,7 @@ O usuário João Pedro testou o protótipo desenvolvido, especificamente o refer
 | Participantes                                | Função           | Data da realização da validação |
 | -------------------------------------------- | ---------------- | ------------------------------- | 
 | [José Eduardo](https://github.com/jevprado)  | Entrevistador    | 18/06/2025                      |
-| João Pedro                                   | Usuário Externo        | 18/06/2025                      |
+| João Pedro                                   | Usuário          | 18/06/2025                      |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
