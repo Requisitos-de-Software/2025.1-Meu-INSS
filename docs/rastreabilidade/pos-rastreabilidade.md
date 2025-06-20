@@ -140,7 +140,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Descrição** | Integração com conta Gov.br |
 | **Tipos de Elo** | Desenvolvimento / Organizacional  |
 | **Código do req** | [RF12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf12) |
-| **Backward-from** | [ADC12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/), [US27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-27-integracao-com-conta-govbr) |
+| **Backward-from** | [ADC12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/), [ENT04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/entrevista/), [US27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-27-integracao-com-conta-govbr) |
 | **Foward-from** | Agregação – Integração com autenticação do sistema<br>Satisfação – Facilita login com identidade digital |
 | **Representação** |-|
 
@@ -171,7 +171,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Descrição** | Acessar informações detalhadas acerca da declaração de imposto de renda de um ano específico |
 | **Tipos de Elo** | Organizacional |
 | **Código do req** | [RF14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf14) |
-| **Backward-from** | [INT1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [L07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l07-acompanhar-processamento), [US05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-05-acesso-a-informacoes-detalhadas-da-declaracao-de-imposto-de-renda-por-ano) |
+| **Backward-from** | [INT1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [ENT03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/entrevista/), [L07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l07-acompanhar-processamento), [US05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-05-acesso-a-informacoes-detalhadas-da-declaracao-de-imposto-de-renda-por-ano) |
 | **Foward-from** | Agregação – Relacionado à análise de dados da declaração por período |
 | **Representação** | [Historico das declaracoes](../assets/prints-jose/historico-declaracoes.jpg) e [Informações detalhadas]() |
 
@@ -187,7 +187,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Descrição** | O aplicativo deve permitir o envio da declaração do IR |
 | **Tipos de Elo** | Desenvolvimento / Organizacional |
 | **Código do req** | [RF15](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf15) |
-| **Backward-from** | [INT2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [US29](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-29-envio-da-declaracao-do-ir-diretamente-pelo-app), [L03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l03-declarar-imposto-de-renda) |
+| **Backward-from** | [INT2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/),[ENT01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/entrevista/), [US29](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-29-envio-da-declaracao-do-ir-diretamente-pelo-app), [L03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l03-declarar-imposto-de-renda) |
 | **Foward-from** | Agregação – Parte do Módulo de Declarações<br>Satisfação – Simplifica o processo de declaração do IR |
 | **Representação** |  |
 
@@ -219,7 +219,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Descrição** | Emissão de certidão negativa via aplicativo |
 | **Tipos de Elo** | Organizacional |
 | **Código do req** | [RF17](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf17) |
-| **Backward-from** | [INT6](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [L08](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l08-pagar-divida-ativa), [US06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-06-emissao-de-certidao-negativa-via-aplicativo), [UC](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/casosdeuso/#41-ator-primario-contribuinte) |
+| **Backward-from** | [INT6](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [ENT02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/entrevista/), [L08](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l08-pagar-divida-ativa), [US06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-06-emissao-de-certidao-negativa-via-aplicativo), [UC](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/casosdeuso/#41-ator-primario-contribuinte) |
 | **Foward-from** | Integração – Conectado à base de débitos da Receita |
 | **Representação** | [Emitir certidão negativa](../assets/prints-jose/certidao-negativa.jpg) |
 
@@ -745,9 +745,9 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Descrição** | Integração confiável com serviços externos (Gov.br, instituições financeiras) |
 | **Tipos de Elo** | Organizacional / Desenvolvimento |
 | **Código do req** | [RNF21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rnf21) |
-| **Backward-from** | [ST13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) |
+| **Backward-from** | [ST13](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/), [ENT05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/entrevista/), [US39](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-39-conectar-com-servicos-externos) |
 | **Foward-from** | Agregação – Interoperabilidade entre Receita Federal e serviços federais |
-| **Representação** | [US39](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-39-conectar-com-servicos-externos) |
+| **Representação** | - |
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz)</p></font>
 
@@ -775,4 +775,6 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | `1.7`  | 08/06/2025 | Criação dos cartões RF18, RF22, RF22, RF29, RF30, RNF04, RNF09, RNF14 e RNF19  | [João Pedro](https://github.com/JpRodrigues2)  | [José Eduardo](https://github.com/jevprado) |
 | `1.8`  | 08/06/2025 | Adicionando as referências  | [José Eduardo](https://github.com/jevprado)   | [Diassis](https://github.com/Diaxiz)  |
 | `1.9`  | 08/06/2025 | Criação dos cartões RNF02, RNF07, RNF12 e RNF17 | [Marco Marques](https://github.com/marcomarquesdc) | [José Eduardo](https://github.com/jevprado) |
+| `2.0`  | 20/06/2025 | Adicionando hyperlinks que faltaram | [José Eduardo](https://github.com/jevprado) | revisor aqui |
+
 
