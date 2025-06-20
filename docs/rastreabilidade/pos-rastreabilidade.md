@@ -775,6 +775,6 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | `1.7`  | 08/06/2025 | Criação dos cartões RF18, RF22, RF22, RF29, RF30, RNF04, RNF09, RNF14 e RNF19  | [João Pedro](https://github.com/JpRodrigues2)  | [José Eduardo](https://github.com/jevprado) |
 | `1.8`  | 08/06/2025 | Adicionando as referências  | [José Eduardo](https://github.com/jevprado)   | [Diassis](https://github.com/Diaxiz)  |
 | `1.9`  | 08/06/2025 | Criação dos cartões RNF02, RNF07, RNF12 e RNF17 | [Marco Marques](https://github.com/marcomarquesdc) | [José Eduardo](https://github.com/jevprado) |
-| `2.0`  | 20/06/2025 | Adicionando hyperlinks que faltaram | [José Eduardo](https://github.com/jevprado) | revisor aqui |
+| `2.0`  | 20/06/2025 | Adicionando hyperlinks que faltaram | [José Eduardo](https://github.com/jevprado) | [João Pedro](https://github.com/JpRodrigues2)  |
 
 

@@ -24,7 +24,7 @@ No projeto em questão, a entrevista foi conduzida com usuários reais do sistem
 | -------------------------------------------------- | ----------------------------------------- | 
 | [José Eduardo](https://github.com/jevprado)        | Criação do documento, introdução, objetivos, formulação do questionário, e tabela de requisitos elicitados (tabela 03).       | 
 | [Andre Lopes](https://github.com/andrewslopes)     | Formulação do questionário, entrevistador e tabela de requisitos elicitados (tabela 03).         | 
-| Revisor aqui     | Revisor do documento        | 
+| [João Pedro](https://github.com/JpRodrigues2)      | Revisor do documento        | 
 
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
@@ -110,4 +110,4 @@ No projeto em questão, a entrevista foi conduzida com usuários reais do sistem
 ## Histórico de versão
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-`1.0` | 20/06/2025 | Criação da pagina de entrevista | [André Lopes](https://github.com/andrewslopes) e [Jose Eduardo](https://github.com/jevprado) | revisor aqui |
+`1.0` | 20/06/2025 | Criação da pagina de entrevista | [André Lopes](https://github.com/andrewslopes) e [Jose Eduardo](https://github.com/jevprado) | [João Pedro](https://github.com/JpRodrigues2)  |

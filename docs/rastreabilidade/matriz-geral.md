@@ -122,4 +122,4 @@ Com isso, a matriz geral permite não apenas documentar o histórico dos requisi
 | `1.2`   | 07/06/2025 | Adicionado Introdução e Metodologia em Matriz-Geral           |  [Diassis](https://github.com/Diaxiz)          | [José Eduardo](https://github.com/jevprado) |
 | `1.3`   | 08/06/2025 | Adicionando hyperlinks                                        | [José Eduardo](https://github.com/jevprado)    |  [Diassis](https://github.com/Diaxiz)  |
 | `1.4`   | 08/06/2025 | adicionando as referencias  | [José Eduardo](https://github.com/jevprado)   | [Diassis](https://github.com/Diaxiz)  |
-| `1.5`  | 20/06/2025 | Adicionando hyperlinks | [José Eduardo](https://github.com/jevprado) | revisor aqui |
+| `1.5`  | 20/06/2025 | Adicionando hyperlinks | [José Eduardo](https://github.com/jevprado) | [João Pedro](https://github.com/JpRodrigues2)  |

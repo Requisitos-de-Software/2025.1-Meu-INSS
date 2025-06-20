@@ -111,5 +111,5 @@ Requisitos Não Funcionais, que especificam restrições e qualidades esperadas 
 | `2.3`   | 30/05/2025 | Add req elicitados MM              | [Marco Marques](https://github.com/marcomarquesdc)    | [José Eduardo](https://github.com/jevprado)         |
 | `2.4`   | 30/05/2025 | Adicionando Hyperlink nos requisitos elicitados | [José Eduardo](https://github.com/jevprado)    | [Thales Germano](https://github.com/thalesgvl) |
 | `2.5`   | 04/06/2025 | Adicionando Hyperlink nos requisitos elicitados no Storytelling | [José Eduardo](https://github.com/jevprado)    | [Diassis](https://github.com/Diaxiz) |
-| `2.6`   | 20/06/2025 | Adicionando requisitos da entrevista | [José Eduardo](https://github.com/jevprado)    | revisor aqui |
+| `2.6`   | 20/06/2025 | Adicionando requisitos da entrevista | [José Eduardo](https://github.com/jevprado)    | [João Pedro](https://github.com/JpRodrigues2)  |
 
