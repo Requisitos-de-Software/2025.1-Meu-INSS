@@ -97,8 +97,14 @@ nav:
       - Matriz Geral: rastreabilidade/matriz-geral.md  
       - Pós-Rastreabilidade: rastreabilidade/pos-rastreabilidade.md
   - Verificação: 
-      - XYZ: mudarisso/mudar.md
-      - XYZ123: mudarisso/mudar.md
+      - Planejamento geral: verificacao/planejamento-geral.md
+      - Entrega 01:
+          - Planejamento de verificação - Entrega 01: verificacao/entrega1/planejamento1.md
+          - Rich Picture: verificacao/entrega1/richpicture-ver.md
+      - CONTINUA AQUI: mudarisso/mudar.md
+
+
+      
   - Validação: 
       - Prototipação: validacao/prototipacao.md
       - Comprovante Informal: validacao/comprovante-informal.md 
