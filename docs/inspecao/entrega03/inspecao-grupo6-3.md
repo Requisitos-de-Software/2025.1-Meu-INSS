@@ -18,31 +18,32 @@ Esta página apresenta um checklist relacionado a Entrega 03 do grupo 06 (Receit
 
 ### Tabela 1: Checklist para a entrega 3 - Grupo 06 (Receita Federal) 
 
-| Nº | O GitHub Pages possui? | Sim/Não/Incompleto | Data e hora da avaliação |
-|----|-------------------------|:------------------:|:------------------------:|
-| 1  | O histórico de versão padronizado? |  Sim | 18/05 21:00  |
-| 2  | O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim  | 18/05 21:00  |
-| 3  | Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim  | 18/05 21:00  |
-| 4  | As tabelas e imagens possuem legenda, fonte e são chamadas dentro do texto? | Incompleto  |  18/05 21:00 |
-| 5  | Um texto fazendo uma introdução dos artefatos? | Sim  |  18/05 21:00 |
-| 6  | Cada integrante da equipe elaborou ao menos 1 item de conteúdo da disciplina com referência bibliográfica da fonte? | Sim  |  18/05 21:00 |
-| 7  | O GitHub Pages possui cenários, léxico, casos de uso e especificação suplementar? | Sim  |  18/05 21:00 |
-| 8  | Os cenários possuem os elementos básicos (Título, Metas/Objetivo, Contexto, Atores, Episódios, Restrição e Exceção)? |  Sim |  18/05 21:00 |
-| 9  | O objetivo do cenário está explícito de forma a deixar claro qual necessidade do usuário está sendo atendida? | Sim  | 18/05 21:00  |
-| 10 | Há definição do usuário nos léxicos? | Sim  |  18/05 21:00 |
-| 11 | Os léxicos possuem ligações entre si (hiperlinks)? | Sim  | 18/05 21:00  |
-| 12 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)? | Sim  |  18/05 21:00 |
-| 13 | Há especificação do caso de uso? | Sim  | 18/05 21:00  |
-| 14 | Há atores principais e atores secundários no diagrama de caso de uso? | Sim  |  18/05 21:00 |
-| 15 | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? |  Sim |  18/05 21:00 |
-| 16 | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? | Sim  |  18/05 21:00 |
-| 17 | A especificação do diagrama de caso de uso contém Nome, Descrição, Atores, Pré-condição, Pós-condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção? |  Sim |  18/05 21:00 |
-| 18 | No diagrama de caso de uso há ao menos um caso com pontos de extensão? | Sim  | 18/05 21:00 |
-| 19 | O documento especifica o tempo de resposta, no item de Desempenho? |  Sim |  18/05 21:00 |
-| 20 | O documento especifica em qual plataforma o aplicativo pode ser executado? |  Sim |  18/05 21:00 |
-| 21 | Todos os requisitos podem ser testados (RF e RNF)? | Sim  |  18/05 21:00 |
+| id | descrição                                                                                                                          | Autor do item | Fonte | Data       | Conforme/Não conforme |
+|----|------------------------------------------------------------------------------------------------------------------------------------|---------------|-------|------------|-----------------------|
+| 1  | O histórico de versão padronizado?                                                                                                |               |       | 18/05 21:00 |    Conforme                   |
+| 2  | O(s) autor(es) e o(s) revisor(es) para cada artefato?                                                                            |               |       | 18/05 21:00 |       Conforme                   |
+| 3  | Referências bibliográficas e/ou bibliografia em todos os artefatos?                                                               |               |       | 18/05 21:00 |     Conforme                     |
+| 4  | As tabelas e imagens possuem legenda, fonte e são chamadas dentro do texto?                                                       |               |       | 18/05 21:00 |    Incompleto                    |
+| 5  | Um texto fazendo uma introdução dos artefatos?                                                                                    |               |       | 18/05 21:00 |          Conforme                |
+| 6  | Cada integrante da equipe elaborou ao menos 1 item de conteúdo da disciplina com referência bibliográfica?                         |               |       | 18/05 21:00 |      Conforme                    |
+| 7  | O GitHub Pages possui cenários, léxico, casos de uso e especificação suplementar?                                                  |               |       | 18/05 21:00 |       Conforme                   |
+| 8  | Os cenários possuem os elementos básicos (Título, Metas/Objetivo, Contexto, Atores, Episódios, Restrição e Exceção)?               |               |       | 18/05 21:00 |       Conforme                   |
+| 9  | O objetivo do cenário está explícito, deixando claro qual necessidade do usuário está sendo atendida?                             |               |       | 18/05 21:00 |      Conforme                    |
+| 10 | Há definição do usuário nos léxicos?                                                                                             |               |       | 18/05 21:00 |          Conforme                |
+| 11 | Os léxicos possuem ligações entre si (hiperlinks)?                                                                               |               |       | 18/05 21:00 |           Conforme               |
+| 12 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                                                           |               |       | 18/05 21:00 |         Conforme                 |
+| 13 | Há especificação do caso de uso?                                                                                                 |               |       | 18/05 21:00 |         Conforme                 |
+| 14 | Há atores principais e atores secundários no diagrama de caso de uso?                                                            |               |       | 18/05 21:00 |          Conforme                |
+| 15 | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso?                                                     |               |       | 18/05 21:00 |           Conforme               |
+| 16 | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso?                                                   |               |       | 18/05 21:00 |        Conforme                  |
+| 17 | A especificação do diagrama de caso de uso contém Nome, Descrição, Atores, Pré-condição, Pós-condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção? |   Conforme               |       | 18/05 21:00 |                       |
+| 18 | No diagrama de caso de uso há ao menos um caso com pontos de extensão?                                                           |               |       | 18/05 21:00 |     Conforme                    |
+| 19 | O documento especifica o tempo de resposta, no item de Desempenho?                                                               |               |       | 18/05 21:00 |         Conforme                 |
+| 20 | O documento especifica em qual plataforma o aplicativo pode ser executado?                                                       |               |       | 18/05 21:00 |      Conforme                    |
+| 21 | Todos os requisitos podem ser testados (RF e RNF)?                                                                               |               |       | 18/05 21:00 |         Conforme                 |
 
-<font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
+
+<font size="3"><p style="text-align: center">Fonte:  [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 
 
@@ -69,3 +70,4 @@ Esta página apresenta um checklist relacionado a Entrega 03 do grupo 06 (Receit
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 18/05/2025 | Criação do documento de inspeção grupo 06 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 
+`2.0` | 21/06/2025 | Corrigindo formatacao | [Jose Eduardo](https://github.com/jevprado) | Revisor aqui | 
