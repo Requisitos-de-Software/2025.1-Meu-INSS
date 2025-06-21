@@ -12,11 +12,17 @@ Este documento foca em funcionalidades típicas para o cidadão usuário do app.
 
 ## Tabela de atividades feitas - por membro
 
+<p style="text-align: center"><b>Tabela 1</b> - Tabela de atividades feitas - por membro </p>
+
 |Nome                                               | Atividade entregue                        | 
 | ------------------------------------------------- | ----------------------------------------- | 
 | [Andre Lopes](https://github.com/andrewslopes)    | Criação da documentação geral do artefato                                            | 
 | [Julia Massuda](https://github.com/JuliaReis18)   | Criação do diagrama de usos e descrições do diagrama | 
-| [Jose Eduardo](https://github.com/jevprado)       | Revisor dos artefatos |
+| [Jose Eduardo](https://github.com/jevprado)       | Revisor dos artefatos, casos de uso 01 (uc01) e casos de uso 02 (UC02)|
+
+
+<font size="3"><p style="text-align: center">Fonte: Fonte: [Jose Eduardo   ](https://github.com/jevprado), 2025.</p></font>
+
 
 ## Metodologia Utilizada
 
@@ -34,6 +40,8 @@ Os relacionamentos foram representados por semirretas características, caso se 
 
 ### Tabela 1: Elementos do Diagrama de Casos de Uso
 
+<p style="text-align: center"><b>Tabela 2</b> - Tabela de Elementos do Diagrama de Casos de Uso </p>
+
 | Nome do Elemento | Imagem | Função |
 |---|---|---|
 | **Ator** | ![Boneco Palito](../assets/ChatGPT%20Image%205_06_2025,%2008_51_23.png) | Representa os diferentes tipos de usuários externos que interagem com o sistema. |
@@ -41,7 +49,9 @@ Os relacionamentos foram representados por semirretas características, caso se 
 | **Retângulo (Sistema)** | ![Retângulo](https://images.vexels.com/media/users/3/139257/isolated/svg/b8fa8f291632f8fe68842e4fb100d8e0.svg) | Representa o sistema ou o bloco em análise. Ele envolve os casos de uso e atores relacionados. |
 | **Flecha (Relações)** | ![Flecha](../assets/Captura%20de%20tela%202025-06-08%20173528.png) | Representa as relações ou interações entre atores e casos de uso. |
 
-Fonte: [Julia Massuda](https://github.com/JuliaReis18)
+
+<font size="3"><p style="text-align: center">Fonte: Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
 
 ## Atores
 
@@ -77,9 +87,57 @@ Usuário institucional, com acesso ao sistema para:
 ![Diagrama de Casos de Uso](../assets/Diagrama%20de%20Casos%20de%20Uso.jpg)  
 Fonte: [Julia Massuda](https://github.com/JuliaReis18)
 
-### Diagrama de Casos de Uso: Requisitos Não Implementados
 
-*Em desenvolvimento.*
+## CASO DE USO 01 - (UC01)
+
+<p style="text-align: center"><b>Tabela 3</b> - CASO DE USO 01 - (UC01) </p>
+
+| **COLUNA**               | **DESCRIÇÃO**                                                                                         |
+|--------------------------|-------------------------------------------------------------------------------------------------------|
+| **Nome do caso de uso:** | Consultar Status da Restituição do IRPF                                                              |
+| **Rastreabilidade:**     | [ADC3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) e [ST02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)                           |
+| **Pré-condição:**         | - App instalado em dispositivo compatível  <br> - Autenticação via CPF e senha Gov.br <br> - Sistema da Receita operacional e sincronizado |
+| **Ator principal:**       | Contribuinte                                                                                        |
+| **Atores secundários:**   | Auditor da Receita                                                                                   |
+| **Objetivo:**             | Permitir que o contribuinte consulte o status da restituição com informações sobre lote, valor e data prevista |
+| **Fluxo principal:**      | 1. Acessa o app da Receita <br> 2. Seleciona “Consultar restituição do IR” <br> 3. Sistema valida conexão com internet (PI1) <br> 4. Valida CPF/autenticação (PI2) <br> 5. Consulta banco de dados <br> 6. Exibe status com: lote, situação, valor, data <br> 7. Permite visualizar/baixar comprovante (PE1) <br> 8. Registra no histórico |
+| **Fluxo alternativo:**    | 6a. Se há múltiplas restituições, exibe lista por ano <br> 6b. Usuário seleciona o ano desejado     |
+| **Fluxo de exceção:**     | - E1: Sem internet → mostra erro e sugere reconectar (PI1) <br> - E2: CPF inválido → volta para login (PI2) <br> - E3: Nenhum dado encontrado → informa ausência de restituições <br> - E4: Sistema instável → mostra mensagem de indisponibilidade |
+| **Pós-condição:**         | - Status da restituição exibido <br> - Informações podem ser salvas ou compartilhadas <br> - Histórico atualizado <br> - Pode haver redirecionamento para vídeos explicativos (PE2) |
+
+<font size="3"><p style="text-align: center">Fonte: Fonte: [Jose Eduardo   ](https://github.com/jevprado), 2025.</p></font>
+
+
+## CASO DE USO 02 - (UC02)
+
+<p style="text-align: center"><b>Tabela 4</b> - Tabela CASO DE USO 02 - (UC02) </p>
+
+| **COLUNA**               | **DESCRIÇÃO**                                                                                         |
+|--------------------------|-------------------------------------------------------------------------------------------------------|
+| **Nome do caso de uso:** | Agendar Atendimento Presencial                                                                       |
+| **Rastreabilidade:**     | [INT3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)       |
+| **Pré-condição:**         | - Aplicativo instalado em dispositivo compatível <br> - Contribuinte autenticado via CPF e senha Gov.br <br> - Sistema da Receita sincronizado com agenda das unidades |
+| **Ator principal:**       | Contribuinte                                                                                        |
+| **Atores secundários:**   | Servidor da Receita (responsável por configurar e disponibilizar horários e unidades de atendimento) |
+| **Objetivo:**             | Permitir ao contribuinte agendar atendimentos presenciais diretamente pelo aplicativo, escolhendo unidade, data e horário |
+| **Fluxo principal:**      | 1. Contribuinte acessa o app da Receita <br> 2. Seleciona a opção "Agendar Atendimento" <br> 3. Sistema valida conexão com a internet (PI1) <br> 4. Valida autenticação do usuário (PI2) <br> 5. Sistema exibe unidades disponíveis e horários <br> 6. Contribuinte seleciona unidade, serviço, data e horário <br> 7. Confirma agendamento <br> 8. Sistema registra o agendamento e envia notificação de confirmação |
+| **Fluxo alternativo:**    | 5a. Se o serviço desejado não estiver disponível na unidade escolhida, sistema exibe unidades alternativas <br> 6a. Contribuinte pode alterar data/horário sugerido pelo sistema |
+| **Fluxo de exceção:**     | - E1: Falha de conexão → exibe mensagem e orienta reconexão (PI1) <br> - E2: Falha na autenticação → redireciona para login (PI2) <br> - E3: Nenhum horário disponível → sistema exibe mensagem e sugere outras datas ou unidades <br> - E4: Instabilidade no sistema → informa indisponibilidade e recomenda tentar mais tarde |
+| **Pós-condição:**         | - Agendamento registrado com sucesso <br> - Contribuinte recebe notificação e pode consultar, cancelar ou remarcar atendimento <br> - Histórico de agendamentos atualizado |
+
+<font size="3"><p style="text-align: center">Fonte: Fonte: [Jose Eduardo   ](https://github.com/jevprado), 2025.</p></font>
+
+
+
+
+
+
+
+
+LEMBRAR DE APAGAR BOA PARTE DOS TEXTOS ABAIXO, DEPOIS QUE TODOS ENVIAREM SEUS CASOS DE USO, pois acho que algumas infos estão perdidas no doc. 
+
+
+
 
 ## Pré-condições
 
@@ -275,4 +333,5 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0`| 11/05/2025 | Criação do documento Casos de uso | [Julia Massuda](https://github.com/JuliaReis18) e  [Andre Lopes](https://github.com/andrewslopes)  | [Jose Eduardo](https://github.com/jevprado) |
 `2.0` | 08/06/2025 | Alterações no conteúdo + adicionando novo diagrama e tabela de casos de uso | [Julia Massuda](https://github.com/JuliaReis18) e  [Andre Lopes](https://github.com/andrewslopes)  | [Jose Eduardo](https://github.com/jevprado) |
-| `2.1`  | 12/06/2025 | Adição da tabela de atividade dos membros | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
+ `2.1`  | 12/06/2025 | Adição da tabela de atividade dos membros | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
+ `2.2`  | 21/06/2025 | Adição dos UC01 E UC02 | [Jose Eduardo](https://github.com/jevprado) | Revisor aqui |
