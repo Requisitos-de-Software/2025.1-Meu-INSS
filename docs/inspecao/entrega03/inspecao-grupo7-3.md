@@ -68,5 +68,5 @@ Esta página apresenta um checklist relacionado a Entrega 03 do Grupo 07 (FGTS).
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 19/05/2025 | Mudança da localização da inspeção da entrega 03 - grupo 7 | [Thales Germano](https://github.com/thalesgvl) | [Jose Eduardo](https://github.com/jevprado)|
-`2.0` | 21/06/2025 | Corrigindo formatacao | [Jose Eduardo](https://github.com/jevprado) | Revisor aqui | 
+`2.0` | 21/06/2025 | Corrigindo formatacao | [Jose Eduardo](https://github.com/jevprado) | [Julia Massuda](https://github.com/JuliaReis18) | 
 

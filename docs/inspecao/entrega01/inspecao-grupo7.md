@@ -67,4 +67,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 14/04/2025 | Criação do documento de checklist | [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [Julia Massuda](https://github.com/JuliaReis18) e [Thales Germano](https://github.com/thalesgvl) | [Jose Eduardo](https://github.com/jevprado) |
 `1.1` | 15/04/2025 | Adicionado gravação do vídeo  |[Jose Eduardo](https://github.com/jevprado) | [Julia Massuda](https://github.com/JuliaReis18) |
-`2.0` | 21/06/2025 | Corrigindo a formatação da lista 01 + organização | [Jose Eduardo](https://github.com/jevprado) | Revisor aqui | 
+`2.0` | 21/06/2025 | Corrigindo a formatação da lista 01 + organização | [Jose Eduardo](https://github.com/jevprado) | [Julia Massuda](https://github.com/JuliaReis18) | 

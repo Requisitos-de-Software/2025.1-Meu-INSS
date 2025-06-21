@@ -61,4 +61,4 @@ Esta é uma lista de verificação com critérios para serem observados na *quar
 Versão |   Data     | Descrição | Autor(es) | Revisor(es)
 ------ | ---------- | --------------------------------------------- | ---------- | ----------
 `1.0`  | 01/06/2025 | Criação da lista de verificação da Entrega 4 | [Diassis](https://github.com/Diaxiz) | [Thales Germano](https://github.com/thalesgvl) |
-`2.0`  | 21/06/2025 | Mudando a nomeclatura | [Jose Eduardo](https://github.com/jevprado) | Revisor aqui |
+`2.0`  | 21/06/2025 | Mudando a nomeclatura | [Jose Eduardo](https://github.com/jevprado) | [Julia Massuda](https://github.com/JuliaReis18) |

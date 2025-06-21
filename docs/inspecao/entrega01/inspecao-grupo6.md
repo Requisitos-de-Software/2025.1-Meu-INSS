@@ -58,4 +58,4 @@ Tabela 1: Checklist para a entrega 1
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 18/05/2025 | Mudança da localização da inspeção da entrega 01 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 
-`2.0` | 21/06/2025 | Corrigindo a formatação da lista 01 + organização | [Jose Eduardo](https://github.com/jevprado) | Revisor aqui | 
+`2.0` | 21/06/2025 | Corrigindo a formatação da lista 01 + organização | [Jose Eduardo](https://github.com/jevprado) | [Julia Massuda](https://github.com/JuliaReis18) | 

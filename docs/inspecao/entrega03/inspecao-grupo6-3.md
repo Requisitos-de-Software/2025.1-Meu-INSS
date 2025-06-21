@@ -70,4 +70,4 @@ Esta página apresenta um checklist relacionado a Entrega 03 do grupo 06 (Receit
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 18/05/2025 | Criação do documento de inspeção grupo 06 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 
-`2.0` | 21/06/2025 | Corrigindo formatacao | [Jose Eduardo](https://github.com/jevprado) | Revisor aqui | 
+`2.0` | 21/06/2025 | Corrigindo formatacao | [Jose Eduardo](https://github.com/jevprado) | [Julia Massuda](https://github.com/JuliaReis18) | 
