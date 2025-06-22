@@ -181,6 +181,33 @@ A usuária ***** testou o protótipo desenvolvido, especificamente o referente a
 
 <font size="3"><p style="text-align: center">Fonte: [Júlia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
+## Prototipação do [RF06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
+
+[RF06 – Acesso offline a serviços essenciais do app](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/), otimização da usabilidade em situações de ausência de conexão.
+
+### Protótipo Navegável
+
+<p style="text-align: center"><b>Protótipo 5</b> - Protótipo do RF06 em funcionamento no Figma</p>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/2glLRE9uvpqowges9LAHYL/ReqSoft-RF06?node-id=9-132&t=7Y1ehW8v7P5vfanE-1" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
+
+---
+
+## Prototipação do [RF25](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
+
+[RF25 – Comparativo automático entre declarações de anos anteriores](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/), exibição comparativa dos dados de diferentes anos. Sugere melhorias relacionadas à disposição dos dados e clareza nas categorias apresentadas.
+
+### Protótipo Navegável
+
+<p style="text-align: center"><b>Protótipo 6</b> - Protótipo do RF25 em funcionamento no Figma</p>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/JWabV6V1rhtjCCJEQ5nruH/ReqSoft-RF25?node-id=1-152&t=MDAYR1qKdP0fmqyT-1" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
+
+
 
 
 ## Historico de versões
@@ -189,3 +216,4 @@ A usuária ***** testou o protótipo desenvolvido, especificamente o referente a
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 19/06/2025 | Criação do documento, introdução, metodologia e objetivo, prototipação e validação do RF03 E RF05                         | [José Eduardo](https://github.com/jevprado)    | [João Pedro](https://github.com/JpRodrigues2) |
 | `1.1`   | 21/06/2025 | Prototipação do RF23 E RF24                        |  [Júlia Massuda](https://github.com/JuliaReis18)  | [José Eduardo](https://github.com/jevprado)
+| `1.2`   | 22/06/2025 | Prototipação do RF06 E RF25                        |  [Thales Germano](https://github.com/thalesgvl)  | Revisor Aqui
