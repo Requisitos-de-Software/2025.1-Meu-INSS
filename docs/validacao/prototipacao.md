@@ -187,4 +187,4 @@ A usuária ***** testou o protótipo desenvolvido, especificamente o referente a
 | Versão | Data       | Descrição                                      | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 19/06/2025 | Criação do documento, introdução, metodologia e objetivo, prototipação e validação do RF03 E RF05                         | [José Eduardo](https://github.com/jevprado)    | [João Pedro](https://github.com/JpRodrigues2) |
-| `1.1`   | 21/06/2025 | Criação da introdução, metodologia e objetivo e prototipação do RF23 E RF24                        |  [Júlia Massuda](https://github.com/JuliaReis18)  | add revisor aqui
+| `1.1`   | 21/06/2025 | Criação da introdução, metodologia e objetivo e prototipação do RF23 E RF24                        |  [Júlia Massuda](https://github.com/JuliaReis18)  | [José Eduardo](https://github.com/jevprado)
