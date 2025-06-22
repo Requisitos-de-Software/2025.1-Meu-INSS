@@ -266,5 +266,4 @@ O usuário testou o protótipo desenvolvido, especificamente o referente ao [RF2
 | `1.2`   | 22/06/2025 | Prototipação do RF06 E RF25                        |  [Thales Germano](https://github.com/thalesgvl)  | Revisor Aqui
 | `1.2`   | 22/06/2025 | Validação do RF24                      |  [Júlia Massuda](https://github.com/JuliaReis18) | Revisor Aqui
 | `1.3`   | 22/06/2025 | Adicionando as referencias                      |   [José Eduardo](https://github.com/jevprado)  | [Júlia Massuda](https://github.com/JuliaReis18)
-| `1.4`   | 22/06/2025 | Prototipação do RF21 E RF27                    |  [João Pedro](https://github.com/JpRodrigues2) | Revisor Aqui
-
+| `1.4`   | 22/06/2025 | Prototipação do RF21 E RF27                    |  [João Pedro](https://github.com/JpRodrigues2) | [Júlia Massuda](https://github.com/JuliaReis18)  
