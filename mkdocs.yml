@@ -108,7 +108,12 @@ nav:
           - Cenários: verificacao/entrega3/lista-cenarios.md
           - Léxicos: verificacao/entrega3/lista-lexicos.md
           - Casos de uso: verificacao/entrega3/lista-casosdeuso.md
-          - Especificação Suplementar: verificacao/entrega3/lista-espsup.md      
+          - Especificação Suplementar: verificacao/entrega3/lista-espsup.md    
+      - Entrega 04:
+          - Planejamento de verificação - Entrega 04: verificacao/entrega4/planejamento4.md
+          - NFR Framework: verificacao/entrega4/lista-nfrframework.md
+          - Histórias de usuário: verificacao/entrega3/lista-us.md
+          - Backlog: verificacao/entrega3/lista-backlog.md
   - Validação: 
       - Prototipação: validacao/prototipacao.md
       - Comprovação Informal: validacao/comprovante-informal.md 
