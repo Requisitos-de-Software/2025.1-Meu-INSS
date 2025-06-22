@@ -89,6 +89,9 @@ A metodologia utilizada nessa etapa é a [verificação de Fagan](https://requis
 | 01 |A definição do usuário nos Léxicos?    | André Barros | [Lista de verificao - Professor André Barros]() |                       |
 | 02 | Os léxicos possuem ligações entre si (hiper links)             | André Barros | [Lista de verificao - Professor André Barros]()                                |                       |
 | 03 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                 | André Barros | [Lista de verificao - Professor André Barros]()                     |                       |
+| 04 | Há consistência na nomenclatura e estilo entre os termos do léxico.                | [José Eduardo](https://github.com/jevprado)                     |   Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.                    |
+| 05 | Existe rastreabilidade entre os termos do léxico e os requisitos.              |[José Eduardo](https://github.com/jevprado)                     |  Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.                     |
+
 
 
 
