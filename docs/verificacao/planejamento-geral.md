@@ -39,9 +39,9 @@ Verificação para concluir se os defeitos foram devidamente corrigidos e, se ne
 | Nome                                               | Tarefas                          | Status  | 
 | -------------------------------------------------- | -------------------------------- | ------- | 
 | [Andre Lopes](https://github.com/andrewslopes)     |  | ------- | 
-| [Diassis](https://github.com/Diaxiz)               |  | ------- | 
+| [Diassis](https://github.com/Diaxiz)               | Entrega 01 (Rich Picture) / Inspetor da Entrega 03 Entrega 03 (Cenários, Léxicos, Casos de uso e Especificação Suplementar) | ------- | 
 | [João Pedro](https://github.com/JpRodrigues2)      |  | ------- | 
-| [José Eduardo](https://github.com/jevprado)        | Entrega 03 (Cenários, Léxicos, Casos de uso e Especificação Suplementar) | Feito | 
+| [José Eduardo](https://github.com/jevprado)        | Entrega 03 (Cenários, Léxicos, Casos de uso e Especificação Suplementar) / Inspeção da Entrega 01 (Rich Picture) | ✅ | 
 | [Julia Massuda](https://github.com/JuliaReis18)    |  | ------- | 
 | [Marco Marques](https://github.com/marcomarquesdc) |  | ------- | 
 | [Thales Germano](https://github.com/thalesgvl)     |  | ------- | 
@@ -60,3 +60,4 @@ Verificação para concluir se os defeitos foram devidamente corrigidos e, se ne
 | Versão | Data       | Descrição                                      | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 22/06/2025 | Criação do documento, introdução, metodologia e tabela 01 | [José Eduardo](https://github.com/jevprado)    | [João Pedro](https://github.com/JpRodrigues2) |
+| `1.1`   | 22/06/2025 | Ajuste na tabela 01 | [José Eduardo](https://github.com/jevprado)    | [Diassis](https://github.com/Diaxiz)   |
