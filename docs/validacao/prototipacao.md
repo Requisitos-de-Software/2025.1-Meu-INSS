@@ -24,7 +24,7 @@ Os **objetivos** dessa etapa são:
 |Nome                                                | Atividade entregue                        | 
 | -------------------------------------------------- | ----------------------------------------- | 
 | [José Eduardo](https://github.com/jevprado)        | Introdução, Metodologia e Objetivos, Prototipação e validação do [RF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) , revisor do RF23 e RF24      | 
-| [João Pedro](https://github.com/JpRodrigues2)       | Revisor da Introdução, Metodologia e Objetivos, e dos [RF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
+| [João Pedro](https://github.com/JpRodrigues2)       | Revisor da Introdução, Metodologia e Objetivos, e dos [RF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) , Prototipação e validação do [RF21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
 | [Júlia Massuda](https://github.com/JuliaReis18)      | Prototipação e validação do [RF23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
@@ -222,7 +222,36 @@ O usuário testou o protótipo desenvolvido, especificamente o referente ao [RF2
 
 <font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
+
+## Prototipação do [RF21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
+
+[RF21 –Integração com eSocial](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/).
+
+### Protótipo Navegável
+
+<p style="text-align: center"><b>Protótipo 7</b> - Protótipo do RF21 em funcionamento no Figma</p>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/P0ijVminN2NIfXgZy3GGGb/Templates-criados-para-receita-federal--Copy---Copy-?node-id=4028-1703&p=f&scaling=scale-down&content-scaling=fixed&page-id=4028%3A1702&starting-point-node-id=4028%3A1703&embed-host=share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
+
+---
+
+## Prototipação do [RF27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
+
+[RF27 – Integração com calendário do dispositivo
+](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/).
+
+### Protótipo Navegável
+
+<p style="text-align: center"><b>Protótipo 8</b> - Protótipo do RF27 em funcionamento no Figma</p>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/P0ijVminN2NIfXgZy3GGGb/Templates-criados-para-receita-federal--Copy---Copy-?node-id=4028-2257&p=f&scaling=min-zoom&content-scaling=fixed&page-id=4028%3A2071&embed-host=share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
+
 ## Referencias 
+
 
 > <a>1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 23. UnB, 2025. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096017/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf](https://aprender3.unb.br/pluginfile.php/3096017/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf). Acesso em: 22 de junho 2025.
 >
@@ -235,5 +264,7 @@ O usuário testou o protótipo desenvolvido, especificamente o referente ao [RF2
 | `1.0`   | 19/06/2025 | Criação do documento, introdução, metodologia e objetivo, prototipação e validação do RF03 E RF05                         | [José Eduardo](https://github.com/jevprado)    | [João Pedro](https://github.com/JpRodrigues2) |
 | `1.1`   | 21/06/2025 | Prototipação do RF23 E RF24                        |  [Júlia Massuda](https://github.com/JuliaReis18)  | [José Eduardo](https://github.com/jevprado)
 | `1.2`   | 22/06/2025 | Prototipação do RF06 E RF25                        |  [Thales Germano](https://github.com/thalesgvl)  | Revisor Aqui
-| `1.2`   | 22/06/2025 | Validação do RF24                      |  [Júlia Massuda](https://github.com/JuliaReis18) |  [José Eduardo](https://github.com/jevprado) 
+| `1.2`   | 22/06/2025 | Validação do RF24                      |  [Júlia Massuda](https://github.com/JuliaReis18) | Revisor Aqui
 | `1.3`   | 22/06/2025 | Adicionando as referencias                      |   [José Eduardo](https://github.com/jevprado)  | [Júlia Massuda](https://github.com/JuliaReis18)
+| `1.4`   | 22/06/2025 | Prototipação do RF21 E RF27                    |  [João Pedro](https://github.com/JpRodrigues2) | Revisor Aqui
+
