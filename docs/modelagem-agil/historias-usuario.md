@@ -612,4 +612,4 @@ Versão |   Data     | Descrição | Autor(es) | Revisor(es)
 `1.6`  | 06/06/2025 | Adicionando Validaçao e Priorização das US13 - US18 | [Júlia Massuda](https://github.com/JuliaReis18) |[Jose Eduardo](https://github.com/jevprado) |
 `1.7`  | 06/06/2025 | Correções e Validações US-25 até US-30 | [Diassis](https://github.com/Diaxiz) |[Jose Eduardo](https://github.com/jevprado) |
 `1.8`  | 08/06/2025 | Removendo US repetidas ou sem RF relacionado | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
-`1.9`  | 08/06/2025 | Adicionando o video de validacao e priorizacao US 01 - US 06 | [Jose Eduardo](https://github.com/jevprado) | [Júlia Massuda](https://github.com/JuliaReis18) |
+`1.9`  | 22/06/2025 | Adicionando o video de validacao e priorizacao US 01 - US 06 | [Jose Eduardo](https://github.com/jevprado) | [Júlia Massuda](https://github.com/JuliaReis18) |
