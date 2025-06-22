@@ -59,4 +59,4 @@ Verificação para concluir se os defeitos foram devidamente corrigidos e, se ne
 
 | Versão | Data       | Descrição                                      | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 22/06/2025 | Criação do documento, introdução, metodologia e tabela 01 | [José Eduardo](https://github.com/jevprado)    | REVISOR AQUI |
+| `1.0`   | 22/06/2025 | Criação do documento, introdução, metodologia e tabela 01 | [José Eduardo](https://github.com/jevprado)    | [João Pedro](https://github.com/JpRodrigues2) |

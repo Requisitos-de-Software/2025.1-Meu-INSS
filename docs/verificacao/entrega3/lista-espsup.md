@@ -19,4 +19,4 @@
 
 | Versão | Data       | Descrição                                      | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 22/06/2025 | Criação do documento, introdução, metodologia e listas de verificação | [José Eduardo](https://github.com/jevprado)    | REVISOR AQUI |
+| `1.0`   | 22/06/2025 | Criação do documento, introdução, metodologia e listas de verificação | [José Eduardo](https://github.com/jevprado)    | [João Pedro](https://github.com/JpRodrigues2) |
