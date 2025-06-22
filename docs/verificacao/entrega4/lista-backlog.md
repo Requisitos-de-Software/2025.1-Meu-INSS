@@ -27,16 +27,16 @@ A metodologia utilizada nessa etapa é a [verificação de Fagan](https://requis
 
 | id | Descrição | Autor do Item | Fonte | Conforme/Não Conforme |
 |---|---|---|---|---|
-| 01 | A introdução define claramente o que é um backlog do produto e suas características dinâmicas? | [Julia Massuda](https://github.com/JuliaReis18) | RADIGAN; Lucidchart. | |
-| 02 | As vantagens da utilização do backlog do produto estão listadas e são coerentes com o conceito? |[Julia Massuda](https://github.com/JuliaReis18) | RADIGAN; Lucidchart. | |
-| 03 | A metodologia de definição do backlog do produto está detalhada, incluindo a análise de requisitos funcionais e o refinamento pela equipe? | [Julia Massuda](https://github.com/JuliaReis18) | Boas Práticas de Scrum/Agile | |
-| 04 | A organização das histórias de usuário em épicos e features está presente na Tabela 1? | [Julia Massuda](https://github.com/JuliaReis18) | Padrão de Backlog Ágil | |
-| 05 | A Tabela 1 - Épicos e Features lista todos os épicos e features correspondentes? | [Julia Massuda](https://github.com/JuliaReis18) | Padrão de Backlog Ágil | |
-| 06 | O "Backlog de Histórias de Usuário por Épico" apresenta todas as histórias de usuário agrupadas sob seus respectivos épicos e features? |[Julia Massuda](https://github.com/JuliaReis18) | Padrão de Backlog Ágil | |
-| 07 | A priorização de cada história de usuário está presente nas tabelas de Backlog por Épico? | [Julia Massuda](https://github.com/JuliaReis18) | Metodologias de Priorização | |
-| 08 | As descrições dos épicos são claras, concisas e abrangem o escopo das funcionalidades que representam? | [Julia Massuda](https://github.com/JuliaReis18) | Padrão de Épicos | |
-| 09 | As referências bibliográficas utilizadas estão citadas corretamente e no formato adequado? | [Julia Massuda](https://github.com/JuliaReis18) | Normas ABNT | |
-| 10 | O histórico de versões do documento do Backlog do Produto está atualizado e detalhado? |[Julia Massuda](https://github.com/JuliaReis18) | Controle de Versões do Projeto | |
+| 01 | A introdução define claramente o que é um backlog do produto e suas características dinâmicas? | [Julia Massuda](https://github.com/JuliaReis18) | RADIGAN; Lucidchart. |Conforme |
+| 02 | As vantagens da utilização do backlog do produto estão listadas e são coerentes com o conceito? |[Julia Massuda](https://github.com/JuliaReis18) | RADIGAN; Lucidchart. | Conforme|
+| 03 | A metodologia de definição do backlog do produto está detalhada, incluindo a análise de requisitos funcionais e o refinamento pela equipe? | [Julia Massuda](https://github.com/JuliaReis18) | Boas Práticas de Scrum/Agile |Conforme |
+| 04 | A organização das histórias de usuário em épicos e features está presente na Tabela 1? | [Julia Massuda](https://github.com/JuliaReis18) | Padrão de Backlog Ágil |Conforme |
+| 05 | A Tabela 1 - Épicos e Features lista todos os épicos e features correspondentes? | [Julia Massuda](https://github.com/JuliaReis18) | Padrão de Backlog Ágil | Conforme|
+| 06 | O "Backlog de Histórias de Usuário por Épico" apresenta todas as histórias de usuário agrupadas sob seus respectivos épicos e features? |[Julia Massuda](https://github.com/JuliaReis18) | Padrão de Backlog Ágil | Conforme|
+| 07 | A priorização de cada história de usuário está presente nas tabelas de Backlog por Épico? | [Julia Massuda](https://github.com/JuliaReis18) | Metodologias de Priorização | Não Conforme|
+| 08 | As descrições dos épicos são claras, concisas e abrangem o escopo das funcionalidades que representam? | [Julia Massuda](https://github.com/JuliaReis18) | Padrão de Épicos | Conforme|
+| 09 | As referências bibliográficas utilizadas estão citadas corretamente e no formato adequado? | [Julia Massuda](https://github.com/JuliaReis18) | Normas ABNT |Conforme|
+| 10 | O histórico de versões do documento do Backlog do Produto está atualizado e detalhado? |[Julia Massuda](https://github.com/JuliaReis18) | Controle de Versões do Projeto |Conforme |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
@@ -54,4 +54,6 @@ A metodologia utilizada nessa etapa é a [verificação de Fagan](https://requis
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
-| `1.0` | 22/06/2025 | Criação do documento, introdução, metodologia e listas de verificação | [Julia Massuda](https://github.com/JuliaReis18) | add revisor |
+| `1.0` | 22/06/2025 | Criação do documento, introdução, metodologia e listas de verificação | [Julia Massuda](https://github.com/JuliaReis18) | [João Pedro](https://github.com/JpRodrigues2) |
+| `1.1` | 22/06/2025 |Verificação do Backlog | [João Pedro](https://github.com/JpRodrigues2) | add revisor |
+
