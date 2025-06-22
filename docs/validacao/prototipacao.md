@@ -136,9 +136,55 @@ O usuário João Costa testou o protótipo desenvolvido, especificamente o refer
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
+## Prototipação do [RF23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
+
+A usuária ***** testou o protótipo desenvolvido, especificamente o referente ao [RF23	Compartilhamento de comprovantes e certidões por WhatsApp, e-mail ou Drive](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/), e pontuou as melhorias desenvolvidas, ......
+
+<p style="text-align: center"><b>Tabela 3</b> - Validação do protótipo RF23</p>
+
+| Participantes                                    | Função           | Data da realização da validação |
+| --------------------------------------------     | ---------------- | ------------------------------- | 
+| [Júlia Massuda](https://github.com/JuliaReis18)  | Entrevistador    | *****                           |
+| ************                                     | Usuário          | ****                            |
+
+<font size="3"><p style="text-align: center">Fonte: [Júlia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+
+<h3>Protótipo Navegável</h3>
+
+<p style="text-align: center"><b>Protótipo 3</b> - Prototipo do RF23 em funcionamento no figma</p>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/P0ijVminN2NIfXgZy3GGGb/Templates-criados-para-receita-federal--Copy---Copy-?node-id=4019-1043&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A40&embed-host=share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Júlia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+## Prototipação do [RF24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
+
+A usuária ***** testou o protótipo desenvolvido, especificamente o referente ao [RF24	Reenvio de notificações perdidas via e-mail ou mensagem no app](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/), e pontuou as melhorias desenvolvidas, ......
+
+<p style="text-align: center"><b>Tabela 4</b> - Validação do protótipo RF24</p>
+
+| Participantes                                    | Função           | Data da realização da validação |
+| --------------------------------------------     | ---------------- | ------------------------------- | 
+| [Júlia Massuda](https://github.com/JuliaReis18)  | Entrevistador    | *****                           |
+| ************                                     | Usuário          | ****                            |
+
+<font size="3"><p style="text-align: center">Fonte: [Júlia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+
+<h3>Protótipo Navegável</h3>
+
+<p style="text-align: center"><b>Protótipo 4</b> - Prototipo do RF24 em funcionamento no figma</p>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/P0ijVminN2NIfXgZy3GGGb/Templates-criados-para-receita-federal--Copy---Copy-?node-id=4028-1361&p=f&scaling=scale-down&content-scaling=fixed&page-id=4028%3A1360&embed-host=share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Júlia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+
 
 ## Historico de versões
 
 | Versão | Data       | Descrição                                      | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 19/06/2025 | Criação do documento, introdução, metodologia e objetivo, prototipação e validação do RF03 E RF05                         | [José Eduardo](https://github.com/jevprado)    | [João Pedro](https://github.com/JpRodrigues2) |
+| `1.1`   | 21/06/2025 | Criação da introdução, metodologia e objetivo e prototipação do RF23 E RF24                        |  [Júlia Massuda](https://github.com/JuliaReis18)  | add revisor aqui
