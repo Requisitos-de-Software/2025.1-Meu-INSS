@@ -120,4 +120,4 @@ A metodologia utilizada nessa etapa é a [verificação de Fagan](https://requis
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
-| `1.0` | 22/06/2025 | Criação do documento, introdução, metodologia e listas de verificação |  [Julia Massuda](https://github.com/JuliaReis18) | add revisor aqui  |
+| `1.0` | 22/06/2025 | Criação do documento, introdução, metodologia e listas de verificação |  [Julia Massuda](https://github.com/JuliaReis18) | [José Eduardo](https://github.com/jevprado)   |
