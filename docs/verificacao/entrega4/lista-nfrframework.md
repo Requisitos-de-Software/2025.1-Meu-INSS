@@ -61,4 +61,4 @@ A metodologia utilizada nessa etapa é a [verificação de Fagan](https://requis
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
 | `1.0` | 22/06/2025 | Criação do documento, introdução, metodologia e listas de verificação |  [Julia Massuda](https://github.com/JuliaReis18)  | [João Pedro](https://github.com/JpRodrigues2)  |
-| `1.1` | 22/06/2025 | Verificação do NFR Framework |  [João Pedro](https://github.com/JpRodrigues2)  | add revisor |
+| `1.1` | 22/06/2025 | Verificação do NFR Framework |  [João Pedro](https://github.com/JpRodrigues2)  | [Julia Massuda](https://github.com/JuliaReis18) |
