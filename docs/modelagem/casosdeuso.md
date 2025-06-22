@@ -17,8 +17,8 @@ Este documento foca em funcionalidades típicas para o cidadão usuário do app.
 |Nome                                               | Atividade entregue                        | 
 | ------------------------------------------------- | ----------------------------------------- | 
 | [Andre Lopes](https://github.com/andrewslopes)    | Criação da documentação geral do artefato                                            | 
-| [Julia Massuda](https://github.com/JuliaReis18)   | Criação do diagrama de usos e descrições do diagrama | 
-| [Jose Eduardo](https://github.com/jevprado)       | Revisor dos artefatos, casos de uso 01 (uc01) e casos de uso 02 (UC02)|
+| [Julia Massuda](https://github.com/JuliaReis18)   | Criação do diagrama de usos, descrições do diagrama e cartões de casos de uso  (UC09 e UC10 | 
+| [Jose Eduardo](https://github.com/jevprado)       | Revisor dos artefatos e cartões de casos de uso (UC 01 e UC02) |
 
 
 <font size="3"><p style="text-align: center">Fonte: Fonte: [Jose Eduardo   ](https://github.com/jevprado), 2025.</p></font>
@@ -129,6 +129,45 @@ Fonte: [Julia Massuda](https://github.com/JuliaReis18)
 
 
 
+## CASO DE USO 09 - (UC09)
+
+<p style="text-align: center"><b>Tabela 5</b> - CASO DE USO 09 - (UC09) </p>
+
+| **COLUNA**               | **DESCRIÇÃO**                                                                                         |
+|--------------------------|-------------------------------------------------------------------------------------------------------|
+| **Nome do caso de uso:** | Consultar Situação Fiscal                                                                            |
+| **Rastreabilidade:**     | [ST04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) e [ADC5](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) |
+| **Pré-condição:**         | - App instalado em dispositivo compatível  <br> - Autenticação via CPF e senha Gov.br <br> - Sistema da Receita operacional e sincronizado |
+| **Ator principal:**       | Contribuinte                                                                                        |
+| **Atores secundários:**   | Auditor da Receita                                                                                   |
+| **Objetivo:**             | Permitir ao contribuinte consultar sua situação fiscal, visualizando pendências, débitos e extratos detalhados |
+| **Fluxo principal:**      | 1. Acessa o app da Receita <br> 2. Seleciona “Consultar Situação Fiscal” <br> 3. Sistema valida conexão com internet (PI1) <br> 4. Valida autenticação (PI2) <br> 5. Consulta banco de dados <br> 6. Exibe pendências, débitos e extratos detalhados <br> 7. Permite download do relatório <br> 8. Registra consulta no histórico (PE3) |
+| **Fluxo alternativo:**    | 6a. Se há múltiplas pendências, exibe lista com filtros por tipo e ano <br> 7a. Permite compartilhar relatório via e-mail/WhatsApp (PE1) |
+| **Fluxo de exceção:**     | - E1: Sem internet → mostra erro e sugere reconectar (PI1) <br> - E2: Falha na autenticação → volta para login (PI2) <br> - E3: Nenhum dado encontrado → exibe mensagem “Situação fiscal regular” <br> - E4: Sistema instável → mostra mensagem de indisponibilidade |
+| **Pós-condição:**         | - Situação fiscal exibida <br> - Relatório salvo ou compartilhado (se solicitado) <br> - Histórico atualizado |
+
+<font size="3"><p style="text-align: center">Fonte:  [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+---
+
+## CASO DE USO 10 - (UC10)
+
+<p style="text-align: center"><b>Tabela 6</b> - CASO DE USO 10 - (UC10) </p>
+
+| **COLUNA**               | **DESCRIÇÃO**                                                                                         |
+|--------------------------|-------------------------------------------------------------------------------------------------------|
+| **Nome do caso de uso:** | Atualizar Dados Cadastrais                                                                           |
+| **Rastreabilidade:**     | [ADC7](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) |
+| **Pré-condição:**         | - App instalado em dispositivo compatível  <br> - Autenticação via CPF e senha Gov.br <br> - Sistema da Receita operacional e sincronizado |
+| **Ator principal:**       | Contribuinte                                                                                        |
+| **Atores secundários:**   | Servidor da Receita                                                                                  |
+| **Objetivo:**             | Permitir ao contribuinte atualizar dados como endereço, contatos e dados bancários com validação de segurança |
+| **Fluxo principal:**      | 1. Acessa o app da Receita <br> 2. Seleciona “Atualizar Dados Cadastrais” <br> 3. Sistema valida conexão com internet (PI1) <br> 4. Valida autenticação (PI2) <br> 5. Exibe dados atuais <br> 6. Contribuinte edita campos desejados <br> 7. Sistema valida alterações <br> 8. Contribuinte confirma atualização <br> 9. Sistema registra atualização e envia confirmação por e-mail/SMS |
+| **Fluxo alternativo:**    | 6a. Contribuinte corrige campo com erro após aviso do sistema <br> 9a. Permite salvar comprovante da atualização |
+| **Fluxo de exceção:**     | - E1: Sem internet → mostra erro e sugere reconectar (PI1) <br> - E2: Falha na autenticação → volta para login (PI2) <br> - E3: Dados inválidos → exibe erro e orienta correção <br> - E4: Sistema instável → mostra mensagem de indisponibilidade |
+| **Pós-condição:**         | - Dados atualizados e salvos <br> - Confirmação enviada ao contribuinte <br> - Histórico de alterações atualizado |
+
+<font size="3"><p style="text-align: center">Fonte:  [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
 
 
@@ -335,3 +374,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 `2.0` | 08/06/2025 | Alterações no conteúdo + adicionando novo diagrama e tabela de casos de uso | [Julia Massuda](https://github.com/JuliaReis18) e  [Andre Lopes](https://github.com/andrewslopes)  | [Jose Eduardo](https://github.com/jevprado) |
  `2.1`  | 12/06/2025 | Adição da tabela de atividade dos membros | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
  `2.2`  | 21/06/2025 | Adição dos UC01 E UC02 | [Jose Eduardo](https://github.com/jevprado) | [Julia Massuda](https://github.com/JuliaReis18)|
+ `2.3`  | 22/06/2025 | Adição dos UC09 E UC10 | [Julia Massuda](https://github.com/JuliaReis18)| [Jose Eduardo](https://github.com/jevprado)|
