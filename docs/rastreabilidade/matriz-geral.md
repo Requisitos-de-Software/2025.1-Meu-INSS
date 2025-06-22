@@ -123,4 +123,4 @@ Com isso, a matriz geral permite não apenas documentar o histórico dos requisi
 | `1.3`   | 08/06/2025 | Adicionando hyperlinks                                        | [José Eduardo](https://github.com/jevprado)    |  [Diassis](https://github.com/Diaxiz)  |
 | `1.4`   | 08/06/2025 | adicionando as referencias  | [José Eduardo](https://github.com/jevprado)   | [Diassis](https://github.com/Diaxiz)  |
 | `1.5`  | 20/06/2025 | Adicionando hyperlinks | [José Eduardo](https://github.com/jevprado) | [João Pedro](https://github.com/JpRodrigues2)  |
-| `1.6`  | 21/06/2025 | Adicionando a rastreabilidade dos UC01 E UC02 | [Jose Eduardo](https://github.com/jevprado) | Revisor aqui |
+| `1.6`  | 21/06/2025 | Adicionando a rastreabilidade dos UC01 E UC02 | [Jose Eduardo](https://github.com/jevprado) |[Julia Massuda](https://github.com/JuliaReis18)|
