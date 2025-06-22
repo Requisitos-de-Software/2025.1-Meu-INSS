@@ -161,14 +161,14 @@ A usuária ***** testou o protótipo desenvolvido, especificamente o referente a
 
 ## Prototipação do [RF24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
 
-A usuária ***** testou o protótipo desenvolvido, especificamente o referente ao [RF24	Reenvio de notificações perdidas via e-mail ou mensagem no app](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/), e pontuou as melhorias desenvolvidas, ......
+O usuário testou o protótipo desenvolvido, especificamente o referente ao [RF24	Reenvio de notificações perdidas via e-mail ou mensagem no app](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/), e validou a funcionalidade proposta e prototipada. 
 
 <p style="text-align: center"><b>Tabela 4</b> - Validação do protótipo RF24</p>
 
 | Participantes                                    | Função           | Data da realização da validação |
 | --------------------------------------------     | ---------------- | ------------------------------- | 
-| [Júlia Massuda](https://github.com/JuliaReis18)  | Entrevistador    | *****                           |
-| ************                                     | Usuário          | ****                            |
+| [Júlia Massuda](https://github.com/JuliaReis18)  | Entrevistador    | 22/06/2025                           |
+| Shigueru Sumida                                   | Usuário          | 22/06/2025                             |
 
 <font size="3"><p style="text-align: center">Fonte: [Júlia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
@@ -178,6 +178,21 @@ A usuária ***** testou o protótipo desenvolvido, especificamente o referente a
 <p style="text-align: center"><b>Protótipo 4</b> - Prototipo do RF24 em funcionamento no figma</p>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/P0ijVminN2NIfXgZy3GGGb/Templates-criados-para-receita-federal--Copy---Copy-?node-id=4028-1361&p=f&scaling=scale-down&content-scaling=fixed&page-id=4028%3A1360&embed-host=share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Júlia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+### Entrevista de validação com o cliente 
+
+<p style="text-align: center"><b>Vídeo 4</b> - Validação do RF24</p>
+
+<iframe width="700" height="400"
+        src="https://www.youtube.com/embed/US-UuMaLbFA"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+</iframe>
 
 <font size="3"><p style="text-align: center">Fonte: [Júlia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
@@ -217,3 +232,4 @@ A usuária ***** testou o protótipo desenvolvido, especificamente o referente a
 | `1.0`   | 19/06/2025 | Criação do documento, introdução, metodologia e objetivo, prototipação e validação do RF03 E RF05                         | [José Eduardo](https://github.com/jevprado)    | [João Pedro](https://github.com/JpRodrigues2) |
 | `1.1`   | 21/06/2025 | Prototipação do RF23 E RF24                        |  [Júlia Massuda](https://github.com/JuliaReis18)  | [José Eduardo](https://github.com/jevprado)
 | `1.2`   | 22/06/2025 | Prototipação do RF06 E RF25                        |  [Thales Germano](https://github.com/thalesgvl)  | Revisor Aqui
+| `1.2`   | 22/06/2025 | Validação do RF24                      |  [Júlia Massuda](https://github.com/JuliaReis18) | Revisor Aqui
