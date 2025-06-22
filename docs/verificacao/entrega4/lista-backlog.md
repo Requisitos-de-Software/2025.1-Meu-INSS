@@ -15,7 +15,7 @@ A metodologia utilizada nessa etapa é a [verificação de Fagan](https://requis
 | Nome | Tarefas | Status |
 |---|---|---|
 | [Julia Massuda](https://github.com/JuliaReis18) | Criador da lista de verificação 04 (Backlog do Produto) | Feito |
-| [João Pedro](https://github.com/JpRodrigues2) | Revisor da lista de verificação 04 (Backlog do Produto) | ------- |
+| [João Pedro](https://github.com/JpRodrigues2) | Revisor da lista de verificação 04 (Backlog do Produto) |  Feito |
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
@@ -55,5 +55,5 @@ A metodologia utilizada nessa etapa é a [verificação de Fagan](https://requis
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
 | `1.0` | 22/06/2025 | Criação do documento, introdução, metodologia e listas de verificação | [Julia Massuda](https://github.com/JuliaReis18) | [João Pedro](https://github.com/JpRodrigues2) |
-| `1.1` | 22/06/2025 |Verificação do Backlog | [João Pedro](https://github.com/JpRodrigues2) | add revisor |
+| `1.1` | 22/06/2025 |Verificação do Backlog | [João Pedro](https://github.com/JpRodrigues2) | [Julia Massuda](https://github.com/JuliaReis18) |
 
