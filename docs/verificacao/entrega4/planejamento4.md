@@ -15,7 +15,7 @@ A metodologia utilizada nessa etapa é a [verificação de Fagan](https://requis
 | Nome | Tarefas | Status |
 |---|---|---|
 |  [Julia Massuda](https://github.com/JuliaReis18) | Criador da lista de verificação 04 | Feito |
-| [João Pedro](https://github.com/JpRodrigues2) | Revisor da lista de verificação 04 | ------- |
+| [João Pedro](https://github.com/JpRodrigues2) | Revisor da lista de verificação 04 | Feito |
 
 <font size="3"><p style="text-align: center">Fonte:  [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
