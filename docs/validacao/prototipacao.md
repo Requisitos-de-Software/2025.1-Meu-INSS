@@ -222,6 +222,7 @@ O usuário testou o protótipo desenvolvido, especificamente o referente ao [RF2
 
 <font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
+
 ## Prototipação do [RF21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
 
 [RF21 –Integração com eSocial](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/).
@@ -249,6 +250,11 @@ O usuário testou o protótipo desenvolvido, especificamente o referente ao [RF2
 
 <font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
+## Referencias 
+
+
+> <a>1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 23. UnB, 2025. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096017/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf](https://aprender3.unb.br/pluginfile.php/3096017/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf). Acesso em: 22 de junho 2025.
+>
 
 
 ## Historico de versões
@@ -258,5 +264,7 @@ O usuário testou o protótipo desenvolvido, especificamente o referente ao [RF2
 | `1.0`   | 19/06/2025 | Criação do documento, introdução, metodologia e objetivo, prototipação e validação do RF03 E RF05                         | [José Eduardo](https://github.com/jevprado)    | [João Pedro](https://github.com/JpRodrigues2) |
 | `1.1`   | 21/06/2025 | Prototipação do RF23 E RF24                        |  [Júlia Massuda](https://github.com/JuliaReis18)  | [José Eduardo](https://github.com/jevprado)
 | `1.2`   | 22/06/2025 | Prototipação do RF06 E RF25                        |  [Thales Germano](https://github.com/thalesgvl)  | Revisor Aqui
-| `1.3`   | 22/06/2025 | Validação do RF24                      |  [Júlia Massuda](https://github.com/JuliaReis18) | Revisor Aqui
+| `1.2`   | 22/06/2025 | Validação do RF24                      |  [Júlia Massuda](https://github.com/JuliaReis18) | Revisor Aqui
+| `1.3`   | 22/06/2025 | Adicionando as referencias                      |   [José Eduardo](https://github.com/jevprado)  | [Júlia Massuda](https://github.com/JuliaReis18)
 | `1.4`   | 22/06/2025 | Prototipação do RF21 E RF27                    |  [João Pedro](https://github.com/JpRodrigues2) | Revisor Aqui
+
