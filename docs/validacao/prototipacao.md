@@ -23,8 +23,9 @@ Os **objetivos** dessa etapa são:
 
 |Nome                                                | Atividade entregue                        | 
 | -------------------------------------------------- | ----------------------------------------- | 
-| [José Eduardo](https://github.com/jevprado)        | Introdução, Metodologia e Objetivos, Prototipação e validação do [RF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)        | 
+| [José Eduardo](https://github.com/jevprado)        | Introdução, Metodologia e Objetivos, Prototipação e validação do [RF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) , revisor do RF23 e RF24      | 
 | [João Pedro](https://github.com/JpRodrigues2)       | Revisor da Introdução, Metodologia e Objetivos, e dos [RF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
+| [Júlia Massuda](https://github.com/JuliaReis18)      | Prototipação e validação do [RF23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -187,4 +188,4 @@ A usuária ***** testou o protótipo desenvolvido, especificamente o referente a
 | Versão | Data       | Descrição                                      | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 19/06/2025 | Criação do documento, introdução, metodologia e objetivo, prototipação e validação do RF03 E RF05                         | [José Eduardo](https://github.com/jevprado)    | [João Pedro](https://github.com/JpRodrigues2) |
-| `1.1`   | 21/06/2025 | Criação da introdução, metodologia e objetivo e prototipação do RF23 E RF24                        |  [Júlia Massuda](https://github.com/JuliaReis18)  | [José Eduardo](https://github.com/jevprado)
+| `1.1`   | 21/06/2025 | Prototipação do RF23 E RF24                        |  [Júlia Massuda](https://github.com/JuliaReis18)  | [José Eduardo](https://github.com/jevprado)
