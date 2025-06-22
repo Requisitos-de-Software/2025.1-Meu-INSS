@@ -112,8 +112,8 @@ nav:
       - Entrega 04:
           - Planejamento de verificação - Entrega 04: verificacao/entrega4/planejamento4.md
           - NFR Framework: verificacao/entrega4/lista-nfrframework.md
-          - Histórias de usuário: verificacao/entrega3/lista-us.md
-          - Backlog: verificacao/entrega3/lista-backlog.md
+          - Histórias de usuário: verificacao/entrega4/lista-us.md
+          - Backlog: verificacao/entrega4/lista-backlog.md
   - Validação: 
       - Prototipação: validacao/prototipacao.md
       - Comprovação Informal: validacao/comprovante-informal.md 
