@@ -17,8 +17,8 @@ Este documento foca em funcionalidades típicas para o cidadão usuário do app.
 |Nome                                               | Atividade entregue                        | 
 | ------------------------------------------------- | ----------------------------------------- | 
 | [Andre Lopes](https://github.com/andrewslopes)    | Criação da documentação geral do artefato                                            | 
-| [Julia Massuda](https://github.com/JuliaReis18)   | Criação do diagrama de usos e descrições do diagrama | 
-| [Jose Eduardo](https://github.com/jevprado)       | Revisor dos artefatos, casos de uso 01 (uc01) e casos de uso 02 (UC02)|
+| [Julia Massuda](https://github.com/JuliaReis18)   | Criação do diagrama de usos, descrições do diagrama e cartões de casos de uso  (UC09 e UC10 | 
+| [Jose Eduardo](https://github.com/jevprado)       | Revisor dos artefatos e cartões de casos de uso (UC 01 e UC02) |
 
 
 <font size="3"><p style="text-align: center">Fonte: Fonte: [Jose Eduardo   ](https://github.com/jevprado), 2025.</p></font>
@@ -374,4 +374,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 `2.0` | 08/06/2025 | Alterações no conteúdo + adicionando novo diagrama e tabela de casos de uso | [Julia Massuda](https://github.com/JuliaReis18) e  [Andre Lopes](https://github.com/andrewslopes)  | [Jose Eduardo](https://github.com/jevprado) |
  `2.1`  | 12/06/2025 | Adição da tabela de atividade dos membros | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
  `2.2`  | 21/06/2025 | Adição dos UC01 E UC02 | [Jose Eduardo](https://github.com/jevprado) | [Julia Massuda](https://github.com/JuliaReis18)|
- `2.3`  | 22/06/2025 | Adição dos UC09 E UC10 | [Julia Massuda](https://github.com/JuliaReis18)| add revisor |
+ `2.3`  | 22/06/2025 | Adição dos UC09 E UC10 | [Julia Massuda](https://github.com/JuliaReis18)| [Jose Eduardo](https://github.com/jevprado)|
