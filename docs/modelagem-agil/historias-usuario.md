@@ -81,8 +81,8 @@ Padrão de tabelas para as histórias de usuário
 | **CRITÉRIOS DE ACEITAÇÃO** | - O  sistema deve exibir o número do lote da restituição ao qual o contribuinte está vinculado. <br> - Deve ser possível visualizar o status atual (ex: "em processamento", "em fila de pagamento", "pago"). <br>- A informação do lote deve ser atualizada automaticamente conforme o status evoluir.<br>- A data prevista de pagamento deve ser exibida, se disponível.<br>- Se o contribuinte não for elegível à restituição, deve ser exibida a mensagem: "Você não possui valores a restituir nesta declaração."                                          |
 | **RASTREABILIDADE**        | [RF3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Não implementada                                                          |
-| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
-| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+| **PRIORIDADE**             |  MOSCOW -  SHOULD                                                 |
+| **VALIDAÇÃO**              | Validada                                 |
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -98,8 +98,8 @@ Padrão de tabelas para as histórias de usuário
 | **CRITÉRIOS DE ACEITAÇÃO** | - O usuário deve conseguir visualizar os postos de atendimento disponíveis com base na sua localização ou por estado/cidade. <br>- O sistema deve exibir os serviços disponíveis para agendamento presencial. <br>- O usuário deve poder selecionar a data e o horário entre os disponíveis para o posto escolhido. <br> - O aplicativo deve confirmar o agendamento e gerar um comprovante com número de protocolo. <br> - O usuário deve ter acesso a uma área no app para visualizar, reagendar ou cancelar seus agendamentos.                                         |
 | **RASTREABILIDADE**        | [RF5](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Não implementada                                                          |
-| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
-| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+| **PRIORIDADE**             | MOSCOW -  MUST                                               |
+| **VALIDAÇÃO**              | Validada                                |
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -115,8 +115,8 @@ Padrão de tabelas para as histórias de usuário
 | **CRITÉRIOS DE ACEITAÇÃO** | - O usuário deve conseguir selecionar o tipo de tributo ou débito para o qual deseja gerar a guia (ex.: DARF, GPS, DAS). <br> - O sistema deve permitir a inserção manual ou seleção de débitos em aberto. <br> - O aplicativo deve oferecer opção para salvar ou compartilhar a guia em formato PDF. <br> - A guia gerada deve conter código de barras e/ou QR Code para pagamento via internet banking ou PIX. <br> - O usuário deve ter acesso ao histórico de guias geradas, com status de pagamento (paga/não paga).                                          |
 | **RASTREABILIDADE**        | [RF10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Implementada                                                          |
-| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
-| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+| **PRIORIDADE**             | MOSCOW -   MUST                                                  |
+| **VALIDAÇÃO**              | Validada                                |
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -132,8 +132,8 @@ Padrão de tabelas para as histórias de usuário
 | **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve exibir claramente o status atual do CPF (ex.: Ativo, Suspenso, Cancelado, Nulo ou Pendente de Regularização). <br> - A consulta deve apresentar também os dados básicos do CPF, como nome completo, data de nascimento e situação cadastral. <br> - Caso o CPF esteja com pendências, o aplicativo deve orientar o usuário com os próximos passos para regularização.|
 | **RASTREABILIDADE**        | [RF11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Implementada                                                          |
-| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
-| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+| **PRIORIDADE**             | MOSCOW -   MUST                                              |
+| **VALIDAÇÃO**              | Validada                                 |
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -150,8 +150,8 @@ Padrão de tabelas para as histórias de usuário
 | **CRITÉRIOS DE ACEITAÇÃO** | - O sistema deve permitir a seleção do ano-base da declaração (ex.: 2022, 2023...). <br>  - O sistema deve permitir o download da declaração em PDF. <br> - O acesso deve ser protegido por autenticação de dois fatores ou biometria, garantindo a confidencialidade das informações. |
 | **RASTREABILIDADE**        | [RF14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Implementada                                                          |
-| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
-| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+| **PRIORIDADE**             | MOSCOW - MUST                                             |
+| **VALIDAÇÃO**              | Validada                             |
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -168,8 +168,8 @@ Padrão de tabelas para as histórias de usuário
 | **CRITÉRIOS DE ACEITAÇÃO** | - O usuário deve estar autenticado para solicitar a certidão negativa. <br> - O sistema deve verificar automaticamente se o contribuinte possui pendências fiscais ou débitos. <br> - Caso não existam pendências, o sistema deve gerar a Certidão Negativa de Débitos (CND) em formato PDF. <br> - Se houver pendências, o sistema deve exibir mensagem informando que a certidão não pode ser emitida, acompanhada das instruções para regularização.|
 | **RASTREABILIDADE**        | [RF17](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#tabela-01-requisitos-funcionais)                                                                      | 
 | **STATUS**                 | Implementada                                                          |
-| **PRIORIDADE**             | MOSCOW *(Cliente define)*                                                 |
-| **VALIDAÇÃO**              | Validada / Não validada *(Cliente define)*                                |
+| **PRIORIDADE**             | MOSCOW  -     MUST                                     |
+| **VALIDAÇÃO**              | Validada                                |
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -577,6 +577,20 @@ Padrão de tabelas para as histórias de usuário
 ## Video da validação 
 
 
+### Validação das US 01 - US 06 
+
+<p style="text-align: center"><b>Video 1</b> - Validacao US 01 - US 06 </p>
+
+<iframe width="600" height="315" 
+        src="https://www.youtube.com/embed/VzbIkqX-3Po" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 ## Referencias 
 
@@ -598,3 +612,4 @@ Versão |   Data     | Descrição | Autor(es) | Revisor(es)
 `1.6`  | 06/06/2025 | Adicionando Validaçao e Priorização das US13 - US18 | [Júlia Massuda](https://github.com/JuliaReis18) |[Jose Eduardo](https://github.com/jevprado) |
 `1.7`  | 06/06/2025 | Correções e Validações US-25 até US-30 | [Diassis](https://github.com/Diaxiz) |[Jose Eduardo](https://github.com/jevprado) |
 `1.8`  | 08/06/2025 | Removendo US repetidas ou sem RF relacionado | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
+`1.9`  | 22/06/2025 | Adicionando o video de validacao e priorizacao US 01 - US 06 | [Jose Eduardo](https://github.com/jevprado) | [Júlia Massuda](https://github.com/JuliaReis18) |
