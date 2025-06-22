@@ -103,8 +103,12 @@ nav:
           - Rich Picture: verificacao/entrega1/richpicture-ver.md
       - CONTINUA AQUI: mudarisso/mudar.md
 
-
-      
+      - Entrega 03:
+          - Planejamento de verificação - Entrega 03: verificacao/entrega3/planejamento3.md
+          - Cenários: verificacao/entrega3/lista-cenarios.md
+          - Léxicos: verificacao/entrega3/lista-lexicos.md
+          - Casos de uso: verificacao/entrega3/lista-casosdeuso.md
+          - Especificação Suplementar: verificacao/entrega3/lista-espsup.md      
   - Validação: 
       - Prototipação: validacao/prototipacao.md
       - Comprovante Informal: validacao/comprovante-informal.md 
