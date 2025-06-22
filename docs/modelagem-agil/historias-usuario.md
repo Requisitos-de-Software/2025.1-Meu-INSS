@@ -41,7 +41,7 @@ Essa priorização será feita em conjunto com o cliente, garantindo que os recu
 
 | Membro                                             | Código das US                      | Feito | Status da validação |
 |----------------------------------------------------|------------------------------------|-------|---------------------|
-| [José Eduardo](https://github.com/jevprado)        | US01, US02, US03, US04, US05, US06 | SIM      |                     |
+| [José Eduardo](https://github.com/jevprado)        | US01, US02, US03, US04, US05, US06 | SIM      |    Validado                 |
 | [Thales Germano](https://github.com/thalesgvl)     | US07, US08, US09, US10, US11, US12 |  SIM      |                     |
 | [Julia Massuda](https://github.com/JuliaReis18)    | US13, US14, US15, US16, US17, US18 | SIM       |                     |
 | [Andre Lopes](https://github.com/andrewslopes)     | US19, US20, US21, US22, US23, US24 |       |                     |
