@@ -19,37 +19,37 @@ Requisitos Não Funcionais, que especificam restrições e qualidades esperadas 
 
 | ID   | Descrição                                                                                 | Categoria | Status da implemntação       | Fonte |Validada | 
 | ---- | ----------------------------------------------------------------------------------------- | --------- | ---------------- | ----- | ----- | 
-| RF01  | Acesso simultâneo a múltiplos CPFs/CNPJs                                         | RF        | NÃO IMPLEMENTADO | [ADC1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)   | - |
-| RF02  | Cadastro de CPF via app (totalmente remoto)                                               | RF        | NÃO IMPLEMENTADO |[ADC2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
-| RF03  | Acompanhamento de status da restituição (precisão quanto aos lotes)                       | RF        | NÃO IMPLEMENTADO | [ADC3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)     |- |
-| RF04  | Notificação de vencimento próximo                                                         | RF        | NÃO IMPLEMENTADO |  [ADC4](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
-| RF05  | Agendar no próprio aplicativo atendimentos presenciais em unidades da Receita Federal     | RF        | NÃO IMPLEMENTADO |  [INT3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
-| RF06  | Acesso offline a serviços essenciais do app (históricos de contribuições, DARFs)          | RF        | NÃO IMPLEMENTADO | [ADC6](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
-| RF07  | Alteração de dados via app                                                                | RF        | NÃO IMPLEMENTADO |  [ADC7](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)    |- |
-| RF08  | Funcionalidade de histórico e acompanhamento de restituições de anos anteriores             | RF        | IMPLEMENTADO     |  [ADC8](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
-| RF09  | Declaração simplificada do IR                                                             | RF        | IMPLEMENTADO     |  [ADC9](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
-| RF10 | Geração de guias de pagamento                                                             | RF        | IMPLEMENTADO     |  [ADC10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)    |- |
-| RF11 | Consultar o status do CPF (ativo ou não)                                                  | RF        | IMPLEMENTADO     |  [ADC11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)    |- |
-| RF12 | Integração com conta Gov.br                                                               | RF        | IMPLEMENTADO     |  [ADC12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) e [ENT04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/entrevista/)  |- |
-| RF13 | Envio de documentos para instrução de processos                                           | RF        | IMPLEMENTADO     |  [ADC16](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |- |
-| RF14 | Acessar informações detalhadas a cerca da declaração de imposto de renda de um ano especifico         | RF        | IMPLEMENTADO     | [INT1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  e [ENT03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/entrevista/)   |- |
-| RF15 | Declaração do Imposto de Renda diretamente pelo app | RF        | IMPLEMENTADO     |[INT2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) e [ENT01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/entrevista/)   |- |
-| RF16 | O aplicativo deve mostrar um histórico de envio das declarações entregues pelo usuário.             | RF        | IMPLEMENTADO     | [INT5](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [ST09](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)     |- |
-| RF17 | Emissão de certidão negativa via aplicativo                                               | RF        | IMPLEMENTADO     | [INT6](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) e [ENT02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/entrevista/)    |- |
-| RF18 | Consultar pendências de Malha                                                             | RF        | IMPLEMENTADO     | [INT7](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
-| RF19 | Dashboard para profissionais contábeis de múltiplos CPFs/CNPJs                            | RF        | NÃO IMPLEMENTADO | [INT8](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [ST14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)     |- |
-| RF20 | Acompanhar processos no próprio aplicativo                                                | RF        | NÃO IMPLEMENTADO | [INT18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |- |
-| RF21 | Integração com o App Esocial dentro do próprio                                            | RF        | NÃO IMPLEMENTADO | [INT19](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
-| RF22 | Permitir via App autorização de acesso à terceiros                                        | RF        | IMPLEMENTADO     | [INT20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)   |- |
-| RF23 | Compartilhamento de comprovantes e certidões por WhatsApp, e-mail ou Drive                | RF        | NÃO IMPLEMENTADO | [INT21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
-| RF24 | Reenvio de notificações perdidas via e-mail ou mensagem no app                            | RF        | NÃO IMPLEMENTADO | [INT22](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |- |
-| RF25 | Comparativo automático entre declarações de anos anteriores                               | RF        | NÃO IMPLEMENTADO | [INT23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
-| RF26 | FAQ interativo com busca inteligente (filtrado por tema: CPF, IRPF, Certidões etc.)       | RF        | NÃO IMPLEMENTADO | [INT24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
-| RF27 | Integração com calendário do dispositivo para lembretes de obrigações fiscais             | RF        | NÃO IMPLEMENTADO | [INT25](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |- |
-| RF28 | Consulta de inscrição no CNPJ                                       | RF        | IMPLEMENTADO |[INT26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |   - |
-| RF29 | Consulta de tabelas CNAE, NCM e unidades da Receita Federal         | RF        | IMPLEMENTADO |[INT27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |    - |  
-| RF30 | Acesso à Caixa Postal para mensagens oficiais da Receita Federal    | RF        | IMPLEMENTADO | [INT28](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |   - |
-| RF31 | Visualização de notícias e vídeos institucionais da Receita Federal | RF        | IMPLEMENTADO | [INT29](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |  - |
+| RF01  | Acesso simultâneo a múltiplos CPFs/CNPJs                                         | RF        | NÃO IMPLEMENTADO | [ADC1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)   | Validado |
+| RF02  | Cadastro de CPF via app (totalmente remoto)                                               | RF        | NÃO IMPLEMENTADO |[ADC2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |Validado |
+| RF03  | Acompanhamento de status da restituição (precisão quanto aos lotes)                       | RF        | NÃO IMPLEMENTADO | [ADC3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)     |Validado |
+| RF04  | Notificação de vencimento próximo                                                         | RF        | NÃO IMPLEMENTADO |  [ADC4](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |Validado|
+| RF05  | Agendar no próprio aplicativo atendimentos presenciais em unidades da Receita Federal     | RF        | NÃO IMPLEMENTADO |  [INT3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |Validado|
+| RF06  | Acesso offline a serviços essenciais do app (históricos de contribuições, DARFs)          | RF        | NÃO IMPLEMENTADO | [ADC6](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |Validado|
+| RF07  | Alteração de dados via app                                                                | RF        | NÃO IMPLEMENTADO |  [ADC7](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)    |Validado|
+| RF08  | Funcionalidade de histórico e acompanhamento de restituições de anos anteriores             | RF        | IMPLEMENTADO     |  [ADC8](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |Validado|
+| RF09  | Declaração simplificada do IR                                                             | RF        | IMPLEMENTADO     |  [ADC9](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |Validado|
+| RF10 | Geração de guias de pagamento                                                             | RF        | IMPLEMENTADO     |  [ADC10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)    |Validado|
+| RF11 | Consultar o status do CPF (ativo ou não)                                                  | RF        | IMPLEMENTADO     |  [ADC11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)    |Validado|
+| RF12 | Integração com conta Gov.br                                                               | RF        | IMPLEMENTADO     |  [ADC12](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) e [ENT04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/entrevista/)  |Validado|
+| RF13 | Envio de documentos para instrução de processos                                           | RF        | IMPLEMENTADO     |  [ADC16](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/)     |Validado|
+| RF14 | Acessar informações detalhadas a cerca da declaração de imposto de renda de um ano especifico         | RF        | IMPLEMENTADO     | [INT1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)  e [ENT03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/entrevista/)   |Validado|
+| RF15 | Declaração do Imposto de Renda diretamente pelo app | RF        | IMPLEMENTADO     |[INT2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) e [ENT01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/entrevista/)   |Validado|
+| RF16 | O aplicativo deve mostrar um histórico de envio das declarações entregues pelo usuário.             | RF        | IMPLEMENTADO     | [INT5](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [ST09](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)     |Validado|
+| RF17 | Emissão de certidão negativa via aplicativo                                               | RF        | IMPLEMENTADO     | [INT6](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/) e [ENT02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/entrevista/)    |Validado|
+| RF18 | Consultar pendências de Malha                                                             | RF        | IMPLEMENTADO     | [INT7](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |Validado|
+| RF19 | Dashboard para profissionais contábeis de múltiplos CPFs/CNPJs                            | RF        | NÃO IMPLEMENTADO | [INT8](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [ST14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)     |Validado|
+| RF20 | Acompanhar processos no próprio aplicativo                                                | RF        | NÃO IMPLEMENTADO | [INT18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |Validado|
+| RF21 | Integração com o App Esocial dentro do próprio                                            | RF        | NÃO IMPLEMENTADO | [INT19](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |Validado|
+| RF22 | Permitir via App autorização de acesso à terceiros                                        | RF        | IMPLEMENTADO     | [INT20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)   |Validado|
+| RF23 | Compartilhamento de comprovantes e certidões por WhatsApp, e-mail ou Drive                | RF        | NÃO IMPLEMENTADO | [INT21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |Validado|
+| RF24 | Reenvio de notificações perdidas via e-mail ou mensagem no app                            | RF        | NÃO IMPLEMENTADO | [INT22](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |Validado|
+| RF25 | Comparativo automático entre declarações de anos anteriores                               | RF        | NÃO IMPLEMENTADO | [INT23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |Validado|
+| RF26 | FAQ interativo com busca inteligente (filtrado por tema: CPF, IRPF, Certidões etc.)       | RF        | NÃO IMPLEMENTADO | [INT24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |Validado|
+| RF27 | Integração com calendário do dispositivo para lembretes de obrigações fiscais             | RF        | NÃO IMPLEMENTADO | [INT25](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |Validado|
+| RF28 | Consulta de inscrição no CNPJ                                       | RF        | IMPLEMENTADO |[INT26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)     |   Validado|
+| RF29 | Consulta de tabelas CNAE, NCM e unidades da Receita Federal         | RF        | IMPLEMENTADO |[INT27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |    Validado|  
+| RF30 | Acesso à Caixa Postal para mensagens oficiais da Receita Federal    | RF        | IMPLEMENTADO | [INT28](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |   Validado|
+| RF31 | Visualização de notícias e vídeos institucionais da Receita Federal | RF        | IMPLEMENTADO | [INT29](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/)    |  Validado|
 | RF32 | Consultar débitos pendentes (DARFs) | RF        | IMPLEMENTADO | [ST04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)    |  - |
 | RF33 | Pagamento do DARF com cartão de crédito | RF        | IMPLEMENTADO | [ST05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)    |  - |
 | RF34 | Emitir comprovante de CPF em PDF | RF        | IMPLEMENTADO | [ST07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/)    |  - |
@@ -88,6 +88,26 @@ Requisitos Não Funcionais, que especificam restrições e qualidades esperadas 
 
 <font size="3"><p style="text-align: center">Fonte: [José Eduardo](https://github.com/jevprado), [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
+## Vídeo de validação (RF)
+
+<p style="text-align: center"><b>Tabela 03</b> - Validação dos requisitos funcionais</p>
+
+| Participantes                                | Função           | Data da realização da validação |
+| -------------------------------------------- | ---------------- | ------------------------------- | 
+| [Thales Germano](https://github.com/thalesgvl) | Entrevistador    | 31/05/2025                      |
+| Vitor Carvalho                     | Usuário          | 31/05/2025                      |
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+<iframe width="600" height="315" 
+        src="https://www.youtube.com/embed/oXPcv_OJ3UI" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+
 
 ## Referências
 
@@ -112,4 +132,4 @@ Requisitos Não Funcionais, que especificam restrições e qualidades esperadas 
 | `2.4`   | 30/05/2025 | Adicionando Hyperlink nos requisitos elicitados | [José Eduardo](https://github.com/jevprado)    | [Thales Germano](https://github.com/thalesgvl) |
 | `2.5`   | 04/06/2025 | Adicionando Hyperlink nos requisitos elicitados no Storytelling | [José Eduardo](https://github.com/jevprado)    | [Diassis](https://github.com/Diaxiz) |
 | `2.6`   | 20/06/2025 | Adicionando requisitos da entrevista | [José Eduardo](https://github.com/jevprado)    | [João Pedro](https://github.com/JpRodrigues2)  |
-
+| `2.7`   | 22/06/2025 | Adicionando a validação dos requisitos | [José Eduardo](https://github.com/jevprado)    | [Julia Massuda](https://github.com/JuliaReis18)    |

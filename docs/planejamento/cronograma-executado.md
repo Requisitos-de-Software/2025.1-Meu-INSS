@@ -66,6 +66,41 @@ Esse documento mostra a execução do nosso cronograma na disciplina de Requisit
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
+## Entrega 04 - Modelagem ágil 
+
+<p style="text-align: center"><b>Tabela 2</b> - Entrega 03 - Modelagem</p>
+
+| Atividade | Início | Fim | Entrega |Autores | Revisores |
+|-----------|--------|-----|-----|---------|-----------|
+|           | 22/05  | 31/05     | 01/06    |         |            |
+|           | 22/05  | 31/05     | 01/06    |             |
+|           | 22/05  | 31/05     | 01/06    |             |
+|           |        |     |     |         |            |
+
+
+
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+
+
+## Entrega 06 - Verificação e Validação 
+
+<p style="text-align: center"><b>Tabela 2</b> - Entrega 03 - Modelagem</p>
+
+| Atividade | Início | Fim | Entrega |Autores | Revisores |
+|-----------|--------|-----|-----|---------|-----------|
+| Validação (prototipação) | 17/06  | 22/06     | 22/06   |  [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18), [Diassis](https://github.com/Diaxiz)  e [João Pedro](https://github.com/JpRodrigues2), [Thales Germano](https://github.com/thalesgvl)       |   [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18)         |
+| Verificação (lista de verificacoes) | 17/06  | 22/06     | 22/06   | [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18), [Diassis](https://github.com/Diaxiz)        | [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18) , [Diassis](https://github.com/Diaxiz)    e [João Pedro](https://github.com/JpRodrigues2)     |
+| Validação dos prototipos        | 17/06  | 22/06     | 22/06  |  [José Eduardo](https://github.com/jevprado) e  [Julia Massuda](https://github.com/JuliaReis18)      |  [João Pedro](https://github.com/JpRodrigues2)          |
+|  Verificação (inspeção)        |     17/06  | 22/06     | 22/06  | [José Eduardo](https://github.com/jevprado), [João Pedro](https://github.com/JpRodrigues2)        |    [Julia Massuda](https://github.com/JuliaReis18), [Diassis](https://github.com/Diaxiz)         |
+| Correções de entregas anteriores           | 17/06  | 22/06     | 22/06  | [José Eduardo](https://github.com/jevprado),  [Julia Massuda](https://github.com/JuliaReis18)       |     [Julia Massuda](https://github.com/JuliaReis18), [José Eduardo](https://github.com/jevprado), [João Pedro](https://github.com/JpRodrigues2)       |
+| [Gravação da apresentação](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/apresentacoes/apresentacao6/) | 22/06 | 22/06 |22/06 | [Andre Lopes](https://github.com/andrewslopes), [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18), [Marco Marques](https://github.com/marcomarquesdc) e [Thales Germano](https://github.com/thalesgvl) | [Andre Lopes](https://github.com/andrewslopes), [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18), [Marco Marques](https://github.com/marcomarquesdc) e [Thales Germano](https://github.com/thalesgvl) |
+
+
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
 ## Referencias 
 
 > <a>1.</a> SALES, André Barros de. - Plano de ensino - Requisitos de Software (2025.1). Disponivel em: [https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/55/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v1.pdf](https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/55/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v1.pdf)
@@ -77,3 +112,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 11/05/2025 | Criação do documento de cronograma executado | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
 `1.1` | 11/05/2025 | Editando datas da entrega 03 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
+`1.2` | 22/06/2025 | Editando datas da entrega 06 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
