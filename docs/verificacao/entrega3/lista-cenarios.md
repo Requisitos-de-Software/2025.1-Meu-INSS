@@ -16,6 +16,13 @@ A metodologia adotada para a inspeção consistiu na elaboração de uma lista d
 
 ## Participantes 
 
+<p style="text-align: center"><b>Tabela 1</b> - Participantes.</p>
+
+| Nome                                               | Tarefas                            | Status  | 
+| -------------------------------------------------- | ---------------------------------- | ------- | 
+| [Jose Eduardo](https://github.com/jevprado)         | Criador da lista de verificação 01 | Feito   | 
+| [Diaxiz](https://github.com/Diaxiz)               | Revisor da lista de verificação 01 | Feito | 
+
 
 ## Inspeção 
 
@@ -23,25 +30,37 @@ A metodologia adotada para a inspeção consistiu na elaboração de uma lista d
 
 | id    | descrição                                                                                            | Autor do item      | Fonte                                                                                            | Conforme/Não conforme |
 | ----- | ---------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ | --------------------- |
-| 01 |  Os cenários possuem os elementos básicos de um cenário (Título, Metas/Objetivo,Contexto, Atores, Recursos, Exceção e Episódios)            | André Barros  | [Lista de verificao - Professor André Barros]()                          |                       |
-| 02 | O título do cenário é claro, conciso e reflete corretamente o objetivo do fluxo descrito.             | [José Eduardo](https://github.com/jevprado)   | Pressman, Roger S.; Maxim, Bruce R. Engenharia de Software: Uma Abordagem Profissional. 8ª ed. Porto Alegre: AMGH, 2016.                            |                       |
-| 03 | Os cenário descrevem de forma textual o fluxo principal de eventos, com início, meio e fim definidos.  | [José Eduardo](https://github.com/jevprado)   | Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.                               |                       |
-|  04 | O papel do ator está explícito e coerente com os objetivos do sistema.                               | [José Eduardo](https://github.com/jevprado)   | PAULA FILHO, W. Engenharia de Requisitos, LTC, 2017.               |                      |
-|  05 | O objetivo do cenário está claramente definido e alinhado com os requisitos do sistema.                     | [José Eduardo](https://github.com/jevprado)   | PAULA FILHO, W. *Engenharia de Requisitos*, LTC 2017.                                           |                      |
-|  06 | Os cenários possuem episódios            | [José Eduardo](https://github.com/jevprado)  | PAULA FILHO, W. Engenharia de Requisitos, LTC, 2017. |                    |
-|  07| Os cenários apresentam pelo menos uma variação ou exceção significativa ao fluxo principal.             | [José Eduardo](https://github.com/jevprado)  | ALMEIDA, E. S. et al. *Engenharia de Requisitos: Software Orientado ao Negócio*, Elsevier, 2011. |                    |
+| 01 |  Os cenários possuem os elementos básicos de um cenário (Título, Metas/Objetivo,Contexto, Atores, Recursos, Exceção e Episódios)            | André Barros  | [Lista de verificao - Professor André Barros]()                          |         Conforme            |
+| 02 | O título do cenário é claro, conciso e reflete corretamente o objetivo do fluxo descrito.             | [José Eduardo](https://github.com/jevprado)   | Pressman, Roger S.; Maxim, Bruce R. Engenharia de Software: Uma Abordagem Profissional. 8ª ed. Porto Alegre: AMGH, 2016.                            |        Conforme             |
+| 03 | Os cenário descrevem de forma textual o fluxo principal de eventos, com início, meio e fim definidos.  | [José Eduardo](https://github.com/jevprado)   | Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.                               |      Conforme               |
+|  04 | O papel do ator está explícito e coerente com os objetivos do sistema.                               | [José Eduardo](https://github.com/jevprado)   | PAULA FILHO, W. Engenharia de Requisitos, LTC, 2017.               |       Conforme               |
+|  05 | O objetivo do cenário está claramente definido e alinhado com os requisitos do sistema.                     | [José Eduardo](https://github.com/jevprado)   | PAULA FILHO, W. *Engenharia de Requisitos*, LTC 2017.                                           |     Conforme              |
+|  06 | Os cenários possuem episódios            | [José Eduardo](https://github.com/jevprado)  | PAULA FILHO, W. Engenharia de Requisitos, LTC, 2017. |            Conforme       |
+|  07| Os cenários apresentam pelo menos uma variação ou exceção significativa ao fluxo principal.             | [José Eduardo](https://github.com/jevprado)  | ALMEIDA, E. S. et al. *Engenharia de Requisitos: Software Orientado ao Negócio*, Elsevier, 2011. |       Conforme            |
 
 
 
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
+## Vídeo da inspecao 
+
+<iframe width="600" height="315" 
+        src="https://youtu.be/B5KckaURVGU" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+
+
 ## Referencias 
 
 > <a>1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 23. UnB, 2025. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096017/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf](https://aprender3.unb.br/pluginfile.php/3096017/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf). Acesso em: 22 de junho 2025.
 >
 
-><a>2.</a>OMMERVILLE, Ian. Engenharia de Software. 10. ed. São Paulo: Pearson Education do Brasil, 2019. Acesso em: 22 de junho 2025.
+><a>2.</a> SOMMERVILLE, Ian. Engenharia de Software. 10. ed. São Paulo: Pearson Education do Brasil, 2019. Acesso em: 22 de junho 2025.
 >
 
 ## Historico de versões
@@ -50,3 +69,4 @@ A metodologia adotada para a inspeção consistiu na elaboração de uma lista d
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 22/06/2025 | Criação do documento, introdução, metodologia e listas de verificação | [José Eduardo](https://github.com/jevprado)    |  [João Pedro](https://github.com/JpRodrigues2) |
 | `1.1`   | 22/06/2025 | Atualização do documento, com introdução, metodologia e lista para inspeção | [Diassis](https://github.com/Diaxiz)    | REVISOR AQUI |
+| `1.2`   | 22/06/2025 | Avaliando a lista de verificação do artefato | [Diassis](https://github.com/Diaxiz)    | REVISOR AQUI |

@@ -13,6 +13,13 @@ Essa técnica ajuda a reduzir ambiguidades, garantir o entendimento comum entre 
 A metodologia adotada para a inspeção consistiu na elaboração de uma lista de verificação estruturada, contendo critérios previamente definidos. Em seguida, procedeu-se à análise sistemática de cada item da lista, sendo cada verificação acompanhada por registros em áudio, com o objetivo de documentar e justificar as observações realizadas durante o processo.
 ## Participantes 
 
+<p style="text-align: center"><b>Tabela 1</b> - Participantes.</p>
+
+| Nome                                               | Tarefas                            | Status  | 
+| -------------------------------------------------- | ---------------------------------- | ------- | 
+| [Jose Eduardo](https://github.com/jevprado)         | Criador da lista de verificação 01 | Feito   | 
+| [Diaxiz](https://github.com/Diaxiz)               | Revisor da lista de verificação 01 | Feito | 
+
 
 ## Inspeção 
 
@@ -20,17 +27,28 @@ A metodologia adotada para a inspeção consistiu na elaboração de uma lista d
 
 | id    | descrição                                                                                    | Autor do item      | Fonte                                                                                  | Conforme/Não conforme |
 | ----- | -------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------- | --------------------- |
-| 01 |A definição do usuário nos Léxicos?    | André Barros | [Lista de verificao - Professor André Barros]() |                       |
-| 02 | Os léxicos possuem ligações entre si (hiper links)             | André Barros | [Lista de verificao - Professor André Barros]()                                |                       |
-| 03 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                 | André Barros | [Lista de verificao - Professor André Barros]()                     |                       |
-| 04 | Há consistência na nomenclatura e estilo entre os termos do léxico.                | [José Eduardo](https://github.com/jevprado)                     |   Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.                    |
-| 05 | Existe rastreabilidade entre os termos do léxico e os requisitos.              |[José Eduardo](https://github.com/jevprado)                     |  Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.                     |
-
-
-
+| 01 |A definição do usuário nos Léxicos?    | André Barros | [Lista de verificao - Professor André Barros]() |        Não conforme           |
+| 02 | Os léxicos possuem ligações entre si (hiper links)             | André Barros | [Lista de verificao - Professor André Barros]()                                |      Conforme                 |
+| 03 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                 | André Barros | [Lista de verificao - Professor André Barros]()                     |          Conforme             |
+| 04 | Há consistência na nomenclatura e estilo entre os termos do léxico.                | [José Eduardo](https://github.com/jevprado)                     |   Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.                    | Conforme
+| 05 | Existe rastreabilidade entre os termos do léxico e os requisitos.              |[José Eduardo](https://github.com/jevprado)                     |  Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.                     | Incompleto
 
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+
+## Vídeo da inspecao 
+
+<iframe width="600" height="315" 
+        src="https://youtu.be/Bud7RyqgJHY" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+
+
 
 ## Referencias 
 
@@ -47,3 +65,4 @@ A metodologia adotada para a inspeção consistiu na elaboração de uma lista d
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 22/06/2025 | Criação do documento, introdução, metodologia e listas de verificação | [José Eduardo](https://github.com/jevprado)    |  [João Pedro](https://github.com/JpRodrigues2) |
 | `1.1`   | 22/06/2025 | Atualização do documento, com introdução, metodologia e lista para inspeção | [Diassis](https://github.com/Diaxiz)    | REVISOR AQUI |
+| `1.2`   | 22/06/2025 | Avaliando a lista de verificação do artefato | [Diassis](https://github.com/Diaxiz)    | REVISOR AQUI |
