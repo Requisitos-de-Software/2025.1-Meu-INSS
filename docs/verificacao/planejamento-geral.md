@@ -39,7 +39,7 @@ Verificação para concluir se os defeitos foram devidamente corrigidos e, se ne
 | Nome                                               | Tarefas                          | Status  | 
 | -------------------------------------------------- | -------------------------------- | ------- | 
 | [Andre Lopes](https://github.com/andrewslopes)     | Entrega 02 (Elicitação e Priorização) | ❌| 
-| [Diassis](https://github.com/Diaxiz)               | Entrega 01 (Rich Picture) / Inspetor da Entrega 03 Entrega 03 (Cenários, Léxicos, Casos de uso e Especificação Suplementar) | ------- | 
+| [Diassis](https://github.com/Diaxiz)               | Entrega 01 (Rich Picture) / Inspetor da Entrega 03 Entrega 03 (Cenários, Léxicos, Casos de uso e Especificação Suplementar) | ✅ | 
 | [João Pedro](https://github.com/JpRodrigues2)      | Inspeção da Entrega 04 (NFR, Histórias de usuário e Backlog)  | ✅| 
 | [José Eduardo](https://github.com/jevprado)        | Entrega 03 (Cenários, Léxicos, Casos de uso e Especificação Suplementar) / Inspeção da Entrega 01 (Rich Picture) | ✅ | 
 | [Julia Massuda](https://github.com/JuliaReis18)    | Entrega 04 (NFR, Histórias de usuário e Backlog)  | ✅| 
