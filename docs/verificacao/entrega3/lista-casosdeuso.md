@@ -45,7 +45,7 @@ A metodologia adotada para a inspeção consistiu na elaboração de uma lista d
 ## Vídeo da inspecao 
 
 <iframe width="600" height="315" 
-        src="https://youtu.be/WD8WAtfV0u4" 
+        src="https://www.youtube.com/embed/WD8WAtfV0u4" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
