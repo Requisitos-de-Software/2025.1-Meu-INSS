@@ -250,6 +250,55 @@ O usuário testou o protótipo desenvolvido, especificamente o referente ao [RF2
 
 <font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
+## Prototipação do [RF04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
+
+O protótipo do requisito RF04 foi desenvolvido para permitir notificações de vencimento próximas de obrigações fiscais. O usuário pode visualizar um aviso na tela inicial, além de acessar um painel de notificações detalhado.
+
+<p style="text-align: center"><b>Imagem 1</b> - Protótipo RF04</p>
+
+![Protótipo RF04](../assets/prototipacao/prototipo-marco/prototipo-RF04.jpeg)
+
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
+
+<h3>Protótipo Navegável</h3>
+
+<p style="text-align: center"><b>Protótipo 9</b> - Protótipo do RF04 em funcionamento no Figma</p>
+
+<iframe
+  style="border: 1px solid rgba(0, 0, 0, 0.1);"
+  width="85%"
+  height="600"
+  src="https://www.figma.com/embed?embed_host=share&url=AQUI_VAI_O_LINK_DO_FIGMA"
+  allowfullscreen>
+</iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
+
+## Prototipação do [RF26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
+
+O protótipo do requisito RF26 foi projetado para possibilitar a visualização do histórico de notificações recebidas, permitindo ao usuário buscar e revisar alertas anteriores de forma eficiente.
+
+<p style="text-align: center"><b>Imagem 2</b> - Protótipo RF26</p>
+
+![Protótipo RF26](../assets/prototipacao/prototipo-marco/prototipo-RF26.jpeg)
+
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
+
+<h3>Protótipo Navegável</h3>
+
+<p style="text-align: center"><b>Protótipo 10</b> - Protótipo do RF26 em funcionamento no Figma</p>
+
+<iframe
+  style="border: 1px solid rgba(0, 0, 0, 0.1);"
+  width="85%"
+  height="600"
+  src="https://www.figma.com/embed?embed_host=share&url=AQUI_VAI_O_LINK_DO_FIGMA"
+  allowfullscreen>
+</iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
+
+
 ## Referencias 
 
 
