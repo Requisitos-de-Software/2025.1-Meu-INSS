@@ -223,7 +223,7 @@ O usuário testou o protótipo desenvolvido, especificamente o referente ao [RF2
 
 <p style="text-align: center"><b>Protótipo 7</b> - Protótipo do RF21 em funcionamento no Figma</p>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/P0ijVminN2NIfXgZy3GGGb/Templates-criados-para-receita-federal--Copy---Copy-?node-id=4028-1703&p=f&scaling=scale-down&content-scaling=fixed&page-id=4028%3A1702&starting-point-node-id=4028%3A1703&embed-host=share" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/P0ijVminN2NIfXgZy3GGGb/Templates-criados-para-receita-federal--Copy---Copy-?node-id=4028-2257&p=f&scaling=min-zoom&content-scaling=fixed&page-id=4028%3A2071&embed-host=share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
@@ -238,7 +238,7 @@ O usuário testou o protótipo desenvolvido, especificamente o referente ao [RF2
 
 <p style="text-align: center"><b>Protótipo 8</b> - Protótipo do RF27 em funcionamento no Figma</p>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/P0ijVminN2NIfXgZy3GGGb/Templates-criados-para-receita-federal--Copy---Copy-?node-id=4028-2257&p=f&scaling=min-zoom&content-scaling=fixed&page-id=4028%3A2071&embed-host=share" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/P0ijVminN2NIfXgZy3GGGb/Templates-criados-para-receita-federal--Copy---Copy-?node-id=4028-1703&p=f&scaling=scale-down&content-scaling=fixed&page-id=4028%3A1702&starting-point-node-id=4028%3A1703&embed-host=share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
