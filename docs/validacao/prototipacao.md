@@ -26,9 +26,14 @@ Os **objetivos** dessa etapa são:
 | [José Eduardo](https://github.com/jevprado)        | Introdução, Metodologia e Objetivos, Prototipação e validação do [RF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/), revisor do RF23 e RF24      | 
 | [João Pedro](https://github.com/JpRodrigues2)       | Revisor da Introdução, Metodologia e Objetivos, e dos [RF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/), Prototipação e validação do [RF21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
 | [Júlia Massuda](https://github.com/JuliaReis18)      | Prototipação e validação do [RF23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
+<<<<<<< HEAD
 | [Marco Marques](https://github.com/marcomarquesdc)   | Prototipação dos requisitos [RF04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) |
 | [André Lopes](https://github.com/andrewslopes)      | Prototipação dos requisitos [RF07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) |
 
+=======
+| [Marco](https://github.com/marcomarquesdc)      | Prototipação e validação do [RF04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
+| [Andre](https://github.com/Andrewslopes)      | Prototipação e validação do [RF07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) | 
+>>>>>>> 2951acb0287b6d99d82f2e1e7d8ca62afabf9890
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -325,30 +330,6 @@ O protótipo referente ao requisito RF07 foi desenvolvido com foco na funcionali
 
 <font size="3"><p style="text-align: center">Fonte: [André Lopes](https://github.com/andrewslopes), 2025.</p></font>
 
-## Prototipação do [RF20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
-
-O protótipo desenvolvido para o requisito RF20 busca garantir a compatibilidade com versões mínimas de sistemas operacionais Android 8+ e iOS 14+, apresentando elementos de design responsivo e adaptável para diferentes tamanhos de tela.
-
-<p style="text-align: center"><b>Imagem 2</b> - Protótipo RF20</p>
-
-![Protótipo RF20](../assets/prototipacao/prototipo-andre/prototipo-RF20.jpeg)
-
-<font size="3"><p style="text-align: center">Fonte: [André Lopes](https://github.com/andrewslopes), 2025.</p></font>
-
-<h3>Protótipo Navegável</h3>
-
-<p style="text-align: center"><b>Protótipo 12</b> - Protótipo do RF20 em funcionamento no Figma</p>
-
-<iframe
-  style="border: 1px solid rgba(0, 0, 0, 0.1);"
-  width="85%"
-  height="600"
-  src="https://www.figma.com/embed?embed_host=share&url=AQUI_VAI_O_LINK_DO_FIGMA"
-  allowfullscreen>
-</iframe>
-
-<font size="3"><p style="text-align: center">Fonte: [André Lopes](https://github.com/andrewslopes), 2025.</p></font>
-
 
 ## Referencias 
 
@@ -362,6 +343,7 @@ O protótipo desenvolvido para o requisito RF20 busca garantir a compatibilidade
 | Versão | Data       | Descrição                                      | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 19/06/2025 | Criação do documento, introdução, metodologia e objetivo, prototipação e validação do RF03 E RF05                         | [José Eduardo](https://github.com/jevprado)    | [João Pedro](https://github.com/JpRodrigues2) |
+<<<<<<< HEAD
 | `1.1`   | 21/06/2025 | Prototipação do RF23 E RF24                        | [Júlia Massuda](https://github.com/JuliaReis18)  | [José Eduardo](https://github.com/jevprado) |
 | `1.2`   | 22/06/2025 | Prototipação do RF06 E RF25                        | [Thales Germano](https://github.com/thalesgvl)  | Revisor Aqui |
 | `1.2`   | 22/06/2025 | Validação do RF24                                 | [Júlia Massuda](https://github.com/JuliaReis18) | Revisor Aqui |
@@ -369,3 +351,12 @@ O protótipo desenvolvido para o requisito RF20 busca garantir a compatibilidade
 | `1.4`   | 22/06/2025 | Prototipação do RF21 E RF27                       | [João Pedro](https://github.com/JpRodrigues2)   | [Júlia Massuda](https://github.com/JuliaReis18) |
 | `1.5`   | 22/06/2025 | Prototipação do RF04 E RF26                       | [Marco Marques](https://github.com/marcomarquesdc) | Revisor Aqui |
 | `1.6`   | 22/06/2025 | Prototipação do RF07 E RF20                       | [André Lopes](https://github.com/andrewslopes) | Revisor Aqui |
+=======
+| `1.1`   | 21/06/2025 | Prototipação do RF23 E RF24                        |  [Júlia Massuda](https://github.com/JuliaReis18)  | [José Eduardo](https://github.com/jevprado)
+| `1.2`   | 22/06/2025 | Prototipação do RF06 E RF25                        |  [Thales Germano](https://github.com/thalesgvl)  | [Diassis](https://github.com/Diaxiz)
+| `1.2`   | 22/06/2025 | Validação do RF24                      |  [Júlia Massuda](https://github.com/JuliaReis18) | [Diassis](https://github.com/Diaxiz)
+| `1.3`   | 22/06/2025 | Adicionando as referencias                      |   [José Eduardo](https://github.com/jevprado)  | [Júlia Massuda](https://github.com/JuliaReis18)
+| `1.4`   | 22/06/2025 | Prototipação do RF21 E RF27                    |  [João Pedro](https://github.com/JpRodrigues2) | [Júlia Massuda](https://github.com/JuliaReis18)  
+| `1.5`   | 22/06/2025 | Prototipação do RF04 e RF26                 |  [Marco](https://github.com/marcomarquesdc) | [Diassis](https://github.com/Diaxiz)
+| `1.6`   | 22/06/2025 | Prototipação do RF07               |  [Andre](https://github.com/Andrewslopes) | [Diassis](https://github.com/Diaxiz)
+>>>>>>> 2951acb0287b6d99d82f2e1e7d8ca62afabf9890
