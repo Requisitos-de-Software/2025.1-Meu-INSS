@@ -75,4 +75,4 @@ A metodologia adotada para a inspeção consistiu na elaboração de uma lista d
 
 | Versão | Data       | Descrição                                      | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| 1.0   | 22/06/2025 | Criação do documento e da lista de verificao 1 | [Jose Eduardo](https://github.com/Diaxiz)     | Revisor aqui |
+| 1.0   | 22/06/2025 | Criação do documento e da lista de verificao 1 | [Jose Eduardo](https://github.com/Diaxiz)     | João Pedro |
