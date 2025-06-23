@@ -78,4 +78,4 @@ A metodologia utilizada nessa etapa é a [verificação de Fagan](https://requis
 
 | Versão | Data       | Descrição                                      | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| 1.0   | 22/06/2025 | Criação do documento e da lista de verificao 1 | [Diassis](https://github.com/Diaxiz)     | Revisor aqui |
+| 1.0   | 22/06/2025 | Criação do documento e da lista de verificao 1 | [Diassis](https://github.com/Diaxiz)     | Joao Pedro |
