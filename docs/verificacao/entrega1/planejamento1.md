@@ -16,7 +16,7 @@ A metodologia utilizada nessa etapa é a [verificação de Fagan](https://requis
 | Nome                                               | Tarefas                            | Status  | 
 | -------------------------------------------------- | ---------------------------------- | ------- | 
 | [Diassis](https://github.com/Diaxiz)         | Criador da lista de verificação 01 | Feito   | 
-| [Jose Eduardo](https://github.com/jevprado)               | Revisor da lista de verificação 01 | ------- | 
+| [Jose Eduardo](https://github.com/jevprado)               | Revisor da lista de verificação 01 | Feito | 
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
