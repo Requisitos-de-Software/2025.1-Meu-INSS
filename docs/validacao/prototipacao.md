@@ -24,11 +24,11 @@ Os **objetivos** dessa etapa são:
 |Nome                                                | Atividade entregue                        | 
 | -------------------------------------------------- | ----------------------------------------- | 
 | [José Eduardo](https://github.com/jevprado)        | Introdução, Metodologia e Objetivos, Prototipação e validação do [RF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) , revisor do RF23, RF24, RF20 e RF02     | 
-| [João Pedro](https://github.com/JpRodrigues2)       | Revisor da Introdução, Metodologia e Objetivos, e dos [RF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) , Prototipação e validação do [RF21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
+| [João Pedro](https://github.com/JpRodrigues2)       | Revisor da Introdução, Metodologia e Objetivos, e dos [RF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) , Prototipação do [RF21](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF27](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
 | [Júlia Massuda](https://github.com/JuliaReis18)      | Prototipação e validação do [RF23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
-| [Marco](https://github.com/marcomarquesdc)      | Prototipação e validação do [RF04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
-| [Andre](https://github.com/Andrewslopes)      | Prototipação e validação do [RF07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) | 
-| [Diassis](https://github.com/Diaxiz)      | Prototipação e validação do [RF20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
+| [Marco](https://github.com/marcomarquesdc)      | Prototipação  do [RF04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
+| [Andre](https://github.com/Andrewslopes)      | Prototipação do [RF07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) | 
+| [Diassis](https://github.com/Diaxiz)      | Prototipação do [RF20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -196,7 +196,7 @@ O usuário testou o protótipo desenvolvido, especificamente o referente ao [RF2
 
 <p style="text-align: center"><b>Protótipo 5</b> - Protótipo do RF06 em funcionamento no Figma</p>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/2glLRE9uvpqowges9LAHYL/ReqSoft-RF06?node-id=9-132&t=7Y1ehW8v7P5vfanE-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/proto/2glLRE9uvpqowges9LAHYL/ReqSoft-RF06?node-id=9-132&t=7Y1ehW8v7P5vfanE-1" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
@@ -210,7 +210,7 @@ O usuário testou o protótipo desenvolvido, especificamente o referente ao [RF2
 
 <p style="text-align: center"><b>Protótipo 6</b> - Protótipo do RF25 em funcionamento no Figma</p>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/JWabV6V1rhtjCCJEQ5nruH/ReqSoft-RF25?node-id=1-152&t=MDAYR1qKdP0fmqyT-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/proto/JWabV6V1rhtjCCJEQ5nruH/ReqSoft-RF25?node-id=1-152&t=MDAYR1qKdP0fmqyT-1" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
