@@ -65,4 +65,4 @@ A metodologia adotada para a inspeção consistiu na elaboração de uma lista d
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 22/06/2025 | Criação do documento, introdução, metodologia e listas de verificação | [José Eduardo](https://github.com/jevprado)    |  [João Pedro](https://github.com/JpRodrigues2) |
 | `1.1`   | 22/06/2025 | Atualização do documento, com introdução, metodologia e lista para inspeção | [Diassis](https://github.com/Diaxiz)    | REVISOR AQUI |
-| `1.2`   | 22/06/2025 | Avaliando a lista de verificação do artefato | [Diassis](https://github.com/Diaxiz)    | REVISOR AQUI |
+| `1.2`   | 22/06/2025 | Avaliando a lista de verificação do artefato | [Diassis](https://github.com/Diaxiz)    | REVISOR AQUI! |
