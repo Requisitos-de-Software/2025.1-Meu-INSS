@@ -28,6 +28,7 @@ Os **objetivos** dessa etapa são:
 | [Júlia Massuda](https://github.com/JuliaReis18)      | Prototipação e validação do [RF23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF24](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
 | [Marco](https://github.com/marcomarquesdc)      | Prototipação e validação do [RF04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF26](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
 | [Andre](https://github.com/Andrewslopes)      | Prototipação e validação do [RF07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) | 
+| [Diassis](https://github.com/Diaxiz)      | Prototipação e validação do [RF20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | 
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -324,6 +325,75 @@ O protótipo referente ao requisito RF07 foi desenvolvido com foco na funcionali
 
 <font size="3"><p style="text-align: center">Fonte: [André Lopes](https://github.com/andrewslopes), 2025.</p></font>
 
+## Prototipação do [RF02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
+
+<p style="text-align: center"><b>Protótipo </b> - Validação do protótipo RF02</p>
+
+| Participantes                                | Função           | Data da realização da validação |
+| -------------------------------------------- | ---------------- | ------------------------------- | 
+| [Diassis](https://github.com/Diaxiz)  | Entrevistador    | ----                     |
+| ------                             | Usuário          | ----                    |
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+
+###  Protótipo em funcionamento 
+
+<p style="text-align: center"><b>Imagem</b> - Prototipo do RF2</p>
+
+![Prototipo RF05](../assets/prototipacao/prototipo-diassis/prototipo-1.png)
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+
+<h3>Protótipo Navegável</h3>
+
+<p style="text-align: center"><b>Protótipo </b> - Prototipo do RF02 em funcionamento no figma</p>
+
+<iframe
+  style="border: 1px solid rgba(0, 0, 0, 0.1);"
+  width="85%"
+  height="600"
+  src="https://embed.figma.com/design/bsJotsRvDkakr0mM8I0FDd/Receita-Novo-CPF--Copy-?node-id=0-1&embed-host=share"
+  allowfullscreen>
+</iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+## Prototipação do [RF20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
+
+<p style="text-align: center"><b>Protótipo </b> - Validação do protótipo RF20</p>
+
+| Participantes                                | Função           | Data da realização da validação |
+| -------------------------------------------- | ---------------- | ------------------------------- | 
+| [Diassis](https://github.com/Diaxiz)  | Entrevistador    | ----                     |
+| ------                             | Usuário          | ----                    |
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+
+###  Protótipo em funcionamento 
+
+<p style="text-align: center"><b>Imagem</b> - Prototipo do RF20</p>
+
+![Prototipo RF20](../assets/prototipacao/prototipo-diassis/prototipo-2.png)
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+
+<h3>Protótipo Navegável</h3>
+
+<p style="text-align: center"><b>Protótipo </b> - Prototipo do RF20 em funcionamento no figma</p>
+
+<iframe
+  style="border: 1px solid rgba(0, 0, 0, 0.1);"
+  width="85%"
+  height="600"
+  src="https://embed.figma.com/design/5rUm9OLrUKwoV5Sdaiy5en/Processos-ADM?node-id=0-1&embed-host=share"
+  allowfullscreen>
+</iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 ## Referencias 
 
@@ -344,3 +414,4 @@ O protótipo referente ao requisito RF07 foi desenvolvido com foco na funcionali
 | `1.4`   | 22/06/2025 | Prototipação do RF21 E RF27                    |  [João Pedro](https://github.com/JpRodrigues2) | [Júlia Massuda](https://github.com/JuliaReis18)  
 | `1.5`   | 22/06/2025 | Prototipação do RF04 e RF26                 |  [Marco](https://github.com/marcomarquesdc) | [Diassis](https://github.com/Diaxiz)
 | `1.6`   | 22/06/2025 | Prototipação do RF07               |  [Andre](https://github.com/Andrewslopes) | [Diassis](https://github.com/Diaxiz)
+| `1.7`   | 22/06/2025 | Prototipação do RF02 E RF20                    |  [Diassis](https://github.com/Diaxiz) | Revisor aqui  |
