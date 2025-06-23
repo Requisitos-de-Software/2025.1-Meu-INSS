@@ -142,17 +142,6 @@ O usuário João Costa testou o protótipo desenvolvido, especificamente o refer
 
 ## Prototipação do [RF23](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
 
-A usuária ***** testou o protótipo desenvolvido, especificamente o referente ao [RF23	Compartilhamento de comprovantes e certidões por WhatsApp, e-mail ou Drive](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/), e pontuou as melhorias desenvolvidas, ......
-
-<p style="text-align: center"><b>Tabela 3</b> - Validação do protótipo RF23</p>
-
-| Participantes                                    | Função           | Data da realização da validação |
-| --------------------------------------------     | ---------------- | ------------------------------- | 
-| [Júlia Massuda](https://github.com/JuliaReis18)  | Entrevistador    | *****                           |
-| ************                                     | Usuário          | ****                            |
-
-<font size="3"><p style="text-align: center">Fonte: [Júlia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
-
 
 <h3>Protótipo Navegável</h3>
 
