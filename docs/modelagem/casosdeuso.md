@@ -416,4 +416,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
  `2.1`  | 12/06/2025 | Adição da tabela de atividade dos membros | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
  `2.2`  | 21/06/2025 | Adição dos UC01 E UC02 | [Jose Eduardo](https://github.com/jevprado) | [Julia Massuda](https://github.com/JuliaReis18)|
  `2.3`  | 22/06/2025 | Adição dos UC09 E UC10 | [Julia Massuda](https://github.com/JuliaReis18)| [Jose Eduardo](https://github.com/jevprado)|
- `2.4`  | 22/06/2025 | Adição dos UC07 E UC08 | [João Pedro](https://github.com/JpRodrigues2)| ADD REVISOR|
+ `2.4`  | 22/06/2025 | Adição dos UC07 E UC08 | [João Pedro](https://github.com/JpRodrigues2)|[Julia Massuda](https://github.com/JuliaReis18)|
