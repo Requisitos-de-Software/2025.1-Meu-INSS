@@ -19,6 +19,7 @@ Este documento foca em funcionalidades típicas para o cidadão usuário do app.
 | [Andre Lopes](https://github.com/andrewslopes)    | Criação da documentação geral do artefato                                            | 
 | [Julia Massuda](https://github.com/JuliaReis18)   | Criação do diagrama de usos, descrições do diagrama e cartões de casos de uso  (UC09 e UC10 | 
 | [Jose Eduardo](https://github.com/jevprado)       | Revisor dos artefatos e cartões de casos de uso (UC 01 e UC02) |
+| [João Pedro](https://github.com/JpRodrigues2)     | Cartões de casos de uso  (UC07 e UC08) |
 
 
 <font size="3"><p style="text-align: center">Fonte: Fonte: [Jose Eduardo   ](https://github.com/jevprado), 2025.</p></font>
@@ -126,6 +127,46 @@ Fonte: [Julia Massuda](https://github.com/JuliaReis18)
 | **Pós-condição:**         | - Agendamento registrado com sucesso <br> - Contribuinte recebe notificação e pode consultar, cancelar ou remarcar atendimento <br> - Histórico de agendamentos atualizado |
 
 <font size="3"><p style="text-align: center">Fonte: Fonte: [Jose Eduardo   ](https://github.com/jevprado), 2025.</p></font>
+
+## CASO DE USO 07 - (UC07)
+
+<p style="text-align: center"><b>Tabela 7</b> - CASO DE USO 07 - (UC07)</p>
+
+| COLUNA                   | DESCRIÇÃO                                                                                           |
+|--------------------------|-----------------------------------------------------------------------------------------------------|
+| Nome do caso de uso:     | Consultar Status do CPF                                                                             |
+| Rastreabilidade:         | [ST06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) e [ADC11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) |
+| Pré-condição:            | - App instalado em dispositivo compatível  <br> - Autenticação via CPF e senha Gov.br <br> - Sistema da Receita sincronizado com base de dados do CPF |
+| Ator principal:          | Contribuinte                                                                                        |
+| Atores secundários:      | Servidor da Receita                                                                                 |
+| Objetivo:                | Permitir ao contribuinte verificar o status de seu CPF (ativo, pendente ou suspenso)               |
+| Fluxo principal:         | 1. Usuário acessa o app <br> 2. Seleciona “Consultar status do CPF” <br> 3. Sistema valida internet (PI1) <br> 4. Valida autenticação (PI2) <br> 5. Sistema consulta base de dados <br> 6. Exibe status do CPF (ativo, suspenso, cancelado) <br> 7. Exibe possíveis instruções para regularização, se aplicável |
+| Fluxo alternativo:       | 6a. Se CPF estiver pendente, permite acesso a vídeos e informações sobre regularização (PE2)        |
+| Fluxo de exceção:        | - E1: Sem internet → sugere reconectar (PI1) <br> - E2: Erro na autenticação → volta ao login (PI2) <br> - E3: Dados não encontrados → exibe mensagem e instruções para contato |
+| Pós-condição:            | - Status do CPF exibido <br> - Histórico de consulta atualizado <br> - Pode haver redirecionamento para regularização online |
+
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
+
+---
+
+## CASO DE USO 08 - (UC08)
+
+<p style="text-align: center"><b>Tabela 8</b> - CASO DE USO 08 - (UC08)</p>
+
+| COLUNA                   | DESCRIÇÃO                                                                                           |
+|--------------------------|-----------------------------------------------------------------------------------------------------|
+| Nome do caso de uso:     | Emitir Comprovante de CPF                                                                           |
+| Rastreabilidade:         | [ST07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/) e [ADC2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) |
+| Pré-condição:            | - App instalado em dispositivo compatível  <br> - Autenticação via CPF e senha Gov.br <br> - Status do CPF consultado previamente |
+| Ator principal:          | Contribuinte                                                                                        |
+| Atores secundários:      | Servidor da Receita                                                                                 |
+| Objetivo:                | Permitir ao usuário emitir, baixar e compartilhar o comprovante oficial de inscrição no CPF        |
+| Fluxo principal:         | 1. Acessa o app da Receita <br> 2. Seleciona “Emitir Comprovante de CPF” <br> 3. Sistema valida internet (PI1) <br> 4. Valida autenticação (PI2) <br> 5. Consulta base de dados <br> 6. Gera comprovante em PDF <br> 7. Exibe opção para salvar ou compartilhar (PE1) |
+| Fluxo alternativo:       | 6a. Permite escolher entre comprovante resumido ou completo                                         |
+| Fluxo de exceção:        | - E1: Falha de conexão → mostra erro (PI1) <br> - E2: CPF não encontrado ou inválido → exibe aviso <br> - E3: Erro ao gerar PDF → orienta tentativa posterior |
+| Pós-condição:            | - Comprovante gerado com sucesso <br> - Pode ser salvo ou enviado <br> - Histórico atualizado com registro da emissão |
+
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JpRodrigues2), 2025.</p></font>
 
 
 
@@ -375,3 +416,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
  `2.1`  | 12/06/2025 | Adição da tabela de atividade dos membros | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
  `2.2`  | 21/06/2025 | Adição dos UC01 E UC02 | [Jose Eduardo](https://github.com/jevprado) | [Julia Massuda](https://github.com/JuliaReis18)|
  `2.3`  | 22/06/2025 | Adição dos UC09 E UC10 | [Julia Massuda](https://github.com/JuliaReis18)| [Jose Eduardo](https://github.com/jevprado)|
+ `2.4`  | 22/06/2025 | Adição dos UC07 E UC08 | [João Pedro](https://github.com/JpRodrigues2)| ADD REVISOR|
