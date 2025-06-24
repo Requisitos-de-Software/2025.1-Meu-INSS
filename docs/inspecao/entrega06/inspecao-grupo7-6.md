@@ -97,6 +97,6 @@ Este checklist foi elaborado com base na literatura especializada de requisitos.
 
 | Versão | Data       | Descrição                                      | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 23/06/2025 | Criação do documento da inspeção 06 (etapa 05) | [José Eduardo](https://github.com/jevprado)    | [Julia Massuda](https://github.com/JuliaReis18) |
+| `1.0`   | 23/06/2025 | Criação do documento da inspeção 06 (etapa 05) | [José Eduardo](https://github.com/jevprado)    | [Diassis](https://github.com/Diaxiz) |
 
 
