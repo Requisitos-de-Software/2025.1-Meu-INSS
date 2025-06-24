@@ -5,7 +5,7 @@ Esta página documenta a verificação da Etapa 01 do projeto de Requisitos de S
 
 ## Metodologia 
 
-A metodologia utilizada nessa etapa é a [verificação de Fagan](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/verificacao/entrega3/planejamento3/#metodologia), que de maneira geral, busca apontar erros encontrados durante a fase de desenvolvimento do projeto. A divisão do metódo de verificação de Fagan se da em: *planejamento, **visão geral, **preparação, **inspeção, **correção* e *acompanhamento*.
+A metodologia utilizada nessa etapa é a [Inspeção de Fagan](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/verificacao/entrega3/planejamento3/#metodologia), que de maneira geral, busca apontar erros encontrados durante a fase de desenvolvimento do projeto. A divisão do metódo da Inspeção de Fagan se da em: *planejamento, **visão geral, **preparação, **inspeção, **correção* e *acompanhamento*.
 
 
 # Participantes 

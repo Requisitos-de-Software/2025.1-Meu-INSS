@@ -1,14 +1,14 @@
 ## Introdução 
 
-A verificação de Fagan é uma técnica sistemática de revisão formal utilizada para garantir a qualidade dos artefatos produzidos durante o desenvolvimento de software. Seu principal objetivo é detectar defeitos de forma precoce, promovendo melhoria contínua, redução de retrabalho e maior conformidade com os requisitos definidos. 
+A Inspeção de Fagan é uma técnica sistemática de revisão formal utilizada para garantir a qualidade dos artefatos produzidos durante o desenvolvimento de software. Seu principal objetivo é detectar defeitos de forma precoce, promovendo melhoria contínua, redução de retrabalho e maior conformidade com os requisitos definidos. 
 
-A realização da verificação de Fagan nesta fase permite analisar criticamente os entregáveis intermediários, assegurando que as especificações estejam coerentes, completas e consistentes com os objetivos do sistema. Este documento apresenta o planejamento geral da verificação, incluindo a metodologia adotada e os registros de verificação por entrega.
+A realização da Inspeção de Fagan nesta fase permite analisar criticamente os entregáveis intermediários, assegurando que as especificações estejam coerentes, completas e consistentes com os objetivos do sistema. Este documento apresenta o planejamento geral da verificação, incluindo a metodologia adotada e os registros de verificação por entrega.
 
 
 
 ## Metodologia 
 
-A metodologia da verificação de Fagan adotada neste projeto segue as seis etapas clássicas do processo: **planejamento**, **visão geral**, **preparação**, **inspeção**, **correção** e **acompanhamento**. A aplicação será feita por entrega (artefato), com base nos documentos produzidos nas etapas anteriores do projeto.
+A metodologia da Inspeção de Fagan adotada neste projeto segue as seis etapas clássicas do processo: **planejamento**, **visão geral**, **preparação**, **inspeção**, **correção** e **acompanhamento**. A aplicação será feita por entrega (artefato), com base nos documentos produzidos nas etapas anteriores do projeto.
 
 A seguir, estão descritas as atividades de cada fase:
 
