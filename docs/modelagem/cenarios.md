@@ -12,9 +12,9 @@ Os cenários foram elaborados com base nas personas previamente criadas e nos re
 
 |Nome                                               | Atividade entregue                        | 
 | ------------------------------------------------- | ----------------------------------------- | 
-| [Jose Eduardo](https://github.com/jevprado)   | Criação dos cenários C01, C02, C03 e C04. Ajustes nos códigos do cenários.                                   | 
-| [Diassis](https://github.com/Diaxiz)                 | Criação dos cenários C05, C06 e C07 e revisor das versões `1.1` e `1.2`         | 
-| [Thales Germano](https://github.com/thalesgvl)       | Revisor da versão `1.0` |
+| [Jose Eduardo](https://github.com/jevprado)   | Criação do documento, cenários (C01), (C02), (C03) e (C04). Ajustes nos códigos do cenários.  <br> Validação dos cenários (C01), (C02) e (C04).                              | 
+| [Diassis](https://github.com/Diaxiz)                 | Criação dos cenários (C05), (C06) e (C07). <br> Validação dos cenários (C05), (C06) e (C07) <br> Revisor das versões `1.1`, `1.2`  e  `1.3`    | 
+| [Thales Germano](https://github.com/thalesgvl)       | Revisor da versão `1.0` e dos (C01), (C02), (C03), (C04), (C05), (C06) e (C07) |
 
 ## Meteodologia 
 <p align="justify">
@@ -147,6 +147,40 @@ Os requisitos utilizados como base para os cenários foram extraídos da tabela 
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
+
+## Validação  
+
+### Validação dos Cenários (C01), (C02) e (C04)
+
+<p style="text-align: center"><b>Vídeo 1</b> - Validação do Cenários (C01), (C02) e (C04) </p>
+
+<iframe width="700" height="400"
+        src="https://www.youtube.com/embed/kn9lYAKCSZc"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+</iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+### Validação dos Cenários (C05), (C06) e (C07)
+
+<p style="text-align: center"><b>Vídeo 2</b> - Validação do Cenários (C05), (C06) e (C07) </p>
+
+<iframe width="700" height="400"
+        src="https://www.youtube.com/embed/_LRFZSRCIS8"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+</iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+
 ## Referências 
 
 > <a>1.</a> Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.
@@ -164,3 +198,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 `1.0` | 09/05/2025 | Criação do documento de cenários | [Jose Eduardo](https://github.com/jevprado) e [Diassis](https://github.com/Diaxiz) | [Thales Germano](https://github.com/thalesgvl)  |
 `1.1` | 08/06/2025 | Colocando código nos cenários | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz)  |
  `1.2`  | 12/06/2025 | Adição da tabela de atividade dos membros | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
+ `1.3`  | 30/06/2025 | Video de validação - (C01), (C02), (C04), (C05), (C06) e (C07) | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |

@@ -496,6 +496,22 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 | RNF10  |  ✓       |
 | RNF09  |  𝒲+      |
 
+## Vídeos de validação 
+
+### Validação do Cartão de Especificação – RNF01 e RNF02
+
+<p style="text-align: center"><b>Vídeo 1</b> - Validação do Cartão de Especificação – RNF01 e RNF02</p>
+
+<iframe width="700" height="400"
+        src="https://www.youtube.com/embed/0SdN0b9stFg"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+</iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 
 ## Referências
@@ -515,3 +531,4 @@ Disponível em: [https://aprender3.unb.br/pluginfile.php/3096155/mod\_resource/c
 | `1.5`    | 01/06/2025 | Adicionando cartões RNF 11/12 | [Marco Marques](https://github.com/marcomarquesdc) | [Thales Germano](https://github.com/thalesgvl) | 
 | `1.6`    | 01/06/2025 | Adicionando cartões RNF 07/08 | [Júlia Massuda](https://github.com/JuliaReis18) | [Jose Eduardo](https://github.com/jevprado)| 
 | `1.7`    | 01/06/2025 | Adicionando cartões RNF 05/06 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado)| 
+| `1.8`    | 30/06/2025 | Adicionando validação dos cartões RNF 01/02 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz)| 
