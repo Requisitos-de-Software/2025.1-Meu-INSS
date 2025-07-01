@@ -17,12 +17,12 @@ Este documento foca em funcionalidades típicas para o cidadão usuário do app.
 |Nome                                               | Atividade entregue                        | 
 | ------------------------------------------------- | ----------------------------------------- | 
 | [Andre Lopes](https://github.com/andrewslopes)    | Criação da documentação geral do artefato                                            | 
-| [Julia Massuda](https://github.com/JuliaReis18)   | Criação do diagrama de usos, descrições do diagrama e cartões de casos de uso  (UC09 e UC10 | 
-| [Jose Eduardo](https://github.com/jevprado)       | Revisor dos artefatos e cartões de casos de uso (UC 01 e UC02) |
+| [Julia Massuda](https://github.com/JuliaReis18)   | Criação do diagrama de usos, descrições do diagrama <br> Cartões de casos de uso  (UC09 e UC10) | 
+| [Jose Eduardo](https://github.com/jevprado)       | Revisor dos artefatos <br> Cartões de casos de uso (UC 01 e UC02) |
 | [João Pedro](https://github.com/JpRodrigues2)     | Cartões de casos de uso  (UC07 e UC08) |
 
 
-<font size="3"><p style="text-align: center">Fonte: Fonte: [Jose Eduardo   ](https://github.com/jevprado), 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo   ](https://github.com/jevprado), 2025.</p></font>
 
 
 ## Metodologia Utilizada
@@ -51,7 +51,7 @@ Os relacionamentos foram representados por semirretas características, caso se 
 | **Flecha (Relações)** | ![Flecha](../assets/Captura%20de%20tela%202025-06-08%20173528.png) | Representa as relações ou interações entre atores e casos de uso. |
 
 
-<font size="3"><p style="text-align: center">Fonte: Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
 
 ## Atores
@@ -106,7 +106,7 @@ Fonte: [Julia Massuda](https://github.com/JuliaReis18)
 | **Fluxo de exceção:**     | - E1: Sem internet → mostra erro e sugere reconectar (PI1) <br> - E2: CPF inválido → volta para login (PI2) <br> - E3: Nenhum dado encontrado → informa ausência de restituições <br> - E4: Sistema instável → mostra mensagem de indisponibilidade |
 | **Pós-condição:**         | - Status da restituição exibido <br> - Informações podem ser salvas ou compartilhadas <br> - Histórico atualizado <br> - Pode haver redirecionamento para vídeos explicativos (PE2) |
 
-<font size="3"><p style="text-align: center">Fonte: Fonte: [Jose Eduardo   ](https://github.com/jevprado), 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo   ](https://github.com/jevprado), 2025.</p></font>
 
 
 ## CASO DE USO 02 - (UC02)
@@ -126,7 +126,7 @@ Fonte: [Julia Massuda](https://github.com/JuliaReis18)
 | **Fluxo de exceção:**     | - E1: Falha de conexão → exibe mensagem e orienta reconexão (PI1) <br> - E2: Falha na autenticação → redireciona para login (PI2) <br> - E3: Nenhum horário disponível → sistema exibe mensagem e sugere outras datas ou unidades <br> - E4: Instabilidade no sistema → informa indisponibilidade e recomenda tentar mais tarde |
 | **Pós-condição:**         | - Agendamento registrado com sucesso <br> - Contribuinte recebe notificação e pode consultar, cancelar ou remarcar atendimento <br> - Histórico de agendamentos atualizado |
 
-<font size="3"><p style="text-align: center">Fonte: Fonte: [Jose Eduardo   ](https://github.com/jevprado), 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo   ](https://github.com/jevprado), 2025.</p></font>
 
 ## CASO DE USO 07 - (UC07)
 
@@ -209,12 +209,6 @@ Fonte: [Julia Massuda](https://github.com/JuliaReis18)
 | **Pós-condição:**         | - Dados atualizados e salvos <br> - Confirmação enviada ao contribuinte <br> - Histórico de alterações atualizado |
 
 <font size="3"><p style="text-align: center">Fonte:  [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
-
-
-
-
-
-LEMBRAR DE APAGAR BOA PARTE DOS TEXTOS ABAIXO, DEPOIS QUE TODOS ENVIAREM SEUS CASOS DE USO, pois acho que algumas infos estão perdidas no doc. 
 
 
 
@@ -393,8 +387,22 @@ Identificam as interações entre os atores e os casos de uso, podendo ser:
 * Existe extensão (<<extend>>)? 
 * Existe generalização? (não aplicável neste caso) 
 
-## Validação
-A validação dos diagramas considerou a descrição oficial do aplicativo da Receita Federal, bem como testes simulados por usuários reais. A análise será complementada em nova rodada após entrevista com especialistas da RFB.
+## Vídeos de validação 
+
+### Validação do Caso de Uso 01 - (UC01) e Caso de Uso 02 - (UC02)
+
+<p style="text-align: center"><b>Vídeo 1</b> - Validação do Caso de Uso 01 - (UC01) e Caso de Uso 02 - (UC02)</p>
+
+<iframe width="700" height="400"
+        src="https://www.youtube.com/embed/xZkePEceRRQ"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+</iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 
 
@@ -417,3 +425,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
  `2.2`  | 21/06/2025 | Adição dos UC01 E UC02 | [Jose Eduardo](https://github.com/jevprado) | [Julia Massuda](https://github.com/JuliaReis18)|
  `2.3`  | 22/06/2025 | Adição dos UC09 E UC10 | [Julia Massuda](https://github.com/JuliaReis18)| [Jose Eduardo](https://github.com/jevprado)|
  `2.4`  | 22/06/2025 | Adição dos UC07 E UC08 | [João Pedro](https://github.com/JpRodrigues2)|[Julia Massuda](https://github.com/JuliaReis18)|
+ `2.5`  | 30/06/2025 | Adicionando a validação do UC01 e UC02 | [Jose Eduardo](https://github.com/jevprado)| [Diassis](https://github.com/Diaxiz)|
