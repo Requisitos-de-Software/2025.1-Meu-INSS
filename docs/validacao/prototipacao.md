@@ -339,6 +339,19 @@ O protótipo referente ao requisito RF07 foi desenvolvido com foco na funcionali
   allowfullscreen>
 </iframe>
 
+### Entrevista de validação com o cliente 
+
+<p style="text-align: center"><b>Vídeo 4</b> - Validação do RF07</p>
+
+<iframe width="700" height="400"
+        src="https://www.youtube.com/embed/bbEpApUxw7g"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+</iframe>
+
 <font size="3"><p style="text-align: center">Fonte: [André Lopes](https://github.com/andrewslopes), 2025.</p></font>
 
 ## Prototipação do [RF02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
