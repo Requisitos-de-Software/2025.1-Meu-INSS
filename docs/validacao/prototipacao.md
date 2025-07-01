@@ -302,6 +302,19 @@ O protótipo do requisito RF26 foi projetado para possibilitar a visualização 
   allowfullscreen>
 </iframe>
 
+### Entrevista de validação com o cliente 
+
+<p style="text-align: center"><b>Vídeo 4</b> - Validação do RF26</p>
+
+<iframe width="700" height="400"
+        src="https://www.youtube.com/embed/r5kZJC_vyUY"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+</iframe>
+
 <font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 ## Prototipação do [RF07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
