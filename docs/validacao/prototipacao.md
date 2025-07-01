@@ -251,6 +251,19 @@ O protótipo do requisito RF04 foi desenvolvido para permitir notificações de 
 
 ![Protótipo RF04](../assets/prototipacao/prototipo-marco/prototipo-RF04.jpeg)
 
+### Entrevista de validação com o cliente 
+
+<p style="text-align: center"><b>Vídeo 4</b> - Validação do RF04</p>
+
+<iframe width="700" height="400"
+        src="https://www.youtube.com/embed/uidcElbyaMY"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+</iframe>
+
 <font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 <h3>Protótipo Navegável</h3>
