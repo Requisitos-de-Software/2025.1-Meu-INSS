@@ -465,4 +465,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
  `2.3`  | 22/06/2025 | Adição dos UC09 E UC10 | [Julia Massuda](https://github.com/JuliaReis18)| [Jose Eduardo](https://github.com/jevprado)|
  `2.4`  | 22/06/2025 | Adição dos UC07 E UC08 | [João Pedro](https://github.com/JpRodrigues2)|[Julia Massuda](https://github.com/JuliaReis18)|
  `2.5`  | 30/06/2025 | Adicionando a validação do UC01 e UC02 | [Jose Eduardo](https://github.com/jevprado)| [Diassis](https://github.com/Diaxiz)|
- `2.6`  | 30/06/2025 | Criação de UC11 E UC12 | [Jose Eduardo](https://github.com/jevprado)| Revisor Aqui |
+ `2.6`  | 30/06/2025 | Criação de UC11 E UC12 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |
