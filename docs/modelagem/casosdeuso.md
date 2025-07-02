@@ -20,6 +20,7 @@ Este documento foca em funcionalidades típicas para o cidadão usuário do app.
 | [Julia Massuda](https://github.com/JuliaReis18)   | Criação do diagrama de usos, descrições do diagrama <br> Cartões de casos de uso  (UC09 e UC10) | 
 | [Jose Eduardo](https://github.com/jevprado)       | Revisor dos artefatos <br> Cartões de casos de uso (UC 01 e UC02) |
 | [João Pedro](https://github.com/JpRodrigues2)     | Cartões de casos de uso  (UC07 e UC08) |
+| [Diassis](https://github.com/Diaxiz)     | Cartões de casos de uso  (UC11 e UC12) |
 
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo   ](https://github.com/jevprado), 2025.</p></font>
@@ -210,6 +211,44 @@ Fonte: [Julia Massuda](https://github.com/JuliaReis18)
 
 <font size="3"><p style="text-align: center">Fonte:  [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
+## CASO DE USO 11 - (UC11)
+
+<p style="text-align: center"><b>Tabela 9</b> - CASO DE USO 11 - (UC11) </p>
+
+| **COLUNA**               | **DESCRIÇÃO**                                                                                         |
+|--------------------------|-------------------------------------------------------------------------------------------------------|
+| **Nome do caso de uso:** | Visualizar Histórico de Declarações e Restituições Anteriores                                        |
+| **Rastreabilidade:**     | [ST09](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/#storytelling-por-persona), [ADC8](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) |
+| **Pré-condição:**         | - App instalado <br> - Login autenticado com conta Gov.br <br> - Declarações anteriores enviadas     |
+| **Ator principal:**       | Contribuinte                                                                                         |
+| **Atores secundários:**   | Servidor da Receita                                                                                  |
+| **Objetivo:**             | Permitir que o contribuinte acesse e visualize o histórico de envio de declarações e respectivas restituições dos anos anteriores |
+| **Fluxo principal:**      | 1. Nuno acessa o app <br> 2. Vai até a seção “Histórico de Declarações” <br> 3. Sistema valida login e busca os registros <br> 4. Exibe uma lista com os anos e status <br> 5. Nuno seleciona um ano <br> 6. Visualiza dados enviados e situação da restituição <br> 7. Pode baixar recibos ou relatórios |
+| **Fluxo alternativo:**    | 4a. Permite filtrar por status da restituição (aguardando, paga, em análise) ou tipo de declaração   |
+| **Fluxo de exceção:**     | - E1: Nenhuma declaração encontrada → exibe aviso e sugere preenchimento <br> - E2: Falha na autenticação → retorna ao login <br> - E3: Erro na consulta ao banco de dados → mostra mensagem de instabilidade |
+| **Pós-condição:**         | - Histórico visualizado com sucesso <br> - Relatórios podem ser baixados ou compartilhados           |
+
+
+<font size="3"><p style="text-align: center">Fonte:  [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+## CASO DE USO 12 - (UC12)
+
+<p style="text-align: center"><b>Tabela 10</b> - CASO DE USO 12 - (UC12) </p>
+
+| **COLUNA**               | **DESCRIÇÃO**                                                                                         |
+|--------------------------|-------------------------------------------------------------------------------------------------------|
+| **Nome do caso de uso:** | Acesso simultâneo a múltiplos CPFs/CNPJs                                                              |
+| **Rastreabilidade:**     | [ST01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/#storytelling-por-persona), [ADC1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/) |
+| **Pré-condição:**         | - App instalado <br> - Autenticação via Gov.br com permissão de contador(a) <br> - Clientes vinculados previamente |
+| **Ator principal:**       | Contribuinte (Contadora)                                                                              |
+| **Atores secundários:**   | Clientes da contadora                                                                                 |
+| **Objetivo:**             | Permitir que profissionais da contabilidade acessem diversos CPFs/CNPJs sob sua responsabilidade com facilidade |
+| **Fluxo principal:**      | 1. Fernanda acessa o app <br> 2. Navega até “Área do Contador” <br> 3. Visualiza lista de clientes vinculados <br> 4. Seleciona um CPF/CNPJ <br> 5. Acessa declarações, pendências e status <br> 6. Alterna entre clientes sem precisar sair do app |
+| **Fluxo alternativo:**    | 3a. Se cliente ainda não estiver vinculado, app exibe botão para solicitar permissão e envio de token de autorização |
+| **Fluxo de exceção:**     | - E1: Acesso não autorizado → app orienta envio de convite ao cliente <br> - E2: Erro ao buscar dados → exibe mensagem de instabilidade <br> - E3: Nenhum cliente vinculado → mostra instruções para adicionar |
+| **Pós-condição:**         | - Acesso completo aos dados de cada cliente <br> - Histórico de acessos por CPF atualizado           |
+
+<font size="3"><p style="text-align: center">Fonte:  [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 
 
@@ -426,3 +465,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
  `2.3`  | 22/06/2025 | Adição dos UC09 E UC10 | [Julia Massuda](https://github.com/JuliaReis18)| [Jose Eduardo](https://github.com/jevprado)|
  `2.4`  | 22/06/2025 | Adição dos UC07 E UC08 | [João Pedro](https://github.com/JpRodrigues2)|[Julia Massuda](https://github.com/JuliaReis18)|
  `2.5`  | 30/06/2025 | Adicionando a validação do UC01 e UC02 | [Jose Eduardo](https://github.com/jevprado)| [Diassis](https://github.com/Diaxiz)|
+ `2.6`  | 30/06/2025 | Criação de UC11 E UC12 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |

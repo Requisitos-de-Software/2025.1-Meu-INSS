@@ -175,10 +175,11 @@ Tabela 2 - Resultados da Priorização utilizando First Things First (FTF)
 
 ## 5. Histórico de versões
 
-| Versão | Data       | Autor(es)          | Alterações                                             | Revisor(es) |
-| :----: | ---------- | ------------------ | ------------------------------------------------------ | ----------- |
-|   1.0  | 03/05/2025 | [Diassis](https://github.com/Diaxiz) e [Marco](https://github.com/marcomarquesdc)  | Primeira Versão do FTF | [José Eduardo](https://github.com/jevprado)   |
-|   1.1  | 03/05/2025 | [Diassis](https://github.com/Diaxiz) e [Marco](https://github.com/marcomarquesdc)  | Correção no texto | [José Eduardo](https://github.com/jevprado)   |
-|   1.2  | 11/05/2025 | [Diassis](https://github.com/Diaxiz) e [Marco](https://github.com/marcomarquesdc)  | Correção no texto | [José Eduardo](https://github.com/jevprado)   |
-|   1.3  | 11/05/2025 | [Diassis](https://github.com/Diaxiz) e [José Eduardo](https://github.com/jevprado)  | Correção dos requisitos, e implementação do FTF com usuário, e sua respectiva validação. Imagem de referência adicionada. |  REVISOR AQUI  |
+|Versão |   Data  | Descrição | Autor(es) | Revisor(es) |
+| ----- | ---- | ------ | ---------- | ----------
+| `1.0` | 03/05/2025 | Primeira Versão do FTF | [Diassis](https://github.com/Diaxiz) e [Marco](https://github.com/marcomarquesdc)  | [José Eduardo](https://github.com/jevprado) |
+| `1.1` | 03/05/2025 | Correção no texto | [Diassis](https://github.com/Diaxiz) e [Marco](https://github.com/marcomarquesdc) | [José Eduardo](https://github.com/jevprado) | 
+| `1.2` | 11/05/2025 | Correção de texto | [Diassis](https://github.com/Diaxiz) e [Marco](https://github.com/marcomarquesdc)  | [José Eduardo](https://github.com/jevprado) |
+| `2.0` | 11/05/2025 | Correção dos requisitos, e implementação do FTF com usuário, e sua respectiva validação. Imagem de referência adicionada. | [Diassis](https://github.com/Diaxiz) e [José Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
+| `2.1` | 11/05/2025 | Padronizando o histórico de versões igual ao dos outros artefatos anteriores | [José Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
 
