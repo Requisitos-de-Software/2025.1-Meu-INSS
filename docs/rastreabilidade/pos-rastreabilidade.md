@@ -107,7 +107,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Código do req** | [RF10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf10) |
 | **Backward-from** | [ADC10](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/),  [C07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/#cenario-07), [L02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l02-gerar-darf), [L08](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l08-pagar-divida-ativa), [US03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-03-geracao-de-guias-de-pagamento), [UC](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/casosdeuso/#41-ator-primario-contribuinte) |
 | **Foward-from** |  Integração – Conectado ao sistema de arrecadação |
-| **Representação** |[guiapagemento - imagem 01](../assets/prints-jose/guia-pagemento%20(1).jpg) e [guiapagemento - imagem 02](../assets/prints-jose/guia-pagemento%20(2).jpg)|
+| **Representação** |![guiapagemento - imagem 01](../assets/prints-jose/guia-pagemento%20(1).jpg) e ![guiapagemento - imagem 02](../assets/prints-jose/guia-pagemento%20(2).jpg)|
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -125,7 +125,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Código do req** | [RF11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf11) |
 | **Backward-from** | [ADC11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/), [C06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/#cenario-06), [L01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l01-consultar-cpf), [US04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-04-consulta-de-status-do-cpf-pelo-aplicativo-da-receita-federal)|  [ELO11](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/rastreabilidade/pos-rastreabilidade/) |
 | **Foward-from** | Integração – Consulta em bases oficiais da Receita |
-| **Representação** | [status cpf](../assets/prints-jose/status-cpf.png) |
+| **Representação** | ![status cpf](../assets/prints-jose/status-cpf.png) |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -173,7 +173,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Código do req** | [RF14](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf14) |
 | **Backward-from** | [INT1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [ENT03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/entrevista/), [L07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l07-acompanhar-processamento), [US05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-05-acesso-a-informacoes-detalhadas-da-declaracao-de-imposto-de-renda-por-ano) |
 | **Foward-from** | Agregação – Relacionado à análise de dados da declaração por período |
-| **Representação** | [Historico das declaracoes](../assets/prints-jose/historico-declaracoes.jpg) e [Informações detalhadas]() |
+| **Representação** | ![Historico das declaracoes](../assets/prints-jose/historico-declaracoes.jpg) e ![Informações detalhadas]() |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -221,7 +221,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Código do req** | [RF17](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf17) |
 | **Backward-from** | [INT6](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [ENT02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/entrevista/), [L08](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l08-pagar-divida-ativa), [US06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-06-emissao-de-certidao-negativa-via-aplicativo), [UC](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/casosdeuso/#41-ator-primario-contribuinte) |
 | **Foward-from** | Integração – Conectado à base de débitos da Receita |
-| **Representação** | [Emitir certidão negativa](../assets/prints-jose/certidao-negativa.jpg) |
+| **Representação** | ![Emitir certidão negativa](../assets/prints-jose/certidao-negativa.jpg) |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
