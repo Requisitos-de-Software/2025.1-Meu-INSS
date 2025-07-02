@@ -171,7 +171,7 @@ Tabela 2 - Resultados da Priorização utilizando First Things First (FTF)
 ## 4. Referências
 
 > WIEGERS, Karl E.; BEATTY, Joy. *Software Requirements*. 3. ed. Microsoft Press, 2013. cap. 16, p. 313–329.
-[Página da Referência Aqui](../../assets/referencia-imagens/referencia-ftf01.png)
+![Página da Referência Aqui](../../assets/referencia-imagens/referencia-ftf01.png)
 
 ## 5. Histórico de versões
 
