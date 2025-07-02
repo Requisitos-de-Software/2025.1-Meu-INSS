@@ -10,7 +10,7 @@ O First Things First (FTF) é uma técnica de priorização de requisitos que vi
 
 A priorização seguiu uma sequência estruturada de etapas para garantir uma análise objetiva e equilibrada dos requisitos:
 
-1. Inicialmente, todos os requisitos identificados foram avaliados, removendo-se aqueles que eram dependentes diretos de outros — ou seja, se um requisito só poderia ser implementado após outro, apenas o principal foi considerado.
+1. Todos os requisitos funcionais e não funcionais foram listados em uma planilha.
 
 2. Em seguida, o usuário avaliou cada requisito, dando uma nota para os seguintes critérios:
 
@@ -41,61 +41,137 @@ A priorização seguiu uma sequência estruturada de etapas para garantir uma an
 ### 3.1 Descrição dos Requisitos
 Tabela 1 - Descrição dos Requisitos coletados.
 
-| ID  | Descrição                                                                                  |
-| --- | ------------------------------------------------------------------------------------------ |
-| r1  | Acesso rápido e simultâneo a múltiplos CPFs/CNPJs                                          |
-| r2  | Cadastro de CPF via app (totalmente remoto)                                                |
-| r3  | Acompanhamento de status da restituição (com precisão quanto aos lotes)                    |
-| r4  | Notificação de vencimento próximo                                                          |
-| r5  | Unificação de serviços no app (agendamento, certidões, acompanhamento de processos etc.)   |
-| r6  | Acesso offline a serviços essencial do app (históricos de contribuições anteriores, darfs) |
-| r7  | Alteração de dados via app                                                                 |
-| r8  | Funcionalidade de histórico e acompanhamento de restituições e de declarações              |
-| r9  | Declaração simplificada do IR                                                              |
-| r10 | Geração de guias de pagamento                                                              |
-| r11 | Consultar o status do CPF (ativo ou não)                                                   |
-| r12 | Integração com conta Gov.br                                                                |
-| r13 | Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot sugeridas                 |
-| r14 | Conteúdo educativo para iniciantes                                                         |
-| r15 | Testes de desempenho para suportar alta demanda de usuários simultâneos                    |
-| r16 | Envio de documentos para instrução de processos                                            |
-| r17 | Proteção de dados pessoais conforme a LGPD                                                 |
-| r18 | Interface responsiva para dispositivos móveis                                              |
-| r19 | Testes de segurança para garantir a integridade dos dados e autenticação segura            |
-_Fonte - Autores._
+### 3.1 Descrição dos Requisitos
+Tabela 1 - Descrição dos Requisitos coletados.
+
+| ID    | Descrição                                                                                  |
+|-------|--------------------------------------------------------------------------------------------|
+| RF01  | Acesso simultâneo a múltiplos CPFs/CNPJs                                                   |
+| RF02  | Cadastro de CPF via app (totalmente remoto)                                                |
+| RF03  | Acompanhamento de status da restituição (precisão quanto aos lotes)                        |
+| RF04  | Notificação de vencimento próximo                                                          |
+| RF05  | Agendar no próprio aplicativo atendimentos presenciais em unidades da Receita Federal      |
+| RF06  | Acesso offline a serviços essenciais do app (históricos de contribuições, DARFs)           |
+| RF07  | Alteração de dados via app                                                                  |
+| RF08  | Funcionalidade de histórico e acompanhamento de restituições de anos anteriores            |
+| RF09  | Declaração simplificada do IR                                                               |
+| RF10  | Geração de guias de pagamento                                                               |
+| RF11  | Consultar o status do CPF (ativo ou não)                                                    |
+| RF12  | Integração com conta Gov.br                                                                 |
+| RF13  | Envio de documentos para instrução de processos                                             |
+| RF14  | Acessar informações detalhadas a cerca da declaração de imposto de renda de um ano específico |
+| RF15  | Declaração do Imposto de Renda diretamente pelo app                                         |
+| RF16  | O aplicativo deve mostrar um histórico de envio das declarações entregues pelo usuário      |
+| RF17  | Emissão de certidão negativa via aplicativo                                                 |
+| RF18  | Consultar pendências de Malha                                                               |
+| RF19  | Dashboard para profissionais contábeis de múltiplos CPFs/CNPJs                              |
+| RF20  | Acompanhar processos no próprio aplicativo                                                  |
+| RF21  | Integração com o App Esocial dentro do próprio                                              |
+| RF22  | Permitir via App autorização de acesso à terceiros                                          |
+| RF23  | Compartilhamento de comprovantes e certidões por WhatsApp, e-mail ou Drive                 |
+| RF24  | Reenvio de notificações perdidas via e-mail ou mensagem no app                              |
+| RF25  | Comparativo automático entre declarações de anos anteriores                                 |
+| RF26  | FAQ interativo com busca inteligente (filtrado por tema: CPF, IRPF, Certidões etc.)         |
+| RF27  | Integração com calendário do dispositivo para lembretes de obrigações fiscais               |
+| RF28  | Consulta de inscrição no CNPJ                                                               |
+| RF29  | Consulta de tabelas CNAE, NCM e unidades da Receita Federal                                 |
+| RF30  | Acesso à Caixa Postal para mensagens oficiais da Receita Federal                            |
+| RF31  | Visualização de notícias e vídeos institucionais da Receita Federal                         |
+| RF32  | Consultar débitos pendentes (DARFs)                                                         |
+| RF33  | Pagamento do DARF com cartão de crédito                                                     |
+| RF34  | Emitir comprovante de CPF em PDF                                                            |
+| RNF1  | Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot                            |
+| RNF2  | Conteúdo educativo para iniciantes                                                          |
+| RNF3  | Testes de desempenho para suportar alta demanda de usuários simultâneos                     |
+| RNF4  | Proteção de dados pessoais conforme a LGPD                                                  |
+| RNF5  | Interface responsiva e acessível                                                            |
+| RNF6  | Interface com a possibilidade de uso do modo escuro                                         |
+| RNF7  | Testes de segurança para garantir a integridade dos dados e autenticação segura             |
+| RNF8  | Compatível com Android 8+ e iOS 14+                                                         |
+| RNF9  | Testes de usabilidade semestrais com público 60+                                            |
+| RNF10 | O aplicativo deve ter tempo de resposta inferior a 3 segundos para ações comuns             |
+| RNF11 | O aplicativo deve funcionar em smartphones com telas de 4.5" a 7" sem perda de usabilidade  |
+| RNF12 | Linguagem da interface deve seguir padrão A2 do CEFR, evitando jargões técnicos             |
+| RNF13 | O app deve suportar modo de operação em baixa conectividade, com cache de dados essenciais  |
+| RNF14 | Atualizações do app não devem causar perda de dados armazenados localmente                  |
+| RNF15 | Tempo de inatividade programada máximo de 2h por mês, com aviso prévio                      |
+| RNF16 | Tempo de carregamento inicial do app não deve ultrapassar 5 segundos em conexão móvel       |
+| RNF17 | Suporte a leitores de tela (TalkBack, VoiceOver) em todas as funcionalidades                |
+| RNF18 | Armazenamento anônimo de logs de erro respeitando a LGPD                                    |
+| RNF19 | Versão mínima em HTML5 responsiva para acesso via navegador em caso de falha do app         |
+| RNF20 | Clareza na apresentação de dados fiscais                                                    |
+| RNF21 | Integração confiável com serviços externos (Gov.br, instituições financeiras)               |
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado) e [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 
 ### Resultados da Priorização FTF
 Tabela 2 - Resultados da Priorização utilizando First Things First (FTF)
 
-| Funcionalidade | Benefício Relativo | Penalidade Relativa | Valor Total | Valor (%) | Custo Relativo | Custo (%) | Risco Relativo | Risco (%) | Prioridade |
-|----------------|---------------------|----------------------|-------------|-----------|----------------|-----------|----------------|-----------|------------|
-| r1             | 9                   | 9                    | 27          | 6.68      | 2.5            | 2.89      | 2.5            | 3.36      | 2.055      |
-| r2             | 8                   | 8                    | 27          | 6.68      | 6.0            | 6.94      | 3.3            | 4.46      | 1.095      |
-| r3             | 9                   | 9                    | 27          | 6.68      | 3.0            | 3.47      | 2.5            | 3.36      | 2.009      |
-| r4             | 8                   | 8                    | 24          | 5.94      | 3.5            | 4.05      | 3.3            | 4.46      | 1.456      |
-| r5             | 8                   | 7                    | 23          | 5.69      | 2.5            | 2.89      | 2.5            | 3.36      | 2.055      |
-| r6             | 8                   | 7                    | 23          | 5.69      | 5.0            | 5.79      | 3.3            | 4.46      | 1.062      |
-| r7             | 8                   | 6                    | 22          | 5.45      | 5.0            | 5.79      | 3.3            | 4.46      | 1.017      |
-| r8             | 9                   | 8                    | 26          | 6.43      | 6.0            | 6.94      | 4.2            | 5.59      | 0.957      |
-| r9             | 8                   | 6                    | 22          | 5.45      | 5.5            | 6.37      | 3.3            | 4.46      | 0.973      |
-| r10            | 8                   | 7                    | 23          | 5.69      | 2.5            | 2.89      | 3.6            | 4.91      | 1.589      |
-| r11            | 6                   | 5                    | 17          | 4.21      | 3.5            | 4.62      | 2.5            | 3.36      | 1.050      |
-| r12            | 7                   | 6                    | 20          | 4.95      | 2.5            | 2.89      | 2.5            | 3.36      | 2.055      |
-| r13            | 6                   | 5                    | 17          | 4.21      | 5.0            | 5.79      | 3.3            | 4.46      | 0.818      |
-| r14            | 7                   | 6                    | 20          | 4.95      | 3.5            | 4.62      | 3.3            | 4.46      | 1.087      |
-| r15            | 6                   | 5                    | 17          | 4.21      | 4.0            | 5.21      | 4.2            | 5.59      | 0.777      |
-| r16            | 6                   | 5                    | 17          | 4.21      | 6.0            | 6.94      | 4.2            | 5.59      | 0.691      |
-| r17            | 5                   | 4                    | 14          | 3.47      | 3.5            | 4.05      | 2.8            | 3.76      | 0.856      |
-| r18            | 7                   | 6                    | 20          | 4.95      | 3.5            | 4.05      | 3.3            | 4.46      | 1.170      |
-| r19            | 6                   | 5                    | 17          | 4.21      | 4.0            | 5.21      | 4.2            | 5.59      | 0.777      |
-| **Total**      |                     |                      | **439**     | **100**   | **86.5**       | **100**    | **74.4**       | **100**    |            |
-_Fonte - Autores._
+| Funcionalidade                                                                                       |   Benefício Relativo |   Penalidade Relativa |   Valor Total |   Valor (%) |   Custo Relativo |   Custo (%) |   Risco Relativo |   Risco (%) |   Prioridade |
+|:-----------------------------------------------------------------------------------------------------|---------------------:|----------------------:|--------------:|------------:|-----------------:|------------:|-----------------:|------------:|-------------:|
+| RNF12 - Linguagem da interface deve seguir padrão A2 do CEFR, evitando jargões técnicos              |                    7 |                     2 |             9 |    1.39752  |                1 |    0.392157 |                1 |    0.401606 |     3.52124  |
+| RF26 - FAQ interativo com busca inteligente (filtrado por tema: CPF, IRPF, Certidões etc.)           |                    9 |                     7 |            16 |    2.48447  |                3 |    1.17647  |                1 |    0.401606 |     3.14873  |
+| RF04 - Notificação de vencimento próximo                                                             |                    5 |                     7 |            12 |    1.86335  |                2 |    0.784314 |                1 |    0.401606 |     3.14246  |
+| RF09 - Declaração simplificada do IR                                                                 |                    6 |                     9 |            15 |    2.32919  |                2 |    0.784314 |                2 |    0.803213 |     2.93437  |
+| RF24 - Reenvio de notificações perdidas via e-mail ou mensagem no app                                |                    7 |                     6 |            13 |    2.01863  |                2 |    0.784314 |                2 |    0.803213 |     2.54312  |
+| RNF2 - Conteúdo educativo para iniciantes                                                            |                    8 |                     5 |            13 |    2.01863  |                2 |    0.784314 |                2 |    0.803213 |     2.54312  |
+| RF23 - Compartilhamento de comprovantes e certidões por WhatsApp, e-mail ou Drive                    |                    8 |                     4 |            12 |    1.86335  |                3 |    1.17647  |                2 |    0.803213 |     1.88248  |
+| RF34 - Emitir comprovante de CPF em PDF                                                              |                    7 |                     3 |            10 |    1.5528   |                3 |    1.17647  |                2 |    0.803213 |     1.56873  |
+| RF08 - Funcionalidade de histórico e acompanhamento de restituições de anos anteriores               |                    4 |                     6 |            10 |    1.5528   |                3 |    1.17647  |                2 |    0.803213 |     1.56873  |
+| RF17 - Emissão de certidão negativa via aplicativo                                                   |                    3 |                     5 |             8 |    1.24224  |                2 |    0.784314 |                2 |    0.803213 |     1.565    |
+| RF31 - Visualização de notícias e vídeos institucionais da Receita Federal                           |                    1 |                     3 |             4 |    0.621118 |                1 |    0.392157 |                1 |    0.401606 |     1.565    |
+| RF06 - Acesso offline a serviços essenciais do app (históricos de contribuições, DARFs)              |                    6 |                     7 |            13 |    2.01863  |                4 |    1.56863  |                3 |    1.20482  |     1.45569  |
+| RNF5 - Interface responsiva e acessível                                                              |                    8 |                     5 |            13 |    2.01863  |                4 |    1.56863  |                3 |    1.20482  |     1.45569  |
+| RF20 - Acompanhar processos no próprio aplicativo                                                    |                    9 |                     4 |            13 |    2.01863  |                4 |    1.56863  |                3 |    1.20482  |     1.45569  |
+| RF15 - Declaração do Imposto de Renda diretamente pelo app                                           |                    9 |                     4 |            13 |    2.01863  |                3 |    1.17647  |                4 |    1.60643  |     1.45074  |
+| RNF4 - Proteção de dados pessoais conforme a LGPD                                                    |                    9 |                     9 |            18 |    2.79503  |                4 |    1.56863  |                6 |    2.40964  |     1.40515  |
+| RF11 - Consultar o status do CPF (ativo ou não)                                                      |                    7 |                     9 |            16 |    2.48447  |                5 |    1.96078  |                4 |    1.60643  |     1.39295  |
+| RF29 - Consulta de tabelas CNAE, NCM e unidades da Receita Federal                                   |                    8 |                     6 |            14 |    2.17391  |                3 |    1.17647  |                5 |    2.00803  |     1.36531  |
+| RNF14 - Atualizações do app não devem causar perda de dados armazenados localmente                   |                    9 |                     8 |            17 |    2.63975  |                6 |    2.35294  |                4 |    1.60643  |     1.33342  |
+| RF25 - Comparativo automático entre declarações de anos anteriores                                   |                    8 |                     5 |            13 |    2.01863  |                4 |    1.56863  |                4 |    1.60643  |     1.27156  |
+| RNF18 - Armazenamento anônimo de logs de erro respeitando a LGPD                                     |                    9 |                     7 |            16 |    2.48447  |                4 |    1.56863  |                6 |    2.40964  |     1.24902  |
+| RNF6 - Interface com a possibilidade de uso do modo escuro                                           |                    9 |                     2 |            11 |    1.70807  |                4 |    1.56863  |                3 |    1.20482  |     1.23173  |
+| RF14 - Acessar informações detalhadas a cerca da declaração de imposto de renda de um ano especifico |                    9 |                     2 |            11 |    1.70807  |                3 |    1.17647  |                4 |    1.60643  |     1.22755  |
+| RF32 - Consultar débitos pendentes (DARFs)                                                           |                    8 |                     6 |            14 |    2.17391  |                4 |    1.56863  |                5 |    2.00803  |     1.21561  |
+| RF16 - O aplicativo deve mostrar um histórico de envio das declarações entregues pelo usuário.       |                    6 |                     3 |             9 |    1.39752  |                3 |    1.17647  |                3 |    1.20482  |     1.17375  |
+| RNF20 - Clareza na apresentação de dados fiscais                                                     |                    9 |                     7 |            16 |    2.48447  |                6 |    2.35294  |                5 |    2.00803  |     1.13941  |
+| RNF13 - O app deve suportar modo de operação em baixa conectividade, com cache de dados essenciais   |                    8 |                     5 |            13 |    2.01863  |                4 |    1.56863  |                5 |    2.00803  |     1.12878  |
+| RF10 - Geração de guias de pagamento                                                                 |                    5 |                     5 |            10 |    1.5528   |                3 |    1.17647  |                4 |    1.60643  |     1.11596  |
+| RF05 - Agendar no próprio aplicativo atendimentos presenciais em unidades da Receita Federal         |                    7 |                     4 |            11 |    1.70807  |                5 |    1.96078  |                3 |    1.20482  |     1.07915  |
+| RNF8 - Compatível com Android 8+ e iOS 14+                                                           |                    7 |                     3 |            10 |    1.5528   |                4 |    1.56863  |                4 |    1.60643  |     0.978122 |
+| RF33 - Pagamento do DARF com cartão de crédito                                                       |                    7 |                     8 |            15 |    2.32919  |                6 |    2.35294  |                6 |    2.40964  |     0.978122 |
+| RF01 - Acesso simultâneo a múltiplos CPFs/CNPJs                                                      |                    8 |                     7 |            15 |    2.32919  |                6 |    2.35294  |                6 |    2.40964  |     0.978122 |
+| RNF7 - Testes de segurança para garantir a integridade dos dados e autenticação segura               |                    8 |                     7 |            15 |    2.32919  |                5 |    1.96078  |                7 |    2.81124  |     0.976185 |
+| RNF17 - Suporte a leitores de tela (TalkBack, VoiceOver) em todas as funcionalidades                 |                    9 |                     3 |            12 |    1.86335  |                5 |    1.96078  |                6 |    2.40964  |     0.852711 |
+| RNF3 - Testes de desempenho para suportar alta demanda de usuários simultâneos                       |                    9 |                     8 |            17 |    2.63975  |                9 |    3.52941  |                7 |    2.81124  |     0.832643 |
+| RF07 - Alteração de dados via app                                                                    |                    9 |                     8 |            17 |    2.63975  |                8 |    3.13725  |                8 |    3.21285  |     0.831404 |
+| RF12 - Integração com conta Gov.br                                                                   |                    9 |                     9 |            18 |    2.79503  |                8 |    3.13725  |                9 |    3.61446  |     0.827947 |
+| RNF9 - Testes de usabilidade semestrais com público 60+                                              |                    4 |                     7 |            11 |    1.70807  |                8 |    3.13725  |                3 |    1.20482  |     0.786755 |
+| RNF1 - Acessibilidade (chatbot, imagens, vídeos) — melhorias no chatbot                              |                    4 |                     2 |             6 |    0.931677 |                4 |    1.56863  |                2 |    0.803213 |     0.785615 |
+| RNF11 - O aplicativo deve funcionar em smartphones com telas de 4.5" a 7" sem perda de usabilidade   |                    3 |                     4 |             7 |    1.08696  |                4 |    1.56863  |                3 |    1.20482  |     0.783831 |
+| RNF21 - Integração confiável com serviços externos (Gov.br, instituições financeiras)                |                    9 |                     9 |            18 |    2.79503  |                9 |    3.52941  |                9 |    3.61446  |     0.782498 |
+| RF13 - Envio de documentos para instrução de processos                                               |                    7 |                     8 |            15 |    2.32919  |                7 |    2.7451   |                8 |    3.21285  |     0.781877 |
+| RF28 - Consulta de inscrição no CNPJ                                                                 |                    3 |                     4 |             7 |    1.08696  |                3 |    1.17647  |                4 |    1.60643  |     0.781169 |
+| RF18 - Consultar pendências de Malha                                                                 |                    5 |                     6 |            11 |    1.70807  |                6 |    2.35294  |                6 |    2.40964  |     0.71729  |
+| RF27 - Integração com calendário do dispositivo para lembretes de obrigações fiscais                 |                    4 |                     7 |            11 |    1.70807  |                6 |    2.35294  |                7 |    2.81124  |     0.661508 |
+| RF19 - Dashboard para profissionais contábeis de múltiplos CPFs/CNPJs                                |                    8 |                     5 |            13 |    2.01863  |                8 |    3.13725  |                8 |    3.21285  |     0.635779 |
+| RNF19 - Versão mínima em HTML5 responsiva para acesso via navegador em caso de falha do app          |                    6 |                     4 |            10 |    1.5528   |                7 |    2.7451   |                6 |    2.40964  |     0.602473 |
+| RF02 - Cadastro de CPF via app (totalmente remoto)                                                   |                    8 |                     5 |            13 |    2.01863  |                9 |    3.52941  |                8 |    3.21285  |     0.5988   |
+| RF30 - Acesso à Caixa Postal para mensagens oficiais da Receita Federal                              |                    2 |                     4 |             6 |    0.931677 |                4 |    1.56863  |                4 |    1.60643  |     0.586873 |
+| RF03 - Acompanhamento de status da restituição (precisão quanto aos lotes)                           |                    6 |                     4 |            10 |    1.5528   |                7 |    2.7451   |                8 |    3.21285  |     0.521251 |
+| RNF15 - Tempo de inatividade programada máximo de 2h por mês, com aviso prévo                        |                    1 |                     3 |             4 |    0.621118 |                2 |    0.784314 |                5 |    2.00803  |     0.444872 |
+| RF22 - Permitir via App autorização de acesso à terceiros                                            |                    5 |                     2 |             7 |    1.08696  |                6 |    2.35294  |                7 |    2.81124  |     0.420959 |
+| RF21 - Integração com o App Esocial dentro do próprio                                                |                    4 |                     3 |             7 |    1.08696  |                6 |    2.35294  |                7 |    2.81124  |     0.420959 |
+| RNF10 - O aplicativo deve ter tempo de resposta inferior a 3 segundos para ações comuns              |                    1 |                     3 |             4 |    0.621118 |                7 |    2.7451   |                4 |    1.60643  |     0.285472 |
+| RNF16 - Tempo de carregamento inicial do app não deve ultrapassar 5 segundos em conexão móvel        |                    1 |                     1 |             2 |    0.310559 |                4 |    1.56863  |                5 |    2.00803  |     0.173659 |
+| **Total** |  |  | **1288** | **100** | **510.0** | **100** | **498.0** | **100** |  |
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado) e [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 
 ## 4. Referências
 
 > WIEGERS, Karl E.; BEATTY, Joy. *Software Requirements*. 3. ed. Microsoft Press, 2013. cap. 16, p. 313–329.
+[Página da Referência Aqui](../../assets/referencia-imagens/referencia-ftf01.png)
 
 ## 5. Histórico de versões
 
@@ -104,6 +180,5 @@ _Fonte - Autores._
 |   1.0  | 03/05/2025 | [Diassis](https://github.com/Diaxiz) e [Marco](https://github.com/marcomarquesdc)  | Primeira Versão do FTF | [José Eduardo](https://github.com/jevprado)   |
 |   1.1  | 03/05/2025 | [Diassis](https://github.com/Diaxiz) e [Marco](https://github.com/marcomarquesdc)  | Correção no texto | [José Eduardo](https://github.com/jevprado)   |
 |   1.2  | 11/05/2025 | [Diassis](https://github.com/Diaxiz) e [Marco](https://github.com/marcomarquesdc)  | Correção no texto | [José Eduardo](https://github.com/jevprado)   |
-
-
+|   1.3  | 11/05/2025 | [Diassis](https://github.com/Diaxiz) e [José Eduardo](https://github.com/jevprado)  | Correção dos requisitos, e implementação do FTF com usuário, e sua respectiva validação. Imagem de referência adicionada. |  REVISOR AQUI  |
 
