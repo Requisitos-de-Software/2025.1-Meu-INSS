@@ -597,7 +597,7 @@ Padrão de tabelas para as histórias de usuário
 <p style="text-align: center"><b>Video 2</b> - Validacao US 13 - US 18 </p>
 
 <iframe width="600" height="315" 
-        src="https://youtu.be/embed/Nq58tD6ojJI" 
+        src="https://www.youtube.com/embed/Nq58tD6ojJI" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
@@ -612,7 +612,7 @@ Padrão de tabelas para as histórias de usuário
 <p style="text-align: center"><b>Video 3</b> - Validacao US 31 - US 36 </p>
 
 <iframe width="600" height="315" 
-        src="https://youtu.be/embed/o0KKq7zTrEc" 
+        src="https://www.youtube.com/embed/o0KKq7zTrEc" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
