@@ -592,6 +592,37 @@ Padrão de tabelas para as histórias de usuário
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
+### Validação das US 13 - US 18 
+
+<p style="text-align: center"><b>Video 2</b> - Validacao US 13 - US 18 </p>
+
+<iframe width="600" height="315" 
+        src="https://youtu.be/embed/Nq58tD6ojJI" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Júlia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
+
+### Validação das US 31 - US 36 
+
+<p style="text-align: center"><b>Video 3</b> - Validacao US 31 - US 36 </p>
+
+<iframe width="600" height="315" 
+        src="https://youtu.be/embed/o0KKq7zTrEc" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [João Pedro Rodrigues](https://github.com/JpRodrigues2), 2025.</p></font>
+
+
 ## Referencias 
 
 > <a>1.</a> PRESSMAN, Roger S.; MAXIM, Bruce R. *Engenharia de Software*. McGraw-Hill, 2016.
@@ -614,3 +645,4 @@ Versão |   Data     | Descrição | Autor(es) | Revisor(es)
 `1.8`  | 08/06/2025 | Removendo US repetidas ou sem RF relacionado | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
 `1.9`  | 22/06/2025 | Adicionando o video de validacao e priorizacao US 01 - US 06 | [Jose Eduardo](https://github.com/jevprado) | [Júlia Massuda](https://github.com/JuliaReis18) |
 `2.0`  | 22/06/2025 | Correção da US e RF | [Diaxiz](https://github.com/Diassis) | [Jose Eduardo](https://github.com/jevprado) |
+`2.1`  | 03/07/2025 | Adicionando o video de validacao e priorizacao US 13 - US 18 e US 31 - US 36 | [Júlia Massuda](https://github.com/JuliaReis18) | add revisor 
