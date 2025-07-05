@@ -251,6 +251,19 @@ O protótipo do requisito RF04 foi desenvolvido para permitir notificações de 
 
 ![Protótipo RF04](../assets/prototipacao/prototipo-marco/prototipo-RF04.jpeg)
 
+### Entrevista de validação com o cliente 
+
+<p style="text-align: center"><b>Vídeo 4</b> - Validação do RF04</p>
+
+<iframe width="700" height="400"
+        src="https://www.youtube.com/embed/uidcElbyaMY"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+</iframe>
+
 <font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 <h3>Protótipo Navegável</h3>
@@ -289,6 +302,19 @@ O protótipo do requisito RF26 foi projetado para possibilitar a visualização 
   allowfullscreen>
 </iframe>
 
+### Entrevista de validação com o cliente 
+
+<p style="text-align: center"><b>Vídeo 4</b> - Validação do RF26</p>
+
+<iframe width="700" height="400"
+        src="https://www.youtube.com/embed/r5kZJC_vyUY"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+</iframe>
+
 <font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 ## Prototipação do [RF07](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
@@ -311,6 +337,19 @@ O protótipo referente ao requisito RF07 foi desenvolvido com foco na funcionali
   height="600"
   src="https://www.figma.com/embed?embed_host=share&url=AQUI_VAI_O_LINK_DO_FIGMA"
   allowfullscreen>
+</iframe>
+
+### Entrevista de validação com o cliente 
+
+<p style="text-align: center"><b>Vídeo 4</b> - Validação do RF07</p>
+
+<iframe width="700" height="400"
+        src="https://www.youtube.com/embed/bbEpApUxw7g"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
 </iframe>
 
 <font size="3"><p style="text-align: center">Fonte: [André Lopes](https://github.com/andrewslopes), 2025.</p></font>
