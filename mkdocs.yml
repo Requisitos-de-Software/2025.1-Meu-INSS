@@ -120,4 +120,13 @@ nav:
   - Validação: 
       - Prototipação: validacao/prototipacao.md
       - Comprovação Informal: validacao/comprovante-informal.md 
-
+  - Entrega final: 
+      - Aplicativo selecionado: entrega-final/app-selecionado.md
+      - Cronograma Executado: entrega-final/cronograma-executado.md
+      - Ferramentas utilizadas: entrega-final/ferramentas-utilizadas.md
+      - Tecnicas utilizadas: entrega-final/tecnica-utilizada.md
+      - Artefatos criados: entrega-final/artefatos-criados.md
+      - Resultados alcançados: entrega-final/resultados.md
+      - Verificação e validação: entrega-final/verificacao-validacao.md
+      - Apresentações: entrega-final/apresentacoes.md
+      - Considerações finais: entrega-final/consideracoes-finais.md
