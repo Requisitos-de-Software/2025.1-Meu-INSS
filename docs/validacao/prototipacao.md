@@ -286,21 +286,21 @@ O protótipo do requisito RF26 foi projetado para possibilitar a visualização 
 
 <p style="text-align: center"><b>Imagem 2</b> - Protótipo RF26</p>
 
-![Protótipo RF26](../assets/prototipacao/prototipo-marco/prototipo-RF26.jpeg)
-
 <font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 <h3>Protótipo Navegável</h3>
 
-<p style="text-align: center"><b>Protótipo 10</b> - Protótipo do RF26 em funcionamento no Figma</p>
+<p style="text-align: center"><b>Protótipo X</b> - Prototipo do RFXXXX em funcionamento no figma</p>
 
 <iframe
   style="border: 1px solid rgba(0, 0, 0, 0.1);"
   width="85%"
   height="600"
-  src="https://www.figma.com/embed?embed_host=share&url=AQUI_VAI_O_LINK_DO_FIGMA"
+  src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/proto/ezg0EX6BoCrV9pNAWn32yO/Prototipos-RS-Andre-Lopes?node-id=23-273&p=f&t=iRtZQ4SNVERVWksv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A273"
   allowfullscreen>
 </iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 ### Entrevista de validação com o cliente 
 
