@@ -290,7 +290,7 @@ O protótipo do requisito RF26 foi projetado para possibilitar a visualização 
 
 <h3>Protótipo Navegável</h3>
 
-<p style="text-align: center"><b>Protótipo X</b> - Prototipo do RFXXXX em funcionamento no figma</p>
+<p style="text-align: center"><b>Protótipo FAQ</b> - Prototipo do RF26 em funcionamento no figma</p>
 
 <iframe
   style="border: 1px solid rgba(0, 0, 0, 0.1);"
