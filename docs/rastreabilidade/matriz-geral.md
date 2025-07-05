@@ -15,6 +15,15 @@ Assim, essa matriz contribui significativamente para a análise dos requisitos, 
 O objetivo deste artefato é reunir, em uma única matriz de rastreabilidade, os resultados obtidos por meio das análises Backward-From e Forward-From. Dessa forma, ele consolida as informações de rastreamento dos requisitos em uma visão integrada e mais completa.
 </p>
 
+## Tabela de contribuição 
+
+|Nome                                               | Contribuição                      | 
+| [Jose Eduardo](https://github.com/jevprado)       | Criação do documento <br> Criação da tabela de matriz geral com pré rastreabilidae,  artefatos e elos, com seus respectivos hyperlinks |
+| [Diassis](https://github.com/Diaxiz)    | Criação da introdução e metodologia <br> Revisor |
+| [João Pedro](https://github.com/JpRodrigues2)     | Revisor |
+| [Julia Massuda](https://github.com/JuliaReis18)     | Revisora |
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 ## Metodologia
 
@@ -126,3 +135,9 @@ Com isso, a matriz geral permite não apenas documentar o histórico dos requisi
 | `1.6`  | 21/06/2025 | Adicionando a rastreabilidade dos UC01 E UC02 | [Jose Eduardo](https://github.com/jevprado) |[Julia Massuda](https://github.com/JuliaReis18)|
 | `1.7`  | 05/07/2025 | Adicionando o link dos elos | [Jose Eduardo](https://github.com/jevprado) |[Diassis](https://github.com/Diaxiz)|
 | `1.8`  | 05/07/2025 | Adicionando a rastreabilidade dos UC 07, 08, 09, 10, 11 e 12 | [Jose Eduardo](https://github.com/jevprado) |[Diassis](https://github.com/Diaxiz)|
+
+
+
+[João Pedro](https://github.com/JpRodrigues2)
+[Diassis](https://github.com/Diaxiz)
+[Julia Massuda](https://github.com/JuliaReis18)
