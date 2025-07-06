@@ -249,8 +249,6 @@ O protótipo do requisito RF04 foi desenvolvido para permitir notificações de 
 
 <p style="text-align: center"><b>Imagem 1</b> - Protótipo RF04</p>
 
-![Protótipo RF04](../assets/prototipacao/prototipo-marco/prototipo-RF04.jpeg)
-
 ### Entrevista de validação com o cliente 
 
 <p style="text-align: center"><b>Vídeo 4</b> - Validação do RF04</p>
@@ -268,13 +266,13 @@ O protótipo do requisito RF04 foi desenvolvido para permitir notificações de 
 
 <h3>Protótipo Navegável</h3>
 
-<p style="text-align: center"><b>Protótipo 9</b> - Protótipo do RF04 em funcionamento no Figma</p>
+<p style="text-align: center"><b>Protótipo RF04</b> - Prototipo do RF4 em funcionamento no figma</p>
 
 <iframe
   style="border: 1px solid rgba(0, 0, 0, 0.1);"
   width="85%"
   height="600"
-  src="https://www.figma.com/embed?embed_host=share&url=AQUI_VAI_O_LINK_DO_FIGMA"
+  src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/proto/ezg0EX6BoCrV9pNAWn32yO/Prototipos-RS-Andre-Lopes?node-id=23-273&p=f&t=iRtZQ4SNVERVWksv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A273"
   allowfullscreen>
 </iframe>
 
