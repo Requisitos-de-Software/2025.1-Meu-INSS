@@ -286,21 +286,21 @@ O protótipo do requisito RF26 foi projetado para possibilitar a visualização 
 
 <p style="text-align: center"><b>Imagem 2</b> - Protótipo RF26</p>
 
-![Protótipo RF26](../assets/prototipacao/prototipo-marco/prototipo-RF26.jpeg)
-
 <font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 <h3>Protótipo Navegável</h3>
 
-<p style="text-align: center"><b>Protótipo 10</b> - Protótipo do RF26 em funcionamento no Figma</p>
+<p style="text-align: center"><b>Protótipo FAQ</b> - Prototipo do RF26 em funcionamento no figma</p>
 
 <iframe
   style="border: 1px solid rgba(0, 0, 0, 0.1);"
   width="85%"
   height="600"
-  src="https://www.figma.com/embed?embed_host=share&url=AQUI_VAI_O_LINK_DO_FIGMA"
+  src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/proto/ezg0EX6BoCrV9pNAWn32yO/Prototipos-RS-Andre-Lopes?node-id=23-273&p=f&t=iRtZQ4SNVERVWksv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A273"
   allowfullscreen>
 </iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 ### Entrevista de validação com o cliente 
 
@@ -323,22 +323,19 @@ O protótipo referente ao requisito RF07 foi desenvolvido com foco na funcionali
 
 <p style="text-align: center"><b>Imagem 1</b> - Protótipo RF07</p>
 
-![Protótipo RF07](../assets/prototipacao/prototipo-andre/prototipo-RF07.jpeg)
-
-<font size="3"><p style="text-align: center">Fonte: [André Lopes](https://github.com/andrewslopes), 2025.</p></font>
-
 <h3>Protótipo Navegável</h3>
 
-<p style="text-align: center"><b>Protótipo 11</b> - Protótipo do RF07 em funcionamento no Figma</p>
+<p style="text-align: center"><b>Protótipo RF07</b> - Prototipo do RF07 em funcionamento no figma</p>
 
 <iframe
   style="border: 1px solid rgba(0, 0, 0, 0.1);"
   width="85%"
   height="600"
-  src="https://www.figma.com/embed?embed_host=share&url=AQUI_VAI_O_LINK_DO_FIGMA"
+  src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/proto/ezg0EX6BoCrV9pNAWn32yO/Prototipos-RS-Andre-Lopes?node-id=23-273&p=f&t=iRtZQ4SNVERVWksv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A273"
   allowfullscreen>
 </iframe>
 
+<font size="3"><p style="text-align: center">Fonte: [André Lopes](https://github.com/andrewslopes), 2025.</p></font>
 ### Entrevista de validação com o cliente 
 
 <p style="text-align: center"><b>Vídeo 4</b> - Validação do RF07</p>
@@ -445,3 +442,4 @@ O protótipo referente ao requisito RF07 foi desenvolvido com foco na funcionali
 | `1.6`   | 22/06/2025 | Prototipação do RF07               |  [Andre](https://github.com/Andrewslopes) | [Diassis](https://github.com/Diaxiz)
 | `1.7`   | 22/06/2025 | Prototipação do RF02 E RF20                    |  [Diassis](https://github.com/Diaxiz) | [José Eduardo](https://github.com/jevprado)  |
 | `1.8`   | 22/06/2025 | Organizando tabela de atividades                   |  [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz)  |
+| `1.9`   | 07/07/2025 | Adicionando link figma dos protótipos RF04, RF26 e RF07                   |  [Marco](https://github.com/marcomarquesdc) e [Andre](https://github.com/Andrewslopes) | [Jose Eduardo](https://github.com/jevprado)  |
