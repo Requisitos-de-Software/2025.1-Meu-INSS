@@ -49,11 +49,38 @@
 
 ## Etapa 03 
 
+<p style="text-align: center"><b>Tabela 4</b> - Artefatos criados na Etapa 3 do projeto </p>
+
+| Artefato                        | Descrição                                          | Autor (es)                   | Revisor (es)                                                   | 
+| --------------- | ---------------------- | --------------- | ----------------------| 
+|[Cenários](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/) | Narrativas que descrevem situações específicas de interação entre o usuário e o sistema, ajudando a entender o comportamento esperado. | [Jose Eduardo](https://github.com/jevprado) e [Diassis](https://github.com/Diaxiz)  | [Diassis](https://github.com/Diaxiz) e [Thales Germano](https://github.com/thalesgvl) |
+|[Casos de uso](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/casosdeuso/) | Modelo que representa as funcionalidades do sistema sob a perspectiva do usuário, detalhando os fluxos de interação e as ações esperadas. | [Andre Lopes](https://github.com/andrewslopes), [Julia Massuda](https://github.com/JuliaReis18), [Jose Eduardo](https://github.com/jevprado), [João Pedro](https://github.com/JpRodrigues2) e [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado), [Diassis](https://github.com/Diaxiz)  e [Julia Massuda](https://github.com/JuliaReis18) | 
+|[Léxicos](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/) | Dicionário estruturado com termos relevantes do domínio do sistema, contendo definições, sinônimos e relações com requisitos. |[Thales Germano](https://github.com/thalesgvl), [Marco Marques](https://github.com/marcomarquesdc) e [Jose Eduardo](https://github.com/jevprado)  | [Diassis](https://github.com/Diaxiz) |
+|[Especificação Suplementar](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/especificacao-suplementar/) | Documento que agrupa os requisitos não funcionais do sistema, organizados segundo a classificação FURPS+, detalhando restrições e qualidades desejadas. | [Jose Eduardo](https://github.com/jevprado) e  [João Pedro](https://github.com/JpRodrigues2) |  [Diassis](https://github.com/Diaxiz) e [Jose Eduardo](https://github.com/jevprado)|
+
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+
 ## Etapa 04 
+
+<p style="text-align: center"><b>Tabela 5</b> - Artefatos criados na Etapa 4 do projeto </p>
+
+| Artefato                        | Descrição                                          | Autor (es)                   | Revisor (es)                                                   | 
+| --------------- | ---------------------- | --------------- | ----------------------| 
+|[NFR Framework](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/nfr-framework/) | Framework utilizado para identificar, estruturar e justificar requisitos não funcionais, com base em categorias como FURPS+, incluindo propagações de impacto entre softgoals. | [Jose Eduardo](https://github.com/jevprado), [Diassis](https://github.com/Diaxiz),[João Pedro](https://github.com/JpRodrigues2), [Julia Massuda](https://github.com/JuliaReis18), [Marco Marques](https://github.com/marcomarquesdc) e [Thales Germano](https://github.com/thalesgvl)   | [Diassis](https://github.com/Diaxiz),  [Thales Germano](https://github.com/thalesgvl) e [Jose Eduardo](https://github.com/jevprado) |
+|[Histórias de usuário](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/) | Requisitos funcionais descritos de forma centrada no usuário, geralmente no formato "Como [papel], quero [funcionalidade] para [benefício]", com critérios de aceitação claros. | [Jose Eduardo](https://github.com/jevprado), [Diassis](https://github.com/Diaxiz), [Julia Massuda](https://github.com/JuliaReis18), [João Pedro](https://github.com/JpRodrigues2) e [Thales Germano](https://github.com/thalesgvl) | [Jose Eduardo](https://github.com/jevprado), [Diassis](https://github.com/Diaxiz), [Julia Massuda](https://github.com/JuliaReis18) e [Thales Germano](https://github.com/thalesgvl)| 
+|[Backlog](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/backlog/) | Lista priorizada de funcionalidades e melhorias do sistema, organizada em épicos, features e histórias de usuário, utilizada para planejamento e acompanhamento ágil do projeto.| [Jose Eduardo](https://github.com/jevprado) e [Thales Germano](https://github.com/thalesgvl) | [Diassis](https://github.com/Diaxiz) e [Jose Eduardo](https://github.com/jevprado) |
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 ## Etapa 05 
 
 ## Etapa 06 
+
+## Referencias bibliograficas 
+
+
 
 
 ## Histórico de versão 
@@ -62,3 +89,4 @@ Versão |   Data     | Descrição | Autor(es) | Revisor(es)
 ------ | ---------- | --------------------------------------------- | ---------- | ----------
 `1.0`  | 06/07/2025 | Criando documento e adição da tabela referente a etapa 01| [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
 `1.1`  | 06/07/2025 | adição da tabela 03 - etapa 02| [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
+`1.2`  | 06/07/2025 | adição da tabela 04 e 05 - etapa 03 e 04| [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
