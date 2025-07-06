@@ -68,4 +68,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 `1.1` | 13/04/2025 | Adição de ferramentas | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
 `1.2` | 21/04/2025 | Adição de novas ferramentas | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
 `1.3` | 19/06/2025 | Adição de novas ferramentas II | [Jose Eduardo](https://github.com/jevprado) | [João Pedro](https://github.com/JpRodrigues2) |
-`1.4` | 05/07/2025 | Adição de novas ferramentas III | [Jose Eduardo](https://github.com/jevprado) |  |
+`1.4` | 05/07/2025 | Adição de novas ferramentas III | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
