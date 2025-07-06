@@ -323,22 +323,19 @@ O protótipo referente ao requisito RF07 foi desenvolvido com foco na funcionali
 
 <p style="text-align: center"><b>Imagem 1</b> - Protótipo RF07</p>
 
-![Protótipo RF07](../assets/prototipacao/prototipo-andre/prototipo-RF07.jpeg)
-
-<font size="3"><p style="text-align: center">Fonte: [André Lopes](https://github.com/andrewslopes), 2025.</p></font>
-
 <h3>Protótipo Navegável</h3>
 
-<p style="text-align: center"><b>Protótipo 11</b> - Protótipo do RF07 em funcionamento no Figma</p>
+<p style="text-align: center"><b>Protótipo RF07</b> - Prototipo do RF07 em funcionamento no figma</p>
 
 <iframe
   style="border: 1px solid rgba(0, 0, 0, 0.1);"
   width="85%"
   height="600"
-  src="https://www.figma.com/embed?embed_host=share&url=AQUI_VAI_O_LINK_DO_FIGMA"
+  src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/proto/ezg0EX6BoCrV9pNAWn32yO/Prototipos-RS-Andre-Lopes?node-id=23-273&p=f&t=iRtZQ4SNVERVWksv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A273"
   allowfullscreen>
 </iframe>
 
+<font size="3"><p style="text-align: center">Fonte: [André Lopes](https://github.com/andrewslopes), 2025.</p></font>
 ### Entrevista de validação com o cliente 
 
 <p style="text-align: center"><b>Vídeo 4</b> - Validação do RF07</p>
