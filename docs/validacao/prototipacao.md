@@ -442,3 +442,4 @@ O protótipo referente ao requisito RF07 foi desenvolvido com foco na funcionali
 | `1.6`   | 22/06/2025 | Prototipação do RF07               |  [Andre](https://github.com/Andrewslopes) | [Diassis](https://github.com/Diaxiz)
 | `1.7`   | 22/06/2025 | Prototipação do RF02 E RF20                    |  [Diassis](https://github.com/Diaxiz) | [José Eduardo](https://github.com/jevprado)  |
 | `1.8`   | 22/06/2025 | Organizando tabela de atividades                   |  [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz)  |
+| `1.9`   | 07/07/2025 | Adicionando link figma dos protótipos RF04, RF26 e RF07                   |  [Marco](https://github.com/marcomarquesdc) e [Andre](https://github.com/Andrewslopes) | [Jose Eduardo](https://github.com/jevprado)  |
