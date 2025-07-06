@@ -16,6 +16,7 @@ A técnica MoSCoW é utilizada para **priorizar requisitos** com base em sua imp
 | [Jose Eduardo](https://github.com/jevprado)       | Criação do documento `1.0` <br> Criação do documento `2.0`, participação na entrevista e tabela MoSCoW.                          | 
 | [Diassis](https://github.com/Diaxiz)                 | Participação na entrevista e criação da tabela MoSCoW.   | 
 | [Thales Germano](https://github.com/thalesgvl)       | Revisor da versão `1.0` |
+| [Marco Marques](https://github.com/marcomarquesdc)    |  Revisor `2.0`.                  |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -150,4 +151,5 @@ A priorização foi realizada de forma presencial, com a participação de membr
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 04/05/2025 | Criação do primeiro documento MoSCoW | [Jose Eduardo](https://github.com/jevprado) e [Andre Lopes](https://github.com/andrewslopes) | [Diassis](https://github.com/Diaxiz) |
-`2.0` | 04/07/2025 | Refatoração do documento MoSCoW com requisitos elicitados atualizados e adição do vídeo com usuário | [Jose Eduardo](https://github.com/jevprado) e [Diassis](https://github.com/Diaxiz) | REVISOR AQUI |
+`2.0` | 04/07/2025 | Refatoração do documento MoSCoW com requisitos elicitados atualizados e adição do vídeo com usuário | [Jose Eduardo](https://github.com/jevprado) e [Diassis](https://github.com/Diaxiz) | [Marco Marques](https://github.com/marcomarquesdc)  |
+

@@ -12,7 +12,8 @@ O First Things First (FTF) é uma técnica de priorização de requisitos que vi
 | ------------------------------------------------- | ----------------------------------------- | 
 | [Jose Eduardo](https://github.com/jevprado)       | Criação da tabela 02 e 03 <br> Participação no vídeo com usuário                       | 
 | [Diassis](https://github.com/Diaxiz)              | Criação do documento `1.0` e `2.0` <br> Criação da tabela 02 e 03 <br> Participação no vídeo com usuário.              | 
-| [Thales Germano](https://github.com/thalesgvl)    |  Revisor `1.0` e `2.0`.                  |
+| [Thales Germano](https://github.com/thalesgvl)    |  Revisor `1.0`, `2.0` e `2.1`               |
+| [Marco Marques](https://github.com/marcomarquesdc)    |  Revisor `2.2`.                  |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -215,4 +216,4 @@ A priorização seguiu uma sequência estruturada de etapas para garantir uma an
 | `1.2` | 11/05/2025 | Correção de texto | [Diassis](https://github.com/Diaxiz) e [Marco](https://github.com/marcomarquesdc)  | [José Eduardo](https://github.com/jevprado) |
 | `2.0` | 02/07/2025 | Correção dos requisitos, e implementação do FTF com usuário, e sua respectiva validação. Imagem de referência adicionada. | [Diassis](https://github.com/Diaxiz) e [José Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
 | `2.1` | 02/07/2025 | Padronizando o histórico de versões igual ao dos outros artefatos anteriores | [José Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
-| `2.2` | 05/07/2025 | Adicionando o vídeo da técnica | [José Eduardo](https://github.com/jevprado) | Revisor aqui |
+| `2.2` | 05/07/2025 | Adicionando o vídeo da técnica | [José Eduardo](https://github.com/jevprado) | [Marco Marques](https://github.com/marcomarquesdc) |
