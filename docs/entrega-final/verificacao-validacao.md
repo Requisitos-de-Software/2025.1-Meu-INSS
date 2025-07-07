@@ -1,4 +1,4 @@
-# Verificação e Validação - Receita Federal
+# Verificação e Validação
 
 ## Introdução
 
@@ -8,52 +8,82 @@ Conforme descrito no documento do artefato de verificação, o método utilizado
 
 A estratégia de planejamento adotada envolveu a verificação de cada artefato por um membro do grupo que não foi responsável por sua criação. Esse membro foi encarregado de elaborar uma lista de verificação (checklist) específica para o artefato em questão. Após a conclusão da verificação, o membro responsável pela criação do artefato ou da verificação assumiu a responsabilidade de corrigí-lo, levando em consideração as melhorias solicitadas durante a verificação e a validação das correções propostas.
 
-## Verificação dos Artefatos
+## Planejamento da Verificação
 
-Abaixo é possível encontrar os artefatos verificados do nosso grupo, com os respectivos autores e revisores.
+Abaixo estão os links para os planejamentos e listas de verificação das entregas:
 
-### Artefatos da Entrega 1
+- [Entrega 1](../verificacao/entrega1)
+- [Entrega 3](../verificacao/entrega3)
+- [Entrega 4](../verificacao/entrega4)
 
-| Artefato | Autor | Revisor | Status |
-| --- | --- | --- | --- |
-| [Rich Picture](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/Modelagem/RichPicture/) | [José Eduardo](https://github.com/JoseEduardo29) | [Júlia Massuda](https://github.com/juliamassuda) |  |
-| [Análise de Requisitos](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/AnaliseDeRequisitos/) | [Júlia Massuda](https://github.com/juliamassuda) | [José Eduardo](https://github.com/JoseEduardo29) |  |
 
-### Artefatos da Entrega 2
 
-| Artefato | Autor | Revisor | Status |
-| --- | --- | --- | --- |
-| [Casos de Uso](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/Modelagem/CasosDeUso/) | [José Eduardo](https://github.com/JoseEduardo29) | [Júlia Massuda](https://github.com/juliamassuda) |  |
-| [Diagrama de Classes](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/Modelagem/DiagramaDeClasses/) | [Júlia Massuda](https://github.com/juliamassuda) | [José Eduardo](https://github.com/JoseEduardo29) |  |
+Tabela 1: Artefatos verificados na Entrega 1
 
-### Artefatos da Entrega 3
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+| [App Escolhido](..docs/planejamento/selecao-app.md) | Marco Marques | Diassis |
+| [Lista de Apps Avaliados](..docs/planejamento/heatmap.md) | João Pedro | José Eduardo |
+| [Rich Picture](../docs/pre-rastreabilidade/richpicture.md) | Júlia Massuda e André Lopes | José Eduardo, Thales |
+| [Cronograma](..docs/planejamento/cronograma.md) | Thales Germano | José Eduardo |
+| [Ferramentas](..docs/planejamento/feramentas.md) | Júlia Massuda e André Lopes | José Eduardo, Thales |
 
-| Artefato | Autor | Revisor | Status |
-| --- | --- | --- | --- |
-| [Protótipos de Telas](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/Modelagem/PrototiposDeTelas/) | [José Eduardo](https://github.com/JoseEduardo29) | [Júlia Massuda](https://github.com/juliamassuda) |  |
-| [Histórias de Usuário](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/Elicitacao/HistoriasDeUsuario/) | [Júlia Massuda](https://github.com/juliamassuda) | [José Eduardo](https://github.com/JoseEduardo29) |  |
 
-### Artefatos da Entrega Final
+Tabela 2: Artefatos verificados na Entrega 2
 
-| Artefato | Autor | Revisor | Status |
-| --- | --- | --- | --- |
-| [Verificação e Validação](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/Final/Verificacao_Validacao/) | [Manus](https://github.com/google-gemini) | [Usuário](https://github.com/user) |  |
-| [Guia de Estilo](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/Guias/GuiaDeEstilo/) | [José Eduardo](https://github.com/JoseEduardo29) | [Júlia Massuda](https://github.com/juliamassuda) |  |
-| [Guia de Boas Práticas](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/Guias/GuiaDeBoasPraticas/) | [Júlia Massuda](https://github.com/juliamassuda) | [José Eduardo](https://github.com/JoseEduardo29) |  |
-| [Apresentação 1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/Apresentacoes/Apresentacao1/) | [José Eduardo](https://github.com/JoseEduardo29) | [Júlia Massuda](https://github.com/juliamassuda) |  |
-| [Inspeção 1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/Inspecao/Inspecao1/) | [Júlia Massuda](https://github.com/juliamassuda) | [José Eduardo](https://github.com/JoseEduardo29) |  |
-| [Ata 1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/Atas/Ata1/) | [José Eduardo](https://github.com/JoseEduardo29) | [Júlia Massuda](https://github.com/juliamassuda) |  |
-| [Pré-Rastreabilidade](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/PreRastreabilidade/PreRastreabilidade/) | [Júlia Massuda](https://github.com/juliamassuda) | [José Eduardo](https://github.com/JoseEduardo29) |  |
-| [Planejamento](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/Planejamento/Planejamento/) | [José Eduardo](https://github.com/JoseEduardo29) | [Júlia Massuda](https://github.com/juliamassuda) |  |
-| [Elicitação](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/Elicitacao/Elicitacao/) | [Júlia Massuda](https://github.com/juliamassuda) | [José Eduardo](https://github.com/JoseEduardo29) |  |
-| [Modelagem Ágil](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/ModelagemAgil/ModelagemAgil/) | [José Eduardo](https://github.com/JoseEduardo29) | [Júlia Massuda](https://github.com/juliamassuda) |  |
-| [Rastreabilidade](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/Rastreabilidade/Rastreabilidade/) | [Júlia Massuda](https://github.com/juliamassuda) | [José Eduardo](https://github.com/JoseEduardo29) |  |
-| [Verificação](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/Verificacao/Verificacao/) | [José Eduardo](https://github.com/JoseEduardo29) | [Júlia Massuda](https://github.com/juliamassuda) |  |
-| [Validação](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/Validacao/Validacao/) | [Júlia Massuda](https://github.com/juliamassuda) | [José Eduardo](https://github.com/JoseEduardo29) |  |
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+| [Personas](..docs/elicitacao/personas.md) | José Eduardo | Júlia Massuda |
+| [Storytelling](..docs/elicitacao/storytelling.md) | José Eduardo | Diassis |
+| [Entrevista](..docs/elicitacao/entrevista.md) | André Lopes e José Eduardo  | João Pedro |
+| [Introspecção](..docs/elicitacao/introspeccao.md) | José Eduardo, Thales Germano, Marco Marques | José Eduardo |
+| [Priorização $100](..docs/elicitacao/priorizacao/100$.md) | Thales Germano, Andre Lopes e José Eduardo | Diassis |
+| [Priorização MoSCoW](..docs/elicitacao/priorizacao/MoSCoW.md) | Jose Eduardo, Diassis e Andre Lopes | Marco Marques |
+| [Priorização QFD](..docs/elicitacao/priorizacao/QFD.md) | Júlia Massuda e João Pedro | Diassis |
+| [Priorização ftf](..docs/elicitacao/priorizacao/ftf.md) | Diassis, Marco e José Eduardo | Thales Germano |
+| [Análise de Documentos](..docs/elicitacao/priorizacao/analisededocumentos.md) | Thales Germano, Marco e José Eduardo | Thales Germano |
+
+
+Tabela 3: Artefatos verificados na Entrega 3
+
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+| [Léxicos](..docs/modelagem/lexicos.md) | Thales, Marco e José Eduardo | Diassis |
+| [Cenários](..docs/modelagem/cenarios.md) | José eduardo e Diassis | Thales |
+| [Casos de Uso](..docs/modelagem/casos_de_uso.md) | Júlia Massuda, André Lopes, João Pedro, José Eduardo e Diassis | Julia Massuda |
+| [Especificação Suplementar](..docs/modelagem/especificacao-suplementar.md) | José Eduardo e João Pedro | Diassis |
+
+
+
+Tabela 4: Artefatos verificados na Entrega 4
+
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+| [Backlog](..docs/modelagem-agil/backlog.md) | Thales Germano e José Eduardo |Diassis |
+| [Histórias de Usuário](..docs/modelagem-agil/historias-usuario.md) | Júlia Massuda, José Eduardo, João Pedro, Diassis, André Lopes | - |
+| [NFR Framework](..docs/modelagem-agil/nfr-framework.md) | Todos os membros | - |
+
+
+
+Tabela 5: Artefatos verificados na Entrega 5
+
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+| [Verificação Entrega 1](..docs/verificacao/entrega1) | Diassis | João Pedro |
+| [Verificação Entrega 3](..docs/verificacao/entrega3) | José Eduardo | João Pedro |
+| [Verificação Entrega 4](..docs/verificacao/entrega4) | Júlia Massuda | José Eduardo |
+
+
+
+
+## Referências Bibliográficas
+
+- SOMMERVILLE, Ian. *Engenharia de software*. 8. ed. São Paulo: Pearson Addison Wesley, 2007.
+- SALES, André Barros de. [Plano de Ensino – Requisitos de Software: REE012025 – Turma 03](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf). Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025.
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| `1.0` | 07/07/2025 | Criação da página de verificação e validação | [Júlia Massuda](https://github.com/juliamassuda)  | - |
-| `1.1` | 07/07/2025 | Atualização da página com todos os artefatos  | [Júlia Massuda](https://github.com/juliamassuda)  | - |
+| `1.0` | 07/07/2025 | Criação da página de verificação e validação | [Júlia Massuda](https://github.com/JuliaReis18) | - |
+| `1.1` | 07/07/2025 | Atualização da página com todos os artefatos  | [Júlia Massuda](https://github.com/JuliaReis18)  | - |
