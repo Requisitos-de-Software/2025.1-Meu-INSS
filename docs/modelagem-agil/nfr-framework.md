@@ -12,7 +12,7 @@ Os *softgoals* ajudam desenvolvedores a tomar decisões durante o projeto, consi
 | ------------------------------------------------- | --------------------------------- |
 | [Thales Germano](https://github.com/thalesgvl)       | Criação do documento, ajustes <br> Adição do cartão 03 e 04 <br> Revisor. |
 | [Jose Eduardo](https://github.com/jevprado)       | Adição das imagens de referência e tópicos decomposição e contribuição, criação dos tópicos confiabilidade, desempenho, segurança, usabilidade e acessibilidade, adição do cartão 01 e 02, validação do cartão 01 e 02 e Adição dos SIG com imagens (figuras 02, 03 e 04). <br> Revisor. |
-| [Diassis](https://github.com/Diaxiz)    | Adição do cartão 03 e 04 <Revisor> |
+| [Diassis](https://github.com/Diaxiz)    | Adição do cartão 03 e 04 <br> Validação do cartão 03 e 04 com usuário <br> Revisor  |
 | [João Pedro](https://github.com/JpRodrigues2)     | Adição do cartão 09 e 10 |
 | [Julia Massuda](https://github.com/JuliaReis18)     | Adição do cartão 07 e 08 |
 | [Marco Marques](https://github.com/marcomarquesdc)     | Adição do cartão 11 e 12 <br> Revisor |
@@ -550,6 +550,22 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
+### Validação do Cartão de Especificação – RNF06 e RNF07
+
+<p style="text-align: center"><b>Vídeo 2</b> - Validação do Cartão de Especificação – RNF06 e RNF07</p>
+
+<iframe width="700" height="400"
+        src="https://www.youtube.com/embed/ZioPIqchkFI"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+</iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+
 
 ## Referências
 > <a>1.</a> SILVA, Reinaldo Antônio da. *NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. Recife: Universidade Federal de Pernambuco, 2019.
@@ -570,3 +586,4 @@ Disponível em: [https://aprender3.unb.br/pluginfile.php/3096155/mod\_resource/c
 | `1.7`    | 01/06/2025 | Adicionando cartões RNF 05/06 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado)| 
 | `1.8`    | 30/06/2025 | Adicionando validação dos cartões RNF 01/02 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz)| 
 | `1.9`    | 07/07/2025 | Adicionando os respectivos SIG (figuras, 02, 03 e 04) | [Jose Eduardo](https://github.com/jevprado) | [Marco Marques](https://github.com/marcomarquesdc) | 
+| `1.10`    | 07/07/2025 | Adicionando vídeo de validação RNF06 e RNF07  | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) | 
