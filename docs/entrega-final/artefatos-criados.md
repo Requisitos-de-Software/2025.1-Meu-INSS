@@ -9,7 +9,7 @@ Neste documento, tem como objetivo detalhar todos os artefatos produzidos durant
 | Membro                                             | Atividade                      |
 |----------------------------------------------------|------------------------------------|
 | [Jose Eduardo](https://github.com/jevprado)        | Criação do documento, introdução e tabelas 02, 03, 04, 05, 06 e 07 referentes as etapas do projeto. | 
-| [Diassis](https://github.com/Diaxiz)               | Revisor. | 
+| [Marco Marques](https://github.com/marcomarquesdc)              | Revisor. | 
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
