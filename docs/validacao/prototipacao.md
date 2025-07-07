@@ -26,9 +26,9 @@ Os **objetivos** dessa etapa são:
 | [José Eduardo](https://github.com/jevprado)        | Introdução, Metodologia e Objetivos. <br> Prototipação e validação do [RF03 - Acompanhamento de status da restituição (precisão quanto aos lotes) ](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF05 - Agendar no próprio aplicativo atendimentos presenciais em unidades da Receita Federal](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/). <br>  Revisor do RF23, RF24, RF20 e RF02.     | [Validado (Presencial)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/validacao/prototipacao/#entrevista-de-validacao-com-o-cliente) | [Validado (Presencial)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/validacao/prototipacao/#entrevista-de-validacao-com-o-cliente_1)  |
 | [João Pedro](https://github.com/JpRodrigues2)      | Prototipação do [RF21 –Integração com eSocial](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF27 – Integração com calendário do dispositivo](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) <br>  Revisor da Introdução, Metodologia e Objetivos, e dos [RF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/). | X | X | 
 | [Júlia Massuda](https://github.com/JuliaReis18)    | Prototipação e validação do [RF23 - Compartilhamento de comprovantes e certidões por WhatsApp, e-mail ou Drive](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF24 - Reenvio de notificações perdidas via e-mail ou mensagem no app](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) | X | [Validado (Presencial)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/validacao/prototipacao/#entrevista-de-validacao-com-o-cliente_2) |
-| [Marco](https://github.com/marcomarquesdc)         |  Prototipação  do [RF04 - Notificação de vencimento próximo](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF26 - FAQ interativo com busca inteligente (filtrado por tema: CPF, IRPF, Certidões etc.)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) | X | X | 
+| [Marco](https://github.com/marcomarquesdc)         |  Prototipação  do [RF04 - Notificação de vencimento próximo](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF26 - FAQ interativo com busca inteligente (filtrado por tema: CPF, IRPF, Certidões etc.)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) | Validado (presencial) | Validado (presencial) | 
 | [Diassis](https://github.com/Diaxiz)      | Prototipação do [RF20 - Acompanhar processos no próprio aplicativo](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF02 - Cadastro de CPF via app (totalmente remoto)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)  <br> Revisor do RF06, RF25, RF04, RF26, RF07.    | X | X |
-| [Andre](https://github.com/Andrewslopes)      | Prototipação do [RF07 - Alteração de dados via app](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | X | X |
+| [Andre](https://github.com/Andrewslopes)      | Prototipação do [RF07 - Alteração de dados via app](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | Validado (presencial) | Validado (presencial)|
 | [Thales Germano](https://github.com/thalesgvl)      | Prototipação do [RF06 - Acesso offline a serviços essenciais do app](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF25 - Comparativo automático entre declarações de anos anteriores ](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)    | X | X |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
@@ -249,8 +249,6 @@ O protótipo do requisito RF04 foi desenvolvido para permitir notificações de 
 
 <p style="text-align: center"><b>Imagem 1</b> - Protótipo RF04</p>
 
-![Protótipo RF04](../assets/prototipacao/prototipo-marco/prototipo-RF04.jpeg)
-
 ### Entrevista de validação com o cliente 
 
 <p style="text-align: center"><b>Vídeo 4</b> - Validação do RF04</p>
@@ -268,13 +266,13 @@ O protótipo do requisito RF04 foi desenvolvido para permitir notificações de 
 
 <h3>Protótipo Navegável</h3>
 
-<p style="text-align: center"><b>Protótipo 9</b> - Protótipo do RF04 em funcionamento no Figma</p>
+<p style="text-align: center"><b>Protótipo RF04</b> - Prototipo do RF4 em funcionamento no figma</p>
 
 <iframe
   style="border: 1px solid rgba(0, 0, 0, 0.1);"
   width="85%"
   height="600"
-  src="https://www.figma.com/embed?embed_host=share&url=AQUI_VAI_O_LINK_DO_FIGMA"
+  src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/proto/ezg0EX6BoCrV9pNAWn32yO/Prototipos-RS-Andre-Lopes?node-id=23-273&p=f&t=iRtZQ4SNVERVWksv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A273"
   allowfullscreen>
 </iframe>
 
