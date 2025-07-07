@@ -2,16 +2,33 @@
 ## Introdução
 Página dedicada para mostrar a organização das apresentações durante o semestre. 
 
-### Apresentação 1
+## Atividadades por membro 
+
+<p style="text-align: center"><b>Tabela 1</b> - Tabela de atividade dos membros da equipe </p>
+
+| Membro                                             | Atividade                      |
+|----------------------------------------------------|------------------------------------|
+| [Marco Marques](https://github.com/marcomarquesdc)       | Criação do documento, introdução e tabelas |
+| [Jose Eduardo](https://github.com/jevprado)              | Revisor. | 
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+### [Apresentação 1](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/apresentacoes/apresentacao2/)
+
+<p style="text-align: center"><b>Tabela 2</b> - Tabela da Apresentação 1 </p>
+
 | **Nome**|**Status da participação**                      | 
 |---------------------------------------------|------------|
+|[Andre Lopes](https://github.com/Andrewslopes)|Participou       |
+|[Diassis](https://github.com/Diaxiz)|Participou           |
 |[João Pedro](https://github.com/JpRodrigues2)|Participou  |
 |[José Eduardo](https://github.com/jevprado)|Participou    | 
-|[Andre](https://github.com/Andrewslopes)|Participou       |
-|[Thales Germano](https://github.com/thalesgvl)|Participou |
-|[Diassis](https://github.com/Diaxiz)|Participou           |
 |[Júlia Massuda](https://github.com/JuliaReis18)|Participou|
 |[Marco Marques](https://github.com/marcomarquesdc)|Participou|
+|[Thales Germano](https://github.com/thalesgvl)|Participou |
+
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
+
 
 #### Vídeo da apresentação
 
@@ -24,16 +41,21 @@ Página dedicada para mostrar a organização das apresentações durante o seme
         allowfullscreen>
 </iframe>
 
-### Apresentação 2
-| **Nome**|**Status da participação**                      |
-|---------------------------------------------|------------| 
+### [Apresentação 2](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/apresentacoes/apresentacao2/)
+
+<p style="text-align: center"><b>Tabela 3</b> - Tabela da Apresentação 2 </p>
+
+| **Nome**|**Status da participação**                      | 
+|---------------------------------------------|------------|
+|[Andre Lopes](https://github.com/Andrewslopes)|Participou       |
+|[Diassis](https://github.com/Diaxiz)|Participou           |
 |[João Pedro](https://github.com/JpRodrigues2)|Participou  |
 |[José Eduardo](https://github.com/jevprado)|Participou    | 
-|[Andre](https://github.com/Andrewslopes)|Participou       |
-|[Thales Germano](https://github.com/thalesgvl)|Participou |
-|[Diassis](https://github.com/Diaxiz)|Participou           |
 |[Júlia Massuda](https://github.com/JuliaReis18)|Participou|
 |[Marco Marques](https://github.com/marcomarquesdc)|Participou|
+|[Thales Germano](https://github.com/thalesgvl)|Participou |
+
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 #### Vídeo da apresentação
 
@@ -46,16 +68,21 @@ Página dedicada para mostrar a organização das apresentações durante o seme
         allowfullscreen>
 </iframe>
 
-### Apresentação 3
-| **Nome**|**Status da participação**                      |
-|---------------------------------------------|------------| 
+### [Apresentação 3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/apresentacoes/apresentacao3/)
+
+<p style="text-align: center"><b>Tabela 4</b> - Tabela da Apresentação 3 </p>
+
+| **Nome**|**Status da participação**                      | 
+|---------------------------------------------|------------|
+|[Andre Lopes](https://github.com/Andrewslopes)|Participou       |
+|[Diassis](https://github.com/Diaxiz)|Participou           |
 |[João Pedro](https://github.com/JpRodrigues2)|Participou  |
 |[José Eduardo](https://github.com/jevprado)|Participou    | 
-|[Andre](https://github.com/Andrewslopes)|Participou       |
-|[Thales Germano](https://github.com/thalesgvl)|Participou |
-|[Diassis](https://github.com/Diaxiz)|Participou           |
 |[Júlia Massuda](https://github.com/JuliaReis18)|Participou|
 |[Marco Marques](https://github.com/marcomarquesdc)|Participou|
+|[Thales Germano](https://github.com/thalesgvl)|Participou |
+
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 #### Vídeo da apresentação
 
@@ -68,16 +95,21 @@ Página dedicada para mostrar a organização das apresentações durante o seme
         allowfullscreen>
 </iframe>
 
-### Apresentação 4
-| **Nome**|**Status da participação**                      |
-|---------------------------------------------|------------| 
+### [Apresentação 4](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/apresentacoes/apresentacao4/)
+
+<p style="text-align: center"><b>Tabela 5</b> - Tabela da Apresentação 4 </p>
+
+| **Nome**|**Status da participação**                      | 
+|---------------------------------------------|------------|
+|[Andre Lopes](https://github.com/Andrewslopes)|Participou       |
+|[Diassis](https://github.com/Diaxiz)|Participou           |
 |[João Pedro](https://github.com/JpRodrigues2)|Participou  |
 |[José Eduardo](https://github.com/jevprado)|Participou    | 
-|[Andre](https://github.com/Andrewslopes)|Participou       |
-|[Thales Germano](https://github.com/thalesgvl)|Participou |
-|[Diassis](https://github.com/Diaxiz)|Participou           |
 |[Júlia Massuda](https://github.com/JuliaReis18)|Participou|
 |[Marco Marques](https://github.com/marcomarquesdc)|Participou|
+|[Thales Germano](https://github.com/thalesgvl)|Participou |
+
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 #### Vídeo da apresentação
 
@@ -90,16 +122,21 @@ Página dedicada para mostrar a organização das apresentações durante o seme
         allowfullscreen>
 </iframe>
 
-### Apresentação 5
-| **Nome**|**Status da participação**                      |
-|---------------------------------------------|------------| 
+### [Apresentação 5 (etapa 06)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/apresentacoes/apresentacao5/)
+
+<p style="text-align: center"><b>Tabela 6</b> - Tabela da Apresentação 5 (etapa 06) </p>
+
+| **Nome**|**Status da participação**                      | 
+|---------------------------------------------|------------|
+|[Andre Lopes](https://github.com/Andrewslopes)|Participou       |
+|[Diassis](https://github.com/Diaxiz)|Participou           |
 |[João Pedro](https://github.com/JpRodrigues2)|Participou  |
 |[José Eduardo](https://github.com/jevprado)|Participou    | 
-|[Andre](https://github.com/Andrewslopes)|Participou       |
-|[Thales Germano](https://github.com/thalesgvl)|Participou |
-|[Diassis](https://github.com/Diaxiz)|Participou           |
 |[Júlia Massuda](https://github.com/JuliaReis18)|Participou|
 |[Marco Marques](https://github.com/marcomarquesdc)|Participou|
+|[Thales Germano](https://github.com/thalesgvl)|Participou |
+
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 #### Vídeo da apresentação
 
@@ -112,16 +149,21 @@ Página dedicada para mostrar a organização das apresentações durante o seme
         allowfullscreen>
 </iframe>
 
-### Apresentação 6
-| **Nome**|**Status da participação**                      |
-|---------------------------------------------|------------| 
+### [Apresentação 6 (etapa 05)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/apresentacoes/apresentacao6/)
+
+<p style="text-align: center"><b>Tabela 7</b> - Tabela da Apresentação 6 (etapa 05) </p>
+
+| **Nome**|**Status da participação**                      | 
+|---------------------------------------------|------------|
+|[Andre Lopes](https://github.com/Andrewslopes)|Participou       |
+|[Diassis](https://github.com/Diaxiz)|Participou           |
 |[João Pedro](https://github.com/JpRodrigues2)|Participou  |
 |[José Eduardo](https://github.com/jevprado)|Participou    | 
-|[Andre](https://github.com/Andrewslopes)|Participou       |
-|[Thales Germano](https://github.com/thalesgvl)|Participou |
-|[Diassis](https://github.com/Diaxiz)|Participou           |
 |[Júlia Massuda](https://github.com/JuliaReis18)|Participou|
 |[Marco Marques](https://github.com/marcomarquesdc)|Participou|
+|[Thales Germano](https://github.com/thalesgvl)|Não participou |
+
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 #### Vídeo da apresentação
 
@@ -135,6 +177,7 @@ Página dedicada para mostrar a organização das apresentações durante o seme
 </iframe>
 
 ## Histórico de versões
-|Autor|Data|Versão|
-|--------------------------------------------------|----------|---|
-|[Marco Marques](https://github.com/marcomarquesdc)|07/07/2025|1.0|
+
+Versão |   Data  | Descrição | Autor(es) | Revisor(es)
+------ | ---- | ------ | ---------- | ----------
+`1.0` | 07/07/2025 | Criação do documento final das apresentações | [Marco Marques](https://github.com/marcomarquesdc) | [Jose Eduardo](https://github.com/jevprado)  |
