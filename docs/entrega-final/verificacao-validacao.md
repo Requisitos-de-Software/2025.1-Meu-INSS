@@ -23,35 +23,35 @@ Tabela 1: Artefatos verificados na Entrega 1
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
 | [App Escolhido](../planejamento/selecao-app.md) | Marco Marques | Diassis |
-| [Lista de Apps Avaliados](..docs/planejamento/heatmap.md) | João Pedro | José Eduardo |
-| [Rich Picture](../docs/pre-rastreabilidade/richpicture.md) | Júlia Massuda e André Lopes | José Eduardo, Thales |
-| [Cronograma](..docs/planejamento/cronograma.md) | Thales Germano | José Eduardo |
-| [Ferramentas](..docs/planejamento/feramentas.md) | Júlia Massuda e André Lopes | José Eduardo, Thales |
+| [Lista de Apps Avaliados](../planejamento/heatmap.md) | João Pedro | José Eduardo |
+| [Rich Picture](../pre-rastreabilidade/richpicture.md) | Júlia Massuda e André Lopes | José Eduardo, Thales |
+| [Cronograma](../planejamento/cronograma.md) | Thales Germano | José Eduardo |
+| [Ferramentas](../planejamento/feramentas.md) | Júlia Massuda e André Lopes | José Eduardo, Thales |
 
 
 Tabela 2: Artefatos verificados na Entrega 2
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-| [Personas](..docs/elicitacao/personas.md) | José Eduardo | Júlia Massuda |
-| [Storytelling](..docs/elicitacao/storytelling.md) | José Eduardo | Diassis |
-| [Entrevista](..docs/elicitacao/entrevista.md) | André Lopes e José Eduardo  | João Pedro |
-| [Introspecção](..docs/elicitacao/introspeccao.md) | José Eduardo, Thales Germano, Marco Marques | José Eduardo |
-| [Priorização $100](..docs/elicitacao/priorizacao/100$.md) | Thales Germano, Andre Lopes e José Eduardo | Diassis |
-| [Priorização MoSCoW](..docs/elicitacao/priorizacao/MoSCoW.md) | Jose Eduardo, Diassis e Andre Lopes | Marco Marques |
-| [Priorização QFD](..docs/elicitacao/priorizacao/QFD.md) | Júlia Massuda e João Pedro | Diassis |
-| [Priorização ftf](..docs/elicitacao/priorizacao/ftf.md) | Diassis, Marco e José Eduardo | Thales Germano |
-| [Análise de Documentos](..docs/elicitacao/priorizacao/analisededocumentos.md) | Thales Germano, Marco e José Eduardo | Thales Germano |
+| [Personas](../elicitacao/personas.md) | José Eduardo | Júlia Massuda |
+| [Storytelling](../elicitacao/storytelling.md) | José Eduardo | Diassis |
+| [Entrevista](../elicitacao/entrevista.md) | André Lopes e José Eduardo  | João Pedro |
+| [Introspecção](../elicitacao/introspeccao.md) | José Eduardo, Thales Germano, Marco Marques | José Eduardo |
+| [Priorização $100](../elicitacao/priorizacao/100$.md) | Thales Germano, Andre Lopes e José Eduardo | Diassis |
+| [Priorização MoSCoW](../elicitacao/priorizacao/MoSCoW.md) | Jose Eduardo, Diassis e Andre Lopes | Marco Marques |
+| [Priorização QFD](../elicitacao/priorizacao/QFD.md) | Júlia Massuda e João Pedro | Diassis |
+| [Priorização ftf](../elicitacao/priorizacao/ftf.md) | Diassis, Marco e José Eduardo | Thales Germano |
+| [Análise de Documentos](../elicitacao/priorizacao/analisededocumentos.md) | Thales Germano, Marco e José Eduardo | Thales Germano |
 
 
 Tabela 3: Artefatos verificados na Entrega 3
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-| [Léxicos](..docs/modelagem/lexicos.md) | Thales, Marco e José Eduardo | Diassis |
-| [Cenários](..docs/modelagem/cenarios.md) | José eduardo e Diassis | Thales |
-| [Casos de Uso](..docs/modelagem/casos_de_uso.md) | Júlia Massuda, André Lopes, João Pedro, José Eduardo e Diassis | Julia Massuda |
-| [Especificação Suplementar](..docs/modelagem/especificacao-suplementar.md) | José Eduardo e João Pedro | Diassis |
+| [Léxicos](../modelagem/lexicos.md) | Thales, Marco e José Eduardo | Diassis |
+| [Cenários](../modelagem/cenarios.md) | José eduardo e Diassis | Thales |
+| [Casos de Uso](../modelagem/casos_de_uso.md) | Júlia Massuda, André Lopes, João Pedro, José Eduardo e Diassis | Julia Massuda |
+| [Especificação Suplementar](../modelagem/especificacao-suplementar.md) | José Eduardo e João Pedro | Diassis |
 
 
 
@@ -59,9 +59,9 @@ Tabela 4: Artefatos verificados na Entrega 4
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-| [Backlog](..docs/modelagem-agil/backlog.md) | Thales Germano e José Eduardo |Diassis |
-| [Histórias de Usuário](..docs/modelagem-agil/historias-usuario.md) | Júlia Massuda, José Eduardo, João Pedro, Diassis, André Lopes | - |
-| [NFR Framework](..docs/modelagem-agil/nfr-framework.md) | Todos os membros | - |
+| [Backlog](../modelagem-agil/backlog.md) | Thales Germano e José Eduardo |Diassis |
+| [Histórias de Usuário](../modelagem-agil/historias-usuario.md) | Júlia Massuda, José Eduardo, João Pedro, Diassis, André Lopes | - |
+| [NFR Framework](../modelagem-agil/nfr-framework.md) | Todos os membros | - |
 
 
 
@@ -69,9 +69,9 @@ Tabela 5: Artefatos verificados na Entrega 5
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-| [Verificação Entrega 1](..docs/verificacao/entrega1) | Diassis | João Pedro |
-| [Verificação Entrega 3](..docs/verificacao/entrega3) | José Eduardo | João Pedro |
-| [Verificação Entrega 4](..docs/verificacao/entrega4) | Júlia Massuda | José Eduardo |
+| [Verificação Entrega 1](../verificacao/entrega1) | Diassis | João Pedro |
+| [Verificação Entrega 3](../verificacao/entrega3) | José Eduardo | João Pedro |
+| [Verificação Entrega 4](../verificacao/entrega4) | Júlia Massuda | José Eduardo |
 
 
 
