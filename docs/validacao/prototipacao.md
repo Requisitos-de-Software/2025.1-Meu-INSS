@@ -353,10 +353,13 @@ O protótipo referente ao requisito RF07 foi desenvolvido com foco na funcionali
 
 <p style="text-align: center"><b>Protótipo </b> - Validação do protótipo RF02</p>
 
+O usuário Julio Cesar realizou testes no protótipo desenvolvido, focando na funcionalidade correspondente ao [RF02 – Cadastro de CPF via app totalmente remoto](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/). Ele destacou os avanços implementados, a praticidade e a facilidade de uso ao realizar todo o processo de cadastro de CPF pelo aplicativo. Não foram apontadas melhorias.
+
+
 | Participantes                                | Função           | Data da realização da validação |
 | -------------------------------------------- | ---------------- | ------------------------------- | 
-| [Diassis](https://github.com/Diaxiz)  | Entrevistador    | ----                     |
-| ------                             | Usuário          | ----                    |
+| [Diassis](https://github.com/Diaxiz)  | Entrevistador    | 03/07/2025                     |
+| Julio Cesar                             | Usuário          | 03/07/2025                    |
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
@@ -382,16 +385,35 @@ O protótipo referente ao requisito RF07 foi desenvolvido com foco na funcionali
   allowfullscreen>
 </iframe>
 
+### Entrevista de validação com o cliente 
+
+<p style="text-align: center"><b>Vídeo 7</b> - Validação do RF03 e RF05</p>
+
+<iframe width="700" height="400" 
+        src="https://www.youtube.com/embed/EskTN113bUo" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+
+
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 ## Prototipação do [RF20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)
+
+O usuário Julio Cesar realizou testes no protótipo desenvolvido, focando na funcionalidade correspondente ao [RF20 – Acompanhar processos no próprio aplicativo](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/).
 
 <p style="text-align: center"><b>Protótipo </b> - Validação do protótipo RF20</p>
 
 | Participantes                                | Função           | Data da realização da validação |
 | -------------------------------------------- | ---------------- | ------------------------------- | 
-| [Diassis](https://github.com/Diaxiz)  | Entrevistador    | ----                     |
-| ------                             | Usuário          | ----                    |
+| [Diassis](https://github.com/Diaxiz)  | Entrevistador    | 03/07/2025                     |
+| Julio Cesar       | Usuário          | 03/07/2025                    |
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
@@ -419,6 +441,23 @@ O protótipo referente ao requisito RF07 foi desenvolvido com foco na funcionali
 
 <font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
+### Entrevista de validação com o cliente 
+
+<p style="text-align: center"><b>Vídeo 8</b> - Validação do RF03 e RF05</p>
+
+<iframe width="700" height="400" 
+        src="https://www.youtube.com/embed/EskTN113bUo" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
+
+
+
 ## Referencias 
 
 
@@ -441,3 +480,4 @@ O protótipo referente ao requisito RF07 foi desenvolvido com foco na funcionali
 | `1.7`   | 22/06/2025 | Prototipação do RF02 E RF20                    |  [Diassis](https://github.com/Diaxiz) | [José Eduardo](https://github.com/jevprado)  |
 | `1.8`   | 22/06/2025 | Organizando tabela de atividades                   |  [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz)  |
 | `1.9`   | 07/07/2025 | Adicionando link figma dos protótipos RF04, RF26 e RF07                   |  [Marco](https://github.com/marcomarquesdc) e [Andre](https://github.com/Andrewslopes) | [Jose Eduardo](https://github.com/jevprado)  |
+| `1.10`   | 07/07/2025 | Adicionando vídeo de verificação RF02 e RF20 |  [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado)  |

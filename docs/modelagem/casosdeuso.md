@@ -443,6 +443,20 @@ Identificam as interações entre os atores e os casos de uso, podendo ser:
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
+### Validação do Caso de Uso 11 - (UC11) e Caso de Uso 12 - (UC12)
+
+<p style="text-align: center"><b>Vídeo 2</b> - Validação do Caso de Uso 11 - (UC01) e Caso de Uso 12 - (UC12)</p>
+
+<iframe width="700" height="400"
+        src="https://www.youtube.com/embed/0xik4pa-gCw"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+</iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 
 ## Referências
@@ -466,3 +480,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
  `2.4`  | 22/06/2025 | Adição dos UC07 E UC08 | [João Pedro](https://github.com/JpRodrigues2)|[Julia Massuda](https://github.com/JuliaReis18)|
  `2.5`  | 30/06/2025 | Adicionando a validação do UC01 e UC02 | [Jose Eduardo](https://github.com/jevprado)| [Diassis](https://github.com/Diaxiz)|
  `2.6`  | 30/06/2025 | Criação de UC11 E UC12 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |
+ `2.7`  | 07/07/2025 | Adicionado Validação UC11 e UC12 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |
