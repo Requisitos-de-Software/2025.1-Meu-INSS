@@ -60,7 +60,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Código do req** | [RF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf03) |
 | **Backward-from** | [ADC3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/analisededocumentos/), [ST02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/storytelling/), [C04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/cenarios/#cenario-04), [L04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem/lexicos/#l04-visualizar-restituicao), [US01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/) |
 | **Foward-from** | Agregação – Relacionado à etapa de restituição |
-| **Representação** | - |
+| **Representação** | ![prototipo req 03](../assets/prototipacao/prototipo-jose/proto-RF03.gif) |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -76,7 +76,7 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 | **Código do req** | [RF05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf05) |
 | **Backward-from** | [INT3](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [US02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-02-agendar-no-proprio-app-da-receita-atendimentos-presenciais)|
 | **Foward-from** | Integração – Sistemas de agendamento da Receita<br>Satisfação – Facilidade de acesso aos serviços presenciais |
-| **Representação**| - |
+| **Representação**| ![prototipo req 05](../assets/prototipacao/prototipo-jose/proto-RF05.gif)|
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -255,20 +255,6 @@ Tabela 1 - Template do cartão usado na pós-rastreabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Julia Massuda](https://github.com/JuliaReis18), 2025.</p></font>
 
-### RF20
-
-<p style="text-align: center"><b>Tabela 20</b> - Tabela 20 - Cartão Pós Rastreabilidade RF20 </p>
-
-| Artefato Analisado | Classificação do Artefato Analisado |
-|--------------------|--------------------------------------|
-| **Descrição** | O aplicativo deve permitir o agendamento de serviços presenciais |
-| **Tipos de Elo** | Desenvolvimento / Organizacional |
-| **Código do req** | [RF20](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/#rf20) |
-| **Backward-from** | [INT18](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/introspeccao/), [US02](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/modelagem-agil/historias-usuario/#us-02-agendar-no-proprio-app-da-receita-atendimentos-presenciais) |
-| **Foward-from** | Agregação – Alocado no Módulo de Agendamento<br>Satisfação – Facilita agendamento de serviços pelo app |
-| **Representação** |  |
-
-<font size="3"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz), 2025.</p></font>
 
 ### RF21
 
