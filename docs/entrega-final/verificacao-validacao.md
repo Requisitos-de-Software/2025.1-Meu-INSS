@@ -22,7 +22,7 @@ Tabela 1: Artefatos verificados na Entrega 1
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-| [App Escolhido](..docs/planejamento/selecao-app.md) | Marco Marques | Diassis |
+| [App Escolhido](../planejamento/selecao-app.md) | Marco Marques | Diassis |
 | [Lista de Apps Avaliados](..docs/planejamento/heatmap.md) | João Pedro | José Eduardo |
 | [Rich Picture](../docs/pre-rastreabilidade/richpicture.md) | Júlia Massuda e André Lopes | José Eduardo, Thales |
 | [Cronograma](..docs/planejamento/cronograma.md) | Thales Germano | José Eduardo |
