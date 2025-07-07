@@ -18,10 +18,11 @@ O objetivo deste artefato é reunir, em uma única matriz de rastreabilidade, os
 ## Tabela de contribuição 
 
 |Nome                                               | Contribuição                      | 
-| [Jose Eduardo](https://github.com/jevprado)       | Criação do documento <br> Criação da tabela de matriz geral com pré rastreabilidae,  artefatos e elos, com seus respectivos hyperlinks |
-| [Diassis](https://github.com/Diaxiz)    | Criação da introdução e metodologia <br> Revisor |
-| [João Pedro](https://github.com/JpRodrigues2)     | Revisor |
-| [Julia Massuda](https://github.com/JuliaReis18)     | Revisora |
+| ------------------------------------------------- | --------------------------------- |
+| [Jose Eduardo](https://github.com/jevprado)       | Criação do documento <br> Criação da tabela de matriz geral com pré rastreabilidae,  artefatos e elos, com seus respectivos hyperlinks. |
+| [Diassis](https://github.com/Diaxiz)    | Criação da introdução e metodologia. <br> Revisor. |
+| [João Pedro](https://github.com/JpRodrigues2)     | Revisor. |
+| [Julia Massuda](https://github.com/JuliaReis18)     | Revisora. |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
@@ -138,6 +139,3 @@ Com isso, a matriz geral permite não apenas documentar o histórico dos requisi
 
 
 
-[João Pedro](https://github.com/JpRodrigues2)
-[Diassis](https://github.com/Diaxiz)
-[Julia Massuda](https://github.com/JuliaReis18)
