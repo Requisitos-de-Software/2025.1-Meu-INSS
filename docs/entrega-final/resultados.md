@@ -4,7 +4,7 @@ A disciplina se revelou ao grupo 6 de extrema relevância no contexto curricular
 
 Importante considerar que o grupo esteve a todo tempo coeso em seu propósito de aprendizagem dos objetivos da disciplina, e se propôs, não sem percalços, a realizar suas entregas da melhor forma possível. Os resultados conquistados podem ser observados na sequência.
 
-## Dos Objetivos do Projeto
+## Objetivos do Projeto
 
 Nosso projeto se pretendeu uma dedicação à compreensão do aplicativo da Receita Federal do Brasil, se propondo ao desenvolvimento de atividades relacionadas à gerência de requisitos (pré-rastreabilidade e pós-rastreabilidade, elicitação, análise e demais etapas fundamentais do processo de desenvolvimento de software orientado a requisitos).
 
@@ -14,7 +14,7 @@ Todos os requisitos elicitados foram formalizados em artefatos específicos, sej
 
 A percepção panorâmica do modelo foi possível a partir dessa construção, de sorte a se ter uma visão integrada do sistema.
 
-## Dos Resultados
+## Resultados
 
 O grupo foi atento à percepção da necessidade de uma linha encadeada de fases. Em disciplinas anteriores, como Metodologia de Desenvolvimento de Software e Interação Humano-Computador, a cultura da compreensão do contexto do pensamento metodológico dirigido à construção de um software já havia sido instaurada, o que facilitou a compreensão do processo proposto pelo professor André Barros.
 
