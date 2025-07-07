@@ -486,6 +486,12 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 - **RNF12** – A linguagem da interface deve seguir padrão A2 do CEFR, evitando jargões técnicos
 - **RNF17** – Suporte a leitores de tela
 - **RNF20** – Clareza na apresentação de dados fiscais
+  
+<p style="text-align: center"><b>Figura 3</b> - NFR03: Desempenho</p>
+
+![nfr_acessibilidade](../assets/image_2025-07-07_183838819.png)
+
+<font size="3"><p style="text-align: center">Fonte: [Marco](https://github.com/marcomarquesdc), 2025.</p></font>
 
 ### Propagação de Impacto
 
