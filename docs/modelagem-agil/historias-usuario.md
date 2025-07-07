@@ -638,11 +638,11 @@ Versão |   Data     | Descrição | Autor(es) | Revisor(es)
 `1.1`  | 31/05/2025 | Criação das US01 - US06 | [Jose Eduardo](https://github.com/jevprado) | [Thales Germano](https://github.com/thalesgvl) |
 `1.2`  | 31/05/2025 | Criação das US25 - US30 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |
 `1.3`  | 31/05/2025 | Criação das US07 - US12 | [Thales Germano](https://github.com/thalesgvl) |[Diassis](https://github.com/Diaxiz) |
-`1.4`  | 31/05/2025 | Criação das US13 - US18 | [Júlia Massuda](https://github.com/JuliaReis18) |[]() |
+`1.4`  | 31/05/2025 | Criação das US13 - US18 | [Júlia Massuda](https://github.com/JuliaReis18) |[Diassis](https://github.com/Diaxiz) |
 `1.5`  | 31/05/2025 | Criação das US31 - US36 | [João Pedro Rodrigues](https://github.com/JpRodrigues2) |[Júlia Massuda](https://github.com/JuliaReis18)|
 `1.6`  | 06/06/2025 | Adicionando Validaçao e Priorização das US13 - US18 | [Júlia Massuda](https://github.com/JuliaReis18) |[Jose Eduardo](https://github.com/jevprado) |
 `1.7`  | 06/06/2025 | Correções e Validações US-25 até US-30 | [Diassis](https://github.com/Diaxiz) |[Jose Eduardo](https://github.com/jevprado) |
 `1.8`  | 08/06/2025 | Removendo US repetidas ou sem RF relacionado | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
 `1.9`  | 22/06/2025 | Adicionando o video de validacao e priorizacao US 01 - US 06 | [Jose Eduardo](https://github.com/jevprado) | [Júlia Massuda](https://github.com/JuliaReis18) |
 `2.0`  | 22/06/2025 | Correção da US e RF | [Diaxiz](https://github.com/Diassis) | [Jose Eduardo](https://github.com/jevprado) |
-`2.1`  | 03/07/2025 | Adicionando o video de validacao e priorizacao US 13 - US 18 e US 31 - US 36 | [Júlia Massuda](https://github.com/JuliaReis18) | add revisor 
+`2.1`  | 03/07/2025 | Adicionando o video de validacao e priorizacao US 13 - US 18 e US 31 - US 36 | [Júlia Massuda](https://github.com/JuliaReis18) | [Diassis](https://github.com/Diaxiz) |

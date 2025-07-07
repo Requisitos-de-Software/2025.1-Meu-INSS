@@ -21,8 +21,8 @@ Para facilitar a organização, as histórias de usuário foram categorizadas em
 
 | Épico                                    | Feature                                                                            | Priorização |
 |------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-------------|
-| **E01 - Declaração do Imposto de Renda**       | F01 - Acompanhamento de status da restituição (precisão quanto aos lotes)                                            |       |
-|                                          | F02- Acesso a informações detalhadas da declaração de imposto de renda por ano                                      |     |
+| **E01 - Declaração do Imposto de Renda**       | F01 - Acompanhamento de status da restituição (precisão quanto aos lotes)                                            |  Should     |
+|                                          | F02- Acesso a informações detalhadas da declaração de imposto de renda por ano                                      |  Must   |
 |                                          | F03 - Comparativo automático entre declarações de anos anteriores                                                   | M    |
 |                                          | F04 - Declaração simplificada do IR                                                                                  |   |
 |                                          | F05 - Comparativo automático entre declarações                                                                      |             |
@@ -46,7 +46,6 @@ Para facilitar a organização, as histórias de usuário foram categorizadas em
 |                                          | F23 - Integração com conta Gov.br                                                                                      |             |
 | **E06 - Gestão de Documentos e Processos**       | F24 - Envio de documentos para instrução de processos                                                                 |             |
 |                                          | F25 - Consulta de pendências de Malha Fiscal                                                                           |             |
-
 | **E07 - Integrações e Autorização**               | F27 - Integração com eSocial                                                                                            |             |
 |                                          | F28 - Autorização de acesso a terceiros                                                                                 |             |
 |                                          | F29 - Consulta de tabelas auxiliares                                                                                   |             |
