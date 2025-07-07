@@ -47,4 +47,4 @@ Aponta ainda para o uso adequado de ferramentas que garantiram rastreabilidade, 
 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-1.0 | 07/07/2025 | Criação do documento de resultados | [Andre Lopes](https://github.com/Andrewslopes) | - |
+1.0 | 07/07/2025 | Criação do documento de resultados | [Andre Lopes](https://github.com/Andrewslopes) | [José Eduardo](https://github.com/jevprado) |
