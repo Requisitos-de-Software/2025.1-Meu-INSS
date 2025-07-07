@@ -37,6 +37,7 @@ A experiência de trabalhar neste projeto de Requisitos de Software foi enriquec
 
 
 ### [Marco Marques](https://github.com/marcomarquesdc) 
+Nesta disciplina pude compreender cada passo e técnicas do processo criativo e análise de um software. Os desafios dessa máteria me fizeram refletir sobre diversos aspectos da engenharia de software, contudo foi muito enriquecedor e trouxe experiências únicas. Pude enxergar como é trabalhoso a engenharia de requisitos no processo de desenvolvimento e análise. É necessário um conhecimento além de algo técnico, algo criativo e artístico para entender todas necessidades de um produto de software. Consigo concluir que ainda há uma gama de conhecimentos a serem explorados ainda quando se diz respeito a requisitos de software, que quando entendida o processo fica mais concreto e temos um produto mais robusto e sólido.
 
 ### [Thales Germano](https://github.com/thalesgvl)
 
