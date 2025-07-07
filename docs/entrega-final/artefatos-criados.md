@@ -83,12 +83,25 @@
 | Artefato                        | Descrição                                          | Autor (es)                   | Revisor (es)                                                   | 
 | --------------- | ---------------------- | --------------- | ----------------------| 
 |[Prototipação](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/validacao/prototipacao/) | Etapa essencial no processo de desenvolvimento de software, pois permite antecipar e validar, junto aos stakeholders, aspectos funcionais e não funcionais de um sistema antes da sua implementação definitiva.|[Andre Lopes](https://github.com/andrewslopes), [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [Jose Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18), [Marco Marques](https://github.com/marcomarquesdc) , [Thales Germano](https://github.com/thalesgvl) | [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [Jose Eduardo](https://github.com/jevprado) e  [Julia Massuda](https://github.com/JuliaReis18) |
+|[Comprovante Informal](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/validacao/comprovante-informal/) | Comprovação Informal com a  tentativa de contato com a equipe de desenvolvedores responsável pelo aplicativo da Receita Federal. |[Jose Eduardo](https://github.com/jevprado)  | [João Pedro](https://github.com/JpRodrigues2) |
+
+|[Planejamento Geral](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/verificacao/planejamento-geral/) |Página do planejamento geral das verificações usando a metodologia da inspeção de Feagan. |[Jose Eduardo](https://github.com/jevprado)  | [Diassis](https://github.com/Diaxiz) e [João Pedro](https://github.com/JpRodrigues2) |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 
 ## Etapa 06 
 
+<p style="text-align: center"><b>Tabela 5</b> - Artefatos criados na Etapa 4 do projeto </p>
+
+| Artefato                        | Descrição                                          | Autor (es)                   | Revisor (es)                                                   | 
+| --------------- | ---------------------- | --------------- | ----------------------| 
+|[Matriz de Rastreabilidade Geral](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/rastreabilidade/matriz-geral/) | Documento que estabelece ligações entre os diversos artefatos do projeto (requisitos, histórias, testes, léxicos etc.), permitindo acompanhar a origem, a evolução e o impacto de cada requisito ao longo do desenvolvimento.| [Jose Eduardo](https://github.com/jevprado) e   |  |
+|[Pós Rastreabilidade](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/rastreabilidade/pos-rastreabilidade//) | Comprovação Informal com a  tentativa de contato com a equipe de desenvolvedores responsável pelo aplicativo da Receita Federal. |[Jose Eduardo](https://github.com/jevprado) e [Diassis](https://github.com/Diaxiz)  | [João Pedro](https://github.com/JpRodrigues2), [Diassis](https://github.com/Diaxiz), [Julia Massuda](https://github.com/JuliaReis18) e  [Thales Germano](https://github.com/thalesgvl)  |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 
 ## Referencias bibliograficas 
