@@ -1,6 +1,6 @@
 ## Introdução 
 
-
+Neste documento, tem como objetivo detalhar todos os artefatos produzidos durante a disciplina ao longo do semestre, e com divisão de artefatos entregues por etapa do projeto. As informações contidas nas tabelas são respectivamente: **Artefato**, **Descrição**, **Autor(es)** e **Revisor(es)**.
 
 ## Atividadades por membro 
 
@@ -78,36 +78,38 @@
 
 ## Etapa 05 
 
-<p style="text-align: center"><b>Tabela 5</b> - Artefatos criados na Etapa 4 do projeto </p>
+<p style="text-align: center"><b>Tabela 6</b> - Artefatos criados na Etapa 5 do projeto </p>
 
 | Artefato                        | Descrição                                          | Autor (es)                   | Revisor (es)                                                   | 
 | --------------- | ---------------------- | --------------- | ----------------------| 
 |[Prototipação](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/validacao/prototipacao/) | Etapa essencial no processo de desenvolvimento de software, pois permite antecipar e validar, junto aos stakeholders, aspectos funcionais e não funcionais de um sistema antes da sua implementação definitiva.|[Andre Lopes](https://github.com/andrewslopes), [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [Jose Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18), [Marco Marques](https://github.com/marcomarquesdc) , [Thales Germano](https://github.com/thalesgvl) | [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [Jose Eduardo](https://github.com/jevprado) e  [Julia Massuda](https://github.com/JuliaReis18) |
 |[Comprovante Informal](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/validacao/comprovante-informal/) | Comprovação Informal com a  tentativa de contato com a equipe de desenvolvedores responsável pelo aplicativo da Receita Federal. |[Jose Eduardo](https://github.com/jevprado)  | [João Pedro](https://github.com/JpRodrigues2) |
-
 |[Planejamento Geral](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/verificacao/planejamento-geral/) |Página do planejamento geral das verificações usando a metodologia da inspeção de Feagan. |[Jose Eduardo](https://github.com/jevprado)  | [Diassis](https://github.com/Diaxiz) e [João Pedro](https://github.com/JpRodrigues2) |
-
+|[Planejamento de Verificação - Entrega 01](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/verificacao/entrega1/planejamento1/) |Página do planejamento da verificação - Etapa 01 | [Diassis](https://github.com/Diaxiz) | [João Pedro](https://github.com/JpRodrigues2) |
+|[Verificação  Entrega 01 - Rich Picture](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/verificacao/entrega1/planejamento1/) |Página de verificação - Etapa 01 - Rich Picture| [Jose Eduardo](https://github.com/jevprado) | [João Pedro](https://github.com/JpRodrigues2) |
+|[Planejamento de Verificação - Entrega 03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/verificacao/entrega3/planejamento3/) |Página do planejamento da verificação - Etapa 03 | [Jose Eduardo](https://github.com/jevprado) | [João Pedro](https://github.com/JpRodrigues2) |
+|[Verificação  Entrega 03 - Cenários](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/verificacao/entrega3/lista-cenarios/) |Página de verificação - Etapa 03 - cenários|[Diassis](https://github.com/Diaxiz) | [João Pedro](https://github.com/JpRodrigues2) |
+|[Verificação  Entrega 03 - Lexico](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/verificacao/entrega1/planejamento1/) |Página de verificação - Etapa 03 - Léxico|[Diassis](https://github.com/Diaxiz) | [João Pedro](https://github.com/JpRodrigues2) |
+|[Verificação  Entrega 03 - Casos de uso](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/verificacao/entrega3/lista-casosdeuso/) |Página de verificação - Etapa 03 - Casos de uso|[Diassis](https://github.com/Diaxiz) | [João Pedro](https://github.com/JpRodrigues2) |
+|[Verificação  Entrega 03 - Especificação Suplementar](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/verificacao/entrega3/lista-espsup/) |Página de verificação - Etapa 03 - Casos de uso|[Diassis](https://github.com/Diaxiz) | [João Pedro](https://github.com/JpRodrigues2) |
+|[Planejamento de Verificação - Entrega 04](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/verificacao/entrega4/planejamento4/) |Página do planejamento da verificação - Etapa 04 | [Julia Massuda](https://github.com/JuliaReis18) | [Jose Eduardo](https://github.com/jevprado) |
+|[Verificação  Entrega 04 - NFR Framework](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/verificacao/entrega4/lista-nfrframework/) |Página de verificação - Etapa 04 - NFR Framework|[João Pedro](https://github.com/JpRodrigues2) | [Julia Massuda](https://github.com/JuliaReis18) |
+|[Verificação  Entrega 04 - Histórias de usuário](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/verificacao/entrega4/lista-us/) |Página de verificação - Etapa 04 - Histórias de usuário|[João Pedro](https://github.com/JpRodrigues2) | [Julia Massuda](https://github.com/JuliaReis18) |
+|[Verificação  Entrega 04 - Backlog](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/verificacao/entrega4/lista-backlog/) |Página de verificação - Etapa 04 - Backlog|[João Pedro](https://github.com/JpRodrigues2) | [Julia Massuda](https://github.com/JuliaReis18) |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 
 ## Etapa 06 
 
-<p style="text-align: center"><b>Tabela 5</b> - Artefatos criados na Etapa 4 do projeto </p>
+<p style="text-align: center"><b>Tabela 7</b> - Artefatos criados na Etapa 6 do projeto </p>
 
 | Artefato                        | Descrição                                          | Autor (es)                   | Revisor (es)                                                   | 
 | --------------- | ---------------------- | --------------- | ----------------------| 
-|[Matriz de Rastreabilidade Geral](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/rastreabilidade/matriz-geral/) | Documento que estabelece ligações entre os diversos artefatos do projeto (requisitos, histórias, testes, léxicos etc.), permitindo acompanhar a origem, a evolução e o impacto de cada requisito ao longo do desenvolvimento.| [Jose Eduardo](https://github.com/jevprado) e   |  |
-|[Pós Rastreabilidade](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/rastreabilidade/pos-rastreabilidade//) | Comprovação Informal com a  tentativa de contato com a equipe de desenvolvedores responsável pelo aplicativo da Receita Federal. |[Jose Eduardo](https://github.com/jevprado) e [Diassis](https://github.com/Diaxiz)  | [João Pedro](https://github.com/JpRodrigues2), [Diassis](https://github.com/Diaxiz), [Julia Massuda](https://github.com/JuliaReis18) e  [Thales Germano](https://github.com/thalesgvl)  |
-
+|[Matriz de Rastreabilidade Geral](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/rastreabilidade/matriz-geral/) | Documento que estabelece ligações entre os diversos artefatos do projeto, permitindo acompanhar a origem, a evolução e o impacto de cada requisito ao longo do desenvolvimento.| [Jose Eduardo](https://github.com/jevprado) e   |  |
+|[Pós Rastreabilidade](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/rastreabilidade/pos-rastreabilidade//) | Documento que detalha a rastreabilidade dos requisitos em duas direções: Backward From, que verifica a origem e justificativa dos requisitos; e Forward From, que acompanha os impactos e artefatos derivados de cada requisito (como histórias, testes e funcionalidades implementadas).|[Andre Lopes](https://github.com/andrewslopes), [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [Jose Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18) e[Marco Marques](https://github.com/marcomarquesdc) | [Jose Eduardo](https://github.com/jevprado), [João Pedro](https://github.com/JpRodrigues2) e  [Diassis](https://github.com/Diaxiz)  |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
-
-
-## Referencias bibliograficas 
-
-
-
 
 ## Histórico de versão 
 
