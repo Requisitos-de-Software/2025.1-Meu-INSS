@@ -68,19 +68,30 @@ Esse documento mostra a execução do nosso cronograma na disciplina de Requisit
 
 ## Entrega 04 - Modelagem ágil 
 
-<p style="text-align: center"><b>Tabela 2</b> - Entrega 03 - Modelagem</p>
+<p style="text-align: center"><b>Tabela 4</b> - Entrega 04 - Modelagem ágil</p>
 
 | Atividade | Início | Fim | Entrega |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
-|           | 22/05  | 31/05     | 01/06    |         |            |
-|           | 22/05  | 31/05     | 01/06    |             |
-|           | 22/05  | 31/05     | 01/06    |             |
-|           |        |     |     |         |            |
+| NRF Framework | 29/05  | 30/06     | 01/06    |  [Diassis](https://github.com/Diaxiz), [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18), [Marco Marques](https://github.com/marcomarquesdc) e [Thales Germano](https://github.com/thalesgvl)      |  [Diassis](https://github.com/Diaxiz), [José Eduardo](https://github.com/jevprado) e [Thales Germano](https://github.com/thalesgvl) |
+| Histórias de usuário      | 31/05  | 03/07     | 22/06    |  [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18) e [Thales Germano](https://github.com/thalesgvl) | [Diassis](https://github.com/Diaxiz), [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18),  e [Thales Germano](https://github.com/thalesgvl) 
+| Backlog do Produto | 30/05  | 01/06     | 01/06    |  [José Eduardo](https://github.com/jevprado)        e [Thales Germano](https://github.com/thalesgvl) |[Diassis](https://github.com/Diaxiz) e [José Eduardo](https://github.com/jevprado)
+| [Gravação da apresentação](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/apresentacoes/apresentacao4/) | 13/04 | 13/04 |13/04 | [Andre Lopes](https://github.com/andrewslopes), [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18), [Marco Marques](https://github.com/marcomarquesdc) e [Thales Germano](https://github.com/thalesgvl) | [Andre Lopes](https://github.com/andrewslopes), [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18), [Marco Marques](https://github.com/marcomarquesdc) e [Thales Germano](https://github.com/thalesgvl) |
+| [Inspeção do próprio grupo](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/inspecao/entrega04/inspecao-grupo6-4/) | 18/05 | 18/05  | 18/05  | [Andre Lopes](https://github.com/andrewslopes), [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18), [Marco Marques](https://github.com/marcomarquesdc) e [Thales Germano](https://github.com/thalesgvl) | [Andre Lopes](https://github.com/andrewslopes), [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18), [Marco Marques](https://github.com/marcomarquesdc) e [Thales Germano](https://github.com/thalesgvl) |
 
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
+## Entrega 05 - Rastreabilidade 
 
+<p style="text-align: center"><b>Tabela 5</b> - Entrega 05 - Rastreabilidade</p>
 
-<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+| Atividade | Início | Fim | Entrega |Autores | Revisores |
+|-----------|--------|-----|-----|---------|-----------|
+| Matriz Geral | 05/06  | 05/07     | 21/06    |  [Diassis](https://github.com/Diaxiz) e [José Eduardo](https://github.com/jevprado)    |  [Diassis](https://github.com/Diaxiz), [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18), [João Pedro](https://github.com/JpRodrigues2) e [Thales Germano](https://github.com/thalesgvl) |
+| Pós-Rastreabilidade     | 05/06  | 20/06     | 08/06    |  [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [José Eduardo](https://github.com/jevprado) e [Julia Massuda](https://github.com/JuliaReis18)  | [Diassis](https://github.com/Diaxiz), [José Eduardo](https://github.com/jevprado) e [João Pedro](https://github.com/JpRodrigues2) 
+| [Gravação da apresentação](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/apresentacoes/apresentacao5/) | 05/06 | 08/06 |08/06 | [Andre Lopes](https://github.com/andrewslopes), [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18), [Marco Marques](https://github.com/marcomarquesdc) e [Thales Germano](https://github.com/thalesgvl) | [Andre Lopes](https://github.com/andrewslopes), [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18), [Marco Marques](https://github.com/marcomarquesdc) e [Thales Germano](https://github.com/thalesgvl) |
+| [Inspeção do próprio grupo](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/inspecao/entrega05/inspecao-grupo6-5/) | 05/06 | 08/06  | 08/06  | [Andre Lopes](https://github.com/andrewslopes), [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18), [Marco Marques](https://github.com/marcomarquesdc) e [Thales Germano](https://github.com/thalesgvl) | [Andre Lopes](https://github.com/andrewslopes), [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [José Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18), [Marco Marques](https://github.com/marcomarquesdc) e [Thales Germano](https://github.com/thalesgvl) |
+
+<font size="3"><p style="text-align: center">Fonte: [Thales Germano](https://github.com/thalesgvl), 2025.</p></font>
 
 
 
@@ -113,3 +124,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 `1.0` | 11/05/2025 | Criação do documento de cronograma executado | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
 `1.1` | 11/05/2025 | Editando datas da entrega 03 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
 `1.2` | 22/06/2025 | Editando datas da entrega 06 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
+`1.3` | 07/07/2025 | Adicionando tabelas 4 e 5 | [Thales Germano](https://github.com/thalesgvl) | [Jose Eduardo](https://github.com/jevprado) |
