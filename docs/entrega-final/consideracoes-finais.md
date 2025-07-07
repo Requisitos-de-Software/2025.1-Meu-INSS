@@ -20,5 +20,5 @@ Aqui será apresentada a finalização do trabalho, onde documentamos o que acha
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| `1.0` | 07/07/2025 | Criação da página de considerações finais | [Júlia Massuda](https://github.com/JuliaReis18) | - |
-| `1.1` | 07/07/2025 | Adicionando as considerações finais da Júlia Massuda | [Júlia Massuda](https://github.com/JuliaReis18) | - |
+| `1.0` | 07/07/2025 | Criação da página de considerações finais | [Júlia Massuda](https://github.com/JuliaReis18) |[Jose Eduardo](https://github.com/jevprado) |
+| `1.1` | 07/07/2025 | Adicionando as considerações finais da Júlia Massuda | [Júlia Massuda](https://github.com/JuliaReis18) | [Jose Eduardo](https://github.com/jevprado) |
