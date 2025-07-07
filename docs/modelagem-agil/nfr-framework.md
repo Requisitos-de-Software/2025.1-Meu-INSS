@@ -6,6 +6,21 @@ De acordo com a abordagem apresentada por **Reinaldo Antônio da Silva (2019)**,
 
 Os *softgoals* ajudam desenvolvedores a tomar decisões durante o projeto, considerando aspectos como qualidade, segurança e desempenho. Além disso, podem influenciar uns aos outros, criando uma rede de impactos que afetam o sistema como um todo.
 
+## Tabela de contribuição 
+
+|Nome                                               | Contribuição                      | 
+| ------------------------------------------------- | --------------------------------- |
+| [Thales Germano](https://github.com/thalesgvl)       | Criação do documento, ajustes <br> Adição do cartão 03 e 04 <br> Revisor. |
+| [Jose Eduardo](https://github.com/jevprado)       | Adição das imagens de referência e tópicos decomposição e contribuição, criação dos tópicos confiabilidade, desempenho, segurança, usabilidade e acessibilidade, adição do cartão 01 e 02, validação do cartão 01 e 02 e Adição dos SIG com imagens (figuras 02, 03 e 04). <br> Revisor. |
+| [Diassis](https://github.com/Diaxiz)    | Adição do cartão 03 e 04 <Revisor> |
+| [João Pedro](https://github.com/JpRodrigues2)     | Adição do cartão 09 e 10 |
+| [Julia Massuda](https://github.com/JuliaReis18)     | Adição do cartão 07 e 08 |
+| [Marco Marques](https://github.com/marcomarquesdc)     | Adição do cartão 11 e 12 <br> Revisor |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+
 ### Tipos de Softgoals
 
 Os *softgoals* podem ser classificados em três grupos principais: 
@@ -382,102 +397,127 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 
 ## NFR00: Geral
 
-### Requisitos
-
-- **RNF04** – Comparativo automático entre declarações de IR
-- **RNF03** – Acesso offline a serviços essenciais do app
-
-### Propagação de Impacto
-
-| Origem | Impacto |
-|--------|---------|
-| RNF04  |  🗲       |
-| RNF03  |  𝒲−      |
 
 
-## NFR01: Portabilidade
+<p style="text-align: center"><b>Figura 2</b> - NFR01: Confiabilidade</p>
+
+![nfr confiabilidade](../assets/nfr/sig/nfr-confiabilidade.png)
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+
+## NFR01: Confiabilidade
 
 ### Requisitos
 
-- **RNF06** – Interface com suporte a modo escuro
-- **RNF08** – Compatível com Android 8+ e iOS 14+
+- **RNF14** – Atualizações do app não devem causar perda de dados
+- **RNF21** – Integração confiável com serviços externos
+
+
+<p style="text-align: center"><b>Figura 2</b> - NFR01: Confiabilidade</p>
+
+![nfr confiabilidade](../assets/nfr/sig/nfr-confiabilidade.png)
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
 
 ### Propagação de Impacto
 
-| Origem | Impacto |
-|--------|---------|
-| RNF06  | ✓       |
-| RNF08  | 𝒲+      |
+| Código do Requisito | Propagação de Impacto |
+| ------------------- | --------------------- |
+| RNF14               | ✓                     |
+| RNF21               | ✓                     |
 
-
-## NFR02: Confiabilidade
+## NFR02: Desempenho
 
 ### Requisitos
 
-- **RNF10** – Sincronização automática de dados com a nuvem
-- **RNF13** – Backup e recuperação automática
+- **RNF03** – Testes de desempenho para alta demanda de usuários
+- **RNF10** – Tempo de resposta inferior a 3 segundos para ações comuns
+- **RNF15** – Tempo de carregamento inicial < 5s em conexão móvel
+
+<p style="text-align: center"><b>Figura 3</b> - NFR02: Desempenho</p>
+
+![nfr desempenho](../assets/nfr/sig/nrf-desempenho.png)
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 ### Propagação de Impacto
 
-| Origem |  Impacto |
-|--------|----------|
-| RNF10  |  ✓       |
-| RNF13  | 𝒲+      |
+| Código do Requisito | Propagação de Impacto |
+| ------------------- | --------------------- |
+| RNF3                | ✓                     |
+| RNF10               | ✓                     |
+| RNF15               | ✓                     |
 
 
 ## NFR03: Segurança
 
 ### Requisitos
 
-- **RNF07** – Testes de segurança e conformidade LGPD
+- **RNF04** – Proteção de dados pessoais conforme a LGPD
+- **RNF07** – Testes de segurança para garantir integridade e autenticação
+- **RNF18** – Armazenamento anônimo de logs de erro (LGPD)
+
+
+<p style="text-align: center"><b>Figura 3</b> - NFR02: Desempenho</p>
+
+![nfr segurança](../assets/nfr/sig/nfr-segurança.png)
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
 ### Propagação de Impacto
 
-| Origem | Impacto |
-|--------|---------|
-| RNF07  |  🗲       |
-| RNF07  |  𝒲+      |
+| Código do Requisito | Propagação de Impacto |
+| ------------------- | --------------------- |
+| RNF4                | ✓                     |
+| RNF7                | ✓                     |
+| RNF18               | ✓                     |
 
 
-## NFR04: Usabilidade
+## NFR04: Usabilidade e Acessibilidade 
 
 ### Requisitos
 
+- **RNF01** – Acessibilidade (chatbot, imagens, vídeos)
 - **RNF02** – Conteúdos educativos para iniciantes
-- **RNF04** – Comparativo automático de IR
-- **RNF06** – Suporte a modo escuro
 - **RNF05** – Interface responsiva e acessível
-- **RNF09** – Testes de usabilidade semestrais com público 60+
-- **RNF11** – O aplicativo deve funcionar em smartphones com telas de 4.5" a 7" sem perda de usabilidade
+- **RNF06** – Interface com modo escuro
 - **RNF12** – A linguagem da interface deve seguir padrão A2 do CEFR, evitando jargões técnicos
+- **RNF17** – Suporte a leitores de tela
+- **RNF20** – Clareza na apresentação de dados fiscais
 
 ### Propagação de Impacto
 
-| Origem | Impacto |
-|--------|---------|
-| RNF02  |  𝒲+      |
-| RNF04  |  ✓       |
-| RNF05  |  ✓       |
-| RNF06  |  𝒲+      |
-| RNF09  |  ✓       |
-| RNF11  |   ✓      |
-| RNF12  |   𝒲+     |
+| Código do Requisito | Propagação de Impacto |
+| ------------------- | --------------------- |
+| RNF1                | 𝒲+                   |
+| RNF2                | 𝒲+                   |
+| RNF5                | ✓                     |
+| RNF6                | 𝒲+                   |
+| RNF12               | ✓                     |
+| RNF17               | ✓                     |
+| RNF20               | ✓                     |
 
-## NFR05: Acessibilidade
+
+## NFR05: Portabilidade
 
 ### Requisitos
 
-- **RNF01** – Chatbot com suporte a acessibilidade
-- **RNF05** – Interface responsiva e acessível
+- **RNF08** – Compatível com Android 8+ e iOS 14+
+- **RNF11** – Funcionar em smartphones com telas de 4.5" a 7"
+- **RNF13** - Modo de operação em baixa conectividade com cache essencial 
+- **RNF19** - Versão mínima HTML5 responsiva para navegador
+
 
 ### Propagação de Impacto
 
-| Origem |  Impacto |
-|--------|--------|
-| RNF01  |  ✓       |
-| RNF05  |  ✓       |
-| RNF09  |  𝒲+      |
-
+| Código do Requisito | Propagação de Impacto |
+| ------------------- | --------------------- |
+| RNF8                | ✓                     |
+| RNF11               | ✓                     |
+| RNF13               | 𝒲+                   |
+| RNF19               | 𝒲+                   |
 
 ## NFR06: SIG Completo
 
@@ -485,16 +525,7 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 
 - **Todos os anteriores** integrados no Sistema de Informação Gerencial
 
-### Propagação de Impacto
 
-| Origem |  Impacto |
-|--------|---------|
-| RNF05  |  ✓       |
-| RNF07  |  ✓       |
-| RNF07  |  ✓       |
-| RNF07  |  ✓       |
-| RNF10  |  ✓       |
-| RNF09  |  𝒲+      |
 
 ## Vídeos de validação 
 
@@ -515,9 +546,9 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 
 
 ## Referências
-
-SILVA, Reinaldo Antônio da. *NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. Recife: Universidade Federal de Pernambuco, 2019.
+> <a>1.</a> SILVA, Reinaldo Antônio da. *NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados*. Recife: Universidade Federal de Pernambuco, 2019.
 Disponível em: [https://aprender3.unb.br/pluginfile.php/3096155/mod\_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf)
+>
 
 ## Histórico de Versão
 
@@ -532,3 +563,4 @@ Disponível em: [https://aprender3.unb.br/pluginfile.php/3096155/mod\_resource/c
 | `1.6`    | 01/06/2025 | Adicionando cartões RNF 07/08 | [Júlia Massuda](https://github.com/JuliaReis18) | [Jose Eduardo](https://github.com/jevprado)| 
 | `1.7`    | 01/06/2025 | Adicionando cartões RNF 05/06 | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado)| 
 | `1.8`    | 30/06/2025 | Adicionando validação dos cartões RNF 01/02 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz)| 
+| `1.9`    | 07/07/2025 | Adicionando os respectivos SIG (figuras, 02, 03 e 04) | [Jose Eduardo](https://github.com/jevprado) | [Marco Marques](https://github.com/marcomarquesdc) | 
