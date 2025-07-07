@@ -11,6 +11,7 @@ Página dedicada para mostrar a organização das apresentações durante o seme
 |[Thales Germano](https://github.com/thalesgvl)|Participou |
 |[Diassis](https://github.com/Diaxiz)|Participou           |
 |[Júlia Massuda](https://github.com/JuliaReis18)|Participou|
+|[Marco Marques](https://github.com/marcomarquesdc)|Participou|
 
 #### Vídeo da apresentação
 
@@ -32,6 +33,7 @@ Página dedicada para mostrar a organização das apresentações durante o seme
 |[Thales Germano](https://github.com/thalesgvl)|Participou |
 |[Diassis](https://github.com/Diaxiz)|Participou           |
 |[Júlia Massuda](https://github.com/JuliaReis18)|Participou|
+|[Marco Marques](https://github.com/marcomarquesdc)|Participou|
 
 #### Vídeo da apresentação
 
@@ -53,6 +55,7 @@ Página dedicada para mostrar a organização das apresentações durante o seme
 |[Thales Germano](https://github.com/thalesgvl)|Participou |
 |[Diassis](https://github.com/Diaxiz)|Participou           |
 |[Júlia Massuda](https://github.com/JuliaReis18)|Participou|
+|[Marco Marques](https://github.com/marcomarquesdc)|Participou|
 
 #### Vídeo da apresentação
 
@@ -74,6 +77,7 @@ Página dedicada para mostrar a organização das apresentações durante o seme
 |[Thales Germano](https://github.com/thalesgvl)|Participou |
 |[Diassis](https://github.com/Diaxiz)|Participou           |
 |[Júlia Massuda](https://github.com/JuliaReis18)|Participou|
+|[Marco Marques](https://github.com/marcomarquesdc)|Participou|
 
 #### Vídeo da apresentação
 
@@ -95,6 +99,7 @@ Página dedicada para mostrar a organização das apresentações durante o seme
 |[Thales Germano](https://github.com/thalesgvl)|Participou |
 |[Diassis](https://github.com/Diaxiz)|Participou           |
 |[Júlia Massuda](https://github.com/JuliaReis18)|Participou|
+|[Marco Marques](https://github.com/marcomarquesdc)|Participou|
 
 #### Vídeo da apresentação
 
@@ -116,6 +121,7 @@ Página dedicada para mostrar a organização das apresentações durante o seme
 |[Thales Germano](https://github.com/thalesgvl)|Participou |
 |[Diassis](https://github.com/Diaxiz)|Participou           |
 |[Júlia Massuda](https://github.com/JuliaReis18)|Participou|
+|[Marco Marques](https://github.com/marcomarquesdc)|Participou|
 
 #### Vídeo da apresentação
 
@@ -127,3 +133,8 @@ Página dedicada para mostrar a organização das apresentações durante o seme
         referrerpolicy="strict-origin-when-cross-origin" 
         allowfullscreen>
 </iframe>
+
+## Histórico de versões
+|Autor|Data|Versão|
+|--------------------------------------------------|----------|---|
+|[Marco Marques](https://github.com/marcomarquesdc)|07/07/2025|1.0|
