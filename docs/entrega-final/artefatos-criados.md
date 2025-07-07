@@ -1,5 +1,7 @@
 ## Introdução 
 
+
+
 ## Atividadades por membro 
 
 <p style="text-align: center"><b>Tabela 1</b> - Tabela de atividade dos membros da equipe </p>
@@ -76,7 +78,18 @@
 
 ## Etapa 05 
 
+<p style="text-align: center"><b>Tabela 5</b> - Artefatos criados na Etapa 4 do projeto </p>
+
+| Artefato                        | Descrição                                          | Autor (es)                   | Revisor (es)                                                   | 
+| --------------- | ---------------------- | --------------- | ----------------------| 
+|[Prototipação](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/validacao/prototipacao/) | Etapa essencial no processo de desenvolvimento de software, pois permite antecipar e validar, junto aos stakeholders, aspectos funcionais e não funcionais de um sistema antes da sua implementação definitiva.|[Andre Lopes](https://github.com/andrewslopes), [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [Jose Eduardo](https://github.com/jevprado), [Julia Massuda](https://github.com/JuliaReis18), [Marco Marques](https://github.com/marcomarquesdc) , [Thales Germano](https://github.com/thalesgvl) | [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [Jose Eduardo](https://github.com/jevprado) e  [Julia Massuda](https://github.com/JuliaReis18) |
+
+<font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
+
+
 ## Etapa 06 
+
+
 
 ## Referencias bibliograficas 
 
@@ -87,6 +100,7 @@
 
 Versão |   Data     | Descrição | Autor(es) | Revisor(es)
 ------ | ---------- | --------------------------------------------- | ---------- | ----------
-`1.0`  | 06/07/2025 | Criando documento e adição da tabela referente a etapa 01| [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
-`1.1`  | 06/07/2025 | adição da tabela 03 - etapa 02| [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
-`1.2`  | 06/07/2025 | adição da tabela 04 e 05 - etapa 03 e 04| [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) |
+`1.0`  | 06/07/2025 | Criando documento e adição da tabela referente a etapa 01| [Jose Eduardo](https://github.com/jevprado) | [Marco Marques](https://github.com/marcomarquesdc) |
+`1.1`  | 06/07/2025 | adição da tabela 03 - etapa 02| [Jose Eduardo](https://github.com/jevprado) | [Marco Marques](https://github.com/marcomarquesdc) |
+`1.2`  | 06/07/2025 | adição da tabela 04 e 05 - etapa 03 e 04| [Jose Eduardo](https://github.com/jevprado) | [Marco Marques](https://github.com/marcomarquesdc) |
+`1.3`  | 07/07/2025 | adição da tabela 06 e 07 | [Jose Eduardo](https://github.com/jevprado) | [Marco Marques](https://github.com/marcomarquesdc) |
