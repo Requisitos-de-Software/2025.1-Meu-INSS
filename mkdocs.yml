@@ -76,6 +76,7 @@ nav:
       - Cronograma: planejamento/cronograma.md
       - Cronograma Executado: planejamento/cronograma-executado.md
   - Elicitação: 
+      - Perfil de usuário: elicitacao/perfil-usuario.md
       - Personas: elicitacao/personas.md
       - Storytelling: elicitacao/storytelling.md
       - Análise de documentos: elicitacao/analisededocumentos.md
