@@ -4,6 +4,7 @@ Página dedicada para mostrar a organização das apresentações durante o seme
 
 ### Apresentação 1
 | **Nome**|**Status da participação**                      | 
+|---------------------------------------------|------------|
 |[João Pedro](https://github.com/JpRodrigues2)|Participou  |
 |[José Eduardo](https://github.com/jevprado)|Participou    | 
 |[Andre](https://github.com/Andrewslopes)|Participou       |
@@ -23,7 +24,8 @@ Página dedicada para mostrar a organização das apresentações durante o seme
 </iframe>
 
 ### Apresentação 2
-| **Nome**|**Status da participação**                      | 
+| **Nome**|**Status da participação**                      |
+|---------------------------------------------|------------| 
 |[João Pedro](https://github.com/JpRodrigues2)|Participou  |
 |[José Eduardo](https://github.com/jevprado)|Participou    | 
 |[Andre](https://github.com/Andrewslopes)|Participou       |
@@ -43,7 +45,8 @@ Página dedicada para mostrar a organização das apresentações durante o seme
 </iframe>
 
 ### Apresentação 3
-| **Nome**|**Status da participação**                      | 
+| **Nome**|**Status da participação**                      |
+|---------------------------------------------|------------| 
 |[João Pedro](https://github.com/JpRodrigues2)|Participou  |
 |[José Eduardo](https://github.com/jevprado)|Participou    | 
 |[Andre](https://github.com/Andrewslopes)|Participou       |
@@ -63,7 +66,8 @@ Página dedicada para mostrar a organização das apresentações durante o seme
 </iframe>
 
 ### Apresentação 4
-| **Nome**|**Status da participação**                      | 
+| **Nome**|**Status da participação**                      |
+|---------------------------------------------|------------| 
 |[João Pedro](https://github.com/JpRodrigues2)|Participou  |
 |[José Eduardo](https://github.com/jevprado)|Participou    | 
 |[Andre](https://github.com/Andrewslopes)|Participou       |
@@ -83,7 +87,8 @@ Página dedicada para mostrar a organização das apresentações durante o seme
 </iframe>
 
 ### Apresentação 5
-| **Nome**|**Status da participação**                      | 
+| **Nome**|**Status da participação**                      |
+|---------------------------------------------|------------| 
 |[João Pedro](https://github.com/JpRodrigues2)|Participou  |
 |[José Eduardo](https://github.com/jevprado)|Participou    | 
 |[Andre](https://github.com/Andrewslopes)|Participou       |
@@ -103,7 +108,8 @@ Página dedicada para mostrar a organização das apresentações durante o seme
 </iframe>
 
 ### Apresentação 6
-| **Nome**|**Status da participação**                      | 
+| **Nome**|**Status da participação**                      |
+|---------------------------------------------|------------| 
 |[João Pedro](https://github.com/JpRodrigues2)|Participou  |
 |[José Eduardo](https://github.com/jevprado)|Participou    | 
 |[Andre](https://github.com/Andrewslopes)|Participou       |
