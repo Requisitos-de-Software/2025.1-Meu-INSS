@@ -10,7 +10,7 @@ A tabela a seguir resume a técnica aplicada na fase de Pré-Rastreabilidade do 
 
 | Técnica      | Participantes                                                                                                                                         |
 |--------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Rich Picture | [Andre Lopes](https://github.com/andrewslopes), [Diassis](https://github.com/Diaxiz) [João Pedro](https://github.com/JpRodrigues2), [José Eduardo](https://github.com/jevprado) [Júlia Massuda](https://github.com/JuliaReis18), [Marco Marques](https://github.com/marcomarquesdc), [Thales Germano](https://github.com/thalesgvl)|
+| Rich Picture | [Andre Lopes](https://github.com/andrewslopes), [Diassis](https://github.com/Diaxiz) [João Pedro](https://github.com/JpRodrigues2), [José Eduardo](https://github.com/jevprado), [Júlia Massuda](https://github.com/JuliaReis18), [Marco Marques](https://github.com/marcomarquesdc) e [Thales Germano](https://github.com/thalesgvl)|
 
 <font size="2"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz)</p></font>
 
@@ -24,13 +24,13 @@ A tabela a seguir apresenta um resumo das técnicas empregadas na fase de Elicit
 |--------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Personas | [José Eduardo](https://github.com/jevprado)  |
 | Storytelling | [José Eduardo](https://github.com/jevprado)  |
-| Análise de Documentos | [Thales Germano](https://github.com/thalesgvl) [Marco Marques](https://github.com/marcomarquesdc) [José Eduardo](https://github.com/jevprado)  |
-| Introspecção | [Thales Germano](https://github.com/thalesgvl) [Marco Marques](https://github.com/marcomarquesdc) [José Eduardo](https://github.com/jevprado) |
-| Entrevista | [Andre Lopes](https://github.com/andrewslopes) [José Eduardo](https://github.com/jevprado) |
-| First Things First | [Diassis](https://github.com/Diaxiz) [Marco Marques](https://github.com/marcomarquesdc) [José Eduardo](https://github.com/jevprado)  |
-| MoSCoW| [Andre Lopes](https://github.com/andrewslopes) [Diassis](https://github.com/Diaxiz) [José Eduardo](https://github.com/jevprado)  |
-| 100$ | [Thales Germano](https://github.com/thalesgvl) [José Eduardo](https://github.com/jevprado) [Andre Lopes](https://github.com/andrewslopes)  |
-| QFD | [Júlia Massuda](https://github.com/JuliaReis18) [João Pedro](https://github.com/JpRodrigues2) |
+| Análise de Documentos | [Thales Germano](https://github.com/thalesgvl), [Marco Marques](https://github.com/marcomarquesdc) e [José Eduardo](https://github.com/jevprado)  |
+| Introspecção | [Thales Germano](https://github.com/thalesgvl), [Marco Marques](https://github.com/marcomarquesdc) e [José Eduardo](https://github.com/jevprado) |
+| Entrevista | [Andre Lopes](https://github.com/andrewslopes) e [José Eduardo](https://github.com/jevprado) |
+| First Things First | [Diassis](https://github.com/Diaxiz),  [Marco Marques](https://github.com/marcomarquesdc) e [José Eduardo](https://github.com/jevprado)  |
+| MoSCoW| [Andre Lopes](https://github.com/andrewslopes), [Diassis](https://github.com/Diaxiz) e [José Eduardo](https://github.com/jevprado)  |
+| 100$ | [Thales Germano](https://github.com/thalesgvl), [José Eduardo](https://github.com/jevprado) e [Andre Lopes](https://github.com/andrewslopes)  |
+| QFD | [Júlia Massuda](https://github.com/JuliaReis18) e [João Pedro](https://github.com/JpRodrigues2) |
 
 <font size="2"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz)</p></font>
 
@@ -43,10 +43,10 @@ A tabela a seguir resume as técnicas aplicadas na fase de Modelagem do projeto,
 
 | Técnica      | Participantes                                                                                                                                         |
 |--------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Cenários | [José Eduardo](https://github.com/jevprado) [Diassis](https://github.com/Diaxiz)   |
-| Casos de Uso | [Júlia Massuda](https://github.com/JuliaReis18) [Andre Lopes](https://github.com/andrewslopes) [José Eduardo](https://github.com/jevprado) [João Pedro](https://github.com/JpRodrigues2)  [Diassis](https://github.com/Diaxiz)  |
-| Léxicos | [Marco Marques](https://github.com/marcomarquesdc)  [Thales Germano](https://github.com/thalesgvl) [José Eduardo](https://github.com/jevprado) |
-| Especificação Suplementar | [João Pedro](https://github.com/JpRodrigues2) [José Eduardo](https://github.com/jevprado)  |
+| Cenários | [José Eduardo](https://github.com/jevprado) e [Diassis](https://github.com/Diaxiz)   |
+| Casos de Uso | [Júlia Massuda](https://github.com/JuliaReis18), [Andre Lopes](https://github.com/andrewslopes), [José Eduardo](https://github.com/jevprado), [João Pedro](https://github.com/JpRodrigues2) e  [Diassis](https://github.com/Diaxiz)  |
+| Léxicos | [Marco Marques](https://github.com/marcomarquesdc),  [Thales Germano](https://github.com/thalesgvl) e [José Eduardo](https://github.com/jevprado) |
+| Especificação Suplementar | [João Pedro](https://github.com/JpRodrigues2) e [José Eduardo](https://github.com/jevprado)  |
 
 <font size="2"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz)</p></font>
 
@@ -58,9 +58,9 @@ A tabela a seguir resume as técnicas aplicadas na fase de Modelagem ágil do pr
 
 | Técnica      | Participantes                                                                                                                                         |
 |--------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NFR Framework | [Thales Germano](https://github.com/thalesgvl) [José Eduardo](https://github.com/jevprado) [Marco Marques](https://github.com/marcomarquesdc) [Júlia Massuda](https://github.com/JuliaReis18)  [Diassis](https://github.com/Diaxiz)  |
-| Histórias de Usuário | [José Eduardo](https://github.com/jevprado) [Diassis](https://github.com/Diaxiz) [Thales Germano](https://github.com/thalesgvl) [Júlia Massuda](https://github.com/JuliaReis18) [João Pedro](https://github.com/JpRodrigues2) |
-| Backlog | [Thales Germano](https://github.com/thalesgvl) [José Eduardo](https://github.com/jevprado)  |
+| NFR Framework | [Thales Germano](https://github.com/thalesgvl), [José Eduardo](https://github.com/jevprado), [Marco Marques](https://github.com/marcomarquesdc), [Júlia Massuda](https://github.com/JuliaReis18) e  [Diassis](https://github.com/Diaxiz)  |
+| Histórias de Usuário | [José Eduardo](https://github.com/jevprado), [Diassis](https://github.com/Diaxiz), [Thales Germano](https://github.com/thalesgvl), [Júlia Massuda](https://github.com/JuliaReis18) e [João Pedro](https://github.com/JpRodrigues2) |
+| Backlog | [Thales Germano](https://github.com/thalesgvl) e [José Eduardo](https://github.com/jevprado)  |
 
 <font size="2"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz)</p></font>
 
@@ -72,8 +72,8 @@ A tabela a seguir apresenta um resumo das técnicas adotadas na etapa de Pós-Ra
 
 | Técnica      | Participantes                                                                                                                                         |
 |--------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Matriz Geral | [José Eduardo](https://github.com/jevprado) [Diassis](https://github.com/Diaxiz) |
-| Oós Rastreabilidade | [José Eduardo](https://github.com/jevprado) [Diassis](https://github.com/Diaxiz) [Júlia Massuda](https://github.com/JuliaReis18) [João Pedro](https://github.com/JpRodrigues2) [Marco Marques](https://github.com/marcomarquesdc)  |
+| Matriz Geral | [José Eduardo](https://github.com/jevprado) e [Diassis](https://github.com/Diaxiz) |
+| Pós Rastreabilidade | [José Eduardo](https://github.com/jevprado), [Diassis](https://github.com/Diaxiz) [Júlia Massuda](https://github.com/JuliaReis18), [João Pedro](https://github.com/JpRodrigues2) e [Marco Marques](https://github.com/marcomarquesdc)  |
 
 <font size="2"><p style="text-align: center">Fonte: [Diassis](https://github.com/Diaxiz)</p></font>
 
