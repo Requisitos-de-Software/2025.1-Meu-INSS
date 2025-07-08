@@ -43,8 +43,14 @@ A experiência de trabalhar neste projeto de Requisitos de Software foi enriquec
 
 
 ### [Marco Marques](https://github.com/marcomarquesdc) 
+Nesta disciplina pude compreender cada passo e técnicas do processo criativo e análise de um software. Os desafios dessa máteria me fizeram refletir sobre diversos aspectos da engenharia de software, contudo foi muito enriquecedor e trouxe experiências únicas. Pude enxergar como é trabalhoso a engenharia de requisitos no processo de desenvolvimento e análise. É necessário um conhecimento além de algo técnico, algo criativo e artístico para entender todas necessidades de um produto de software. Consigo concluir que ainda há uma gama de conhecimentos a serem explorados ainda quando se diz respeito a requisitos de software, que quando entendida o processo fica mais concreto e temos um produto mais robusto e sólido.
 
 ### [Thales Germano](https://github.com/thalesgvl)
+Participar deste projeto na disciplina de Requisitos de Software foi uma experiência de muito aprendizado e crescimento. No começo, tivemos dificuldades para entender o nível de detalhamento esperado, mas aos poucos fomos compreendendo a importância de estudar bem a teoria antes de colocar a mão na massa.
+
+Trabalhar em grupo foi essencial, aprendemos uns com os outros, organizamos as ideias e conseguimos superar os desafios juntos. O apoio do professor e os feedbacks constantes também fizeram toda a diferença para ajustar o que precisava ser melhorado.
+
+Hoje, saímos com uma visão muito mais clara do papel dos requisitos em um projeto de software. Mais do que conteúdo técnico, levamos conosco uma experiência que nos prepara melhor para o que vamos encontrar no mercado de trabalho.
 
 ## Finalização
 
@@ -58,4 +64,5 @@ Aqui será apresentada a finalização do trabalho, onde documentamos o que acha
 | `1.1` | 07/07/2025 | Adicionando as considerações finais da Júlia Massuda | [Júlia Massuda](https://github.com/JuliaReis18) | [Jose Eduardo](https://github.com/jevprado) |
 | `1.2` | 07/07/2025 | Adicionando as considerações finais do André Lopes | [Andre Lopes](https://github.com/andrewslopes) | [Jose Eduardo](https://github.com/jevprado) |
 | `1.3` | 07/07/2025 | Adicionando as considerações finais do José Eduardo | [Jose Eduardo](https://github.com/jevprado) | [Marco Marques](https://github.com/marcomarquesdc) |
-| `1.4` | 07/07/2025 | Adicionando as considerações finais de Diassis | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |
+| `1.4` | 07/07/2025 | Adicionando as considerações finais do Thales Germano | [Thales Germano](https://github.com/thalesgvl) |  [Jose Eduardo](https://github.com/jevprado)|
+| `1.5` | 07/07/2025 | Adicionando as considerações finais de Diassis | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |

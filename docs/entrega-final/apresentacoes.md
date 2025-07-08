@@ -176,6 +176,33 @@ Página dedicada para mostrar a organização das apresentações durante o seme
         allowfullscreen>
 </iframe>
 
+### [Apresentação Final](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/apresentacoes/apresentacao7-final/)
+
+<p style="text-align: center"><b>Tabela 8</b> - Tabela da Apresentação Final </p>
+
+| **Nome**|**Status da participação**                      | 
+|---------------------------------------------|------------|
+|[Andre Lopes](https://github.com/Andrewslopes)|Participou       |
+|[Diassis](https://github.com/Diaxiz)|Participou           |
+|[João Pedro](https://github.com/JpRodrigues2)|Participou  |
+|[José Eduardo](https://github.com/jevprado)|Participou    | 
+|[Júlia Massuda](https://github.com/JuliaReis18)|Participou|
+|[Marco Marques](https://github.com/marcomarquesdc)|Participou|
+|[Thales Germano](https://github.com/thalesgvl)|Não participou |
+
+<font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
+
+#### Vídeo da apresentação
+
+<iframe width="600" height="315" 
+        src="https://www.youtube.com/embed/12345" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+
 ## Histórico de versões
 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
