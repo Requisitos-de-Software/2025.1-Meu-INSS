@@ -41,13 +41,13 @@ A metodologia utilizada nessa etapa é a [Inspeção de Fagan](https://requisito
 
 | id    | descrição                                                                                            | Autor do item      | Fonte                                                                                            | Conforme/Não conforme |
 | ----- | ---------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ | --------------------- |
-| 01 |  O histórico de versão padronizado?         | André Barros  | [Lista de verificao - Professor André Barros]()                          |                       |
-| 02 |  O(s) autor(es) e o(s) revisor(es) para cada artefato?        | André Barros  | [Lista de verificao - Professor André Barros]()                          |                       |
-| 03 |  Referências bibliográficas e/ou bibliografia em todos os artefatos?          | André Barros  | [Lista de verificao - Professor André Barros]()                          |                       |
-| 04 |  As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?          | André Barros  | [Lista de verificao - Professor André Barros]()                          |                       |
-| 05 |  Um texto fazendo uma introdução dos artefatos?         | André Barros  | [Lista de verificao - Professor André Barros]()                          |                       |
-| 06 |  Atas e gravações das reuniões do grupo         | André Barros  | [Lista de verificao - Professor André Barros]()                          |                       |
-| 07 | Vídeo de apresentação na categoria “não listado” no youtube?        | André Barros  | [Lista de verificao - Professor André Barros]()                          |                       |
+| 01 |  O histórico de versão padronizado?         | [Diassis](https://github.com/Diaxiz)  | [Lista de verificao - Professor André Barros]()                          |                       |
+| 02 |  O(s) autor(es) e o(s) revisor(es) para cada artefato?        | [Diassis](https://github.com/Diaxiz)  | [Lista de verificao - Professor André Barros]()                          |                       |
+| 03 |  Referências bibliográficas e/ou bibliografia em todos os artefatos?          | [Diassis](https://github.com/Diaxiz)  | [Lista de verificao - Professor André Barros]()                          |                       |
+| 04 |  As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?          | [Diassis](https://github.com/Diaxiz)  | [Lista de verificao - Professor André Barros]()                          |                       |
+| 05 |  Um texto fazendo uma introdução dos artefatos?         | [Diassis](https://github.com/Diaxiz)  | [Lista de verificao - Professor André Barros]()                          |                       |
+| 06 |  Atas e gravações das reuniões do grupo         | [Diassis](https://github.com/Diaxiz)  | [Lista de verificao - Professor André Barros]()                          |                       |
+| 07 | Vídeo de apresentação na categoria “não listado” no youtube?        | [Diassis](https://github.com/Diaxiz)  | [Lista de verificao - Professor André Barros]()                          |                       |
 
 ### Rich Picture
 
@@ -55,8 +55,8 @@ A metodologia utilizada nessa etapa é a [Inspeção de Fagan](https://requisito
 
 | id    | descrição                                                                                            | Autor do item      | Fonte                                                                                            | Conforme/Não conforme |
 | ----- | ---------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ | --------------------- |
-| 01 |   No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?             | André Barros  | [Lista de verificao - Professor André Barros]()  e Introducing Rich Pictures - Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project.                           |                       |
-| 02 |   Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo.              | André Barros  | [Lista de verificao - Professor André Barros]() e Introducing Rich Pictures - Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project.                           |                       |
+| 01 |   No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?             | [Diassis](https://github.com/Diaxiz)  | [Lista de verificao - Professor André Barros]()  e Introducing Rich Pictures - Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project.                           |                       |
+| 02 |   Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo.              | [Diassis](https://github.com/Diaxiz)  | [Lista de verificao - Professor André Barros]() e Introducing Rich Pictures - Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project.                           |                       |
 | 03 |   Elementos do ambiente externo e interno relevantes para o sistema estão incluídos?              | [Diassis](https://github.com/Diaxiz)   |          Sommerville, I. (2011)                 |                       |
 | 04 |   O diagrama mostra diferentes pontos de vista (por exemplo, do usuário, da organização, da tecnologia)?             | [Diassis](https://github.com/Diaxiz)   |                Checkland & Poulter (2006)           |                       |
 | 05 |   O diagrama pode ser atualizado facilmente com novas informações?             | [Diassis](https://github.com/Diaxiz)   |                Sommerville, I.            |                       |
