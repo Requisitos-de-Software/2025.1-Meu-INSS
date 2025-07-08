@@ -17,6 +17,12 @@ Além disso, o trabalho em grupo foi uma experiência muito positiva. A colabora
 
 ### [Diassis](https://github.com/Diaxiz)
 
+Fazer o projeto da disciplina de Requisitos de Software foi, ao mesmo tempo, desafiador e muito enriquecedor. Desde o começo, ficou claro que trabalhar com requisitos não é algo simples exige bastante atenção, comunicação e organização. Durante o projeto, nós trabalhamos com o aplicativo da Receita Federal, o que particulamente tornou mais desafiador ainda pois eu nunca havia usado esse aplicativo e nem sabia por onde começar!
+
+Ao longo do semestre, aprendi várias técnicas, como elicitação, modelagem e priorização, e consegui até aplicar algumas delas em projetos pessoais. Isso fez muita diferença pra mim, porque percebi que essas ferramentas realmente funcionam fora da sala de aula também.
+
+Posso dizer que entrei na disciplina com uma visão bem limitada sobre o que é desenvolver um software. Agora, depois de toda a experiência, saio com uma visão completamente diferente, mais completa e madura. Foi um aprendizado que com certeza vou levar pra frente.
+
 
 
 ### [João Pedro](https://github.com/JpRodrigues2)
@@ -39,8 +45,14 @@ A experiência de trabalhar neste projeto de Requisitos de Software foi enriquec
 
 
 ### [Marco Marques](https://github.com/marcomarquesdc) 
+Nesta disciplina pude compreender cada passo e técnicas do processo criativo e análise de um software. Os desafios dessa máteria me fizeram refletir sobre diversos aspectos da engenharia de software, contudo foi muito enriquecedor e trouxe experiências únicas. Pude enxergar como é trabalhoso a engenharia de requisitos no processo de desenvolvimento e análise. É necessário um conhecimento além de algo técnico, algo criativo e artístico para entender todas necessidades de um produto de software. Consigo concluir que ainda há uma gama de conhecimentos a serem explorados ainda quando se diz respeito a requisitos de software, que quando entendida o processo fica mais concreto e temos um produto mais robusto e sólido.
 
 ### [Thales Germano](https://github.com/thalesgvl)
+Participar deste projeto na disciplina de Requisitos de Software foi uma experiência de muito aprendizado e crescimento. No começo, tivemos dificuldades para entender o nível de detalhamento esperado, mas aos poucos fomos compreendendo a importância de estudar bem a teoria antes de colocar a mão na massa.
+
+Trabalhar em grupo foi essencial, aprendemos uns com os outros, organizamos as ideias e conseguimos superar os desafios juntos. O apoio do professor e os feedbacks constantes também fizeram toda a diferença para ajustar o que precisava ser melhorado.
+
+Hoje, saímos com uma visão muito mais clara do papel dos requisitos em um projeto de software. Mais do que conteúdo técnico, levamos conosco uma experiência que nos prepara melhor para o que vamos encontrar no mercado de trabalho.
 
 ## Finalização
 
@@ -54,4 +66,6 @@ Aqui será apresentada a finalização do trabalho, onde documentamos o que acha
 | `1.1` | 07/07/2025 | Adicionando as considerações finais da Júlia Massuda | [Júlia Massuda](https://github.com/JuliaReis18) | [Jose Eduardo](https://github.com/jevprado) |
 | `1.2` | 07/07/2025 | Adicionando as considerações finais do André Lopes | [Andre Lopes](https://github.com/andrewslopes) | [Jose Eduardo](https://github.com/jevprado) |
 | `1.3` | 07/07/2025 | Adicionando as considerações finais do José Eduardo | [Jose Eduardo](https://github.com/jevprado) | [Marco Marques](https://github.com/marcomarquesdc) |
-| `1.3` | 07/07/2025 | Adicionando as considerações finais do João Pedro | [João Pedro](https://github.com/JpRodrigues2) | - |
+| `1.4` | 07/07/2025 | Adicionando as considerações finais do João Pedro | [João Pedro](https://github.com/JpRodrigues2) | - |
+| `1.5` | 07/07/2025 | Adicionando as considerações finais do Thales Germano | [Thales Germano](https://github.com/thalesgvl) |  [Jose Eduardo](https://github.com/jevprado)|
+| `1.6` | 07/07/2025 | Adicionando as considerações finais de Diassis | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |
