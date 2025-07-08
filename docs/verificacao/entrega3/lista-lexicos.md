@@ -27,11 +27,11 @@ A metodologia adotada para a inspeção consistiu na elaboração de uma lista d
 
 | id    | descrição                                                                                    | Autor do item      | Fonte                                                                                  | Conforme/Não conforme |
 | ----- | -------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------- | --------------------- |
-| 01 |A definição do usuário nos Léxicos?    | André Barros | [Lista de verificao - Professor André Barros]() |        Não conforme           |
-| 02 | Os léxicos possuem ligações entre si (hiper links)             | André Barros | [Lista de verificao - Professor André Barros]()                                |      Conforme                 |
-| 03 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                 | André Barros | [Lista de verificao - Professor André Barros]()                     |          Conforme             |
-| 04 | Há consistência na nomenclatura e estilo entre os termos do léxico.                | [José Eduardo](https://github.com/jevprado)                     |   Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.                    | Conforme
-| 05 | Existe rastreabilidade entre os termos do léxico e os requisitos.              |[José Eduardo](https://github.com/jevprado)                     |  Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.                     | Incompleto
+| 01 |A definição do usuário nos Léxicos?    | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]() |    Não conforme                   |
+| 02 | Os léxicos possuem ligações entre si (hiper links)             | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]()                                |     Conforme                   |
+| 03 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                 | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]()                     |           Conforme             |
+| 04 | Há consistência na nomenclatura e estilo entre os termos do léxico.                | [José Eduardo](https://github.com/jevprado)                     |  ![](../../assets/docs-verificacao/lex1.png)                     |Conforme | 
+| 05 | Existe rastreabilidade entre os termos do léxico e os requisitos.              |[José Eduardo](https://github.com/jevprado)                     |  ![](../../assets/docs-verificacao/lex2.png)           | Incompleto
 
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>

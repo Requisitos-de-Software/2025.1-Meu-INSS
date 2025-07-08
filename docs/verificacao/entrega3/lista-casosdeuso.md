@@ -32,13 +32,13 @@ A metodologia adotada para a inspeção consistiu na elaboração de uma lista d
 
 | id    | descrição                                                                                    | Autor do item      | Fonte                                                                                  | Conforme/Não conforme |
 | ----- | -------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------- | --------------------- |
-| 01 | Os atores principais e atores secundários no diagrama de caso de uso?   | André Barros | [Lista de verificao - Professor André Barros]() |          Conforme             |
-| 02 | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso?             | André Barros | [Lista de verificao - Professor André Barros]()                                |          Conforme             |
-| 03 | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso?                 | André Barros | [Lista de verificao - Professor André Barros]()                     |       Conforme                |
-| 04 | A especificação do diagrama de caso de uso (com Nome, Descrição, Atores, PréCondição,Pós-Condição,  Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)?          | André Barros | [Lista de verificao - Professor André Barros]()                  |        Conforme               |
-| 5 | As exceções e fluxos alternativos estão devidamente identificados e descritos.                     | [José Eduardo](https://github.com/jevprado) | Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.              |         Conforme              |
-| 06 | 	O caso de uso possui pré-condições e pós-condições claramente definidas. | [José Eduardo](https://github.com/jevprado) | Pressman, Roger S.; Maxim, Bruce R. Engenharia de Software: Uma Abordagem Profissional. 8ª ed. Porto Alegre: AMGH, 2016. |       Conforme                |
-| 07 | 	Há rastreabilidade entre o caso de uso e os requisitos funcionais relacionados. | [José Eduardo](https://github.com/jevprado) | ALMEIDA, E. S. et al. Engenharia de Requisitos, Elsevier, 2011.                   |       Conforme
+| 01 | Os atores principais e atores secundários no diagrama de caso de uso?   | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]() |         Conforme              |
+| 02 | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso?             | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]()                                |      Conforme                  |
+| 03 | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso?                 |[José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]()                     |       Conforme                 |
+| 04 | A especificação do diagrama de caso de uso (com Nome, Descrição, Atores, PréCondição,Pós-Condição,  Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)?          | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]()                  |    Conforme                    |
+| 5 | As exceções e fluxos alternativos estão devidamente identificados e descritos.                     | [José Eduardo](https://github.com/jevprado) | ![](../../assets/docs-verificacao/fluxo-alt.png)            |     Conforme                   |
+| 06 | 	O caso de uso possui pré-condições e pós-condições claramente definidas. | [José Eduardo](https://github.com/jevprado) | ![](../../assets/docs-verificacao/uc02.png)|     Conforme                   |
+| 07 | 	Há rastreabilidade entre o caso de uso e os requisitos funcionais relacionados. | [José Eduardo](https://github.com/jevprado) | ![](../../assets/docs-verificacao/uc01.png)                   |   Conforme 
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
 
