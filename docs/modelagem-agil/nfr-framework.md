@@ -487,7 +487,7 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 - **RNF17** – Suporte a leitores de tela
 - **RNF20** – Clareza na apresentação de dados fiscais
   
-<p style="text-align: center"><b>Figura 3</b> - NFR03: Desempenho</p>
+<p style="text-align: center"><b>Figura 3</b> - NFR04: Usabilidade e Acessibilidade</p>
 
 ![nfr_acessibilidade](../assets/image_2025-07-07_183838819.png)
 
@@ -514,6 +514,12 @@ Para facilitar o registro e o rastreamento das decisões de projeto, foram utili
 - **RNF11** – Funcionar em smartphones com telas de 4.5" a 7"
 - **RNF13** - Modo de operação em baixa conectividade com cache essencial 
 - **RNF19** - Versão mínima HTML5 responsiva para navegador
+
+<p style="text-align: center"><b>Figura 3</b> - NFR05: Portabilidade</p>
+
+![nfr_acessibilidade](../assets/image_2025-07-07_192338202.png)
+
+<font size="3"><p style="text-align: center">Fonte: [Marco](https://github.com/marcomarquesdc), 2025.</p></font>
 
 
 ### Propagação de Impacto
