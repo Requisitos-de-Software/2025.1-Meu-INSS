@@ -20,6 +20,8 @@ Além disso, o trabalho em grupo foi uma experiência muito positiva. A colabora
 
 
 ### [João Pedro](https://github.com/JpRodrigues2)
+A disciplina de Requisitos de Software me ajudou a entender melhor a importância de levantar, documentar e validar requisitos de forma clara. No início, tive dificuldades em alinhar as necessidades dos usuários com uma boa documentação técnica, mas evoluí bastante com o apoio do grupo e a prática constante. Trabalhar com um caso real, como o aplicativo da Receita Federal, foi desafiador e enriquecedor. Hoje me sinto mais preparado para aplicar esse conhecimento em projetos reais.
+
 
 
 ### [Jose Eduardo](https://github.com/jevprado)
@@ -52,3 +54,4 @@ Aqui será apresentada a finalização do trabalho, onde documentamos o que acha
 | `1.1` | 07/07/2025 | Adicionando as considerações finais da Júlia Massuda | [Júlia Massuda](https://github.com/JuliaReis18) | [Jose Eduardo](https://github.com/jevprado) |
 | `1.2` | 07/07/2025 | Adicionando as considerações finais do André Lopes | [Andre Lopes](https://github.com/andrewslopes) | [Jose Eduardo](https://github.com/jevprado) |
 | `1.3` | 07/07/2025 | Adicionando as considerações finais do José Eduardo | [Jose Eduardo](https://github.com/jevprado) | [Marco Marques](https://github.com/marcomarquesdc) |
+| `1.3` | 07/07/2025 | Adicionando as considerações finais do João Pedro | [João Pedro](https://github.com/JpRodrigues2) | - |
