@@ -58,3 +58,4 @@ Aqui será apresentada a finalização do trabalho, onde documentamos o que acha
 | `1.1` | 07/07/2025 | Adicionando as considerações finais da Júlia Massuda | [Júlia Massuda](https://github.com/JuliaReis18) | [Jose Eduardo](https://github.com/jevprado) |
 | `1.2` | 07/07/2025 | Adicionando as considerações finais do André Lopes | [Andre Lopes](https://github.com/andrewslopes) | [Jose Eduardo](https://github.com/jevprado) |
 | `1.3` | 07/07/2025 | Adicionando as considerações finais do José Eduardo | [Jose Eduardo](https://github.com/jevprado) | [Marco Marques](https://github.com/marcomarquesdc) |
+| `1.4` | 07/07/2025 | Adicionando as considerações finais de Diassis | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |
