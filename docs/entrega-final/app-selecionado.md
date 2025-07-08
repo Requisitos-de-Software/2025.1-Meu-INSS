@@ -20,6 +20,7 @@ A escolha de trabalhar com o aplicativo da Receita Federal foi tomada em uma dec
 
 ![Rich Picture](../assets/rich-picture.jpeg.jpeg)
 
+<font size="3"><p style="text-align: center">Fonte: [Júlia Massuda](https://github.com/JuliaReis18) e [Andre Lopes](https://github.com/andrewslopes)</p></font>
 
 
 ## Motivos da Escolha do Aplicativo
