@@ -8,7 +8,7 @@ Conforme descrito no documento do artefato de verificação, o método utilizado
 
 A estratégia de planejamento adotada envolveu a verificação de cada artefato por um membro do grupo que não foi responsável por sua criação. Esse membro foi encarregado de elaborar uma lista de verificação (checklist) específica para o artefato em questão. Após a conclusão da verificação, o membro responsável pela criação do artefato ou da verificação assumiu a responsabilidade de corrigí-lo, levando em consideração as melhorias solicitadas durante a verificação e a validação das correções propostas.
 
-## Planejamento da Verificação
+## Verificação
 
 Abaixo estão os links para os planejamentos e listas de verificação das entregas:
 
@@ -73,6 +73,50 @@ Tabela 5: Artefatos verificados na Entrega 5
 | [Verificação Entrega 3](../verificacao/entrega3) | José Eduardo | João Pedro |
 | [Verificação Entrega 4](../verificacao/entrega4) | Júlia Massuda | José Eduardo |
 
+# Validação 
+
+## Introdução
+
+O objetivo desta seção é sintetizar o artefato de validação, que inclui a prototipação e a comprovação informal.
+
+## Prototipação
+
+A prototipação é uma etapa fundamental no processo de desenvolvimento de soluções, pois permite validar requisitos, testar funcionalidades e alinhar o projeto às expectativas dos usuários. Esse processo facilita o feedback contínuo, a identificação precoce de falhas e a melhoria da usabilidade, reduzindo riscos e retrabalho.
+
+No projeto, foram prototipados todos os requisitos ainda não implementados. Cada integrante ficou responsável pela prototipação dos requisitos que já havia desenvolvido anteriormente. A Tabela 1 mostra quem fez cada prototipação.
+
+### Tabela 1: Requisitos atribuídos a cada integrante
+
+| Nome | Requisitos |
+|------|------------|
+| [José Eduardo](https://github.com/jevprado) | [RF03 - Acompanhamento de status da restituição (precisão quanto aos lotes)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF05 - Agendar no próprio aplicativo atendimentos presenciais em unidades da Receita Federal](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) |
+| [João Pedro](https://github.com/JpRodrigues2) | [RF21 – Integração com eSocial](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF27 – Integração com calendário do dispositivo](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) |
+| [Júlia Massuda](https://github.com/JuliaReis18) | [RF23 - Compartilhamento de comprovantes e certidões por WhatsApp, e-mail ou Drive](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF24 - Reenvio de notificações perdidas via e-mail ou mensagem no app](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) |
+| [Marco](https://github.com/marcomarquesdc) | [RF04 - Notificação de vencimento próximo](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF26 - FAQ interativo com busca inteligente (filtrado por tema: CPF, IRPF, Certidões etc.)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) |
+| [Diassis](https://github.com/Diaxiz) | [RF20 - Acompanhar processos no próprio aplicativo](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF02 - Cadastro de CPF via app (totalmente remoto)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) |
+| [Andre](https://github.com/Andrewslopes) | [RF07 - Alteração de dados via app](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) |
+| [Thales Germano](https://github.com/thalesgvl) | [RF06 - Acesso offline a serviços essenciais do app](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF25 - Comparativo automático entre declarações de anos anteriores](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) |
+
+
+### Tabela 2: Validações
+
+|Nome                                                | Atividade entregue                        | Validação Protótipo 1 | Validação Protótipo 2 |
+| -------------------------------------------------- | ----------------------------------------- | --------------------- | --------------------- | 
+| [José Eduardo](https://github.com/jevprado)        | Introdução, Metodologia e Objetivos. <br> Prototipação e validação do [RF03 - Acompanhamento de status da restituição (precisão quanto aos lotes) ](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF05 - Agendar no próprio aplicativo atendimentos presenciais em unidades da Receita Federal](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/). <br>  Revisor do RF23, RF24, RF20 e RF02.     | [Validado (Presencial)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/validacao/prototipacao/#entrevista-de-validacao-com-o-cliente) | [Validado (Presencial)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/validacao/prototipacao/#entrevista-de-validacao-com-o-cliente_1)  |
+| [João Pedro](https://github.com/JpRodrigues2)      | Prototipação do [RF21 –Integração com eSocial](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF27 – Integração com calendário do dispositivo](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) <br>  Revisor da Introdução, Metodologia e Objetivos, e dos [RF03](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF05](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/). | X | X | 
+| [Júlia Massuda](https://github.com/JuliaReis18)    | Prototipação e validação do [RF23 - Compartilhamento de comprovantes e certidões por WhatsApp, e-mail ou Drive](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF24 - Reenvio de notificações perdidas via e-mail ou mensagem no app](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) | X | [Validado (Presencial)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/validacao/prototipacao/#entrevista-de-validacao-com-o-cliente_2) |
+| [Marco](https://github.com/marcomarquesdc)         |  Prototipação  do [RF04 - Notificação de vencimento próximo](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF26 - FAQ interativo com busca inteligente (filtrado por tema: CPF, IRPF, Certidões etc.)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) | Validado (presencial) | Validado (presencial) | 
+| [Diassis](https://github.com/Diaxiz)      | Prototipação do [RF20 - Acompanhar processos no próprio aplicativo](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF02 - Cadastro de CPF via app (totalmente remoto)](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)  <br> Revisor do RF06, RF25, RF04, RF26, RF07.    | X | X |
+| [Andre](https://github.com/Andrewslopes)      | Prototipação do [RF07 - Alteração de dados via app](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)   | Validado (presencial) | Validado (presencial)|
+| [Thales Germano](https://github.com/thalesgvl)      | Prototipação do [RF06 - Acesso offline a serviços essenciais do app](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/) e [RF25 - Comparativo automático entre declarações de anos anteriores ](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/elicitacao/requisitos-elicitados/)    | X | X |
+
+
+
+## Comprovação Informal
+
+A Comprovação Informal é uma técnica de validação que utiliza linguagem natural para descrever os requisitos, permitindo que o cliente identifique possíveis falhas ou ambiguidades. Para que seja eficaz, é fundamental a participação ativa do cliente.
+
+Neste projeto, a metodologia adotada consistiu na tentativa de contato com a equipe responsável pelo aplicativo da Receita Federal, por meio de e-mails redigidos e revisados por todos os integrantes do Grupo. Até a data de entrega dos artefatos de validação, não houve retorno por parte da equipe. Caso haja alguma resposta futuramente, ela será registrada neste tópico.
 
 
 
@@ -86,4 +130,5 @@ Tabela 5: Artefatos verificados na Entrega 5
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | `1.0` | 07/07/2025 | Criação da página de verificação e validação | [Júlia Massuda](https://github.com/JuliaReis18) | - |
-| `1.1` | 07/07/2025 | Atualização da página com todos os artefatos  | [Júlia Massuda](https://github.com/JuliaReis18)  | - |
+| `1.1` | 07/07/2025 | Atualização da página com todos os artefatos e as devidas verificações | [Júlia Massuda](https://github.com/JuliaReis18)  | - |
+| `1.2` | 07/07/2025 | Atualização da página com todos a validação  | [João Pedro](https://github.com/JpRodrigues2)   | - |
