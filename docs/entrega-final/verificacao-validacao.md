@@ -129,6 +129,6 @@ Neste projeto, a metodologia adotada consistiu na tentativa de contato com a equ
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| `1.0` | 07/07/2025 | Criação da página de verificação e validação | [Júlia Massuda](https://github.com/JuliaReis18) | - |
-| `1.1` | 07/07/2025 | Atualização da página com todos os artefatos e as devidas verificações | [Júlia Massuda](https://github.com/JuliaReis18)  | - |
-| `1.2` | 07/07/2025 | Atualização da página com todos a validação  | [João Pedro](https://github.com/JpRodrigues2)   | - |
+| `1.0` | 07/07/2025 | Criação da página de verificação e validação | [Júlia Massuda](https://github.com/JuliaReis18) | [Diassis](https://github.com/Diaxiz) |
+| `1.1` | 07/07/2025 | Atualização da página com todos os artefatos e as devidas verificações | [Júlia Massuda](https://github.com/JuliaReis18)  | [Diassis](https://github.com/Diaxiz) |
+| `1.2` | 07/07/2025 | Atualização da página com todos a validação  | [João Pedro](https://github.com/JpRodrigues2)   | [Diassis](https://github.com/Diaxiz) |
