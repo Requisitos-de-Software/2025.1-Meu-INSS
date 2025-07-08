@@ -107,8 +107,8 @@ A metodologia utilizada nessa etapa é a [Inspeção de Fagan](https://requisito
 | 01 | O artefato segue o modelo FURPS+?     | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]() |   |
 | 02 | O documento especifica o tempo de resposta, no Desempenho?     | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]() | | 
 | 03 |  O documento especifica qual plataforma o aplicativo pode ser executado?      | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]() | |
-| 04 | Há origem documentada para cada RNF apresentado.    | [Jose Eduardo](https://github.com/jevprado) | ALMEIDA, E. S. et al. Engenharia de Requisitos: Software Orientado ao Negócio, 2011. |      |
-| 05 | Os requisitos de segurança (autenticação, autorização, sigilo) estão contemplados na especifação suplementar.    | [Jose Eduardo](https://github.com/jevprado) | Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019. |      |
+| 04 | Há origem documentada para cada RNF apresentado.    | [Jose Eduardo](https://github.com/jevprado) | ![](../../assets/docs-verificacao/esp-supl.png) |      |
+| 05 | Os requisitos de segurança (autenticação, autorização, sigilo) estão contemplados na especifação suplementar.    | [Jose Eduardo](https://github.com/jevprado) | ![](../../assets/docs-verificacao/esp-supl.png) |      |
 | 06 |  Todos os requisitos não funcionais podem ser testados podem ser testados na especificação suplementar  | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]() |   |
 
 <font size="3"><p style="text-align: center">Fonte: [Jose Eduardo](https://github.com/jevprado), 2025.</p></font>
