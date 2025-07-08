@@ -46,7 +46,7 @@ A metodologia utilizada nessa etapa é a [Inspeção de Fagan](https://requisito
 
 | id    | descrição                                                                                            | Autor do item      | Fonte                                                                                            | Conforme/Não conforme |
 | ----- | ---------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ | --------------------- |
-| 01 |  Os cenários possuem os elementos básicos de um cenário (Título, Metas/Objetivo,Contexto, Atores, Recursos, Exceção e Episódios)            | André Barros  | [Lista de verificao - Professor André Barros]()                          |                       |
+| 01 |  Os cenários possuem os elementos básicos de um cenário (Título, Metas/Objetivo,Contexto, Atores, Recursos, Exceção e Episódios)            | [José Eduardo](https://github.com/jevprado)  | [Lista de verificao - Professor André Barros]()                          |                       |
 | 02 | O título do cenário é claro, conciso e reflete corretamente o objetivo do fluxo descrito.             | [José Eduardo](https://github.com/jevprado)   | Pressman, Roger S.; Maxim, Bruce R. Engenharia de Software: Uma Abordagem Profissional. 8ª ed. Porto Alegre: AMGH, 2016.                            |                       |
 | 03 | Os cenário descrevem de forma textual o fluxo principal de eventos, com início, meio e fim definidos.  | [José Eduardo](https://github.com/jevprado)   | Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.                               |                       |
 |  04 | O papel do ator está explícito e coerente com os objetivos do sistema.                               | [José Eduardo](https://github.com/jevprado)   | PAULA FILHO, W. Engenharia de Requisitos, LTC, 2017.               |                      |
@@ -69,10 +69,10 @@ A metodologia utilizada nessa etapa é a [Inspeção de Fagan](https://requisito
 
 | id    | descrição                                                                                    | Autor do item      | Fonte                                                                                  | Conforme/Não conforme |
 | ----- | -------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------- | --------------------- |
-| 01 | Os atores principais e atores secundários no diagrama de caso de uso?   | André Barros | [Lista de verificao - Professor André Barros]() |                       |
-| 02 | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso?             | André Barros | [Lista de verificao - Professor André Barros]()                                |                       |
-| 03 | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso?                 | André Barros | [Lista de verificao - Professor André Barros]()                     |                       |
-| 04 | A especificação do diagrama de caso de uso (com Nome, Descrição, Atores, PréCondição,Pós-Condição,  Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)?          | André Barros | [Lista de verificao - Professor André Barros]()                  |                       |
+| 01 | Os atores principais e atores secundários no diagrama de caso de uso?   | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]() |                       |
+| 02 | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso?             | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]()                                |                       |
+| 03 | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso?                 |[José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]()                     |                       |
+| 04 | A especificação do diagrama de caso de uso (com Nome, Descrição, Atores, PréCondição,Pós-Condição,  Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)?          | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]()                  |                       |
 | 5 | As exceções e fluxos alternativos estão devidamente identificados e descritos.                     | [José Eduardo](https://github.com/jevprado) | Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.              |                       |
 | 06 | 	O caso de uso possui pré-condições e pós-condições claramente definidas. | [José Eduardo](https://github.com/jevprado) | Pressman, Roger S.; Maxim, Bruce R. Engenharia de Software: Uma Abordagem Profissional. 8ª ed. Porto Alegre: AMGH, 2016. |                       |
 | 07 | 	Há rastreabilidade entre o caso de uso e os requisitos funcionais relacionados. | [José Eduardo](https://github.com/jevprado) | ALMEIDA, E. S. et al. Engenharia de Requisitos, Elsevier, 2011.                   |       
@@ -86,9 +86,9 @@ A metodologia utilizada nessa etapa é a [Inspeção de Fagan](https://requisito
 
 | id    | descrição                                                                                    | Autor do item      | Fonte                                                                                  | Conforme/Não conforme |
 | ----- | -------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------- | --------------------- |
-| 01 |A definição do usuário nos Léxicos?    | André Barros | [Lista de verificao - Professor André Barros]() |                       |
-| 02 | Os léxicos possuem ligações entre si (hiper links)             | André Barros | [Lista de verificao - Professor André Barros]()                                |                       |
-| 03 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                 | André Barros | [Lista de verificao - Professor André Barros]()                     |                       |
+| 01 |A definição do usuário nos Léxicos?    | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]() |                       |
+| 02 | Os léxicos possuem ligações entre si (hiper links)             | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]()                                |                       |
+| 03 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                 | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]()                     |                       |
 | 04 | Há consistência na nomenclatura e estilo entre os termos do léxico.                | [José Eduardo](https://github.com/jevprado)                     |   Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.                    |
 | 05 | Existe rastreabilidade entre os termos do léxico e os requisitos.              |[José Eduardo](https://github.com/jevprado)                     |  Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019.                     |
 
@@ -104,9 +104,9 @@ A metodologia utilizada nessa etapa é a [Inspeção de Fagan](https://requisito
 
 | id    | descrição                                                                                    | Autor do item      | Fonte                                                                                  | Conforme/Não conforme |
 | ----- | -------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------- | --------------------- |
-| 01 | O artefato segue o modelo FURPS+?     | André Barros | [Lista de verificao - Professor André Barros]() |   |
-| 02 | O documento especifica o tempo de resposta, no Desempenho?     | André Barros | [Lista de verificao - Professor André Barros]() | | 
-| 03 |  O documento especifica qual plataforma o aplicativo pode ser executado?      | André Barros | [Lista de verificao - Professor André Barros]() | |
+| 01 | O artefato segue o modelo FURPS+?     | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]() |   |
+| 02 | O documento especifica o tempo de resposta, no Desempenho?     | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]() | | 
+| 03 |  O documento especifica qual plataforma o aplicativo pode ser executado?      | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]() | |
 | 04 | Há origem documentada para cada RNF apresentado.    | [Jose Eduardo](https://github.com/jevprado) | ALMEIDA, E. S. et al. Engenharia de Requisitos: Software Orientado ao Negócio, 2011. |      |
 | 05 | Os requisitos de segurança (autenticação, autorização, sigilo) estão contemplados na especifação suplementar.    | [Jose Eduardo](https://github.com/jevprado) | Sommerville, Ian. Engenharia de Software. 10ª ed. São Paulo, 2019. |      |
 | 06 |  Todos os requisitos não funcionais podem ser testados podem ser testados na especificação suplementar  | André Barros | [Lista de verificao - Professor André Barros]() |   |
