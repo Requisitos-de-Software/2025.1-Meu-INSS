@@ -17,6 +17,12 @@ Além disso, o trabalho em grupo foi uma experiência muito positiva. A colabora
 
 ### [Diassis](https://github.com/Diaxiz)
 
+Fazer o projeto da disciplina de Requisitos de Software foi, ao mesmo tempo, desafiador e muito enriquecedor. Desde o começo, ficou claro que trabalhar com requisitos não é algo simples exige bastante atenção, comunicação e organização. Durante o projeto, nós trabalhamos com o aplicativo da Receita Federal, o que particulamente tornou mais desafiador ainda pois eu nunca havia usado esse aplicativo e nem sabia por onde começar!
+
+Ao longo do semestre, aprendi várias técnicas, como elicitação, modelagem e priorização, e consegui até aplicar algumas delas em projetos pessoais. Isso fez muita diferença pra mim, porque percebi que essas ferramentas realmente funcionam fora da sala de aula também.
+
+Posso dizer que entrei na disciplina com uma visão bem limitada sobre o que é desenvolver um software. Agora, depois de toda a experiência, saio com uma visão completamente diferente, mais completa e madura. Foi um aprendizado que com certeza vou levar pra frente.
+
 
 
 ### [João Pedro](https://github.com/JpRodrigues2)
@@ -59,3 +65,4 @@ Aqui será apresentada a finalização do trabalho, onde documentamos o que acha
 | `1.2` | 07/07/2025 | Adicionando as considerações finais do André Lopes | [Andre Lopes](https://github.com/andrewslopes) | [Jose Eduardo](https://github.com/jevprado) |
 | `1.3` | 07/07/2025 | Adicionando as considerações finais do José Eduardo | [Jose Eduardo](https://github.com/jevprado) | [Marco Marques](https://github.com/marcomarquesdc) |
 | `1.4` | 07/07/2025 | Adicionando as considerações finais do Thales Germano | [Thales Germano](https://github.com/thalesgvl) |  [Jose Eduardo](https://github.com/jevprado)|
+| `1.5` | 07/07/2025 | Adicionando as considerações finais de Diassis | [Diassis](https://github.com/Diaxiz) | [Jose Eduardo](https://github.com/jevprado) |
