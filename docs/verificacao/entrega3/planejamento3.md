@@ -89,8 +89,8 @@ A metodologia utilizada nessa etapa é a [Inspeção de Fagan](https://requisito
 | 01 |A definição do usuário nos Léxicos?    | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]() |                       |
 | 02 | Os léxicos possuem ligações entre si (hiper links)             | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]()                                |                       |
 | 03 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                 | [José Eduardo](https://github.com/jevprado) | [Lista de verificao - Professor André Barros]()                     |                       |
-| 04 | Há consistência na nomenclatura e estilo entre os termos do léxico.                | [José Eduardo](https://github.com/jevprado)                     |  ![](../../assets/docs-verificacao/lex.png)                     |
-| 05 | Existe rastreabilidade entre os termos do léxico e os requisitos.              |[José Eduardo](https://github.com/jevprado)                     |  ![](../../assets/docs-verificacao/lex.png)             |
+| 04 | Há consistência na nomenclatura e estilo entre os termos do léxico.                | [José Eduardo](https://github.com/jevprado)                     |  ![](../../assets/docs-verificacao/lex1.png)                     |
+| 05 | Existe rastreabilidade entre os termos do léxico e os requisitos.              |[José Eduardo](https://github.com/jevprado)                     |  ![](../../assets/docs-verificacao/lex2.png)             |
 
 
 
