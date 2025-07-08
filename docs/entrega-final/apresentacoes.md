@@ -188,14 +188,14 @@ Página dedicada para mostrar a organização das apresentações durante o seme
 |[José Eduardo](https://github.com/jevprado)|Participou    | 
 |[Júlia Massuda](https://github.com/JuliaReis18)|Participou|
 |[Marco Marques](https://github.com/marcomarquesdc)|Participou|
-|[Thales Germano](https://github.com/thalesgvl)|Não participou |
+|[Thales Germano](https://github.com/thalesgvl)|Participou |
 
 <font size="3"><p style="text-align: center">Fonte: [Marco Marques](https://github.com/marcomarquesdc), 2025.</p></font>
 
 #### Vídeo da apresentação
 
 <iframe width="600" height="315" 
-        src="https://www.youtube.com/embed/12345" 
+        src="https://www.youtube.com/embed/tAA8x4M8urQ" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
